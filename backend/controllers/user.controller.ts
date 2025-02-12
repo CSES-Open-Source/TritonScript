@@ -29,7 +29,7 @@ export async function updateUser(req: Request, res: Response, next: NextFunction
       },
       { new: true }
     );
-    const { password, ...rest } = updatedUser._doc;
+    const { password, ...rest } = updatedUser.toObject();
     res.status(200).json(rest);
   } catch (error) {
     next(error);

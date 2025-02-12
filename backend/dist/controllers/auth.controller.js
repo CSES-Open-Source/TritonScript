@@ -23,7 +23,11 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.signout = exports.google = exports.isAuth = exports.signin = exports.signup = void 0;
+exports.signup = signup;
+exports.signin = signin;
+exports.isAuth = isAuth;
+exports.google = google;
+exports.signout = signout;
 const user_model_js_1 = __importDefault(require("../models/user.model.js"));
 const bcryptjs_1 = __importDefault(require("bcryptjs"));
 const error_js_1 = require("../utils/error.js");
@@ -43,7 +47,6 @@ function signup(req, res, next) {
         }
     });
 }
-exports.signup = signup;
 function signin(req, res, next) {
     return __awaiter(this, void 0, void 0, function* () {
         const { email, password } = req.body;
@@ -55,7 +58,7 @@ function signin(req, res, next) {
             if (!validPassword)
                 return next((0, error_js_1.errorHandler)(401, "wrong credentials"));
             const token = jsonwebtoken_1.default.sign({ id: validUser._id }, "secret");
-            const _a = validUser._doc, { password: hashedPassword } = _a, rest = __rest(_a, ["password"]);
+            const _a = validUser.toObject(), { password: hashedPassword } = _a, rest = __rest(_a, ["password"]);
             const expiryDate = new Date(Date.now() + 3600000);
             res.cookie("access_token", token, { httpOnly: true, expires: expiryDate }).status(200).json(rest);
         }
@@ -64,7 +67,6 @@ function signin(req, res, next) {
         }
     });
 }
-exports.signin = signin;
 function isAuth(req, res, next) {
     return __awaiter(this, void 0, void 0, function* () {
         const token = req.cookies.access_token;
@@ -80,14 +82,13 @@ function isAuth(req, res, next) {
         });
     });
 }
-exports.isAuth = isAuth;
 function google(req, res, next) {
     return __awaiter(this, void 0, void 0, function* () {
         try {
             const user = yield user_model_js_1.default.findOne({ email: req.body.email });
             if (user) {
                 const token = jsonwebtoken_1.default.sign({ id: user._id }, "secret");
-                const _a = user._doc, { password: hashedPassword } = _a, rest = __rest(_a, ["password"]);
+                const _a = user.toObject(), { password: hashedPassword } = _a, rest = __rest(_a, ["password"]);
                 const expiryDate = new Date(Date.now() + 3600000);
                 res
                     .cookie("access_token", token, {
@@ -108,7 +109,7 @@ function google(req, res, next) {
                 });
                 yield newUser.save();
                 const token = jsonwebtoken_1.default.sign({ id: newUser._id }, "secret");
-                const _b = newUser._doc, { password: hashedPassword2 } = _b, rest = __rest(_b, ["password"]);
+                const _b = newUser.toObject(), { password: hashedPassword2 } = _b, rest = __rest(_b, ["password"]);
                 const expiryDate = new Date(Date.now() + 3600000); // 1 hour
                 res
                     .cookie("access_token", token, {
@@ -124,9 +125,7 @@ function google(req, res, next) {
         }
     });
 }
-exports.google = google;
 function signout(req, res) {
     console.log("signout", res);
     res.clearCookie("access_token").status(200).json("Signout success!");
 }
-exports.signout = signout;

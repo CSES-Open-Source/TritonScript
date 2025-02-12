@@ -12,7 +12,10 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.upload = exports.searchForNoteByName = exports.notes = exports.test = void 0;
+exports.test = test;
+exports.notes = notes;
+exports.searchForNoteByName = searchForNoteByName;
+exports.upload = upload;
 const note_models_1 = __importDefault(require("../models/note.models"));
 const r2_1 = __importDefault(require("../utils/r2"));
 function test(req, res) {
@@ -20,7 +23,6 @@ function test(req, res) {
         message: "API is working!",
     });
 }
-exports.test = test;
 // get all notes at the same time and sort by recent on top 
 function notes(req, res, next) {
     return __awaiter(this, void 0, void 0, function* () {
@@ -34,7 +36,6 @@ function notes(req, res, next) {
         }
     });
 }
-exports.notes = notes;
 // search database for notes that contain name.
 function searchForNoteByName(req, res, next) {
     return __awaiter(this, void 0, void 0, function* () {
@@ -48,7 +49,6 @@ function searchForNoteByName(req, res, next) {
         }
     });
 }
-exports.searchForNoteByName = searchForNoteByName;
 // update user
 function upload(req, res, next) {
     return __awaiter(this, void 0, void 0, function* () {
@@ -72,4 +72,3 @@ function upload(req, res, next) {
         }
     });
 }
-exports.upload = upload;

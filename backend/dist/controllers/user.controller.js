@@ -23,7 +23,9 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.deleteUser = exports.updateUser = exports.test = void 0;
+exports.test = test;
+exports.updateUser = updateUser;
+exports.deleteUser = deleteUser;
 const user_model_js_1 = __importDefault(require("../models/user.model.js"));
 const bcryptjs_1 = __importDefault(require("bcryptjs"));
 function test(req, res) {
@@ -31,7 +33,6 @@ function test(req, res) {
         message: "API is working!",
     });
 }
-exports.test = test;
 // update user
 function updateUser(req, res, next) {
     return __awaiter(this, void 0, void 0, function* () {
@@ -47,7 +48,7 @@ function updateUser(req, res, next) {
                     profilePicture: req.body.profilePicture,
                 },
             }, { new: true });
-            const _a = updatedUser._doc, { password } = _a, rest = __rest(_a, ["password"]);
+            const _a = updatedUser.toObject(), { password } = _a, rest = __rest(_a, ["password"]);
             res.status(200).json(rest);
         }
         catch (error) {
@@ -55,7 +56,6 @@ function updateUser(req, res, next) {
         }
     });
 }
-exports.updateUser = updateUser;
 // delete user
 function deleteUser(req, res, next) {
     return __awaiter(this, void 0, void 0, function* () {
@@ -68,4 +68,3 @@ function deleteUser(req, res, next) {
         }
     });
 }
-exports.deleteUser = deleteUser;
