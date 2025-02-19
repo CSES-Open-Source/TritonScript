@@ -37,6 +37,10 @@ const noteSchema = new mongoose.Schema(
       required: false,
       unique: false,
     },
+    file: {
+      type: Buffer,
+      required: false
+    }
   },
   { timestamps: true }
 );

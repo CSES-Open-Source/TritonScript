@@ -40,6 +40,10 @@ const noteSchema = new mongoose_1.default.Schema({
         required: false,
         unique: false,
     },
+    file: {
+        type: Buffer,
+        required: false
+    }
 }, { timestamps: true });
 const Note = mongoose_1.default.model("Note", noteSchema);
 exports.default = Note;

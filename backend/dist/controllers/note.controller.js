@@ -13,18 +13,16 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.test = test;
-exports.notes = notes;
-exports.searchForNoteByName = searchForNoteByName;
-exports.upload = upload;
+exports.getNotes = getNotes;
+exports.createNote = createNote;
 const note_models_1 = __importDefault(require("../models/note.models"));
-const r2_1 = __importDefault(require("../utils/r2"));
 function test(req, res) {
     res.json({
         message: "API is working!",
     });
 }
 // get all notes at the same time and sort by recent on top 
-function notes(req, res, next) {
+function getNotes(req, res, next) {
     return __awaiter(this, void 0, void 0, function* () {
         try {
             //sort by updatedAt vs createdAt;
@@ -36,39 +34,43 @@ function notes(req, res, next) {
         }
     });
 }
-// search database for notes that contain name.
-function searchForNoteByName(req, res, next) {
-    return __awaiter(this, void 0, void 0, function* () {
-        try {
-            const regex = new RegExp(req.params.name, "i");
-            const events = yield note_models_1.default.find({ note_id: regex });
-            res.status(200).json(events);
-        }
-        catch (error) {
-            next(error);
-        }
-    });
-}
+// // search database for notes that contain name.
+// export async function searchForNoteByName(req: Request, res: Response, next: NextFunction){
+//     try {
+//       const regex = new RegExp(req.params.name, "i")  
+//       const events = await Note.find({ note_id: regex });
+//         res.status(200).json(events);
+//       } catch (error) {
+//         next(error);
+//       }
+// }
 // update user
-function upload(req, res, next) {
+function createNote(req, res, next) {
     return __awaiter(this, void 0, void 0, function* () {
         try {
-            const rest = yield r2_1.default.url("cses", req.params.id);
-            const { title, classInfo, description, isPublic, uploader, currentUser } = req.body;
-            const newNote = new note_models_1.default({
-                note_id: req.params.id,
+            console.log(req.body);
+            console.log(req.file);
+            //const rest = await r2.url("cses", req.params.id);
+            const { note_id, title, classInfo, description, isPublic, uploader, file_id } = req.body;
+            const newNote = yield note_models_1.default.create({
+                note_id,
                 title,
                 classInfo,
                 description,
                 isPublic: true,
                 uploader,
-                file_id: req.params.id,
+                file_id
             });
-            yield newNote.save();
-            res.status(200).json(rest);
+            res.status(200).json({ success: true, data: newNote });
         }
         catch (error) {
-            next(error);
+            res.status(400).json({ success: false, error: error.message });
         }
     });
 }
+// export {
+//   getNotes,
+// //  getNote,
+//   createNote
+// //  deleteNote
+// };
