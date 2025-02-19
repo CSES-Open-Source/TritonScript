@@ -9,7 +9,11 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
     });
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.move = exports.copy = exports.del = exports.url = exports.client = void 0;
+exports.client = void 0;
+exports.url = url;
+exports.del = del;
+exports.copy = copy;
+exports.move = move;
 const client_s3_1 = require("@aws-sdk/client-s3");
 const s3_request_presigner_1 = require("@aws-sdk/s3-request-presigner");
 exports.client = new client_s3_1.S3Client({
@@ -20,15 +24,14 @@ exports.client = new client_s3_1.S3Client({
         secretAccessKey: `${process.env.R2_SECRET}`,
     },
 });
-function url(Bucket, Key, expire = 60 * 60) {
-    return __awaiter(this, void 0, void 0, function* () {
+function url(Bucket_1, Key_1) {
+    return __awaiter(this, arguments, void 0, function* (Bucket, Key, expire = 60 * 60) {
         const command = new client_s3_1.PutObjectCommand({ Bucket, Key });
         return yield (0, s3_request_presigner_1.getSignedUrl)(exports.client, command, { expiresIn: expire });
     });
 }
-exports.url = url;
-function del(Bucket, Key, strict = false) {
-    return __awaiter(this, void 0, void 0, function* () {
+function del(Bucket_1, Key_1) {
+    return __awaiter(this, arguments, void 0, function* (Bucket, Key, strict = false) {
         try {
             yield exports.client.send(new client_s3_1.DeleteObjectCommand({ Bucket, Key }));
         }
@@ -38,20 +41,17 @@ function del(Bucket, Key, strict = false) {
         }
     });
 }
-exports.del = del;
 function copy(Bucket, from, to) {
     return __awaiter(this, void 0, void 0, function* () {
         yield exports.client.send(new client_s3_1.CopyObjectCommand({ Bucket, Key: to, CopySource: from }));
     });
 }
-exports.copy = copy;
 function move(Bucket, from, to) {
     return __awaiter(this, void 0, void 0, function* () {
         yield copy(Bucket, from, to);
         yield del(Bucket, from);
     });
 }
-exports.move = move;
 const r2 = {
     client: exports.client,
     url,

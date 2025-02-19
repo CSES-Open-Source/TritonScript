@@ -3,7 +3,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.verifyToken = void 0;
+exports.verifyToken = verifyToken;
 const jsonwebtoken_1 = __importDefault(require("jsonwebtoken"));
 const error_js_1 = require("./error.js");
 function verifyToken(req, res, next) {
@@ -17,4 +17,3 @@ function verifyToken(req, res, next) {
         next();
     });
 }
-exports.verifyToken = verifyToken;

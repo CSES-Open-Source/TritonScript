@@ -1,5 +1,7 @@
 import User from "../models/user.model.js";
-import { errorHandler } from "../utils/error.js";
+import { 
+  
+ } from "../utils/error.js";
 import bcryptjs from "bcryptjs";
 import { Request, Response, NextFunction } from "express";
 
@@ -29,7 +31,7 @@ export async function updateUser(req: Request, res: Response, next: NextFunction
       },
       { new: true }
     );
-    const { password, ...rest } = updatedUser._doc;
+    const { password, ...rest } = updatedUser.toObject();
     res.status(200).json(rest);
   } catch (error) {
     next(error);

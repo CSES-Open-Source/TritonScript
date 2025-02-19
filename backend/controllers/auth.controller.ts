@@ -25,7 +25,7 @@ export async function signin(req: Request, res: Response, next: NextFunction) {
     const validPassword = bcryptjs.compareSync(password, validUser.password);
     if (!validPassword) return next(errorHandler(401, "wrong credentials"));
     const token = jwt.sign({ id: validUser._id }, "secret");
-    const { password: hashedPassword, ...rest } = validUser._doc;
+    const { password: hashedPassword, ...rest } = validUser.toObject();
     const expiryDate = new Date(Date.now() + 3600000);
     res.cookie("access_token", token, { httpOnly: true, expires: expiryDate }).status(200).json(rest);
   } catch (error) {
@@ -49,7 +49,7 @@ export async function google(req: Request, res: Response, next: NextFunction) {
     const user = await User.findOne({ email: req.body.email });
     if (user) {
       const token = jwt.sign({ id: user._id }, "secret");
-      const { password: hashedPassword, ...rest } = user._doc;
+      const { password: hashedPassword, ...rest } = user.toObject();
       const expiryDate = new Date(Date.now() + 3600000);
       res
         .cookie("access_token", token, {
@@ -69,7 +69,7 @@ export async function google(req: Request, res: Response, next: NextFunction) {
       });
       await newUser.save();
       const token = jwt.sign({ id: newUser._id }, "secret");
-      const { password: hashedPassword2, ...rest } = newUser._doc;
+      const { password: hashedPassword2, ...rest } = newUser.toObject();
       const expiryDate = new Date(Date.now() + 3600000); // 1 hour
       res
         .cookie("access_token", token, {
