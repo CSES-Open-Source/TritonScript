@@ -1,0 +1,12 @@
+{
+  "code": "MATH 245B",
+  "title": "Convex Analysis and Optimization II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math245b",
+  "description": "Optimality conditions, strong duality and the primal function, conjugate functions, Fenchel duality theorems, dual derivatives and subgradients, subgradient methods, cutting plane methods. Prerequisites: MATH 245A or consent of instructor.",
+  "prereqs": "MATH 245A",
+  "successors": [
+    "MATH 245C"
+  ]
+}

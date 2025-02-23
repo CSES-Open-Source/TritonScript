@@ -1,0 +1,27 @@
+{
+  "code": "MAE 30A",
+  "title": "Statics and Introduction to Dynamics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae30a",
+  "description": "Statics: statics of particles and rigid bodies in 3-D. Free body diagrams. Moment of a force, couples, equivalent systems of forces. Distributed forces, centroids, and centers of gravity. Introduction to dynamics: 3-D relative motion, kinematics, and kinetics of particles. Newton\u2019s equations of motion. Equilibrium problems with friction. Enrollment restricted to engineering majors MC 25, MC 27, MC 29,\u00a0MC 30\u201334, MC 35\u201337, and SE 27. Prerequisites: PHYS 2A and MATH 31BH or MATH 20C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 2A",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 31BH",
+          "MATH 20C"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MAE 131A",
+    "MAE 150",
+    "MAE 160",
+    "MAE 30B"
+  ]
+}

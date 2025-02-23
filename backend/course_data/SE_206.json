@@ -1,0 +1,15 @@
+{
+  "code": "SE 206",
+  "title": "Random Vibrations",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se206",
+  "description": "Introduction to probability theory and random processes. Dynamic analysis of linear structural systems subjected to stationary and nonstationary random excitations. Reliability studies related to first excursion and fatigue failures. Applications in earthquake engineering, offshore engineering, wind engineering, and aerospace engineering. Use of computer resources. Recommended preparation: basic knowledge of probability theory (SE 125 or equivalent). Prerequisites: SE 203 or SE 203A, graduate standing.\u00a0",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SE 203",
+      "SE 203A"
+    ]
+  }
+}

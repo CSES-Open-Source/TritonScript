@@ -1,0 +1,9 @@
+{
+  "code": "ECE 258B",
+  "title": "Digital Communications II",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece258b",
+  "description": "Digital communication theory including performance of various modulation techniques, effects of intersymbol interference, adaptive equalization, and spread spectrum communication. Prerequisites: ECE 258A; graduate standing.",
+  "prereqs": "ECE 258A"
+}

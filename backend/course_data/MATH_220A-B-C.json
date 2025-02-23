@@ -1,0 +1,15 @@
+{
+  "code": "MATH 220A-B-C",
+  "title": "Complex Analysis",
+  "units": "4-4-4",
+  "dept": "MATH",
+  "anchor": "math220c",
+  "description": "Complex numbers and functions. Cauchy theorem and its applications, calculus of residues, expansions of analytic functions, analytic continuation, conformal mapping and Riemann mapping theorem, harmonic functions. Dirichlet principle, Riemann surfaces. Prerequisites: MATH 140A-B or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 140A",
+      "MATH 140B"
+    ]
+  }
+}

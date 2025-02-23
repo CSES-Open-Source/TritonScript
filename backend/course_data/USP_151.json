@@ -1,0 +1,12 @@
+{
+  "code": "USP 151",
+  "title": "Real Estate Planning and Development",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp151",
+  "description": "This course covers the methods and procedures utilized in development from inception to completion. Topics include initial planning, project feasibility and decision-making, partnerships, financing, design, entitlement and approvals, site acquisition, construction management, project completion, leasing, and asset management. Prerequisites:\u00a0USP 5 and upper-division standing or consent of instructor.",
+  "prereqs": "USP 5",
+  "successors": [
+    "USP 185A"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "USP 185B",
+  "title": "Real Estate Finance and Development Studio II",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp185b",
+  "description": "An intensive studio-based experience that culminates in a completed group project that analyzes, evaluates, and presents a site-specific real estate finance and development proposal. The final project includes market analysis, pro forma financial analysis, site analysis, and site design. Prerequisites:\u00a0USP 185A.\u00a0(Only offered winter quarter.)",
+  "prereqs": "USP 185A",
+  "successors": [
+    "USP 190"
+  ]
+}

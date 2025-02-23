@@ -1,0 +1,15 @@
+{
+  "code": "ECON 201",
+  "title": "Advanced Economic Theory",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ201",
+  "description": "An intensive examination of selected topics in economic theory. Course topic nonrepetitive in a three-year cycle. Prerequisites: ECON 207 and 213.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 207",
+      "ECON 213"
+    ]
+  }
+}

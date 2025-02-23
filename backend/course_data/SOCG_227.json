@@ -1,0 +1,15 @@
+{
+  "code": "SOCG 227",
+  "title": "Ethnographic Film: Media Methods",
+  "units": "6",
+  "dept": "SOC",
+  "anchor": "socg227",
+  "description": "Ethnographic recording of field data in written and audiovisual formats, including film, video, and CD-ROM applications. Critical assessment of ethnographies and audiovisual data in terms of styles, format, and approaches. Graduate students are required to submit a fifteen-page midterm paper comparing a written and an audiovisual ethnography and a final video ethnography with a project abstract. Prerequisites: graduate standing; SOCI 1, SOCI 2; or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SOCI 1",
+      "SOCI 2"
+    ]
+  }
+}

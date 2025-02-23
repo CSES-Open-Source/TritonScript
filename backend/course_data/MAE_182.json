@@ -1,0 +1,9 @@
+{
+  "code": "MAE 182",
+  "title": "Spacecraft Guidance and Navigation",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae182",
+  "description": "Navigational and guidance requirements for orbital, planetary, and atmospheric entry missions. Guidance systems. Observation instrument point, tracking, control. Celestial, radio, and inertial navigation schemes. Link budgets, antennas, and telemetry systems. Prerequisites: MAE 180.",
+  "prereqs": "MAE 180"
+}

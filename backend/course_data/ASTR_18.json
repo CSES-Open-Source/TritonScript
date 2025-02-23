@@ -1,0 +1,23 @@
+{
+  "code": "ASTR 18",
+  "title": "Additional Topics in Classical Physics",
+  "units": "4",
+  "dept": "ASTR",
+  "anchor": "astr18",
+  "description": "This course explores topics in classical physics with the intent of preparing students from the Physics 2 sequence for upper-division astronomy and astrophysics major courses. Topics include energy methods, rotational motion, coupled oscillators, waves in continua, basic fluids, hydrostatics, Maxwell\u2019s equations, electromagnetic waves and radiation, optics, thermodynamics, and acoustics. Prerequisites: PHYS 2A or PHYS 2AR and PHYS 2B and PHYS 2C and PHYS 2D.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 2AR"
+        ]
+      },
+      "PHYS 2B",
+      "PHYS 2C",
+      "PHYS 2D"
+    ]
+  }
+}

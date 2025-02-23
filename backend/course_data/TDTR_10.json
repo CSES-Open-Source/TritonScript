@@ -1,0 +1,14 @@
+{
+  "code": "TDTR 10",
+  "title": "Introduction to Dance",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdtr10",
+  "description": "An overview of dance, examining its social and cultural history and its evolution as an art form. Focus is on dance and its many genres as an expressive medium and form of communication. Prerequisites: none.",
+  "successors": [
+    "TDHD 175",
+    "TDHD 176",
+    "TDHD 20",
+    "TDHD 21"
+  ]
+}

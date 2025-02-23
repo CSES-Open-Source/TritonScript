@@ -1,0 +1,9 @@
+{
+  "code": "NANO 158L",
+  "title": "Materials Processing Laboratory",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano158l",
+  "description": "Metal casting processes, solidification, deformation processing, thermal processing: solutionizing, aging, and tempering, joining processes such as welding and brazing. The effect of processing route on microstructure and its effect on mechanical and physical properties will be explored.\u00a0NanoEngineering majors have priority enrollment. Prerequisites:\u00a0NANO 158.",
+  "prereqs": "NANO 158"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "SIO 101",
+  "title": "California Coastal Oceanography",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio101",
+  "description": "This course emphasizes oceanographic connections between physical and climate forcing and marine ecosystem responses using examples from and activities in the California coastal environment. The approach is inquiry-based, combining classroom and experiential learning to build critical and quantitative thinking and research insights and abilities. Prerequisites: CHEM 6A or consent of instructor.",
+  "prereqs": "CHEM 6A",
+  "successors": [
+    "SIOC 201"
+  ]
+}

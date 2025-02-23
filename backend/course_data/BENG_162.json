@@ -1,0 +1,15 @@
+{
+  "code": "BENG 162",
+  "title": "Biotechnology Laboratory",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng162",
+  "description": "Laboratory practices and design principles for biotechnology. Culture of microorganisms and mammalian cells, recombinant DNA bioreactor design and operation. Design and implementation of biosensors. A team design-based term project and oral presentation required. Course materials fees may apply. Prerequisites: MAE 170 and BENG 160; majors only or consent of department. (F)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 170",
+      "BENG 160"
+    ]
+  }
+}

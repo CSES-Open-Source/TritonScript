@@ -1,0 +1,25 @@
+{
+  "code": "CHEM 6BH",
+  "title": "Honors General Chemistry II",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem6bh",
+  "description": "Second quarter of a three-quarter honors sequence intended for well-prepared science and engineering majors. Topics include colligative properties, bulk material properties, chemical equilibrium, acids and bases, and thermodynamics. Three hour lecture and one hour recitation. May be taken for credit after credit for CHEM 6B. Students completing 6BH may not subsequently take 6B for credit. Prerequisites: CHEM 6AH and MATH 20A. Recommended: concurrent or prior enrollment in MATH 20B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 6AH",
+      "MATH 20A"
+    ]
+  },
+  "successors": [
+    "CHEM 40A",
+    "CHEM 41A",
+    "CHEM 6C",
+    "CHEM 6CH",
+    "CHEM 7L",
+    "CHEM 7LM",
+    "NANO 159",
+    "SIO 107"
+  ]
+}

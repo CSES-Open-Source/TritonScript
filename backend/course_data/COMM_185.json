@@ -1,0 +1,22 @@
+{
+  "code": "COMM 185",
+  "title": "Communication for Indigenous Justice",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm185",
+  "description": "The course provides students the opportunity to learn from indigenous scholarship, activism, and art. It introduces students to indigenous justice issues such as knowledge production, environmental stewardship, cultural appropriation, and stereotyped representations\u2014all within the contexts of settler colonialism and indigenous resistance and survival. It gives students tools to examine those issues from communication and media studies perspectives and to explore ways to promote indigenous justice. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "SIO 172",
+  "title": "Physics of the Atmosphere",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio172",
+  "description": "This course provides an understanding of the physical principles governing the behavior of the Earth\u2019s atmosphere, with emphasis on the thermal structure and composition of the atmosphere, air masses and fronts, and atmospheric thermodynamics, fluid dynamics, and radiation. Prerequisites: MATH 20C and PHYS 2C, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20C",
+      "PHYS 2C"
+    ]
+  }
+}

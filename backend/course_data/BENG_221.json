@@ -1,0 +1,12 @@
+{
+  "code": "BENG 221",
+  "title": "Mathematical Methods for Bioengineering",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng221",
+  "description": "Introduction of the foundations of engineering by teaching the mathematical methods that describe the engineering principles. Analytical and numerical approaches to solving the equations. Prerequisites: graduate standing in bioengineering or consent of instructor. (F)",
+  "successors": [
+    "BENG 227",
+    "MAE 209"
+  ]
+}

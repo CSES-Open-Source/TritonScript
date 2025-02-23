@@ -1,0 +1,15 @@
+{
+  "code": "ECON 144",
+  "title": "Economics of Conservation",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ144",
+  "description": "Examines conservation of biodiversity from an economic perspective. Topics include valuing biodiversity, defining successful conservation, and evaluating the cost effectiveness of policies such as conservation payments, ecotourism, and privatization. Emphasis on forests, coral reefs, elephants, tigers, and sea turtles. Prerequisites: ECON 2 or 100A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 2",
+      "ECON 100A"
+    ]
+  }
+}

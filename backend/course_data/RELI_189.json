@@ -1,0 +1,9 @@
+{
+  "code": "RELI 189",
+  "title": "Seminar in Religion",
+  "units": "4",
+  "dept": "RELI",
+  "anchor": "reli189",
+  "description": "This seminar requires the intensive analysis of critical problems in the study of religion or the history of particular religions. May be repeated for credit up to three times when topics vary. Prerequisites: upper-division standing; RELI 101 or consent of instructor.",
+  "prereqs": "RELI 101"
+}

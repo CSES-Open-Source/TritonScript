@@ -1,0 +1,32 @@
+{
+  "code": "CSE 166",
+  "title": "Image Processing",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse166",
+  "description": "Principles of image formation, analysis, and representation. Image enhancement, restoration, and segmentation; stochastic image models. Filter design, sampling, Fourier and wavelet transforms. Selected applications in computer graphics and machine vision. Prerequisites: DSC 40B or MATH 18 or MATH 31AH and CSE 100 or CSE 100R or DSC 80.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "DSC 40B",
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CSE 100",
+          "CSE 100R",
+          "DSC 80"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CSE 152B"
+  ]
+}

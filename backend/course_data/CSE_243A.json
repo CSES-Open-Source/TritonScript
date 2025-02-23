@@ -1,0 +1,8 @@
+{
+  "code": "CSE 243A",
+  "title": "Introduction to Synthesis Methodologies in VLSI CAD",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse243a",
+  "description": "Hardware software codesign, architectural level synthesis, control synthesis and optimization, scheduling, binding, register and bus sharing, interconnect design, module selection, combinational logic optimization, state minimization, state encoding, and retiming. Prerequisites: none."
+}

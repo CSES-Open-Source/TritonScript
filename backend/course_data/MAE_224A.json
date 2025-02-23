@@ -1,0 +1,11 @@
+{
+  "code": "MAE 224A",
+  "title": "Environmental Fluid Dynamics I",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae224a",
+  "description": "Basics of stratified flows. Linear waves: surface waves, internal gravity waves, dispersion, reflection, mountain waves. Ray tracing. Gravity currents and intrusions. Hydraulic control. Stability of and mixing in stratified shear flows. Recommended preparation: MAE 210A.",
+  "successors": [
+    "MAE 224B"
+  ]
+}

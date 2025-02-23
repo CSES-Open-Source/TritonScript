@@ -1,0 +1,16 @@
+{
+  "code": "MUS 103D-E-F",
+  "title": "Honors Seminar in Composition",
+  "units": "4-4-4",
+  "dept": "MUS",
+  "anchor": "mus103f",
+  "description": "Advanced individual projects for senior music majors pursuing honors in composition. Projects will be critically reviewed in seminar with fellow students and faculty composers. Prerequisites: MUS 103A-B-C and admission into the Department of Music Honors Program in composition. Department approval required.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MUS 103A",
+      "MUS 103B",
+      "MUS 103C"
+    ]
+  }
+}

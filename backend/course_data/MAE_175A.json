@@ -1,0 +1,21 @@
+{
+  "code": "MAE 175A",
+  "title": "Aerospace Engineering Laboratory I",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae175a",
+  "description": "Analysis of aerospace engineering systems using experimental facilities in undergraduate laboratories: wind tunnel, water channel, vibration table, and testing machine. Students operate facilities, obtain data, complete engineering analysis and write major reports. Prerequisites: senior standing; MAE 143B or CENG 120; and MAE 170, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MAE 143B",
+          "CENG 120"
+        ]
+      },
+      "MAE 170"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "ECON 150",
+  "title": "Public Economics: Taxation",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ150",
+  "description": "Overview of the existing national tax structure in the United States, its effects on individual and firm decisions, and the resulting efficiency costs and distributional consequences. The course concludes with an examination of several commonly-proposed tax reforms. Prerequisites: ECON 100C.",
+  "prereqs": "ECON 100C"
+}

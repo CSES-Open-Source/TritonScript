@@ -1,0 +1,9 @@
+{
+  "code": "EDS 289D",
+  "title": "Dissertation Writing Seminar",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds289d",
+  "description": "This seminar provides an opportunity for doctoral candidates to present and critique in-progress dissertation research and writing. Topics addressed will also include writing for professional publications and presenting research findings to varied audiences. This is the fourth course in a four-course series. Prerequisites: EDS 289C, and Joint EdD in Educational Leadership student status or consent of instructor.",
+  "prereqs": "EDS 289C"
+}

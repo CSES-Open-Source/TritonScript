@@ -1,0 +1,22 @@
+{
+  "code": "COMM 145",
+  "title": "History, Memory, and Popular Culture",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm145",
+  "description": "What role does popular culture play in shaping and creating our shared memory of the past? The course examines diverse sources such as school textbooks, monuments, holidays and commemorations, museums, films, music, and tourist attractions. Prerequisites: COMM 10 and two from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "two",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

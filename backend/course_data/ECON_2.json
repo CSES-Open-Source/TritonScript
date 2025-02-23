@@ -1,0 +1,26 @@
+{
+  "code": "ECON 2",
+  "title": "Market Imperfections and Policy",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ2",
+  "description": "Analysis of monopoly and imperfectly competitive markets, market imperfections and the role of government. Prerequisites: ECON 1.",
+  "prereqs": "ECON 1",
+  "successors": [
+    "ECON 102",
+    "ECON 107",
+    "ECON 116",
+    "ECON 118",
+    "ECON 119",
+    "ECON 130",
+    "ECON 131",
+    "ECON 132",
+    "ECON 135",
+    "ECON 139",
+    "ECON 140",
+    "ECON 144",
+    "ECON 145",
+    "ECON 147",
+    "USP 102"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "NANO 174L",
+  "title": "Mechanical Behavior Laboratory",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano174l",
+  "description": "Experimental investigation of mechanical behavior of engineering materials. Laboratory exercises emphasize the fundamental relationship between microstructure and mechanical properties, and the evolution of the microstructure as a consequence of rate process. Prerequisites: NANO 174.",
+  "prereqs": "NANO 174"
+}

@@ -1,0 +1,9 @@
+{
+  "code": "MATH 245C",
+  "title": "Convex Analysis and Optimization III",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math245c",
+  "description": "Convex optimization problems, linear matrix inequalities, second-order cone programming, semidefinite programming, sum of squares of polynomials, positive polynomials, distance geometry. Prerequisites: MATH 245B or consent of instructor.",
+  "prereqs": "MATH 245B"
+}

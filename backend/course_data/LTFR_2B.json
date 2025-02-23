@@ -1,0 +1,12 @@
+{
+  "code": "LTFR 2B",
+  "title": "Intermediate French II",
+  "units": "5",
+  "dept": "LIT",
+  "anchor": "ltfr2b",
+  "description": "Second course in a three-quarter sequence designed to prepare students for upper-division French courses. The course is taught entirely in French and emphasizes the development of reading ability, listening comprehension, and conversational and writing skills. Basic techniques of literary analysis.  Prerequisites:  LTFR 2A or its equivalent, score of 4 on French language or score of 3 on French literature AP exams or consent of instructor.",
+  "prereqs": "LTFR 2A",
+  "successors": [
+    "LTFR 2C"
+  ]
+}

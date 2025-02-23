@@ -1,0 +1,38 @@
+{
+  "code": "ECON 102",
+  "title": "Globalization",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ102",
+  "description": "Presents theories of global economic integration, grounded in the principle of comparative advantage. Investigates patterns of trade when trade is balanced and capital flows when trade is not balanced. Assesses the consequences of global economic integration and economic policies for industry location, incomes, welfare and economic growth, and studies goods, services and sovereign debt markets. Prerequisites: ECON 1 or 100B and 2 or 3 or MATH 20C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      {
+        "type": "all",
+        "courses": [
+          {
+            "type": "one",
+            "courses": [
+              "ECON 1",
+              "ECON 100B"
+            ]
+          },
+          {
+            "type": "one",
+            "courses": [
+              "ECON 2",
+              "ECON 3"
+            ]
+          }
+        ]
+      },
+      "MATH 20C"
+    ]
+  },
+  "successors": [
+    "ECON 101",
+    "ECON 103",
+    "ECON 106"
+  ]
+}

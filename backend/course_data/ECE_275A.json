@@ -1,0 +1,8 @@
+{
+  "code": "ECE 275A",
+  "title": "Parameter Estimation I",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece275a",
+  "description": "Linear least Squares (batch, recursive, total, sparse, pseudoinverse, QR, SVD); Statistical figures of merit (bias, consistency, Cramer-Rao lower-bound, efficiency); Maximum likelihood estimation (MLE); Sufficient statistics; Algorithms for computing the MLE including the Expectation Maximation (EM) algorithm. The problem of missing information; the problem of outliers. Recommended preparation: ECE 109 and ECE 153. Prerequisites: graduate standing."
+}

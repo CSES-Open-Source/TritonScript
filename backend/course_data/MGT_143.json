@@ -1,0 +1,9 @@
+{
+  "code": "MGT 143",
+  "title": "Forensic Accounting",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt143",
+  "description": "Course covers key forensic accounting concepts including fraudulent financial reporting, money laundering, business valuation, and litigation support. Learning objectives are the application of analytical accounting and communication skills in identifying and presenting financial issues in both criminal and civil litigation. Prerequisites: MGT 131B and upper-division standing.",
+  "prereqs": "MGT 131B"
+}

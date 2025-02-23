@@ -1,0 +1,15 @@
+{
+  "code": "EDS 287C",
+  "title": "Educational Research and Evaluation Design C\u2014Qualitative Methods",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds287c",
+  "description": "This course integrates a variety of social and behavioral science perspectives and research methodologies in examining topics of central relevance to education. Students have opportunities to learn a variety of quantitative and/or qualitative methodologies. Letter grades only. EDS 287C is one of three courses in the series. Prerequisites: EDS 287A, EDS 287B, and EDS doctoral student (ED81 or ED82), or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "EDS 287A",
+      "EDS 287B"
+    ]
+  }
+}

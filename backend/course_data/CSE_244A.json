@@ -1,0 +1,8 @@
+{
+  "code": "CSE 244A",
+  "title": "VLSI Test",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse244a",
+  "description": "Design for test, testing economics, defects, failures and faults, fault models, fault simulation, automatic test pattern generation, functional testing, memory, PLA, FPGA, microprocessor test, and fault diagnosis. Prerequisites: none."
+}

@@ -1,0 +1,15 @@
+{
+  "code": "SOCI 103M",
+  "title": "Computer Applications to Data Management in Sociology",
+  "units": "4",
+  "dept": "SOC",
+  "anchor": "soci103m",
+  "description": "Develop skills in computer management and analysis of sociological data. Practical experience with data produced by sociological research. Students will develop competency in the analysis of sociological data, by extensive acquaintance with computer software used for data analysis and management (e.g., SPSS). Prerequisites: SOCI 60 or CSS 2, and upper-division standing. Will not receive credit for SOCI 103M and SOCA 103M.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SOCI 60",
+      "CSS 2"
+    ]
+  }
+}

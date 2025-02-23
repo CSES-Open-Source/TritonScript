@@ -1,0 +1,12 @@
+{
+  "code": "MATH 203B",
+  "title": "Algebraic Geometry II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math203b",
+  "description": "Second course in algebraic geometry. Continued exploration of varieties, sheaves and schemes, divisors and linear systems, differentials, cohomology. May be taken for credit up to three times. Prerequisites: MATH 203A. Students who have not taken MATH 203A may enroll with consent of instructor.",
+  "prereqs": "MATH 203A",
+  "successors": [
+    "MATH 203C"
+  ]
+}

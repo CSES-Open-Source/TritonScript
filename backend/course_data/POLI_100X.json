@@ -1,0 +1,17 @@
+{
+  "code": "POLI 100X",
+  "title": "Data Analysis and United States Politics",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli100x",
+  "description": "This course examines US politics from a computational point of view. Through in-class work and hands-on assignments, we will use data analysis tools to collect, analyze, and visualize data related to various facets of federal level politics in the U.S. Students will develop statistical and computational skills that will assist them in advanced analyses of elections, legislative outcomes, lobbying, and other dynamics of the lawmaking process in Congress. Prerequisites: POLI 5D/POLI 5D/ECON 5\u00a0or\u00a0POLI 30D.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "POLI 5D",
+      "POLI 5D",
+      "ECON 5",
+      "POLI 30D"
+    ]
+  }
+}

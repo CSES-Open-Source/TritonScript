@@ -1,0 +1,13 @@
+{
+  "code": "DSC 102",
+  "title": "Systems for Scalable Analytics",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc102",
+  "description": "This course introduces the principles of computing systems and infrastructure for scaling analytics to large datasets. Topics include memory hierarchy, distributed systems, model selection, heterogeneous datasets, and deployment at scale. The course will also discuss the design of systems such as MapReduce/Hadoop and Spark, in conjunction with their implementation. Students will also learn how dataflow operations can be used to perform data preparation, cleaning, and feature engineering. Prerequisites: DSC 100. Restricted to students with upper-division standing. Restricted to students within the DS25 major. All other students will be allowed as space permits.",
+  "prereqs": "DSC 100",
+  "successors": [
+    "CSE 132C",
+    "DSC 180A"
+  ]
+}

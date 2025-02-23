@@ -1,0 +1,27 @@
+{
+  "code": "SIOG 227C",
+  "title": "Advanced Seismology II",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siog227c",
+  "description": "High-frequency wave propagation; methods for computing synthetic seismograms, including WKBJ, reflectivity and finite differences; body-wave spectra; attenuation of body waves; source physics; reflection and refraction seismology; seismic tomography. Prerequisites: SIOG 227A or SIO 227A and SIOG 227B or SIO 227B or consent of instructor. (S/U grades permitted.)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SIOG 227A",
+          "SIO 227A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SIOG 227B",
+          "SIO 227B"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "code": "SIO 186",
+  "title": "Microbiomes across Environments",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio186",
+  "description": "This course is a comprehensive introduction to microbiome research, tools, and approaches for investigation, and a lexicon for understanding the biological role of microbial communities in the environment and in their hosts. Informational and instructive lectures will provide background and the latest in microbiome analysis, as well as experimental design, molecular biology, statistics, bioinformatics, and presentation and manuscript writing. Students will design and carry out their own experiment. Prerequisites: BILD 4 or SIO 187, and MATH 11 or SIO 187, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BILD 4",
+          "SIO 187"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 11",
+          "SIO 187"
+        ]
+      }
+    ]
+  }
+}

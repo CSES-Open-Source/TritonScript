@@ -1,0 +1,17 @@
+{
+  "code": "SIOG 235",
+  "title": "Computational Inverse Problems",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siog235",
+  "description": "This course covers computational methods for the solution of geophysical inverse problems and time-dependent data assimilation problems. Topics to be covered include numerical optimization, Markov chain Monte Carlo, sequential importance sampling, Kalman and ensemble Kalman filtering, particle filters, and cycling variational methods. All numerical methods we cover find application in earth science, but this course focuses on the numerical and computational methods, not the physics. Recommended preparation: a foundational understanding of linear algebra, basic data fitting, and random variables, as well as some coding experience. Prerequisites: MAE 294A or SIOC 203A or SIOG 223A or SIOG 230, or consent of instructor. (S/U grades permitted.)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 294A",
+      "SIOC 203A",
+      "SIOG 223A",
+      "SIOG 230"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "CHEM 173",
+  "title": "Atmospheric Chemistry",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem173",
+  "description": "Chemical principles applied to the study of atmospheres. Atmospheric photochemistry, radical reactions, chemical lifetime determinations, acid rain, greenhouse effects, ozone cycle, and evolution are discussed. May be coscheduled with CHEM 273. Prerequisites: CHEM 6C or 6CH.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 6C",
+      "CHEM 6CH"
+    ]
+  }
+}

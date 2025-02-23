@@ -1,0 +1,11 @@
+{
+  "code": "COMM 50",
+  "title": "Presenting and Public Speaking",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm50",
+  "description": "This course covers the basics of communication in public and professional settings. Students will cultivate their own speaking style while developing skills in delivery, performance, and persuasion. They will learn how to create a slide deck as well as prepare for speeches, interviews, and Q and As.",
+  "successors": [
+    "COMM 148"
+  ]
+}

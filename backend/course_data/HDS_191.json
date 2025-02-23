@@ -1,0 +1,15 @@
+{
+  "code": "HDS 191",
+  "title": "Field Research in Human Development",
+  "units": "6",
+  "dept": "HDS",
+  "anchor": "hds191",
+  "description": "This course is designed around students\u2019 applied qualitative Field Research experience. With weekly lectures introducing the basic methodology of human development research, HDS majors are provided the necessary tools to create their own empirical Field Research project, conducted (four hours/week) at a pre-approved study site. Students must submit the pre-enrollment questionnaire one academic year prior to enrollment. See the HDS website for details. Renumbered from HDP 191. Students may not receive credit for HDP 191 and HDS 191. Prerequisites: HDS 1 and HDS 181. Department approval required. (F,W,S)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "HDS 1",
+      "HDS 181"
+    ]
+  }
+}

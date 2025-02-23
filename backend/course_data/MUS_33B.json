@@ -1,0 +1,12 @@
+{
+  "code": "MUS 33B",
+  "title": "Introduction to Composition II",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus33b",
+  "description": "Second part of course sequence for students pursuing a composition emphasis. Course continues the building of skills with the organization of basic compositional elements: pitch, rhythm, and timbre. It explores issues of musical texture, expression, and structure in traditional and contemporary repertoire. Writing for two instruments in more extended forms. Prerequisites: MUS 33A.",
+  "prereqs": "MUS 33A",
+  "successors": [
+    "MUS 33C"
+  ]
+}

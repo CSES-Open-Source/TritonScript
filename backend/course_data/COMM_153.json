@@ -1,0 +1,22 @@
+{
+  "code": "COMM 153",
+  "title": "Architecture as Communication",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm153",
+  "description": "This course examines how buildings, cities, towns, gardens, neighborhoods, roads, bridges, and other bits of infrastructure communicate. We consider both the materiality and language-like properties of physical things in order to understand how built environments are represented, experienced, and remembered. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

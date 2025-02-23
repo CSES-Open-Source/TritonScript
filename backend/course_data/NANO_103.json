@@ -1,0 +1,23 @@
+{
+  "code": "NANO 103",
+  "title": "Foundations in NanoEngineering: Biochemical Principles",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano103",
+  "description": "Principles of biochemistry tailored to nanotechnologies. The structure and function of biomolecules and their specific roles in molecular interactions and signal pathways. Detection methods at the micro and nano scales. Prerequisites: BILD 1, CHEM 6C, NANO 11 or NANO 101, and NANO 102. Department approval required; Priority given to NA25 majors.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "CHEM 6C",
+      {
+        "type": "one",
+        "courses": [
+          "NANO 11",
+          "NANO 101"
+        ]
+      },
+      "NANO 102"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "code": "MGTA 414",
+  "title": "Web Data Analytics",
+  "units": "2",
+  "dept": "MGT",
+  "anchor": "mgta414",
+  "description": "This course focuses on collecting, drawing inference, and making business decisions based on data. It will cover tools such as Python, APIs, and NLP to collect, manipulate, and analyze data from the web and other sources, with the objective of making students data-savvy and comfortable with deriving insights from real-world, large data sets. Students will be exposed to the power of clickstream analysis and the possibilities that can be unleashed from industrial applications of web data analytics.\u00a0Prerequisites: restricted to MS in business analytics students or with department and instructor approval."
+}

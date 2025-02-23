@@ -1,0 +1,15 @@
+{
+  "code": "BICD 158",
+  "title": "Active Genetics",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bicd158",
+  "description": "An advanced introduction to non-Mendelian genetics with an emphasis on CRISPR-based mechanisms for achieving super-Mendelian inheritance of genetic traits. The course will provide a brief history of non-Mendelian genetics and then move on to the use of such systems for laboratory research or to alter populations of organisms either locally or more broadly to address issues of public health such as insecticide resistance and antibiotic resistance to support globally sustainable practices. Prerequisites: BICD 100 or BICD 100R.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BICD 100",
+      "BICD 100R"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "code": "SE 160A",
+  "title": "Aerospace Structural Mechanics I",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se160a",
+  "description": "Aircraft and spacecraft flight loads and operational envelopes, three-dimensional stress/strain relations, metallic and composite materials, failure theories, three-dimensional space trusses and stiffened shear panels, combined extension-bend-twist behavior of thin-walled multicell aircraft and space vehicle structures, modulus-weighted section properties, shear center. Prerequisites: SE 105 or MAE 21 and SE 101B or MAE 30B and SE 110A or MAE 131A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SE 105",
+          "MAE 21"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SE 101B",
+          "MAE 30B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SE 110A",
+          "MAE 131A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MAE 155A",
+    "SE 160B"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "code": "VIS 184",
+  "title": "Advanced Scripting",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis184",
+  "description": "Film/video production will be framed through the script writing process, focusing on the problems of longer duration, density, and adaptation from other media. Students will both read and analyze both historical and contemporary scripts and produce a thirty- to sixty-minute script. Recommended preparation: VIS 177 Scripting Strategies. Two production-course limitation. Prerequisites: VIS 174 and two from VIS 164, 165, 165A, 165B, 171, 172, 175, 176, 177, 178, 179. Open to media majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "VIS 174",
+      {
+        "type": "two",
+        "courses": [
+          "VIS 164",
+          "VIS 165",
+          "VIS 165A",
+          "VIS 165B",
+          "VIS 171",
+          "VIS 172",
+          "VIS 175",
+          "VIS 176",
+          "VIS 177",
+          "VIS 178",
+          "VIS 179"
+        ]
+      }
+    ]
+  }
+}

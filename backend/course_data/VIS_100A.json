@@ -1,0 +1,12 @@
+{
+  "code": "VIS 100A",
+  "title": "Design of Public Culture",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis100a",
+  "description": "This course will explore and develop designs and strategies that engage today\u2019s shifting public domain structures and their various spatial and systematic manifestations. The problematic of \u201cthe public\u201d and the politics of public sphere are situated as sites of investigation through which we imagine new interfaces between individuals, collectives, and institutions with the aim of coproducing more critical and inclusive forms of public space and culture. Prerequisites: VIS 100.",
+  "prereqs": "VIS 100",
+  "successors": [
+    "VIS 190"
+  ]
+}

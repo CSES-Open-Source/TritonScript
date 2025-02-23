@@ -1,0 +1,8 @@
+{
+  "code": "SE 268",
+  "title": "Structural System Testing and Model Correlation",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se268",
+  "description": "Dynamic/model testing of structures: test planning/execution, actuation, sensing, and data acquisition, signal processing, data conditioning, test troubleshooting. Methods of updating finite element structural models to correlate with dynamic test results. Model/test correlation assessment in industrial practice. May be coscheduled with SE 168. Recommended preparation: vibrations, finite element analysis, and knowledge of MATLAB. Prerequisites: graduate standing."
+}

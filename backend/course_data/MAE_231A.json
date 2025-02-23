@@ -1,0 +1,17 @@
+{
+  "code": "MAE 231A",
+  "title": "Foundations of Solid Mechanics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae231a",
+  "description": "Specification of stress and strain; infinitesimal and finite deformation; conservation equations; typical constitutive equations; minimum potential energy principle. Prerequisites: graduate standing.",
+  "successors": [
+    "MAE 231B",
+    "MAE 231C",
+    "MAE 232C",
+    "MAE 233A",
+    "MAE 233B",
+    "SE 273",
+    "SE 276C"
+  ]
+}

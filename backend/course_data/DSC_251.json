@@ -1,0 +1,15 @@
+{
+  "code": "DSC 251",
+  "title": "Machine Learning in Control",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc251",
+  "description": "Estimation of stability and uncertainty, optimal control, and sequential decision making. Prerequisites: DSC 211 and DSC 240. Restricted to DS75 and DS76 students.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 211",
+      "DSC 240"
+    ]
+  }
+}

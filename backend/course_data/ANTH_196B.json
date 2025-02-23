@@ -1,0 +1,12 @@
+{
+  "code": "ANTH 196B",
+  "title": "Honors Studies in Anthropology",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "anth196b",
+  "description": "Independent preparation of a senior thesis under the supervision of a faculty member. Students begin two-quarter sequence in fall quarter. Prerequisites: completion of ANTH 196A with grade of B+ or better.",
+  "prereqs": "ANTH 196A",
+  "successors": [
+    "ANTH 196C"
+  ]
+}

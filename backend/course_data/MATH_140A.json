@@ -1,0 +1,25 @@
+{
+  "code": "MATH 140A",
+  "title": "Foundations of Real Analysis I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math140a",
+  "description": "First course in a rigorous three-quarter sequence on real analysis. Topics include the real number system, basic topology, numerical sequences and series, continuity. (Students may not receive credit for both MATH 140A and MATH 142A.) Prerequisites: MATH 31CH or MATH 109. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 31CH",
+      "MATH 109"
+    ]
+  },
+  "successors": [
+    "ECON 113",
+    "MATH 140B",
+    "MATH 142B",
+    "MATH 160A",
+    "MATH 190A",
+    "MATH 210A",
+    "MATH 220A-B-C",
+    "MATH 290A-B-C"
+  ]
+}

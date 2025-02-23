@@ -1,0 +1,13 @@
+{
+  "code": "SE 1",
+  "title": "Introduction to Structures and Design",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se1",
+  "description": "Introduction to fundamentals of structures and how structures work. Overview of structural behavior and structural design process through hands-on projects. Lessons learned from structural failures. Professional ethics. Role and responsibility of structural engineers. Introduction to four structural engineering focus sequences. Program or materials fees may apply. Enrollment restricted to SE27 majors only.",
+  "successors": [
+    "ECE 196",
+    "SE 105",
+    "SE 3"
+  ]
+}

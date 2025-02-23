@@ -1,0 +1,8 @@
+{
+  "code": "ECE 256",
+  "title": "Fundamentals of Image and Video Compression",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece256",
+  "description": "This course provides the theoretical background to image and video compression. Topics cover basic coding tools such as entropy coding, transform, and quantization as well as advanced coding methods: motion estimation and compensation, error resilient coding and scalable coding. Recommended preparation: MATLAB programming. Prerequisites: graduate standing."
+}

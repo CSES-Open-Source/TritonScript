@@ -1,0 +1,9 @@
+{
+  "code": "ECON 142",
+  "title": "Behavioral Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ142",
+  "description": "Course will study economic models in which standard economic rationality assumptions are combined with psychologically plausible assumptions on behavior. We consider whether the new models improve ability to predict and understand phenomena including altruism, trust and reciprocity, procrastination, and self-control. Prerequisites: ECON 109.",
+  "prereqs": "ECON 109"
+}

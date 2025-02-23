@@ -1,0 +1,19 @@
+{
+  "code": "USP 186",
+  "title": "Senior Sequence Research Proposal",
+  "units": "6",
+  "dept": "USP",
+  "anchor": "usp186",
+  "description": "Introduces students to the theory and practice of social research including the challenges of writing a scholarly proposal. Students are required to complete one hundred hours of an internship experience while critically examining the relations between social science and society. Prerequisites: USP 30, USP 60, USP 124, one USP technical elective, and one USP Research Methods course. Restricted to seniors within the Urban Studies and Planning major. (Only offered fall quarter.)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "USP 30",
+      "USP 60",
+      "USP 124"
+    ]
+  },
+  "successors": [
+    "USP 187"
+  ]
+}

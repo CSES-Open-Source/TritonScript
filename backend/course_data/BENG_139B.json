@@ -1,0 +1,10 @@
+{
+  "code": "BENG 139B",
+  "title": "Design Implementation in Molecular Bioengineering",
+  "units": "3",
+  "dept": "BENG",
+  "anchor": "beng139b",
+  "description": "Implementation of design project in molecular bioengineering. Prerequisites: BENG 139A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W)",
+  "prereqs": "BENG 139A",
+  "coreqs": "BENG 187C"
+}

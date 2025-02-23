@@ -1,0 +1,11 @@
+{
+  "code": "PHYS 203A",
+  "title": "Advanced Classical Electrodynamics I",
+  "units": "5",
+  "dept": "PHYS",
+  "anchor": "phys203a",
+  "description": "A basic course in electromagnetism at the graduate level. Contents include special relativity, relativistic formulation of electrodynamics from the principle of least action, electrostatics, magnetostatics, multipoles, waves, light, diffraction, and multipole radiation.",
+  "successors": [
+    "PHYS 203B"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "code": "SIO 124",
+  "title": "Marine Natural Products",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio124",
+  "description": "This course will provide a detailed introduction to marine natural products. It will survey the organisms that produce these compounds and introduce how they are made (biosynthesis), isolated and identified (natural products chemistry), why they are made (chemical ecology), and how they are exploited for useful purposes including drug discovery (marine biotechnology). It will leave students with a fundamental understanding of the latest techniques employed in natural product research. Prerequisites: CHEM 6C and BILD 1 or BILD 3 or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 6C",
+      {
+        "type": "one",
+        "courses": [
+          "BILD 1",
+          "BILD 3"
+        ]
+      }
+    ]
+  }
+}

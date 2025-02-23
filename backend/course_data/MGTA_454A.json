@@ -1,0 +1,19 @@
+{
+  "code": "MGTA 454A",
+  "title": "Business Analytics Capstone Project I",
+  "units": "2",
+  "dept": "MGT",
+  "anchor": "mgta454a",
+  "description": "Project-based course, in which students apply knowledge and methods acquired in their course work to a specific business analytics problem faced by a company. The project will be comprehensive in nature, allowing students to exhibit their acquired skills. Class meetings will be scheduled where teams will outline project goals, describe the available data and planned analyses, and present initial results. This course is part of a course series. An IP grade will be awarded at the end of the quarter. Final grade will not apply until the completion of MGTA 454B. Students may not receive credit for both MGTA 454A and MGTA 454. Prerequisites: MGTA 451, MGTA 452, MGTA 453, and restricted to MS in business analytics program or with department and instructor approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGTA 451",
+      "MGTA 452",
+      "MGTA 453"
+    ]
+  },
+  "successors": [
+    "MGTA 454B"
+  ]
+}

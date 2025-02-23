@@ -1,0 +1,16 @@
+{
+  "code": "ECE 144",
+  "title": "LabVIEW Programming: Design and Applications",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece144",
+  "description": "Develop, debug, and test LabVIEW VIs, solve problems using LabVIEW, use data acquisition, and perform signal processing and instrument control in LabVIEW applications. Groups of students will build an elevator system from laser-cut and 3-D printed parts; integrate sensors, motors, and servos; and program using state-machine architecture in LabVIEW. Students will have the opportunity to take the National Instruments Certified LabVIEW Associate Developer (CLAD) exam at the end of the quarter. Program or materials fees may apply. Prerequisites: CSE 11 or CSE 8B or ECE 15.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 11",
+      "CSE 8B",
+      "ECE 15"
+    ]
+  }
+}

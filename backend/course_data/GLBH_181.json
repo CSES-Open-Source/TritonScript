@@ -1,0 +1,11 @@
+{
+  "code": "GLBH 181",
+  "title": "Essentials of Global Health",
+  "units": "4",
+  "dept": "GLBH",
+  "anchor": "glbh181",
+  "description": "Illustrates and explores ecologic settings and frameworks for study and understanding of global health and international health policy. Students acquire understanding of diverse determinants and trends of disease in various settings and interrelationships between socio-cultural-economic development and health.",
+  "successors": [
+    "GLBH 102"
+  ]
+}

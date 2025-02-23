@@ -1,0 +1,27 @@
+{
+  "code": "TDGR 270C",
+  "title": "Design Studio I: Lighting Design",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdgr270c",
+  "description": "This course will focus on beginning-level problems in theatre design, including text analysis, research, conceptualization, and visual expression. Students will work on individual projects in lighting, costume, and scenic design. The course will include group critiques of completed design and works in progress. 270A, Scenic Design (fall); 270B, Costume Design (winter); 270C, Lighting Design (spring). Prerequisites: THGR 270A or TDGR 270A, THGR 270B or TDGR 270B, graduate standing, and consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "THGR 270A",
+          "TDGR 270A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "THGR 270B",
+          "TDGR 270B"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "code": "SIOC 200B",
+  "title": "Computational Ocean Acoustics and Signal Processing II",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc200b",
+  "description": "Continuation of SIOC 200A. Range dependent propagation models, including adiabatic and coupled mode models and parabolic equations. More advanced topics in matched field processing. Prerequisites: graduate standing and SIOC 200A or SIO 200A or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIOC 200A",
+      "SIO 200A"
+    ]
+  },
+  "successors": [
+    "SIOC 200C"
+  ]
+}

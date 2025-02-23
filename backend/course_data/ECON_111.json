@@ -1,0 +1,9 @@
+{
+  "code": "ECON 111",
+  "title": "Monetary Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ111",
+  "description": "Financial structure of the US economy. Bank behavior. Monetary control. Prerequisites: ECON 110B.",
+  "prereqs": "ECON 110B"
+}

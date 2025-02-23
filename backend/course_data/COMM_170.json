@@ -1,0 +1,22 @@
+{
+  "code": "COMM 170",
+  "title": "Biography and Life Stories",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm170",
+  "description": "Course examines several different ways of telling stories as a form of communication: our own life and about the lives of others. There are also the occasions that the life stories of ordinary people are told at and celebrated, for example, funerals, Festschrifts, retirement dinners, fiftieth-anniversary parties, and retrospective art shows. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

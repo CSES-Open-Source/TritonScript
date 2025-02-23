@@ -1,0 +1,14 @@
+{
+  "code": "NANO 11",
+  "title": "Introduction to NanoEngineering",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano11",
+  "description": "Introduction to NanoEngineering, including fundamental scaling laws, and an overview of nanomaterials synthesis, properties, and relevant technological applications with focus in the area of nanomedicine, energy, and advanced materials. Prerequisites: NANO 4.",
+  "prereqs": "NANO 4",
+  "successors": [
+    "NANO 103",
+    "NANO 104",
+    "NANO 107"
+  ]
+}

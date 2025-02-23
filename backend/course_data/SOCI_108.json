@@ -1,0 +1,9 @@
+{
+  "code": "SOCI 108",
+  "title": "Survey Research Design",
+  "units": "4",
+  "dept": "SOC",
+  "anchor": "soci108",
+  "description": "Translation of research goals into a research design, including probability sampling, questionnaire construction, data collection (including interviewing techniques), data processing, coding, and preliminary tabulation of data. Statistical methods of analysis will be limited primarily to percentaging. Prerequisites: SOCI 60 and upper-division standing. Will not receive credit for SOCI 108 and SOCA 108.",
+  "prereqs": "SOCI 60"
+}

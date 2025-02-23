@@ -1,0 +1,9 @@
+{
+  "code": "MGT 286",
+  "title": "Continuous-Time Finance",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt286",
+  "description": "This course covers most powerful tools in finance, i.e., which are finance models in continuous-time setting. The subjects include dynamic portfolio selection, derivative pricing, dynamic term structure, and dynamic equilibrium models. Students may not earn academic credit for both MGTF 411 and MGT 286; these are course duplicates. Prerequisites: MGT 285; admission to management PhD program or by consent of instructor.",
+  "prereqs": "MGT 285"
+}

@@ -1,0 +1,9 @@
+{
+  "code": "CENG 176B",
+  "title": "Chemical Engineering Process Laboratory II",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng176b",
+  "description": "Training in planning research projects, execution of experimental work, and articulation (both oral and written) of the research plan and results in the areas of applied chemical technology and engineering operations related to mass, momentum, and heat transfer. Prerequisites: CENG 176A.",
+  "prereqs": "CENG 176A"
+}

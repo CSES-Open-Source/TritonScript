@@ -1,0 +1,16 @@
+{
+  "code": "INTL 190",
+  "title": "Seminar in International Studies",
+  "units": "4",
+  "dept": "INTL",
+  "anchor": "intl190",
+  "description": "Readings and discussion of topics in international and comparative studies from an interdisciplinary perspective. Emphasis on independent work and completion of a research paper. Prerequisites: open to international studies majors only; successful completion with a C\u2013 or better of INTL 100, INTL 101, and 102.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "INTL 100",
+      "INTL 101",
+      "INTL 102"
+    ]
+  }
+}

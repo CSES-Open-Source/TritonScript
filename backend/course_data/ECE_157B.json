@@ -1,0 +1,15 @@
+{
+  "code": "ECE 157B",
+  "title": "Communications Systems Laboratory II",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece157b",
+  "description": "Advanced projects in communication systems. Students will plan and implement design projects in the laboratory, updating progress weekly and making plan/design adjustments based upon feedback.\u00a0Prerequisites: ECE 157A or ECE 161A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECE 157A",
+      "ECE 161A"
+    ]
+  }
+}

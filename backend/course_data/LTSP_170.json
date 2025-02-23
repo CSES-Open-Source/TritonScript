@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 170",
+  "title": "Contemporary Theories of Cultural Production",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp170",
+  "description": "Selected readings in recent cultural and literary theory. Students will be exposed to a variety of methodologies drawn from the Latin American, European, and US traditions. The course is recommended for students who plan to pursue graduate work in literature. May be taken for credit up to two times as topics vary.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

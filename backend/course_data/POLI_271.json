@@ -1,0 +1,11 @@
+{
+  "code": "POLI 271",
+  "title": "Advanced Statistical Applications",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli271",
+  "description": "Use of advanced quantitative techniques in political science. Students will use political science data to complete small exercises and a major project. Students may not receive credit for both 271B and 271. Prerequisites: 204B and 270; graduate standing.",
+  "successors": [
+    "POLI 260"
+  ]
+}

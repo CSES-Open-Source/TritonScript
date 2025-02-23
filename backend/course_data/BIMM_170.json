@@ -1,0 +1,9 @@
+{
+  "code": "BIMM 170",
+  "title": "Genomics Research Initiative Laboratory II",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm170",
+  "description": "Students will characterize the genomic sequence of the organisms isolated in BILD 70 and use molecular and computational tools to resolve ambiguities and close gaps. They will then annotate the DNA sequence to identify protein and RNA coding regions. Renumbered from BIMM 171B. Students may not receive credit for BIMM 170 and BIMM 171B. Material lab fees will apply. Prerequisites: BILD 70.",
+  "prereqs": "BILD 70"
+}

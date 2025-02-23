@@ -1,0 +1,11 @@
+{
+  "code": "VIS 20",
+  "title": "Introduction to Art in Europe and America",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis20",
+  "description": "This course examines the history of Western art and architecture through such defining issues as the respective roles of tradition and innovation in the production and appreciation of art; the relation of art to its broader intellectual and historical contexts; and the changing concepts of the monument, the artist, meaning, style, and \u201cart\u201d itself. Representative examples will be selected from different periods, ranging from antiquity to modern. Content will vary with the instructor. Prerequisites: none.",
+  "successors": [
+    "VIS 122D"
+  ]
+}

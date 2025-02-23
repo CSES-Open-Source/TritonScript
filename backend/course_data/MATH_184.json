@@ -1,0 +1,25 @@
+{
+  "code": "MATH 184",
+  "title": "Enumerative Combinatorics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math184",
+  "description": "Introduction to the theory and applications of combinatorics. Enumeration of combinatorial structures (permutations, integer partitions, set partitions). Bijections, inclusion-exclusion,\u00a0ordinary and exponential generating functions. Renumbered from MATH 184A; credit not offered for MATH 184 if MATH 184A if previously taken. Credit not offered for MATH 184 if MATH 188 previously taken. If MATH 184 and MATH 188 are concurrently taken, credit only offered for MATH 188. Prerequisites: MATH 31CH or MATH 109. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 31CH",
+      "MATH 109"
+    ]
+  },
+  "successors": [
+    "CSE 100",
+    "CSE 100R",
+    "CSE 101",
+    "CSE 103",
+    "CSE 105",
+    "CSE 106",
+    "CSE 107",
+    "CSE 127"
+  ]
+}

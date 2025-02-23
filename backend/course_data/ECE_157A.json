@@ -1,0 +1,29 @@
+{
+  "code": "ECE 157A",
+  "title": "Communications Systems Laboratory I",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece157a",
+  "description": "Experiments in the modulation and demodulation of baseband and passband signals. Statistical characterization of signals and impairments. (Course materials and/or program fees may apply.) Prerequisites: ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 183 or MATH 186 and ECE 161A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "ECE 109",
+          "ECON 120A",
+          "MAE 108",
+          "MATH 180A",
+          "MATH 180B",
+          "MATH 183",
+          "MATH 186"
+        ]
+      },
+      "ECE 161A"
+    ]
+  },
+  "successors": [
+    "ECE 157B"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": "NANO 266",
+  "title": "Quantum Mechanical Modeling of Materials and Nanostructures",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano266",
+  "description": "Application of quantum mechanical modeling methods (both solid state and computational chemistry) in the study of materials and nanostructures; density functional theory (DFT) and approximations; Hartree-Fock and beyond HF approximations; hybrid density functional theory; beyond DFT (GW, TDDFT); ab initio molecular dynamics; materials properties (mechanical, electrochemical, electronic, transport, nano-scale effects on properties) from quantum mechanical simulations; high-throughput computation.\u00a0Prerequisites: consent of instructor."
+}

@@ -1,0 +1,11 @@
+{
+  "code": "SOCI 117",
+  "title": "Language, Culture, and Education",
+  "units": "4",
+  "dept": "SOC",
+  "anchor": "soci117",
+  "description": "(Same as EDS 117.) The mutual influence of language, culture, and education will be explored; explanations of students\u2019 school successes and failures that employ linguistic and cultural variables will be considered; bilingualism; cultural transmission through education. Prerequisites: upper-division standing. Will not receive credit for SOCI 117 and SOCB 117.",
+  "successors": [
+    "EDS 120"
+  ]
+}

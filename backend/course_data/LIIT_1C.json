@@ -1,0 +1,21 @@
+{
+  "code": "LIIT 1C",
+  "title": "Italian Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "liit1c",
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIIT 1CX. Prerequisites: LIIT 1B with a grade of C\u2013 or better, or equivalent and LIIT 1BX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIIT 1B",
+      "LIIT 1BX"
+    ]
+  },
+  "successors": [
+    "LIIT 1D",
+    "LIIT 1DX",
+    "LIIT 5DS",
+    "LTIT 2A"
+  ]
+}

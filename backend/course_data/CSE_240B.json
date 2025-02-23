@@ -1,0 +1,8 @@
+{
+  "code": "CSE 240B",
+  "title": "Parallel Computer Architecture",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse240b",
+  "description": "This course covers advanced topics in parallel computer architecture, including on-chip and off-chip interconnection networks, cache coherence, cache consistency, hardware multithreading, multicore and tiled architectures. It incorporates the latest research and development on parallel architectures and compilation techniques for those architectures. CSE 240A recommended. Prerequisites: graduate standing."
+}

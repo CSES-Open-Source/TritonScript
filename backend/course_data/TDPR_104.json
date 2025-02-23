@@ -1,0 +1,12 @@
+{
+  "code": "TDPR 104",
+  "title": "Advanced Practicum in Stage Management",
+  "units": "2\u20136",
+  "dept": "THEA",
+  "anchor": "tdpr104",
+  "description": "A production performance-oriented course that continues the development of stage management skills and introduces greater responsibilities in the laboratory format. Students serve as either assistant stage managers on main stage productions or stage managers on studio projects. May be taken for credit up to six times for a maximum of twelve units. A maximum of eight total units may be used towards major requirements. Prerequisites:\u00a0TDDR 101 or consent of instructor.",
+  "prereqs": "TDDR 101",
+  "successors": [
+    "TDDR 191"
+  ]
+}

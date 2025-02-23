@@ -1,0 +1,12 @@
+{
+  "code": "MGT 293B",
+  "title": "Literature Review and Critique Presentation",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt293b",
+  "description": "In this course, the student will continue work on the literature review and prepare a presentation of the gaps and opportunities identified in the literature. Prerequisites: MGT 293A.",
+  "prereqs": "MGT 293A",
+  "successors": [
+    "MGT 293C"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "MGTA 455R",
+  "title": "Customer Analytics",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgta455r",
+  "description": "Many firms have extensive information about customers\u2019 choices and how they react to marketing campaigns, but few have the expertise to act on such information efficiently. In this course, students will learn a scientific approach to marketing with hands-on use of technologies such as databases, analytics, and computing systems to collect, analyze, and act on customer information. Letter grade only. Students may not receive credit for both MGTA 455R and MGTA 455. Prerequisites: MGTA 451, MGTA 452, MGTA 453, restricted to MS in business analytics program or with department and instructor approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGTA 451",
+      "MGTA 452",
+      "MGTA 453"
+    ]
+  }
+}

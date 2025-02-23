@@ -1,0 +1,9 @@
+{
+  "code": "ECE 125B",
+  "title": "Introduction to Power Electronics II",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece125b",
+  "description": "Design and control of DC-DC converters, PWM rectifiers, single-phase and three-phase inverters, power management, and power electronics applications in renewable energy systems, motion control, and lighting. Prerequisites: ECE 125A.",
+  "prereqs": "ECE 125A"
+}

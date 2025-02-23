@@ -1,0 +1,15 @@
+{
+  "code": "CHEM 134",
+  "title": "Polymeric Materials",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem134",
+  "description": "Foundations of polymeric materials. Topics: structure of polymers; mechanisms of polymer synthesis; characterization methods using calorimetric, mechanical, rheological, and X-ray-based techniques; and electronic, mechanical, and thermodynamic properties. Special classes of polymers: engineering plastics, semiconducting polymers, photoresists, and polymers for medicine. Students may not receive credit for both CENG 134, CHEM 134, or NANO 134. Prerequisites: CHEM 6C and PHYS 2C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 6C",
+      "PHYS 2C"
+    ]
+  }
+}

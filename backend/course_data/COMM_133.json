@@ -1,0 +1,22 @@
+{
+  "code": "COMM 133",
+  "title": "Television and Citizenship",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm133",
+  "description": "Television is a contested site for negotiating the rationales of inclusion and exclusion associated with citizenship and national belonging. Historical and contemporary case studies within international comparative contexts consider regulation, civil rights, cultural difference, social movements, new technologies, and globalization. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

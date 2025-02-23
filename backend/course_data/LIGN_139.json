@@ -1,0 +1,15 @@
+{
+  "code": "LIGN 139",
+  "title": "Field Methods",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign139",
+  "description": "Methods and practice of gathering, processing, and analyzing data based on working with a native speaker of a language. Students gain experience in learning to discriminate and transcribe sounds and analyze grammatical features from their own collected data. Ethical and practical issues of working with native speakers and language communities are addressed. May be taken for credit up to two times. Recommended preparation: LIGN 111, LIGN 120, LIGN 121. Prerequisites: LIGN 101 and LIGN 110.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIGN 101",
+      "LIGN 110"
+    ]
+  }
+}

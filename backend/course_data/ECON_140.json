@@ -1,0 +1,15 @@
+{
+  "code": "ECON 140",
+  "title": "Economics of Health Producers",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ140",
+  "description": "Provides an overview of the physician, hospital, and pharmaceutical segments of the health sector. Uses models of physician behavior, for-profit and nonprofit institutions to understand the trade-offs facing health-sector regulators and the administrators of public and private insurance arrangements. Prerequisites: ECON 2 or 100B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 2",
+      "ECON 100B"
+    ]
+  }
+}

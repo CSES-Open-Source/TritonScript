@@ -1,0 +1,15 @@
+{
+  "code": "BIPN 142",
+  "title": "Systems Neurobiology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn142",
+  "description": "Course will cover integrated networks of nerve cells, including simple circuits like those involved in spinal reflexes.\u00a0Course will study how information and motor output is integrated and processed in the brain. Course will also discuss higher-level neural processing. Prerequisites: BIPN 100 or BIPN 140.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BIPN 100",
+      "BIPN 140"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "code": "NANO 148",
+  "title": "Thermodynamics of Materials",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano148",
+  "description": "Fundamental laws of thermodynamics for simple substances; application to flow processes and to nonreacting mixtures; statistical thermodynamics of ideal gases and crystalline solids; chemical and materials thermodynamics; multiphase and multicomponent equilibria in reacting systems; electrochemistry. Prerequisites: upper-division standing.",
+  "successors": [
+    "NANO 158"
+  ]
+}

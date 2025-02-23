@@ -1,0 +1,12 @@
+{
+  "code": "MATH 273B",
+  "title": "Advanced Techniques in Computational Mathematics II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math273b",
+  "description": "Nonlinear functional analysis for numerical treatment of nonlinear PDE. Numerical continuation methods, pseudo-arclength continuation, gradient flow techniques, and other advanced techniques in computational nonlinear PDE. Project-oriented; projects designed around problems of current interest in science, mathematics, and engineering. Prerequisites: MATH 273A or consent of instructor.",
+  "prereqs": "MATH 273A",
+  "successors": [
+    "MATH 273C"
+  ]
+}

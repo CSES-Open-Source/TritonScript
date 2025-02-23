@@ -1,0 +1,11 @@
+{
+  "code": "CSS 1",
+  "title": "Introductory Programming for Computational Social Science",
+  "units": "4",
+  "dept": "CSS",
+  "anchor": "css1",
+  "description": "This course develops computational thinking practices and skills critical for defining, describing, and analyzing social science problems using a computational approach. Students will learn to program in Python in the context of computational social science problems.",
+  "successors": [
+    "CSS 2"
+  ]
+}

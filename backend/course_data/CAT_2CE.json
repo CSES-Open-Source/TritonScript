@@ -1,0 +1,13 @@
+{
+  "code": "CAT 2CE",
+  "title": "Writing and Community 1",
+  "units": "6",
+  "dept": "CAT",
+  "anchor": "cat2ce",
+  "description": "Lower-division writing-intensive course foregrounding argumentation, revision, and writing as process by examining case studies of culture, art, and technology interacting in the present moment. Incorporates community-engaged learning in a small seminar environment. Prerequisites: Sixth College students only; CAT 1; department authorization required.",
+  "prereqs": "CAT 1",
+  "successors": [
+    "CAT 3CE",
+    "PHIL 27"
+  ]
+}

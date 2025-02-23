@@ -1,0 +1,8 @@
+{
+  "code": "MAE 260",
+  "title": "Fundamentals and Applications of Computational Materials Science",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae260",
+  "description": "(Cross-listed with MATS 260.) Computational methods for MatSci will be discussed, dealing with atomic scale empirical or semiempirical potentials. How and why to develop such potentials for metallic materials will be a focus of the course. Molecular dynamics and Monte Carlo methods will be covered in detail. Applications of these techniques to some example problems in materials science, mechanical deformation, dislocation interactions, nucleation/growth of phases, melting solidification structures, and point defects are presented."
+}

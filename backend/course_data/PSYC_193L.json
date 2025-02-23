@@ -1,0 +1,28 @@
+{
+  "code": "PSYC 193L",
+  "title": "Psychology Laboratory Topics",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc193l",
+  "description": "Selected laboratory topics in the field of psychology. May be taken for credit two times as topics vary.\u00a0Open to the following majors only: PC26, PC28, PC29, PC30, PC31, PC32, PC33, PC34, CG32.\u00a0Prerequisites: upper-division standing, department approval, and PSYC 60 or COGS 14B or MATH 11 and PSYC 70 or COGS 14A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PSYC 60",
+          "COGS 14B",
+          "MATH 11"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PSYC 70",
+          "COGS 14A"
+        ]
+      }
+    ]
+  }
+}

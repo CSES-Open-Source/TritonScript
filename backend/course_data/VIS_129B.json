@@ -1,0 +1,20 @@
+{
+  "code": "VIS 129B",
+  "title": "Seminar in Early Modern Art History",
+  "units": "4",
+  "dept": "VIS",
+  "description": "A seminar on an advanced topic of special interest in renaissance or baroque art. Prerequisites: VIS 112 or two upper-division courses in art history (VIS 113AN\u2013129F).",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 112",
+      {
+        "type": "two",
+        "courses": [
+          "VIS 113AN",
+          "VIS 129F"
+        ]
+      }
+    ]
+  }
+}

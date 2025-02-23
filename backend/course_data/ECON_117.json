@@ -1,0 +1,9 @@
+{
+  "code": "ECON 117",
+  "title": "Economic Growth",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ117",
+  "description": "Basic economic dynamics, consumption versus growth with fixed or growing populations, the Harrod-Domar growth model, the neoclassical growth model, optimal growth, the Golden Rule, money and economic growth, technological progress and economic growth, human capital and endogenous economic growth, and alternative theories of growth and distribution. Prerequisites: ECON 100A.",
+  "prereqs": "ECON 100A"
+}

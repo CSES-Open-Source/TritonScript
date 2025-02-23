@@ -1,0 +1,13 @@
+{
+  "code": "ECE 125A",
+  "title": "Introduction to Power Electronics I",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece125a",
+  "description": "Power generation, system, and electronics. Topics include power semiconductor devices and characteristics, single-phase and three-phase half and full controlled AC-to-DC rectifiers, nonisolated/isolated DC-DC converters, power loss calculation, and thermal considerations, Snubber circuits. Prerequisites: ECE 121A.",
+  "prereqs": "ECE 121A",
+  "successors": [
+    "ECE 124",
+    "ECE 125B"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 150",
+  "title": "Chicanx/Latinx Cultural Expressions",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp150",
+  "description": "This course examines Chicanx/Latinx cultural expressions and representations through a broad range of forms, such as television, film, music, literature, etc. Students will explore how past and present social and political experiences inform Chicanx/Latinx expressive forms. Students will also consider the global reach of Chicanx/Latinx cultural forms.\u00a0Prerequisites: LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

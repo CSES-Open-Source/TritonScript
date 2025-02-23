@@ -1,0 +1,11 @@
+{
+  "code": "ETHN 291A",
+  "title": "Comprehensive Research Preparation: The Literature Review",
+  "units": "4",
+  "dept": "ETHN",
+  "anchor": "ethn291a",
+  "description": "Using key theoretical approaches, debates, and frameworks of ethnic studies, students develop a critical analysis of how existing scholarship within the field of ethnic studies informs a specific research question, topic, or object of study; this literature review demonstrates comprehensive and holistic knowledge of critical approaches and constructs a coherent theoretical framework that effectively summarizes, synthesizes, and assesses a particular body of relevant ethnic studies literature.",
+  "successors": [
+    "ETHN 291B"
+  ]
+}

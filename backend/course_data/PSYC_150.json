@@ -1,0 +1,17 @@
+{
+  "code": "PSYC 150",
+  "title": "Cognitive Neuroscience of Vision",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc150",
+  "description": "This course provides an overview of the neural basis of visual experience, or how our brain creates what we see in the world around us. Prerequisites: upper-division standing; COGS 101A or COGS 107C or PSYC 102 or PSYC 108.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 101A",
+      "COGS 107C",
+      "PSYC 102",
+      "PSYC 108"
+    ]
+  }
+}

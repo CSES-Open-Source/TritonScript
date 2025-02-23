@@ -1,0 +1,16 @@
+{
+  "code": "CSE 208",
+  "title": "Advanced Cryptography",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse208",
+  "description": "Zero-knowledge, secure computation, session-key distribution, protocols, electronic payment, one-way functions, trapdoor permutations, pseudorandom bit generators, hardcore bits. Prerequisites: CSE 202, CSE 200, and CSE 207 or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CSE 202",
+      "CSE 200",
+      "CSE 207"
+    ]
+  }
+}

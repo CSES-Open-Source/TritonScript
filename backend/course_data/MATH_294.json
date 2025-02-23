@@ -1,0 +1,9 @@
+{
+  "code": "MATH 294",
+  "title": "The Mathematics of Finance",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math294",
+  "description": "Introduction to the mathematics of financial models. Hedging, pricing by arbitrage. Discrete and continuous stochastic models. Martingales. Brownian motion, stochastic calculus. Black-Scholes model, adaptations to dividend paying equities, currencies and coupon-paying bonds, interest rate market, foreign exchange models. Prerequisites: MATH 180A (or equivalent probability course) or consent of instructor.",
+  "prereqs": "MATH 180A"
+}

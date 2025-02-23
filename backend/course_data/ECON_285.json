@@ -1,0 +1,11 @@
+{
+  "code": "ECON 285",
+  "title": "Precandidacy Presentation",
+  "units": "2",
+  "dept": "ECON",
+  "anchor": "econ285",
+  "description": "This course is a workshop in which students make formal presentations on the literature and on their own projects and receive input from other students and the instructor. Prerequisites: graduate standing.",
+  "successors": [
+    "ECON 286"
+  ]
+}

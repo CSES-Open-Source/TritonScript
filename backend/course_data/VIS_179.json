@@ -1,0 +1,20 @@
+{
+  "code": "VIS 179",
+  "title": "Intermediate Projects in Media",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis179",
+  "description": "Topic based production course for media students with topics relevant to photography, video, film, and sound. Specific content will vary each quarter. May be taken for credit two times. Two production-course limitation. Prerequisites: VIS 174. Open to media and speculative design majors and film production minors.",
+  "prereqs": "VIS 174",
+  "successors": [
+    "VIS 180A",
+    "VIS 180B",
+    "VIS 181",
+    "VIS 182",
+    "VIS 182A",
+    "VIS 183A",
+    "VIS 183B",
+    "VIS 184",
+    "VIS 185"
+  ]
+}

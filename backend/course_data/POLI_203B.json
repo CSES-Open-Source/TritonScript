@@ -1,0 +1,9 @@
+{
+  "code": "POLI 203B",
+  "title": "Analytic Theory II",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli203b",
+  "description": "The second in the two-course sequence on the essentials of game theory and fundamental concepts in the social sciences. This course introduces multistage and repeated games, as well as static and dynamic games with incomplete information. Applications include axiomatic and strategic models of negotiations, bargaining in legislatures, auctions, adverse selection problems, market failures, signaling and screening, reputation, conventions, and cheap talk. Prerequisites: POLI 203A, graduate student standing.",
+  "prereqs": "POLI 203A"
+}

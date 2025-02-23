@@ -1,0 +1,8 @@
+{
+  "code": "WES 265",
+  "title": "Wireless Communications Circuits and Systems",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "wes265",
+  "description": "Introduction to noise and linearity concepts. System budgeting for optimum dynamic range. Frequency planning. Linearity analysis techniques. Down-conversion and up-conversion techniques. Modulation and de-modulation. Microwave and RF system design communications. Current research topics in the field."
+}

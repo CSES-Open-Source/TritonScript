@@ -1,0 +1,15 @@
+{
+  "code": "CGS 130",
+  "title": "Queer Performativity",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs130",
+  "description": "An advanced introduction to the interdisciplinary field of performance studies with a focus on queer expression. Examines queer theory, cultural production, and social movements, drawing from scholarship on performativity that explores how art, writing, and everyday actions make meaning in the world. Prerequisites: CGS 2A or 2B or at least one CGS upper-division course.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "code": "MUS 103C",
+  "title": "Seminar in Composition III",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus103c",
+  "description": "Third part in composition course sequence. A mixture of individual lessons as well as group meetings, with discussion of topics germane to the development of composers, including musical aesthetics and contemporary orchestration techniques. Final performance of students\u2019 work will take place at the end of the quarter. Prerequisites: MUS 103B.",
+  "prereqs": "MUS 103B",
+  "successors": [
+    "MUS 103D-E-F"
+  ]
+}

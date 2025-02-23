@@ -1,0 +1,11 @@
+{
+  "code": "SIO 10",
+  "title": "The Earth",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio10",
+  "description": "An introduction to structure of the Earth and the processes that form and modify it. Emphasizes material that is useful for understanding geological events as reported in the news and for making intelligent decisions regarding the future of our environment. Prerequisites: none.",
+  "successors": [
+    "SIO 121GS"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "MAE 290B",
+  "title": "Numerical Differential Equations",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae290b",
+  "description": "Finite difference approximation. Initial value ODEs: explicit, implicit, accuracy, stability, convergence, Runge-Kutta and multipoint methods, stiff systems. Boundary value ODEs: shooting and equilibrium method. PDEs: stability and accuracy. Hyperbolic PDEs: central and upwinding methods, linear advection, Burgers equation. Parabolic PDEs: convection-diffusion equation, multidimensional problems. Elliptic PDEs: direct solution, iterative solution, multigrid method. Fourier spectral method. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "MAE 290C"
+  ]
+}

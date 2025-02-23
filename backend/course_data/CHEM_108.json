@@ -1,0 +1,23 @@
+{
+  "code": "CHEM 108",
+  "title": "Protein Biochemistry Laboratory",
+  "units": "6",
+  "dept": "CHEM",
+  "anchor": "chem108",
+  "description": "The application of techniques to study protein structure and function, including electrophoresis, protein purification, column chromatography, enzyme kinetics, and immunochemistry. Students may not receive credit for CHEM 108 and BIBC 103. A materials fee may be required for this course. Prerequisites: CHEM 43A, 143A, 43AM or 143AM, and CHEM 114A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 43A",
+      "CHEM 143A",
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 43AM",
+          "CHEM 143AM"
+        ]
+      },
+      "CHEM 114A"
+    ]
+  }
+}

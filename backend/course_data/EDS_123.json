@@ -1,0 +1,15 @@
+{
+  "code": "EDS 123",
+  "title": "Capstone Seminar in Science Education",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds123",
+  "description": "In the lecture and observation format, students continue to explore the theories of learning in the science classroom. Conceptual development is fostered, as well as continued development of knowledge of science history. Students are exposed to the science of teaching science in actual practice. Prerequisites: EDS 122/CHEM 187.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "EDS 122",
+      "CHEM 187"
+    ]
+  }
+}

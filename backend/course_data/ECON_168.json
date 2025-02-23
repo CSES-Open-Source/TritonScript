@@ -1,0 +1,15 @@
+{
+  "code": "ECON 168",
+  "title": "Economics of Modern Israel",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ168",
+  "description": "This course explores economic processes that shape the Israeli economy. Topics include biblical economics, economics of religion, economic growth, income inequality and consumer protests, employment, globalization, inflation, the high-tech sector, terrorism, and education. Prerequisites: ECON 1 and 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 1",
+      "ECON 3"
+    ]
+  }
+}

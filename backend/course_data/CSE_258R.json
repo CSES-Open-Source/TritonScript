@@ -1,0 +1,8 @@
+{
+  "code": "CSE 258R",
+  "title": "Recommender Systems and Web Mining",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse258r",
+  "description": "Current methods for data mining and predictive analytics. Emphasis is on studying real-world data sets, building working systems, and putting current ideas from machine learning research into practice. Recommended preparation: No previous background in machine learning is required, but students should be comfortable with programming (all example code will be in Python), and with basic optimization and linear algebra. This will be a fully online class based on extensive educational materials and an online educational platform. May be coscheduled with CSE 158R. Students may not receive credit for CSE 258R and CSE 258."
+}

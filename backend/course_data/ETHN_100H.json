@@ -1,0 +1,18 @@
+{
+  "code": "ETHN 100H",
+  "title": "Honors Research Design",
+  "units": "4",
+  "dept": "ETHN",
+  "anchor": "ethn100h",
+  "description": "This discussion-based course will focus on the application of advanced research methods to the design of extensive, independent research-based projects. Prerequisites: ETHN 100A and ETHN 100B. Department approval required.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ETHN 100A",
+      "ETHN 100B"
+    ]
+  },
+  "successors": [
+    "ETHN 196H"
+  ]
+}

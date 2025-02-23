@@ -1,0 +1,8 @@
+{
+  "code": "DSE 200",
+  "title": "Python for Data Analysis",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "dse200",
+  "description": "The goal of this course is to bring students with diverse backgrounds and experience to a common level of competency in programming in the context of complex and noisy data. Solid competency in Python programming provides its owner with autonomy and independence in their work. Introduction to object-oriented programming using Python. Regular expressions. NumPy and numerical processing. IPython and plotting. Data analysis using PANDAS. Web page scraping using Scrapy. The Twitter API. NLTK."
+}

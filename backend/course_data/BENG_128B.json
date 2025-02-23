@@ -1,0 +1,10 @@
+{
+  "code": "BENG 128B",
+  "title": "Design Implementation in Genetic Circuits Bioengineering",
+  "units": "3",
+  "dept": "BENG",
+  "anchor": "beng128b",
+  "description": "Implementation of design project in genetic circuits bioengineering. Prerequisites: BENG 128A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W)",
+  "prereqs": "BENG 128A",
+  "coreqs": "BENG 187C"
+}

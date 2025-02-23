@@ -1,0 +1,22 @@
+{
+  "code": "COMM 102T",
+  "title": "MMPP: Television Documentary",
+  "units": "6",
+  "dept": "COMM",
+  "anchor": "comm102t",
+  "description": "An advanced television course that examines the history, form, and function of the television documentary in American society. Experimentation with documentary techniques and styles requires prior knowledge of television or film production. Laboratory sessions apply theory and methods in the documentary genre via technological process. Integrates research, studio, and field experience of various media components. May be taken for credit three times. Prerequisites: COMM 10 and COMM 101 or COGN 22 or VIS 70N.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 101",
+          "COGN 22",
+          "VIS 70N"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "code": "COMM 156",
+  "title": "Media and Conflict Environment: Textual and Visual Representations",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm156",
+  "description": "Environments of conflict, including war, generate enormous amounts of passion as well as controversy. This course examines how various forms of media represent violent conflicts, and the controversies that follow from these media representations. The aim of the course is to explore how the culture, political economy, and primary actors of media environments confront the challenge of covering various types of conflicts and the types of stories and images that emerge in the process. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

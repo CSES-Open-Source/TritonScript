@@ -1,0 +1,19 @@
+{
+  "code": "ECON 210B",
+  "title": "Macroeconomics B",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ210b",
+  "description": "Models of the household\u2019s intertemporal consumption/saving decision, and implications for risk aversion, basic portfolio allocation, and asset pricing. Models with heterogeneous agents\u2014overlapping generations, incomplete markets, precautionary saving. Implications of labor market frictions for equilibrium employment. Prerequisites: ECON 210A. Enrollment limited to Economics PhD students (EN75); or consent of instructor.",
+  "prereqs": "ECON 210A",
+  "successors": [
+    "ECON 210C",
+    "ECON 210D",
+    "ECON 211",
+    "ECON 213",
+    "ECON 214",
+    "ECON 215",
+    "ECON 216",
+    "ECON 217"
+  ]
+}

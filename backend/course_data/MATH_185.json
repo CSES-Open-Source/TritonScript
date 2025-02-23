@@ -1,0 +1,35 @@
+{
+  "code": "MATH 185",
+  "title": "Introduction to Computational Statistics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math185",
+  "description": "Statistical analysis of data by means of package programs. Regression, analysis of variance, discriminant analysis, principal components, Monte Carlo simulation, and graphical methods. Emphasis will be on understanding the connections between statistical theory, numerical results, and analysis of real data. Recommended preparation: exposure to computer programming (such as CSE 5A, CSE 7, or ECE 15) highly recommended. Prerequisites: MATH 181A, or ECON 120B, and either MATH 18 or MATH 20F or MATH 31AH, and MATH 20C or MATH 31BH. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 181A",
+          "ECON 120B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  }
+}

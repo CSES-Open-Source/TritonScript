@@ -1,0 +1,11 @@
+{
+  "code": "PHB 280",
+  "title": "Biostatistics Journal Club",
+  "units": "1",
+  "dept": "FMPH",
+  "anchor": "phb280",
+  "description": "This is a biweekly, structured journal club. Students will critically read assigned articles. During meetings, students work in groups to discuss specific questions regarding the assigned article, and are asked to present their answers to the class. Renumbered from FMPH 290. PHB 280 and/or FMPH 290 may be taken for credit for a combined total of six times. Restricted to major codes PB76 or PB77.",
+  "successors": [
+    "PHB 281"
+  ]
+}

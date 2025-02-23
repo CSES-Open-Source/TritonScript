@@ -1,0 +1,11 @@
+{
+  "code": "LIGN 4",
+  "title": "Language as a Cognitive System",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign4",
+  "description": "Fundamental issues in language and cognition. Differences between animal communication, sign systems, and human language; origins and evolution of language; neural basis of language; language acquisition in children and adults. Prerequisites: none.",
+  "successors": [
+    "HDS 120"
+  ]
+}

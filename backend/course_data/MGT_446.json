@@ -1,0 +1,9 @@
+{
+  "code": "MGT 446",
+  "title": "Spreadsheet Modeling",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt446",
+  "description": "The course will provide students with knowledge and techniques to apply management science principles and spreadsheet modeling to support decision-making under various business scenarios. Students will learn and understand the fundamentals of analytical modeling, understand business problems and convert them to analytical models, build spreadsheet models, and effectively deliver managerial implications derived from computer models. Prerequisites: MGT 413 and MBA student or by instructor approval or by department approval.",
+  "prereqs": "MGT 413"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "LIAB 1CX",
+  "title": "Analysis of Arabic",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "liab1cx",
+  "description": "Presentation and practice of the basic grammatical structures needed for oral and written communication and for reading. This course is taught entirely in Arabic. Must be taken in conjunction with LIAB 1C. Prerequisites: LIAB 1B with a grade of C\u2013 or better, or equivalent and LIAB 1BX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIAB 1B",
+      "LIAB 1BX"
+    ]
+  },
+  "successors": [
+    "LIAB 1D",
+    "LIAB 1DX"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "MAE 210A",
+  "title": "Fluid Mechanics I",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae210a",
+  "description": "Basic conservation laws. Flow kinematics. The Navier-Stokes equations and some of its exact solutions. Nondimensional parameters and different flow regimes, vorticity dynamics.",
+  "successors": [
+    "MAE 209",
+    "MAE 210B",
+    "MAE 210C",
+    "MAE 255",
+    "MAE 261",
+    "MAE 262",
+    "MAE 263",
+    "MAE 285",
+    "MAE 290C"
+  ]
+}

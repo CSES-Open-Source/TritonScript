@@ -1,0 +1,16 @@
+{
+  "code": "MGTA 459",
+  "title": "Managerial Judgment and Decision-Making",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgta459",
+  "description": "Decision making is difficult with scarce resources, inexact information, and conflicting stakeholder agendas (i.e., most of the time). Students will use advanced behavioral research to gain a competitive advantage, by improving their decisions and their understanding of how others decide. Prerequisites: MGTA 451, MGTA 452, MGTA 453, and restricted to MS in business analytics program or with department and instructor approval.\u00a0",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGTA 451",
+      "MGTA 452",
+      "MGTA 453"
+    ]
+  }
+}

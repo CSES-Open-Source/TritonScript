@@ -1,0 +1,12 @@
+{
+  "code": "VIS 105D",
+  "title": "Art Forms and Chinese Calligraphy",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis105d",
+  "description": "This course treats Chinese calligraphy as a multidimensional point of departure for aesthetic, cultural, and political concerns. This conceptually based course combines fundamental studio exercises with unconventional explorations. Students are exposed to both traditional and experimental forms of this unique art and encouraged to learn basic aesthetic grammars. There are no Chinese language requirements for this course. Prerequisites: VIS 80.",
+  "prereqs": "VIS 80",
+  "successors": [
+    "VIS 105E"
+  ]
+}

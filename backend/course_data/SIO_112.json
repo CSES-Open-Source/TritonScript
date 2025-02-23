@@ -1,0 +1,9 @@
+{
+  "code": "SIO 112",
+  "title": "Computational Tools and Data Science in Geophysics",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio112",
+  "description": "This course covers a range of computational tools and data science techniques and their uses in geophysics. Topics include linear algebra (linear and iterative solvers, eigenvalue problems and least squares), random variables and \u201chands on\u201d probability, Kalman filtering, Markov chain Monte Carlo, and machine learning methods (Gaussian process regression and deep neural networks). Geophysical inverse problems are the main focus of application. This course involves regular coding assignments. Recommended preparation: SIO 113 and prior familiarity with computer programming and linear algebra. Prerequisites: SIO 103 or consent of instructor.",
+  "prereqs": "SIO 103"
+}

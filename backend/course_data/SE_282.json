@@ -1,0 +1,8 @@
+{
+  "code": "SE 282",
+  "title": "Diagnostic Imaging",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se282",
+  "description": "This course provides an introduction to diagnostic imaging with a focus on forensic engineering. A broad range of imaging techniques are studied, enabling multidimensional analysis of engineered artifacts and detection of conditions that may lead to undesirable performance characteristics or failure, identify the onset of failure, failure progression, and failure mechanisms overall. Prerequisites: graduate standing."
+}

@@ -1,0 +1,15 @@
+{
+  "code": "CSE 148",
+  "title": "Advanced Processor Architecture Design Project",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse148",
+  "description": "Students will use hardware description language tools to add advanced architectural features to a basic processor design. These features may include pipelining, superscalar execution, branch prediction, and advanced cache features. Designs will be implemented in programmable logic devices. Prerequisites: CSE 141 and CSE 141L; graduate students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CSE 141",
+      "CSE 141L"
+    ]
+  }
+}

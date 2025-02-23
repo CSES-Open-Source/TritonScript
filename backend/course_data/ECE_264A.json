@@ -1,0 +1,13 @@
+{
+  "code": "ECE 264A",
+  "title": "CMOS Analog Integrated Circuits and Systems I",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece264a",
+  "description": "Frequency response of the basic CMOS gain stage and current mirror configurations. Advanced feedback and stability analysis; compensation techniques. High-Performance CMOS operational amplifier topologies. Analysis of noise and distortion. Recommended preparation: ECE 164 and ECE 153, or equivalent courses. Prerequisites: graduate standing.",
+  "successors": [
+    "ECE 264B",
+    "ECE 264D",
+    "ECE 266"
+  ]
+}

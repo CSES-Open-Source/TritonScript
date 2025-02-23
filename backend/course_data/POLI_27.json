@@ -1,0 +1,75 @@
+{
+  "code": "POLI 27",
+  "title": "Ethics and Society",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli27",
+  "description": "An examination of ethical principles (e.g., utilitarianism, individual rights, etc.) and their social and political applications to contemporary issues such as abortion, environmental protection, and affirmative action. Ethical principles will also be applied to moral dilemmas familiar in government, law, business, and the professions. Satisfies the Warren College ethics and society requirement. Prerequisites: CAT 2 and 3, DOC 2 and 3, MCWP 40 and 50, HUM 1 and 2, MMW 2 and 3, WCWP 10A\u2013B, or WARR 11A\u2013B, SYN 1 and SYN 2, CCE 1 and CCE 2.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          {
+            "type": "all",
+            "courses": [
+              "CAT 2",
+              "CAT 3"
+            ]
+          },
+          {
+            "type": "all",
+            "courses": [
+              "DOC 2",
+              "DOC 3"
+            ]
+          },
+          {
+            "type": "all",
+            "courses": [
+              "MCWP 40",
+              "MCWP 50"
+            ]
+          },
+          {
+            "type": "all",
+            "courses": [
+              "HUM 1",
+              "HUM 2"
+            ]
+          },
+          {
+            "type": "all",
+            "courses": [
+              "MMW 2",
+              "MMW 3"
+            ]
+          },
+          {
+            "type": "all",
+            "courses": [
+              "WCWP 10A",
+              "WCWP 10B"
+            ]
+          },
+          {
+            "type": "all",
+            "courses": [
+              "WARR 11A",
+              "WARR 11B"
+            ]
+          }
+        ]
+      },
+      "SYN 1",
+      "SYN 2",
+      "CCE 1",
+      "CCE 2"
+    ]
+  },
+  "successors": [
+    "PHIL 28",
+    "POLI 28"
+  ]
+}

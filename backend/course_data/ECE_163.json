@@ -1,0 +1,15 @@
+{
+  "code": "ECE 163",
+  "title": "Electronic Circuits and Systems",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece163",
+  "description": "Analysis and design of analog circuits and systems. Feedback systems with applications to operational amplifier circuits. Stability, sensitivity, bandwidth, compensation. Design of active filters. Switched capacitor circuits. Phase-locked loops. Analog-to-digital and digital-to-analog conversion. (Course materials and/or program fees may apply.) Prerequisites: ECE 101 and 102 with grades of C\u2013 or better.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 101",
+      "ECE 102"
+    ]
+  }
+}

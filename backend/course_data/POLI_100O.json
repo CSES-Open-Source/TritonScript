@@ -1,0 +1,11 @@
+{
+  "code": "POLI 100O",
+  "title": "Perspectives on Race",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli100o",
+  "description": "This course looks at race in American politics from a variety of perspectives. We may consider psychological, genetic, neuroscience, economic, political, sociological, and legal views of what drives powerful dynamics of race in our country. Prerequisites: upper-division standing.",
+  "successors": [
+    "EDS 120"
+  ]
+}

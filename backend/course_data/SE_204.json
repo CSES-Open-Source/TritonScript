@@ -1,0 +1,8 @@
+{
+  "code": "SE 204",
+  "title": "Advanced Structural Dynamics",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se204",
+  "description": "Free- and forced-vibration of continuous systems such as axial and torsional vibrations of bars and transverse vibrations of various beams, membranes, and plates. Euler-Lagrange formulation using variational calculus. Rayleigh-Ritz method for approximation. Applications in vibration suppression/isolation. Prerequisites: graduate standing."
+}

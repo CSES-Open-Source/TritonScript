@@ -1,0 +1,17 @@
+{
+  "code": "CHEM 113",
+  "title": "Biophysical Chemistry of Macromolecules",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem113",
+  "description": "A discussion of the physical principles governing biomolecular structure and function. Experimental and theoretical approaches to understand protein dynamics, enzyme kinetics, and mechanisms will be covered. Prerequisites: CHEM 40C, 40CH, 140C, or 140CH.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 40C",
+      "CHEM 40CH",
+      "CHEM 140C",
+      "CHEM 140CH"
+    ]
+  }
+}

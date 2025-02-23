@@ -1,0 +1,23 @@
+{
+  "code": "BIMM 118",
+  "title": "Pharmacology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm118",
+  "description": "Basics of pharmacology such as drug absorption, distribution, metabolism, and elimination. Concepts in toxicology and pharmacognosy are used to survey the major drug categories. Prerequisites: BIPN 100 and BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BIPN 100",
+      {
+        "type": "one",
+        "courses": [
+          "BIBC 100",
+          "BIBC 102",
+          "CHEM 114A",
+          "CHEM 114B"
+        ]
+      }
+    ]
+  }
+}

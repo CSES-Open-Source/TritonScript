@@ -1,0 +1,9 @@
+{
+  "code": "MATH 207A",
+  "title": "Topics in Algebra",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math207a",
+  "description": "Introduction to varied topics in algebra. In recent years, topics have included number theory, commutative algebra, noncommutative rings, homological algebra, and Lie groups. May be taken for credit six times with consent of adviser as topics vary. Prerequisites: MATH 200C. Students who have not completed MATH 200C may enroll with consent of instructor.",
+  "prereqs": "MATH 200C"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "SE 130A",
+  "title": "Structural Analysis I",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se130b",
+  "description": "Classical methods of analysis for statically indeterminate structures. Development of computer codes for the analysis of civil, mechanical, and aerospace structures from the matrix formulation of the classical structural theory, through the direct stiffness formulation, to production-type structural analysis programs. Prerequisites: grade of C\u2013 or better in SE 110A or MAE 131A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SE 110A",
+      "MAE 131A"
+    ]
+  },
+  "successors": [
+    "SE 130B",
+    "SE 150A",
+    "SE 151A",
+    "SE 154",
+    "SE 180"
+  ]
+}

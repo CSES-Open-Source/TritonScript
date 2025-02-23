@@ -1,0 +1,8 @@
+{
+  "code": "SIOG 221",
+  "title": "Plate Tectonics in Practice",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siog221",
+  "description": "This course builds upon classic concepts in plate tectonics with an emphasis on practical implementation of tools that are applicable to a wide range of earth science problems. Topics include plate reconstructions, quantitative seafloor analysis, potential field methods, and earthquake data analysis. Includes an introduction to shell scripting, the Generic Mapping Tools (GMT), and LaTeX. Prerequisites: graduate standing or consent of instructor."
+}

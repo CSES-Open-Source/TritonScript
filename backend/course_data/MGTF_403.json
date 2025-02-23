@@ -1,0 +1,11 @@
+{
+  "code": "MGTF 403",
+  "title": "Advanced Financial Risk Management",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgtf403",
+  "description": "Introduces ways to identify, measure, estimate, and control risks in the context of risk management as applied in fixed income, foreign exchange, and equity markets. Reviews the pricing and hedging applications of derivatives, such as futures, options, and CDSs. Letter grades only. Prerequisites: restricted to master of finance program, MBA program, or by consent of instructor and department stamp.",
+  "successors": [
+    "MGTF 490"
+  ]
+}

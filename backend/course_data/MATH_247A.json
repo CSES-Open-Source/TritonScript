@@ -1,0 +1,11 @@
+{
+  "code": "MATH 247A",
+  "title": "Topics in Real Analysis",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math247a",
+  "description": "Introduction to varied topics in real analysis. In recent years, topics have included Fourier analysis, distribution theory, martingale theory, operator theory. May be taken for credit six times with consent of adviser. Prerequisites: graduate standing. Nongraduate students may enroll with consent of instructor.",
+  "successors": [
+    "MATH 247B"
+  ]
+}

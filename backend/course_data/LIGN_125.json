@@ -1,0 +1,9 @@
+{
+  "code": "LIGN 125",
+  "title": "Syntax II",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign125",
+  "description": "How are syntactic systems organized, and what generalizations can be made about the syntactic patterns found across languages? Exploration of advanced concepts in syntactic theory through the analysis of cross-linguistic phenomena. Emphasis on empirical justification and argumentation. Prerequisites: LIGN 121.",
+  "prereqs": "LIGN 121"
+}

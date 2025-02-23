@@ -1,0 +1,16 @@
+{
+  "code": "MAE 218A",
+  "title": "Introduction to High Energy Density Physics (MHD and Pinches)",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae218a",
+  "description": "Equation of state, Saha equilibrium. Shock rarefaction, and blast waves, self-similar motion. Rayleigh-Taylor, Kelvin-Helmholtz, and Richtmyer-Meshkov instabilities. Z-pinch, Bennett equilibrium, radiation collapse, and radiation sources. Prerequisites: MAE 217A, B, and C, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 217A",
+      "MAE 217B",
+      "MAE 217C"
+    ]
+  }
+}

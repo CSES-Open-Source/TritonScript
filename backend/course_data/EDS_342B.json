@@ -1,0 +1,18 @@
+{
+  "code": "EDS 342B",
+  "title": "ASL-English Bilingual Education Practices",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds342b",
+  "description": "Students will investigate formal and informal assessment techniques used for deaf and hard-of-hearing children, bilingual/multicultural education practices across the curriculum, effective learning environments and approaches for educating and interacting with families and communities. Prerequisites: EDS 342A, EDS 361A. Must be an ED76 major. Concurrent enrollment in EDS 361B and 369A. (W)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "EDS 342A",
+      "EDS 361A"
+    ]
+  },
+  "successors": [
+    "EDS 342C"
+  ]
+}

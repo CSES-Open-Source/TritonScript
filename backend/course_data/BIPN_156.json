@@ -1,0 +1,16 @@
+{
+  "code": "BIPN 156",
+  "title": "Glial Neurobiology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn156",
+  "description": "Glia outnumber neurons in the nervous system and are increasingly recognized to play essential roles. This course addresses the different classes of glia, their functions, and their interactions with neurons that make them so important. Prerequisites: BENG 140A or BIPN 100 or BIPN 140.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BENG 140A",
+      "BIPN 100",
+      "BIPN 140"
+    ]
+  }
+}

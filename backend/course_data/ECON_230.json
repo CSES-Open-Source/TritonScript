@@ -1,0 +1,19 @@
+{
+  "code": "ECON 230",
+  "title": "Public Economics: Taxation",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ230",
+  "description": "Exploration of existing theoretical literature evaluating the efficiency and distribution effects of income and commodity taxes. Characterization of an \u201coptimal\u201d tax structure, and examination of problems faced in tax administration. Scrutiny of behavioral responses to existing tax structures. Prerequisites: ECON 200A-B-C and ECON 220A-B-C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 200A",
+      "ECON 200B",
+      "ECON 200C",
+      "ECON 220A",
+      "ECON 220B",
+      "ECON 220C"
+    ]
+  }
+}

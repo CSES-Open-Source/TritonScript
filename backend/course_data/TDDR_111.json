@@ -1,0 +1,18 @@
+{
+  "code": "TDDR 111",
+  "title": "Directing-Acting Process",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tddr111",
+  "description": "A studio class that investigates the fundamental skills a director needs to work with actors. Working with actors, students learn how to animate the text onstage through status exercises and scene work as they develop their skill in text work, staging, and dramatic storytelling. Prerequisites: TDDR 108 or TDHT 10, upper-division standing or consent of instructor.\u00a0Restricted to students within the TH26 major. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "TDDR 108",
+      "TDHT 10"
+    ]
+  },
+  "successors": [
+    "TDDR 190"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "ANTH 101",
+  "title": "Foundations of Social Complexity",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "anth101",
+  "description": "Course examines archaeological evidence for three key \u201ctipping points\u201d in the human career: (1) the origins of modern human social behaviors, (2) the beginnings of agriculture and village life, and (3) the emergence of cities and states. Prerequisites: upper-division standing. (Required for all majors in anthropology.)",
+  "successors": [
+    "ANSC 155"
+  ]
+}

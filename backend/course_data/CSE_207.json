@@ -1,0 +1,12 @@
+{
+  "code": "CSE 207",
+  "title": "Modern Cryptography",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse207",
+  "description": "Private and public key cryptography, introduction to reduction-based proofs of security, concrete security, block ciphers, pseudorandom functions and generators, symmetric encryption, asymmetric encryption, computational number theory, RSA and discrete log systems, message authentication, digital signatures, key distribution and key management. Prerequisites: CSE 202 or consent of instructor.",
+  "prereqs": "CSE 202",
+  "successors": [
+    "CSE 208"
+  ]
+}

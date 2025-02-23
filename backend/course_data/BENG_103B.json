@@ -1,0 +1,19 @@
+{
+  "code": "BENG 103B",
+  "title": "Bioengineering Mass Transfer",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng103b",
+  "description": "Mass transfer in solids, liquids, and gases with application to biological systems. Free and facilitated diffusion. Convective mass transfer. Diffusion-reaction phenomena. Active transport. Biological mass transfer coefficients. Steady and unsteady state. Flux-force relationships. (Credit not allowed for both CENG 101C and BENG 103B.) Prerequisites: CENG 101A or MAE 101A or BENG 112A, or consent of department. (S)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CENG 101A",
+      "MAE 101A",
+      "BENG 112A"
+    ]
+  },
+  "successors": [
+    "BENG 166A"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "CGS 100B",
+  "title": "Conceptualizing Gender: Methods and Methodologies",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs100b",
+  "description": "Introduction to interdisciplinary research methodologies used in critical gender studies. Students will learn to identify and utilize humanities, social science, and natural science methods for studying gender and sexuality, and to evaluate how knowledge about gender and sexuality is produced. Prerequisites: CGS 2A-B or at least one CGS upper-division course.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B"
+    ]
+  }
+}

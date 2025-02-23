@@ -1,0 +1,15 @@
+{
+  "code": "CSE 252C",
+  "title": "Selected Topics in Vision and Learning",
+  "units": "1\u20134",
+  "dept": "CSE",
+  "anchor": "cse252c",
+  "description": "Selected topics in computer vision and statistical pattern recognition, with an emphasis on recent developments. Possible topics include grouping and segmentation, object recognition and tracking, multiple view geometry, kernel-based methods, dimensionality reduction, and mixture models. Prerequisites: CSE 252 or equivalent and CSE 250B or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CSE 252",
+      "CSE 250B"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "MATH 104B",
+  "title": "Number Theory II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math104b",
+  "description": "Topics in number theory such as finite fields, continued fractions, Diophantine equations, character sums, zeta and theta functions, prime number theorem, algebraic integers, quadratic and cyclotomic fields, prime ideal theory, class number, quadratic forms, units, Diophantine approximation, p-adic numbers, elliptic curves. Prerequisites: MATH 104A or consent of instructor.",
+  "prereqs": "MATH 104A"
+}

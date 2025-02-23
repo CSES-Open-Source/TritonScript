@@ -1,0 +1,21 @@
+{
+  "code": "MAE 156A",
+  "title": "Fundamental Principles of Mechanical Design I",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae156a",
+  "description": "Fundamental principles of mechanical design and the design process. Application of engineering science to the design and analysis of mechanical components. Initiation of team design projects that culminate in MAE 156B with a working prototype designed for a real engineering application. Professional ethics discussed. Program or materials fees may apply. Prerequisites: MAE 3, MAE 30B, MAE 131A, MAE 150, and MAE 170, or consent of instructor. Open to major codes MC 27 and MC 30\u201334 only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 3",
+      "MAE 30B",
+      "MAE 131A",
+      "MAE 150",
+      "MAE 170"
+    ]
+  },
+  "successors": [
+    "MAE 156B"
+  ]
+}

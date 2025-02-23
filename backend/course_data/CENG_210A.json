@@ -1,0 +1,12 @@
+{
+  "code": "CENG 210A",
+  "title": "Fluid Mechanics I",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng210a",
+  "description": "Advanced subject in fluid and continuum mechanics. Content will cover macroscopic balances for linear and angular momentum, kinematics, the stress tenor, Navier-Stokes equations for Newtonian fluids, viscous and creeping flows and the lubrication approximation, inertial (inviscid) and irrotational flows, generalization of Bernoulli\u2019s equation, the boundary layer approximation, and electrokinetic phenomena. Prerequisites: department approval required, CENG 101A or consent of instructor.",
+  "prereqs": "CENG 101A",
+  "successors": [
+    "MAE 285"
+  ]
+}

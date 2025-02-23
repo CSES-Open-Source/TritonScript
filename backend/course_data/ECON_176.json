@@ -1,0 +1,9 @@
+{
+  "code": "ECON 176",
+  "title": "Marketing",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ176",
+  "description": "Role of marketing in the economy. Topics such as buyer behavior, marketing mix, promotion, product selection, pricing, and distribution. Concurrent enrollment in ECON 120C is permitted. Prerequisites: ECON 120C.",
+  "prereqs": "ECON 120C"
+}

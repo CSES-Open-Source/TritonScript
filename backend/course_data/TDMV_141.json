@@ -1,0 +1,18 @@
+{
+  "code": "TDMV 141",
+  "title": "Advanced Dances of the World",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdmv141",
+  "description": "Courses designed for the advanced continuing study of the dances and historical context of a particular culture or ethnic form: Afro-Cuban, Spanish, Balinese, Japanese, Latin, etc. Specific topic will vary from quarter to quarter. Prerequisites: THDA 132 or TDMV 136 or TDMV 142 or TDMV 143 or TDMV 144, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "THDA 132",
+      "TDMV 136",
+      "TDMV 142",
+      "TDMV 143",
+      "TDMV 144"
+    ]
+  }
+}

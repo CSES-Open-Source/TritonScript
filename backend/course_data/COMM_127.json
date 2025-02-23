@@ -1,0 +1,22 @@
+{
+  "code": "COMM 127",
+  "title": "Problem of Voice",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm127",
+  "description": "This course will explore the problem of self-expression for members of various ethnic and cultural groups. Of special interest is how writers find ways of describing themselves in the face of others\u2019 sometimes overwhelming predilection to describe them. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "CSS 100",
+  "title": "Advanced Programming for Computational Social Science",
+  "units": "4",
+  "dept": "CSS",
+  "anchor": "css100",
+  "description": "This course develops advanced computational problem-solving skills including common algorithms, data structures, and advanced tool and library options. The class provides further development in Python. Prerequisites: CSS 2.",
+  "prereqs": "CSS 2"
+}

@@ -1,0 +1,9 @@
+{
+  "code": "BENG 278",
+  "title": "Magnetic Resonance Imaging",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng278",
+  "description": "This lab course provides hands-on experience with MR physics, data acquisition, image formation, and data analysis, using a human MRI scanner. It will cover basic principles of MRI and key applications, including scanner hardware, spin echoes, gradient echoes, echo-planar imaging, MR angiography, fMRI, and perfusion imaging. This will be accomplished through one hour of formal instruction and four hours of scanner time per week. Each week will cover one topic, and grading will be based on lab reports. The last two weeks are reserved for a final project, which can be student initiated. Prerequisites: BENG 280A or basic knowledge of linear systems and MRI, or consent of instructor. (W)",
+  "prereqs": "BENG 280A"
+}

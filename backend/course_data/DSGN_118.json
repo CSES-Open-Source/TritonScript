@@ -1,0 +1,18 @@
+{
+  "code": "DSGN 118",
+  "title": "Design for Future Creativity and Productivity",
+  "units": "4",
+  "dept": "DSGN",
+  "anchor": "dsgn118",
+  "description": "This course covers fundamentals of the design of creativity support tools for various types of digital content, including images, videos, animations, information visualization, augmented/mixed/virtual reality. We will also explore how novel interaction techniques such as gestural interaction, speech input, and artificial intelligence can be used to support people\u2019s creativity and productivity. Prerequisites: COGS 120 or COGS 187A or COGS 187B or CSE 170 or DSGN 100.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 120",
+      "COGS 187A",
+      "COGS 187B",
+      "CSE 170",
+      "DSGN 100"
+    ]
+  }
+}

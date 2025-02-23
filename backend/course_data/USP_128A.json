@@ -1,0 +1,12 @@
+{
+  "code": "USP 128A",
+  "title": "Climate Action Scholars: Community Engagement and Research",
+  "units": "6",
+  "dept": "USP",
+  "anchor": "usp128a",
+  "description": "(Same as ANTH 128A.) This course series will examine the historical, structural, and cultural roots of the climate crisis, its effects across diverse communities and ecologies, and the creative ways local people respond and build collective resilience. In this first quarter, students will engage in hands-on research, mapping, and documentation of climate change and associated social, environmental, and health impacts. Students will not receive credit for both USP 128A and ANTH 128A. Prerequisites: upper-division standing or consent of instructor and departmental approval.",
+  "successors": [
+    "ANTH 128B",
+    "USP 128B"
+  ]
+}

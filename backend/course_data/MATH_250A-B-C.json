@@ -1,0 +1,8 @@
+{
+  "code": "MATH 250A-B-C",
+  "title": "Differential Geometry",
+  "units": "4-4-4",
+  "dept": "MATH",
+  "anchor": "math250c",
+  "description": "Differential manifolds, Sard theorem, tensor bundles, Lie derivatives, DeRham theorem, connections, geodesics, Riemannian metrics, curvature tensor and sectional curvature, completeness, characteristic classes. Differential manifolds immersed in Euclidean space. Prerequisites: consent of instructor."
+}

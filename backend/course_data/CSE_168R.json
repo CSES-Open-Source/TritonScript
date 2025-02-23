@@ -1,0 +1,15 @@
+{
+  "code": "CSE 168R",
+  "title": "Computer Graphics II: Rendering",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse168r",
+  "description": "Weekly programming assignments that will cover graphics rendering algorithms. During the course the students will learn about ray tracing, geometry, tessellation, acceleration structures, sampling, filtering, shading models, and advanced topics such as global illumination and programmable graphics hardware. This course is a distance education course. Students may not receive credit for CSE 168R and CSE 168. Prerequisites: CSE 167 or CSE 167R; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 167",
+      "CSE 167R"
+    ]
+  }
+}

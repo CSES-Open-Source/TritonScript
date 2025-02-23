@@ -1,0 +1,9 @@
+{
+  "code": "DSC 206",
+  "title": "Algorithms for Data Science",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc206",
+  "description": "This course studies the mathematical foundations of massive data processing, developing algorithms, and analyzing them. We explore methods for sampling, sketching, and distributed processing of large scale databases, clustering, dimensionality reduction, and methods of optimization for the purpose of scalable statistical description, querying, pattern mining, and learning from data. Prerequisites: DSC 212. Restricted to students within the DS75 and DS76 major.",
+  "prereqs": "DSC 212"
+}

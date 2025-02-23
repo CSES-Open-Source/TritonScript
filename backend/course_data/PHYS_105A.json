@@ -1,0 +1,50 @@
+{
+  "code": "PHYS 105A",
+  "title": "Mathematical and Computational Physics I",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys105a",
+  "description": "A combined analytic and mathematically based numerical approach to the solution of common applied mathematics problems in physics and engineering. Topics: Fourier series and integrals, special functions, initial and boundary value problems, Green\u2019s functions; heat, Laplace and wave equations. Prerequisites: PHYS 4B-C-D-E, MATH 20A-B-C or 31BH, 20D, 20E or 31CH, and 18 or 20F or 31AH. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 4B",
+      "PHYS 4C",
+      "PHYS 4D",
+      "PHYS 4E",
+      {
+        "type": "one",
+        "courses": [
+          {
+            "type": "all",
+            "courses": [
+              "MATH 20A",
+              "MATH 20B",
+              "MATH 20C"
+            ]
+          },
+          "MATH 31BH"
+        ]
+      },
+      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20E",
+          "MATH 31CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "PHYS 105B"
+  ]
+}

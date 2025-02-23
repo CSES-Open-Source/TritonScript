@@ -1,0 +1,9 @@
+{
+  "code": "SE 167",
+  "title": "Signal Processing and Spectral Analysis for Structural Engineering",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se167",
+  "description": "Signal processing is widely used in engineering and physical sciences. This course discusses techniques to analyze signals (or data), particularly related to structural dynamic response focusing on time/frequency domain data analysis (Fourier transform, digital filtering, and feature extraction). Prerequisites: SE 101C. Enrollment restricted to SE27 majors only.",
+  "prereqs": "SE 101C"
+}

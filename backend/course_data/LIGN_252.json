@@ -1,0 +1,8 @@
+{
+  "code": "LIGN 252",
+  "title": "Advanced Probabilistic Models of Language",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign252",
+  "description": "Probabilistic techniques for data analysis and modeling of linguistics cognition. Hierarchical (mixed-effects) regression, graphical models, Bayesian methods, latent-variable models, nonparametric models, probabilistic grammars. Course covers both mathematical foundations and working with datasets using state-of-the-art computational tools. Recommended prerequisite: LIGN 251 or equivalent course with emphasis on probabilistic methods in linguistics. Prerequisites: graduate standing or consent of instructor."
+}

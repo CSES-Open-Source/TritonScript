@@ -1,0 +1,28 @@
+{
+  "code": "MAE 130",
+  "title": "Advanced Vibrations",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae130",
+  "description": "Harmonically excited vibrations. Vibration of multiple degree-of-freedom systems. Observations, including beat frequencies, static and dynamic coupling, traveling, and standing wave phenomena. Vibration of continuous systems. Hamilton\u2019s equations. Distributed and point forces and moments in continuous systems and the generalized Dirac distribution. Response to impact and impulse excitation. Modeling continuous systems with approximate discrete models. Restricted to engineering majors only MC 25, MC 27, MC 29, MC 30\u201334, MC 35\u201337, MO 21, SE 27. Prerequisites: MATH 18 or MATH 20F or MATH 31AH and MAE 30B or MAE 130B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MAE 30B",
+          "MAE 130B"
+        ]
+      }
+    ]
+  }
+}

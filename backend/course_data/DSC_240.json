@@ -1,0 +1,21 @@
+{
+  "code": "DSC 240",
+  "title": "Machine Learning",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc240",
+  "description": "A graduate level course in machine learning algorithms: decision trees, principal component analysis, k-means, clustering, logistic regression, random forests, boosting, neural networks, kernel methods, deep learning. Prerequisites: DSC 210 and DSC 212. Restricted to students within the DS75 and DS76 major.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 210",
+      "DSC 212"
+    ]
+  },
+  "successors": [
+    "DSC 205",
+    "DSC 245",
+    "DSC 251",
+    "DSC 261"
+  ]
+}

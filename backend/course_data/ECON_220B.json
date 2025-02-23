@@ -1,0 +1,22 @@
+{
+  "code": "ECON 220B",
+  "title": "Econometrics B",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ220b",
+  "description": "Introduction to regression analysis and other estimation methods. Topics covered include ordinary and generalized least squares, asymptotic approximations, specification testing, two-stage least squares, generalized method of moments, and maximum likelihood estimation. Prerequisites: ECON 220A, graduate standing; Enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.",
+  "prereqs": "ECON 220A",
+  "successors": [
+    "ECON 220C",
+    "ECON 221",
+    "ECON 225",
+    "ECON 226",
+    "ECON 227",
+    "ECON 228",
+    "ECON 230",
+    "ECON 231",
+    "ECON 232",
+    "ECON 233",
+    "MGT 285"
+  ]
+}

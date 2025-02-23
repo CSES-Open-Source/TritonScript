@@ -1,0 +1,13 @@
+{
+  "code": "CENG 101B",
+  "title": "Heat Transfer",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng101b",
+  "description": "Conduction, convection, radiation heat transfer; design of heat exchangers. Students may not receive credit for both MAE 101C and CENG 101B. Prerequisites: admission to the major and a grade of C\u2013 or better in CENG 101A.",
+  "prereqs": "CENG 101A",
+  "successors": [
+    "CENG 120",
+    "CENG 157"
+  ]
+}

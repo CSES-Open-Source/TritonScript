@@ -1,0 +1,8 @@
+{
+  "code": "ECE 208",
+  "title": "Computational Evolutionary Biology",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece208",
+  "description": "Evolutionary biology (e.g., the study of the tree of life) uses computational methods from statistics and machine learning. We cover methods of broad use in many fields and apply them to biology, focusing on scalability to big genomic data. Topics include dynamic programming, continuous time Markov models, hidden Markov models, statistical inference of phylogenies, sequence alignment, uncertainty (e.g., bootstrapping), and heterogeneity (e.g., phylogenetic mixture models). Prerequisites: graduate standing."
+}

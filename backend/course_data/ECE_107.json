@@ -1,0 +1,43 @@
+{
+  "code": "ECE 107",
+  "title": "Electromagnetism",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece107",
+  "description": "Electrostatics and magnetostatics; electrodynamics; Maxwell\u2019s equations; plane waves; skin effect. Electromagnetics of transmission lines: reflection and transmission at discontinuities, Smith chart, pulse propagation, dispersion. Rectangular waveguides. Dielectric and magnetic properties of materials. Electromagnetics of circuits. Prerequisites: PHYS 2A\u2013C or 4A\u2013C and ECE 45.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          {
+            "type": "all",
+            "courses": [
+              "PHYS 2A",
+              "PHYS 2B",
+              "PHYS 2C"
+            ]
+          },
+          {
+            "type": "all",
+            "courses": [
+              "PHYS 4A",
+              "PHYS 4B",
+              "PHYS 4C"
+            ]
+          }
+        ]
+      },
+      "ECE 45"
+    ]
+  },
+  "successors": [
+    "ECE 123",
+    "ECE 145AL-BL-CL",
+    "ECE 166",
+    "ECE 181",
+    "ECE 182",
+    "ECE 183"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "CSE 205A",
+  "title": "Logic in Computer Science",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse205a",
+  "description": "(Formerly CSE 208D) Mathematical logic as a tool in computer science. Propositional logic, resolution, first-order logic, completeness and incompleteness theorems with computational viewpoint, finite model theory, descriptive complexity, logic programming, nonmonotonic reasoning, temporal logic. Applications to databases, automatic theorem proving, program verification, and distributed systems. Prerequisites: CSE 200 or consent of instructor.",
+  "prereqs": "CSE 200"
+}

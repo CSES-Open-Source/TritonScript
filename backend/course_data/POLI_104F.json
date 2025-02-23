@@ -1,0 +1,15 @@
+{
+  "code": "POLI 104F",
+  "title": "Constitutional Law",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli104f",
+  "description": "This course provides an intensive examination of a major issue in constitutional law. Students will be required to do legal research on a topic, write a legal brief, and argue a case to the class. Prerequisites: POLI 104A-B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "POLI 104A",
+      "POLI 104B"
+    ]
+  }
+}

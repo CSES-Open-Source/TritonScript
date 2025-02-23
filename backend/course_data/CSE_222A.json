@@ -1,0 +1,13 @@
+{
+  "code": "CSE 222A",
+  "title": "Computer Communication Networks",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse222a",
+  "description": "(Formerly CSE 222.) Computer communication network concepts, protocols, and architectures, with an emphasis on an analysis of algorithms, protocols, and design methodologies. Topics will include layering, error control, flow control, congestion control, switching and routing, quality of service management, mobility, naming, security, and selected contemporary topics. Prerequisites: CSE 123A or consent of instructor.",
+  "prereqs": "CSE 123A",
+  "successors": [
+    "CSE 222B",
+    "CSE 223B"
+  ]
+}

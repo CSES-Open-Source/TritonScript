@@ -1,0 +1,16 @@
+{
+  "code": "BENG 230D",
+  "title": "Respiratory and Renal Physiology",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng230d",
+  "description": "Mechanics of breathing. Gas diffusion. Pulmonary blood flow. Stress distribution. Gas transport by blood. Kinetics of oxygen and carbon dioxide exchange. VA/Q relations. Control of ventilation. Glomerular and proximal tubule functions. Water metabolism. Control of sodium and potassium in the kidney. Prerequisites: BIPN 100, 102, and BENG 230C, or consent of instructor. (F,W,S)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BIPN 100",
+      "BIPN 102",
+      "BENG 230C"
+    ]
+  }
+}

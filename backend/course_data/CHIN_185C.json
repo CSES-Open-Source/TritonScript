@@ -1,0 +1,30 @@
+{
+  "code": "CHIN 185C",
+  "title": "Readings in Chinese Culture and Society III",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "",
+  "description": "Advanced Mandarin Chinese language course that engages students on topics related to Chinese culture and society past and present through study of original texts and other media that expand reading and vocabulary skills on topics of interest.\u00a0Prerequisites: any one of the following or department approval through placement interview: CHIN 100CM, CHIN 100CN, CHIN 165A-B-C, CHIN 185A-B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHIN 100CM",
+      "CHIN 100CN",
+      "CHIN 165A",
+      "CHIN 165B",
+      "CHIN 165C",
+      "CHIN 185A",
+      "CHIN 185B"
+    ]
+  },
+  "successors": [
+    "CHIN 165A",
+    "CHIN 165B",
+    "CHIN 165C",
+    "CHIN 182A",
+    "CHIN 182B",
+    "CHIN 182C",
+    "CHIN 185A",
+    "CHIN 185B"
+  ]
+}

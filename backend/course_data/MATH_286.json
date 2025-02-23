@@ -1,0 +1,15 @@
+{
+  "code": "MATH 286",
+  "title": "Stochastic Differential Equations",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math286",
+  "description": "Review of continuous martingale theory. Stochastic integration for continuous semimartingales. Existence and uniqueness theory for stochastic differential equations. Strong Markov property. Selected applications. Prerequisites: MATH 280A-B or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 280A",
+      "MATH 280B"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "code": "SIOG 233",
+  "title": "Introduction to Computing at SIO",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siog233",
+  "description": "Introduction to the SIO computing environment and common software tools in geophysics and other disciplines. Topics include UNIX, MATLAB, Postscript, GMT, LaTex, HTML, and a scientific programming language such as C or Fortran90. Prerequisites: graduate standing or consent of instructor. (S/U grades permitted.)"
+}

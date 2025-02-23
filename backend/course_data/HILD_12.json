@@ -1,0 +1,11 @@
+{
+  "code": "HILD 12",
+  "title": "Twentieth-Century East Asia",
+  "units": "4",
+  "dept": "HIST",
+  "anchor": "hild12",
+  "description": "The East Asia survey compares and contrasts the development of China, Korea, and Japan from ancient times to the present. This course examines the emergence of a regionally dominant Japan before and after World War II; the process of revolution and state-building in China during the nationalist and communist eras; and Korea\u2019s encounter with colonialism, nationalism, war, revolution, and industrialization.",
+  "successors": [
+    "HITO 106"
+  ]
+}

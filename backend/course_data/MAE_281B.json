@@ -1,0 +1,9 @@
+{
+  "code": "MAE 281B",
+  "title": "Nonlinear Control",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae281b",
+  "description": "Small gain theorem, passivity. Describing functions. Nonlinear controllability, feedback linearization, input-state and input-output linearization, zero dynamics. Stabilization, Brockett\u2019s necessary conditions (local), control Lyapunov functions, Sontag\u2019s formula (global). Integrator back stepping, forwarding. Inverse optimality, stability margins. Disturbance attenuation, deterministic and stochastic, nonlinear H-infinity. Nonlinear observers. Prerequisites: MAE 281A.",
+  "prereqs": "MAE 281A"
+}

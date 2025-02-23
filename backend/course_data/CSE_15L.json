@@ -1,0 +1,34 @@
+{
+  "code": "CSE 15L",
+  "title": "Software Tools and Techniques Laboratory",
+  "units": "2",
+  "dept": "CSE",
+  "anchor": "cse15l",
+  "description": "Hands-on exploration of software development tools and techniques. Investigation of the scientific process as applied to software development and debugging. Emphasis is on weekly hands-on laboratory experiences, development of laboratory notebooking techniques as applied to software design. Prerequisites: CSE 8B or CSE 11 or CSE 12 or DSC 30; restricted to undergraduates. Graduate students will be allowed as space permits.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 8B",
+      "CSE 11",
+      "CSE 12",
+      "DSC 30"
+    ]
+  },
+  "successors": [
+    "CSE 100",
+    "CSE 100R",
+    "CSE 109",
+    "CSE 120",
+    "CSE 123",
+    "CSE 124",
+    "CSE 150A",
+    "CSE 150B",
+    "CSE 151A",
+    "CSE 152A",
+    "CSE 156",
+    "CSE 158",
+    "CSE 158R",
+    "CSE 30",
+    "DSC 148"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "SIO 295LS",
+  "title": "Introduction to Marine Biodiversity and Conservation\u2014Lab",
+  "units": "8",
+  "dept": "SIO",
+  "anchor": "sio295ls",
+  "description": "Laboratory work on major biological taxa, field trips on biodiversity in situ, computer labs for informatic tools. Students are expected to attend field trips at sea and to various sites around San Diego County as part of the course. Students get practical experience in fieldwork, public speaking, visual communication, and team building. Students who have taken SIO 295L may not receive credit for SIO 295LS. Corequisites: SIO 295S. Prerequisites: MAS MBC students only; consent of instructor.",
+  "coreqs": "SIO 295S",
+  "successors": [
+    "MBC 258"
+  ]
+}

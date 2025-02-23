@@ -1,0 +1,17 @@
+{
+  "code": "SIO 179",
+  "title": "Ocean Instruments and Sensors",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio179",
+  "description": "Apply modern and classic techniques for analysis of seawater, introducing concepts of signal transduction, calibration, and measurement quality control. Emphasis will be placed on computer automation to perform basic functions including instrument control, data storage, and on-the-fly calculations. Students will apply techniques from several branches of engineering to the marine sciences. Students may not receive credit for both SIO 179 and SIO 190 with the same subtitle. Recommended preparation: PHYS 2A-C or PHYS 4A-C. Prerequisites: CHEM 6A or CHEM 6AH or PHYS 2A or PHYS 4A or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 6A",
+      "CHEM 6AH",
+      "PHYS 2A",
+      "PHYS 4A"
+    ]
+  }
+}

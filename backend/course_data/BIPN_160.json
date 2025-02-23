@@ -1,0 +1,15 @@
+{
+  "code": "BIPN 160",
+  "title": "Neuroanatomy",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn160",
+  "description": "The course will cover a broad anatomical and functional description of the human nervous system and explore evidence implicating key brain areas in specific functions. This course will discuss modern techniques and the use of model organisms for dissecting the anatomical organization of the brain. Prerequisites: BILD 1 and BILD 2.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 2"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "code": "MAE 11",
+  "title": "Thermodynamics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae11",
+  "description": "Fundamentals of engineering thermodynamics: energy, work, heat, properties of pure substances, first and second laws for closed systems and control volumes, gas mixtures. Application to engineering systems, power and refrigeration cycles, combustion. Renumbered from MAE 110A. Students may not receive credit for MAE 11 and MAE 110A. Prerequisites: PHYS 2C and CHEM 6A. Enrollment restricted to engineering majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 2C",
+      "CHEM 6A"
+    ]
+  },
+  "successors": [
+    "MAE 101B",
+    "MAE 110",
+    "MAE 113"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "CSE 135",
+  "title": "Online Database Analytics Applications",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse135",
+  "description": "Database, data warehouse, and data cube design; SQL programming and querying with emphasis on analytics; online analytics applications, visualizations, and data exploration; performance tuning. Prerequisites: CSE 100 or CSE 100R; restricted to students within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 100",
+      "CSE 100R"
+    ]
+  },
+  "successors": [
+    "CSE 136"
+  ]
+}

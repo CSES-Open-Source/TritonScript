@@ -1,0 +1,18 @@
+{
+  "code": "BENG 161A",
+  "title": "Bioreactor Engineering",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng161a",
+  "description": "Engineering, biochemical, and physiological considerations in the design of bioreactor processes: enzyme kinetics, mass transfer limitations, microbial growth, and product formation kinetics. Fermentation reactor selection, design, scale-up, control. Quantitative bioengineering analysis and design of biochemical processes and experiments on biomolecules. Prerequisites: BENG 123 and BENG 160 or consent of department. (F)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BENG 123",
+      "BENG 160"
+    ]
+  },
+  "successors": [
+    "BENG 161B"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "TDAC 101",
+  "title": "Acting I",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdac101",
+  "description": "This course focuses on beginning scene study with an emphasis on exploring action/objective and the given circumstances of a selected text. Prerequisites: THAC or TDAC 1 or consent of instructor.",
+  "prereqs": "TDAC 1",
+  "successors": [
+    "TDAC 102",
+    "TDAC 111",
+    "TDAC 115"
+  ]
+}

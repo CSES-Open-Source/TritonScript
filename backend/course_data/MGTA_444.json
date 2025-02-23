@@ -1,0 +1,16 @@
+{
+  "code": "MGTA 444",
+  "title": "Business Analytics Consulting",
+  "units": "2",
+  "dept": "MGT",
+  "anchor": "mgta444",
+  "description": "The framing of the solution approach is arguably the most important step in building a practical solution to a complex business problem. Should one do a statistical analysis, build a machine learning predictive model, a forecast, a simulation? What are we trying to understand or predict? What is the business objective? What are the deliverables? How will our results be evaluated? This course will give the students experience at framing a wide variety of business analytics problems. Prerequisites: MGTA 451, MGTA 452, MGTA 453, and restricted to MS in business analytics program.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGTA 451",
+      "MGTA 452",
+      "MGTA 453"
+    ]
+  }
+}

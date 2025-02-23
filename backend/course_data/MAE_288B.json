@@ -1,0 +1,9 @@
+{
+  "code": "MAE 288B",
+  "title": "Optimal Estimation",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae288b",
+  "description": "Least Squares and Maximum Likelihood Estimation methods, Gauss-Markov models, State Estimation and Kalman Filtering, prediction and smoothing. The extended Kalman filter. Prerequisites: MAE 280A completed or concurrent, or consent of instructor.",
+  "prereqs": "MAE 280A"
+}

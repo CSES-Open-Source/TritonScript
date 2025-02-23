@@ -1,0 +1,15 @@
+{
+  "code": "CHEM 172",
+  "title": "Environmental Chemistry II",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem172",
+  "description": "An introduction to the environmental chemistry of solid and liquid environments and their global cycles of major elements. The chemistry cycles are analyzed present, past, and future and their perturbations by society, volcanoes, and extinction events. Non-earth environments are included. Recommended preparation: CHEM 171. Prerequisites: CHEM 6C or 6CH.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 6C",
+      "CHEM 6CH"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "code": "COMM 124A",
+  "title": "Critical Design Practice/Advanced Studio",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm124a",
+  "description": "Hands-on course introduces design as political activity. How will differently designed objects, environments perpetuate, interrupt status quo. Examine design, architecture, media activism, workday life. Examine ambiguous problems, take and give feedback, create prototypes to engage communities, broader publics. Students see design as part of longer-term social transformations. Prerequisites: COMM 10 or COGS 1 or ESYS 10 or POLI 10 or POLI 10D or USP 1.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COGS 1",
+      "ESYS 10",
+      "POLI 10",
+      "POLI 10D",
+      "USP 1"
+    ]
+  },
+  "successors": [
+    "COMM 124B",
+    "DSGN 119"
+  ]
+}

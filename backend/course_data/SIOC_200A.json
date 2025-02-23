@@ -1,0 +1,11 @@
+{
+  "code": "SIOC 200A",
+  "title": "Computational Ocean Acoustics and Signal Processing I",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc200a",
+  "description": "Overview of ocean acoustics. Acoustics Wave Equation with some analytic solution techniques. Ray Methods. Introduction to Spectral and Normal Modes methods. Introduction to beamforming, including matched field processing. Computer programs will be constructed on all subjects covered. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "SIOC 200B"
+  ]
+}

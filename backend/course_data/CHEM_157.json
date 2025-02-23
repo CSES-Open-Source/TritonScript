@@ -1,0 +1,16 @@
+{
+  "code": "CHEM 157",
+  "title": "Bioorganic and Natural Products Chemistry",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem157",
+  "description": "A comprehensive survey of modern bioorganic and natural products chemistry. Topics will include biosynthesis of natural products, molecular recognition, and small molecule-biomolecule interactions. May be coscheduled with CHEM 257. Prerequisites: CHEM 40C, 40CH, or 41C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 40C",
+      "CHEM 40CH",
+      "CHEM 41C"
+    ]
+  }
+}

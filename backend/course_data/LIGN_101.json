@@ -1,0 +1,31 @@
+{
+  "code": "LIGN 101",
+  "title": "Introduction to the Study of Language",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign101",
+  "description": "Language is what makes us human, but how does it work? This course focuses on speech sounds and sound patterns, how words are formed, organized into sentences, and understood, how language changes, and how it is learned. Prerequisites: none.",
+  "successors": [
+    "LIGN 110",
+    "LIGN 113",
+    "LIGN 120",
+    "LIGN 121",
+    "LIGN 130",
+    "LIGN 139",
+    "LIGN 141",
+    "LIGN 143",
+    "LIGN 148",
+    "LIGN 150",
+    "LIGN 154",
+    "LIGN 160",
+    "LIGN 170",
+    "LIGN 171",
+    "LIGN 172",
+    "LIGN 175",
+    "LIGN 177",
+    "LIGN 178",
+    "LIGN 179",
+    "LIGN 180",
+    "LIGN 181"
+  ]
+}

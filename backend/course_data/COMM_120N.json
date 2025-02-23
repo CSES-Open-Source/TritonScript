@@ -1,0 +1,22 @@
+{
+  "code": "COMM 120N",
+  "title": "AMP: News Media Workshop",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm120n",
+  "description": "Designed for students working in student news organizations or off-campus internships or jobs in news, public relations, or public information. A workshop in news writing and news analysis. Prerequisites: COMM 10 and two from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "two",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

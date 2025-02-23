@@ -1,0 +1,9 @@
+{
+  "code": "MATH 121B",
+  "title": "Foundations of Teaching and Learning Math II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math121b",
+  "description": "Examine how learning theories can consolidate observations about conceptual development with the individual student as well as the development of knowledge in the history of mathematics. Examine how teaching theories explain the effect of teaching approaches addressed in the previous courses. Prerequisites: MATH 121A. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": "MATH 121A"
+}

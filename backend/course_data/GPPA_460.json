@@ -1,0 +1,15 @@
+{
+  "code": "GPPA 460",
+  "title": "Modeling Environmental Systems",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gppa460",
+  "description": "This is a core skills course meant to bring students into basic modeling of natural-human systems. The goals are for students to be able to build and use models with an emphasis on structure over specific applications; to develop a comfort with \u201cback of the envelope\u201d estimations; and most centrally, for students to be able to frame decisions in a way that lets them interface with disciplinary scientists and engineers. Prerequisites: GPCO 407 and GPEC 446.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "GPCO 407",
+      "GPEC 446"
+    ]
+  }
+}

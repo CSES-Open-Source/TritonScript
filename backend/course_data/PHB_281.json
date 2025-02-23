@@ -1,0 +1,15 @@
+{
+  "code": "PHB 281",
+  "title": "Biostatistics Seminar Series",
+  "units": "1",
+  "dept": "FMPH",
+  "anchor": "phb281",
+  "description": "Through a combination of in-person and virtual seminars on Zoom, students will gain insight into current research projects presented by invited speakers. Additionally, students are provided with the opportunity to participate in lunch discussions and one-on-one meetings. All MS students in biostatistics, and biostatistics PhD students in their third year and above are highly encouraged to enroll quarterly (except for summer). May be taken for credit up to twelve times. Prerequisites: FMPH 290 or PHB 280. Restricted to PB76 and PB77 majors.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "FMPH 290",
+      "PHB 280"
+    ]
+  }
+}

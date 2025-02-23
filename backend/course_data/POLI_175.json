@@ -1,0 +1,17 @@
+{
+  "code": "POLI 175",
+  "title": "Machine Learning for Social Scientists",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli175",
+  "description": "This course focuses on statistical and algorithmic techniques to analyze and utilize large collections of data for social science inferences. The goal of the course is to introduce students to modern machine learning methods and provide the skills necessary to apply the methods widely. In achieving this goal, students will learn about core concepts in machine learning and statistics, developing skills that are transferable to other types of data and inference problems. Prerequisites: POLI 170A\u00a0or\u00a0POLI 171\u00a0or\u00a0POLI 172 or CCS 1.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "POLI 170A",
+      "POLI 171",
+      "POLI 172",
+      "CCS 1"
+    ]
+  }
+}

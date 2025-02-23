@@ -1,0 +1,9 @@
+{
+  "code": "MATH 289B",
+  "title": "Further Topics in Probability and Statistics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math289b",
+  "description": "Continued development of a topic in probability and statistics. Topics include Markov processes, martingale theory, stochastic processes, stationary and Gaussian processes, ergodic theory. May be taken for credit three times with consent of adviser as topics vary. Prerequisites: MATH 289A. Students who have not completed MATH 289A may enroll with consent of instructor.",
+  "prereqs": "MATH 289A"
+}

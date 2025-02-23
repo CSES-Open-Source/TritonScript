@@ -1,0 +1,17 @@
+{
+  "code": "COGS 17",
+  "title": "Neurobiology of Cognition",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs17",
+  "description": "Introduction to the organization and functions of the nervous system. Topics include molecular, cellular, developmental, systems, and behavioral neurobiology. Specifically, structure and function of neurons, peripheral and central nervous systems, sensory, motor, and control systems, learning and memory mechanisms. (Students may not receive credit for both BILD12 and COGS 17. This course fulfills general-education requirements for Marshall and Roosevelt Colleges as well as Warren by petition.)",
+  "successors": [
+    "COGS 107A",
+    "COGS 115",
+    "COGS 170",
+    "COGS 179",
+    "COGS 180",
+    "COGS 184",
+    "PSYC 171"
+  ]
+}

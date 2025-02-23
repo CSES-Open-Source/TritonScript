@@ -1,0 +1,12 @@
+{
+  "code": "CSE 232",
+  "title": "Principles of Database Systems",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse232",
+  "description": "(Formerly CSE 264D.) Database models including relational, hierarchic, and network approaches. Implementation of databases including query languages and system architectures. Prerequisites: CSE 100 or consent of instructor.",
+  "prereqs": "CSE 100",
+  "successors": [
+    "CSE 232B"
+  ]
+}

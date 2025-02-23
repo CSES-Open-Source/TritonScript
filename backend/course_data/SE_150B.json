@@ -1,0 +1,15 @@
+{
+  "code": "SE 150B",
+  "title": "Design of Steel Structures II",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se150b",
+  "description": "Theory and behavior of steel structures leading to the development of design requirements in current specifications. Topics will include design of simple and rigid connections, composite construction, advanced topics in compression and flexural members including torsion, design of plate girders, the direct analysis method, and plastic analysis. Emphasis will be placed on fundamental concepts. Prerequisites: SE 150 or SE 150A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SE 150",
+      "SE 150A"
+    ]
+  }
+}

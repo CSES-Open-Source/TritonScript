@@ -1,0 +1,58 @@
+{
+  "code": "MATH 20E",
+  "title": "Vector Calculus",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math20e",
+  "description": "Change of variable in multiple integrals, Jacobian, Line integrals, Green\u2019s theorem. Vector fields, gradient fields, divergence, curl. Spherical/cylindrical coordinates. Taylor series in several variables. Surface integrals, Stoke\u2019s theorem. Gauss\u2019 theorem. Conservative fields. Prerequisites: MATH 18 or MATH 20F or MATH 31AH and MATH 20C (or MATH 21C) or MATH 31BH with a grade of C\u2013 or better.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 21C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "ASTR 101",
+    "BENG 110",
+    "CENG 101A",
+    "COGS 118A",
+    "COGS 118B",
+    "COGS 181",
+    "CSE 252B",
+    "ECE 187",
+    "MAE 101A",
+    "MAE 143A",
+    "MATH 110",
+    "MATH 120A",
+    "MATH 150A",
+    "MATH 210A",
+    "PHYS 100A",
+    "PHYS 100B",
+    "PHYS 105A",
+    "PHYS 105B",
+    "PHYS 110A",
+    "PHYS 110B",
+    "PHYS 111",
+    "PHYS 4D",
+    "PHYS 4E",
+    "SE 131A",
+    "SIO 111",
+    "SIO 173",
+    "SIO 177"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "LIGN 160",
+  "title": "Pragmatics",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign160",
+  "description": "An introduction to the context-dependent aspects of language meaning. Topics include given versus new information, Gricean maxims and rules of conversation, presupposition, implicature, reference and cognitive status, discourse coherence and structure, and speech acts. Prerequisites: LIGN 101 or consent of instructor.",
+  "prereqs": "LIGN 101"
+}

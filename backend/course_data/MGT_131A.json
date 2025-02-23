@@ -1,0 +1,24 @@
+{
+  "code": "MGT 131A",
+  "title": "Intermediate Accounting A",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt131a",
+  "description": "Preparation and interpretation of accounting information under both FASB and IASB guidelines pertaining to revenue and expense recognition, receivables, and inventories. Prerequisites: upper-division standing and MGT 5 and either MGT 4 or ECON 4.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGT 5",
+      {
+        "type": "one",
+        "courses": [
+          "MGT 4",
+          "ECON 4"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MGT 131B"
+  ]
+}

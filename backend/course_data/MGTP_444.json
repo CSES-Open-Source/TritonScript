@@ -1,0 +1,15 @@
+{
+  "code": "MGTP 444",
+  "title": "Issues in Financial Reporting for Global Business: Mergers, Acquisitions, and Complex Financial Structures",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgtp444",
+  "description": "Helps students understand the complexities involved in international deals. Examines current financial reporting practices for business entities engaged in international activities. Focuses on policy issues such as foreign currency translation, global inflation, transfer pricing, complying with reporting requirements, taxation, and international accounting and auditing standards.\u00a0Prerequisites: MGTP 434, MGTP 424, restricted to MPAc students (major code RS91) or by department approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGTP 434",
+      "MGTP 424"
+    ]
+  }
+}

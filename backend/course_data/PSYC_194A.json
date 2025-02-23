@@ -1,0 +1,20 @@
+{
+  "code": "PSYC 194A",
+  "title": "Honors Thesis I",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc194a",
+  "description": "This course provides the opportunity for students to plan and carry out a research project under the guidance of the psychology faculty. Students will write a proposal for the research that they plan to conduct in 194B-C and will present this proposal to the class. Must be taken for a letter grade for the Psychology Honors Program. Prerequisites: PSYC 110, PSYC 111A-B, department approval, psychology majors only, acceptance to the Honors Program.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PSYC 110",
+      "PSYC 111A",
+      "PSYC 111B"
+    ]
+  },
+  "successors": [
+    "PSYC 194B",
+    "PSYC 194C"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": "CSE 211",
+  "title": "Software Testing and Analysis",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse211",
+  "description": "Survey of testing and analysis methods. Introduction to advanced topics in area as well as traditional production methods. Topics include inspections and reviews, formal analysis, verification and validation standards, nonstatistical testing, statistical-testing and reliability models, coverage methods, testing and analysis tools, and organization management and planning. Methods special to special development approaches such as object-oriented testing will also be described. Prerequisites: undergraduate major in computer science or extensive industrial experience."
+}

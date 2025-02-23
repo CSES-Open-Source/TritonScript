@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 116",
+  "title": "Representations of Spanish Colonialism",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp116",
+  "description": "Analysis of selected materials that represent the cultural and political relationship between Spain and its colonies. Close reading of literary texts and historical documents. Specific periods covered will fall between the origins of empire in the early sixteenth century to the demise of imperial Spain in 1898; topics may include cultural exchanges between Spain and Latin America, the Philippines, or the US Southwest. May be taken for credit up to two times as topics vary.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

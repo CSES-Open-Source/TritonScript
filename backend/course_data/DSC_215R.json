@@ -1,0 +1,12 @@
+{
+  "code": "DSC 215R",
+  "title": "Foundations of Probability and Statistics in Data Science",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc215r",
+  "description": "Foundations of probability and statistics needed for data science, including mathematical theory, and hands-on experience of applying this theory to actual data using Jupyter notebooks. Random variables, dependence, correlation, regression, PCA, entropy and MDL. This course is a distance education course. Prerequisites: none. Restricted to major codes DS78 and DS79. All other students with graduate standing may be considered as space permits.",
+  "successors": [
+    "DSC 255R",
+    "DSC 256R"
+  ]
+}

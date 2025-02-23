@@ -1,0 +1,16 @@
+{
+  "code": "SIO 175",
+  "title": "Analysis of Oceanic and Atmospheric Data",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio175",
+  "description": "Oceanic and atmospheric observations produce large data sets whose understanding requires analysis using computers. This course will include an introduction to MATLAB for the purpose of analyzing data. Students will use modern data sets from the ocean and atmosphere to learn statistical data analysis. Prerequisites: MATH 18 or MATH 20F or MATH 31AH or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 18",
+      "MATH 20F",
+      "MATH 31AH"
+    ]
+  }
+}

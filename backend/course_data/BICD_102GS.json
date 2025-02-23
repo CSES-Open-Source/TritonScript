@@ -1,0 +1,21 @@
+{
+  "code": "BICD 102GS",
+  "title": "Genetic Inquiry in Global Context",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bicd102gs",
+  "description": "In an applied Global Seminars setting, students will interact with primary literature in genetics through reading, writing, and in-class discussions. The focus will be to learn to analyze research data and develop critical thinking skills, while applying concepts in genetics to understand scientific discoveries. Topics may vary from quarter to quarter; examples include but are not limited to genetic basis of complex human traits or genetics and evolution of form and function in organisms. Students must apply and be accepted to the Global Seminars Program in order to enroll. Program or material fees may apply. Prerequisites: BICD 100 or BICD 100R and MATH 11.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BICD 100",
+          "BICD 100R"
+        ]
+      },
+      "MATH 11"
+    ]
+  }
+}

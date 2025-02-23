@@ -1,0 +1,27 @@
+{
+  "code": "CGS 2B",
+  "title": "Introduction to Critical Gender Studies: Social Formations",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs2b",
+  "description": "An introduction to the social relations of power that are shaped by and that shape gender and sexuality. It will build more on the basic concepts and skills introduced in CGS 2A.",
+  "successors": [
+    "CGS 100A",
+    "CGS 100B",
+    "CGS 121",
+    "CGS 122",
+    "CGS 123",
+    "CGS 124",
+    "CGS 125",
+    "CGS 126",
+    "CGS 127",
+    "CGS 128",
+    "CGS 130",
+    "CGS 135",
+    "CGS 137",
+    "CGS 147",
+    "CGS 150",
+    "CGS 165",
+    "CGS 187"
+  ]
+}

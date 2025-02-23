@@ -1,0 +1,27 @@
+{
+  "code": "CHEM 41A",
+  "title": "Organic Chemistry I: Structure and Reactivity",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem41c",
+  "description": "This is the first quarter of a three-quarter organic chemistry sequence intended for chemistry, biochemistry, and engineering majors and interested students. The course is a rigorous and in-depth study of fundamental organic chemistry with an introduction to chemical reactivity and synthesis, Bonding theory, structure (including isomerism, stereochemistry, conformations) and physical properties of carbon-containing molecules.\u00a0Students may receive credit for one of the following: CHEM 41A or 40A. Recommended: concurrent or prior enrollment in CHEM 6C or 6CH.\u00a0Prerequisites: CHEM 6B or 6BH.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 6B",
+      "CHEM 6BH"
+    ]
+  },
+  "successors": [
+    "BIBC 100",
+    "BIBC 102",
+    "BIMM 100",
+    "CHEM 114A",
+    "CHEM 120A",
+    "CHEM 141",
+    "CHEM 151",
+    "CHEM 41B",
+    "CHEM 43A",
+    "CHEM 43AM"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "SE 184",
+  "title": "Ground Improvement",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se184",
+  "description": "Concepts underpinning mechanical, hydraulic, chemical and inclusion-based methods of ground improvement will be discussed. Students will be able to understand the advantages, disadvantages and limitations of the various methods; and develop a conceptual design for the most appropriate improvement strategy. Prerequisites: SE 181.",
+  "prereqs": "SE 181"
+}

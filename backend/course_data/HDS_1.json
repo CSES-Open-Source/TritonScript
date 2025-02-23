@@ -1,0 +1,20 @@
+{
+  "code": "HDS 1",
+  "title": "Introduction to Human Developmental Sciences",
+  "units": "4",
+  "dept": "HDS",
+  "anchor": "hds1",
+  "description": "This course introduces students to the central issues in the basic areas in human development. The course will explain relationships between biological, cognitive, social, and cultural aspects of development across the life span. Renumbered from HDP 1. Students may not receive credit for HDP 1 and HDS 1.",
+  "successors": [
+    "COGS 110",
+    "HDS 110",
+    "HDS 111",
+    "HDS 120",
+    "HDS 121",
+    "HDS 122",
+    "HDS 133",
+    "HDS 181",
+    "HDS 191",
+    "PSYC 156"
+  ]
+}

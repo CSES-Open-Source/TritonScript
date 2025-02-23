@@ -1,0 +1,33 @@
+{
+  "code": "BIMM 184",
+  "title": "Computational Molecular Biology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm184",
+  "description": "This advanced course covers the application of machine learning and modeling techniques to biological systems. Topics include gene structure, recognition of DNA and protein sequence patterns, classification, and protein structure prediction. Pattern discovery, hidden Markov models/support vector machines/neural network/profiles, protein structure prediction, functional characterization of proteins, functional genomics/proteomics, metabolic pathways/gene networks. Prerequisites: BIMM 181 or BENG 181 or CSE 181, BIMM 182 or BENG 182 or CSE 182 or CHEM 182.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BIMM 181",
+          "BENG 181",
+          "CSE 181"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BIMM 182",
+          "BENG 182",
+          "CSE 182",
+          "CHEM 182"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "BIMM 185"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "BENG 226",
+  "title": "Foundations of Bioengineering I: Tissue and Cell Properties",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng226",
+  "description": "Modern development of biomechanics at an advanced mathematical level. Description of internal stresses and deformation in living tissues and fluids, thermodynamics. Mechanics of soft connective tissue, extracellular matrix, cells, membranes, and cytoskeleton. Mechanotransduction, migration, adhesion. Blood flow in microvessels. Biomechanical analysis of tissue injury. Recommended preparation: a previous background in biomechanics is strongly recommended prior to taking this course. Prerequisites: graduate standing or consent of instructor. (S)",
+  "successors": [
+    "MAE 209"
+  ]
+}

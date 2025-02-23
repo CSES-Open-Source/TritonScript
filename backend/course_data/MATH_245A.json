@@ -1,0 +1,11 @@
+{
+  "code": "MATH 245A",
+  "title": "Convex Analysis and Optimization I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math245a",
+  "description": "Convex sets and functions, convex and affine hulls, relative interior, closure, and continuity, recession and existence of optimal solutions, saddle point and min-max theory, subgradients and subdifferentials. Recommended preparation: course work in linear algebra and real analysis. Prerequisites: graduate standing.",
+  "successors": [
+    "MATH 245B"
+  ]
+}

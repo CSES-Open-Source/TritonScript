@@ -1,0 +1,34 @@
+{
+  "code": "ECON 172A",
+  "title": "Operations Research A",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ172a",
+  "description": "Linear and integer programming, elements of zero-sum, two-person game theory, and specific combinatorial algorithms. Credit not allowed for both ECON 172A and MATH 171A. Prerequisites: ECON 100A; and ECON 120A or ECE 109 or MATH 180A or MATH 183 or MATH 186; and MATH 18 or 31AH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 100A",
+      {
+        "type": "one",
+        "courses": [
+          "ECON 120A",
+          "ECE 109",
+          "MATH 180A",
+          "MATH 183",
+          "MATH 186"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "ECON 172B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "code": "CHEM 123",
+  "title": "Advanced Inorganic Chemistry Laboratory",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem123",
+  "description": "Synthesis, analysis, and physical characterization of inorganic chemical compounds. Program or materials fees may apply. Prerequisites: CHEM 120A, 120B and 43A, 143A, 43AM or 143AH. Restricted to the following major codes: CH25, CH31, CH34, CH35, CH36, CH37.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 120A",
+      "CHEM 120B",
+      "CHEM 43A",
+      "CHEM 143A",
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 43AM",
+          "CHEM 143AH"
+        ]
+      }
+    ]
+  }
+}

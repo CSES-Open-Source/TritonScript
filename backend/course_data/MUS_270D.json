@@ -1,0 +1,16 @@
+{
+  "code": "MUS 270D",
+  "title": "Advanced Projects in Computer Music",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus270d",
+  "description": "Meetings on group basis with computer music faculty in support of individual student research projects. Prerequisites: consent of instructor and completion of MUS 270A-B-C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MUS 270A",
+      "MUS 270B",
+      "MUS 270C"
+    ]
+  }
+}

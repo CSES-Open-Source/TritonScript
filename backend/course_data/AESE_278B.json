@@ -1,0 +1,28 @@
+{
+  "code": "AESE 278B",
+  "title": "Enterprise Architecting",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "aese278b",
+  "description": "Architectural foundations, frameworks, standards, and infrastructures with an emphasis on layered architectures, loose coupling, architecture evolution, service- and component-oriented architectures, enterprise service buses, metadata and information virtualization, ontologies, Semantic Web, policy and governance, service-level agreements, information assurance essentials. This course will meet from 8:00 a.m. to 5:00 p.m. every alternating Friday and Saturday. Prerequisites: enrollment in MAS-AESE, MGT 291, MGT 406, and AESE 278A or MAE 277A or ECE 205 or CSE 278A, or instructor approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGT 291",
+      "MGT 406",
+      {
+        "type": "one",
+        "courses": [
+          "AESE 278A",
+          "MAE 277A",
+          "ECE 205",
+          "CSE 278A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "AESE 278C",
+    "AESE 278E"
+  ]
+}

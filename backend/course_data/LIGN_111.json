@@ -1,0 +1,12 @@
+{
+  "code": "LIGN 111",
+  "title": "Phonology I",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign111",
+  "description": "Why does one language sound different from another? This course analyzes how languages organize sounds into different patterns, how those sounds interact, and how they fit into larger units, such as syllables. Focus on a wide variety of languages and problem solving. Prerequisites: LIGN 110.",
+  "prereqs": "LIGN 110",
+  "successors": [
+    "LIGN 115"
+  ]
+}

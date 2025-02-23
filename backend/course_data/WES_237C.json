@@ -1,0 +1,8 @@
+{
+  "code": "WES 237C",
+  "title": "Hardware for Embedded Systems",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "wes237c",
+  "description": "Embedded system building blocks including IP cores, hardware synthesis, optimizations for size, power, energy, and throughput, FPGA and ASIC design flows, formal verification and testing, device interfaces, I/O handling."
+}

@@ -1,0 +1,34 @@
+{
+  "code": "AESE 278D",
+  "title": "Engineering Essentials for Open, Distributed Systems",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "aese278d",
+  "description": "Engineering tools and their use in defining the layered and service-oriented architectures, Unified Modeling Language and enterprise architecture tools, business and process modeling tools, visualization methods, data and information management tools, comprehensive domain modeling, architecture implementation via enterprise service buses. This workshop course meets once a quarter from Wednesday to Saturday from 8:00 a.m. to 5:00 p.m. for more intensive interaction. Prerequisites: enrollment in MAS-AESE, AESE 278A (or CSE 278A or ECE 205A or MAE 277A), AESE 278C (or CSE 278C or ECE 206 or MAE 278A), or instructor approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "AESE 278A",
+          "CSE 278A",
+          "ECE 205A",
+          "MAE 277A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "AESE 278C",
+          "CSE 278C",
+          "ECE 206",
+          "MAE 278A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "AESE 278E"
+  ]
+}

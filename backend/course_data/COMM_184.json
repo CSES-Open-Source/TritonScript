@@ -1,0 +1,22 @@
+{
+  "code": "COMM 184",
+  "title": "Global Nature/Global Culture",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm184",
+  "description": "Considers globalization\u2019s impact on concepts of nature in and through media texts, information systems, circulation of consumer goods and services, the emergence of global brands, science, health initiatives, environmental media activism, technology transfer in the twentieth and early twenty-first centuries. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "TMC 198",
+  "title": "Thurgood Marshall College Directed Group Studies",
+  "units": "4",
+  "dept": "TMC",
+  "anchor": "tmc198",
+  "description": "Directed group studies of a creative project. Designated for TMC students to work as a group on a project supervised by faculty; not included in regular curriculum, where group emphasis would be more beneficial and constructive than individual special studies. Prerequisites: upper-division standing (ninety units) including lower-division writing requirement (DOC 2 and DOC 3), minimum overall GPA of 2.5 and consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DOC 2",
+      "DOC 3"
+    ]
+  }
+}

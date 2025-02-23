@@ -1,0 +1,21 @@
+{
+  "code": "SE 243",
+  "title": "Soil-Structure Interaction",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se243",
+  "description": "Advanced treatment of the dynamic interaction between soils and structures. Dynamic response of shallow and embedded foundations. Kinematic and inertial interaction. General computational and approximate analytical methods of analysis. Prerequisites: SE 200 and SE 203 or SE 203A, graduate standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SE 200",
+      {
+        "type": "one",
+        "courses": [
+          "SE 203",
+          "SE 203A"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "CSE 132C",
+  "title": "Database System Implementation",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse132c",
+  "description": "This is a systems-focused course on the internals of a relational database management system (RDBMS). RDBMSs power large-scale structured data management in most digital applications. The topics span data storage, buffer management, indexing, sorting, relational operator implementations, query processing and optimization, parallel RDBMSs, and \u201cBig Data\u201d systems. Two C++ programming projects require implementation of a buffer manager and a B+ tree index using a given RDBMS skeleton. Recommended preparation: C++ programming knowledge is required; CSE 132B is recommended. Prerequisites: CSE 132A or DSC 102; restricted to CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 132A",
+      "DSC 102"
+    ]
+  }
+}

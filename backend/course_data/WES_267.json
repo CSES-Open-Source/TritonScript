@@ -1,0 +1,8 @@
+{
+  "code": "WES 267",
+  "title": "Digital Signal Processing for Wireless Embedded Systems",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "wes267",
+  "description": "Review of discrete-time systems and signals, discrete-time Fourier transform and its properties, the fast Fourier transform, design of finite impulse response (FIR) and infinite impulse response (IIR) filters, implementation of digital filters. Sampling and quantization of baseband signals; A/D and D/A conversion, quantization noise, oversampling and noise shaping."
+}

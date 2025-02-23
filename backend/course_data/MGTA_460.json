@@ -1,0 +1,16 @@
+{
+  "code": "MGTA 460",
+  "title": "Business Analytics Project Management",
+  "units": "2",
+  "dept": "MGT",
+  "anchor": "mgta460",
+  "description": "Many projects fail to produce valuable results, are over budget, or not finished on time. This course will teach students how to set and manage goals and expectations of the team and of the executive sponsors for business analytics projects. Prerequisites: MGTA 451, MGTA 452, MGTA 453, and restricted to MS in business analytics program or with department and instructor approval.\u00a0",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGTA 451",
+      "MGTA 452",
+      "MGTA 453"
+    ]
+  }
+}

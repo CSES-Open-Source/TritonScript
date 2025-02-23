@@ -1,0 +1,25 @@
+{
+  "code": "ECON 129",
+  "title": "Cities, Inequality, Innovation",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ129",
+  "description": "Explores the dual role of cities as places of innovation and job creation but also places of great economic inequality and segregation over the last century. Studies the experience of American cities, identifying fundamental forces that made them prosper or decline. Connect cities to observed aggregate trends in innovation, job creation, and economic inequality. Practices use of GIS software to organize and analyze spatial data. Prerequisites: ECON 110A and (ECON 120A or ECE 109 or MAE 108 or MATH 180A or MATH 183 or MATH 186).",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 110A",
+      {
+        "type": "one",
+        "courses": [
+          "ECON 120A",
+          "ECE 109",
+          "MAE 108",
+          "MATH 180A",
+          "MATH 183",
+          "MATH 186"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "MUS 160B",
+  "title": "Senior Project in Computing Arts II",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus160b",
+  "description": "Continuation of MUS 160A or VIS 160A. Completion and presentation of independent projects along with documentation. Two production-course limitation. Renumbered from ICAM 160B. Students may receive credit for only one of the following: MUS 160B, VIS 160B, ICAM 160B. Prerequisites: MUS 160A or VIS 160A. Open to music and ICAM majors only. Department approval required.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MUS 160A",
+      "VIS 160A"
+    ]
+  }
+}

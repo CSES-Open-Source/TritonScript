@@ -1,0 +1,14 @@
+{
+  "code": "SE 3",
+  "title": "Graphical Communication for Engineering Design",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se3",
+  "description": "Use of computer graphics (CAD software) to communicate engineering designs. Includes visualization, sketching, 2D and 3D graphics standards, dimensioning, tolerance, assemblies, and prototyping/testing with light manufacturing methods. Project/system management software, i.e., building information modeling (BIM), will be introduced. Use of computer resources. Prerequisites: SE 1",
+  "prereqs": "SE 1",
+  "successors": [
+    "SE 103",
+    "SE 131A",
+    "SE 143A"
+  ]
+}

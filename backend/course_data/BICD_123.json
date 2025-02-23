@@ -1,0 +1,15 @@
+{
+  "code": "BICD 123",
+  "title": "Plant Molecular Genetics and Biotechnology Laboratory",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bicd123",
+  "description": "Techniques in plant cell and tissue culture, plant transformation, genetic selection and screening of mutants, host pathogen interactions, gene regulation, organelle isolation, membrane transport. Attendance at the first lecture/lab is required. Nonattendance may result in the student being dropped from the course roster. Recommended preparation: BICD 120. Material lab fees will apply. Prerequisites: upper-division standing; BICD 100 or BICD 100R.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BICD 100",
+      "BICD 100R"
+    ]
+  }
+}

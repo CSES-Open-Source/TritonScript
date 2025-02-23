@@ -1,0 +1,26 @@
+{
+  "code": "MAE 160",
+  "title": "Mechanical Behavior of Materials",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae160",
+  "description": "Elasticity and inelasticity, dislocations and plasticity of crystals, creep, and strengthening mechanisms. Mechanical behavior of ceramics, composites, and polymers. Fracture: mechanical and microstructural. Fatigue. Laboratory demonstrations of selected topics. Prerequisites: MAE 20, MAE 30A or MAE 130A or SE 101A, and MAE 131A, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 20",
+      {
+        "type": "one",
+        "courses": [
+          "MAE 30A",
+          "MAE 130A",
+          "SE 101A"
+        ]
+      },
+      "MAE 131A"
+    ]
+  },
+  "successors": [
+    "MAE 156B"
+  ]
+}

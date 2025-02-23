@@ -1,0 +1,22 @@
+{
+  "code": "COMM 102P",
+  "title": "MMPP: Television Analysis and Production",
+  "units": "6",
+  "dept": "COMM",
+  "anchor": "comm102p",
+  "description": "An introduction to the techniques and conventions common in television production with equal emphasis on method and content. Studio sessions provide students with opportunities to experiment in framing subject matter through a variety of cinematographic methods. May be taken for credit three times. Prerequisites: COMM 10 and COMM 101 or COGN 22 or VIS 70N.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 101",
+          "COGN 22",
+          "VIS 70N"
+        ]
+      }
+    ]
+  }
+}

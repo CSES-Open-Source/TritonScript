@@ -1,0 +1,16 @@
+{
+  "code": "CHEM 114D",
+  "title": "Molecular and Cellular Biochemistry",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem114d",
+  "description": "This course represents a continuation of 114C, or an introductory course for first- and second-year graduate students and covers topics in molecular and cellular biochemistry. Emphasis will be placed on contemporary approaches to the isolation and characterization of mammalian genes and proteins, and molecular genetic approaches to understanding eukaryotic development and human disease. May be coscheduled with CHEM 214. Prerequisites: CHEM 114A, 114B, and 114C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 114A",
+      "CHEM 114B",
+      "CHEM 114C"
+    ]
+  }
+}

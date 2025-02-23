@@ -1,0 +1,15 @@
+{
+  "code": "SIO 145",
+  "title": "Introduction to Field Methods in Biological Oceanography",
+  "units": "6",
+  "dept": "SIO",
+  "anchor": "sio145",
+  "description": "Diverse biological communities of the open ocean drive marine biogeochemistry and food webs. This laboratory course introduces students to methods used to quantify biomass and consumption rates of organisms spanning phytoplankton to fishes. Laboratory and computational methods for analyzing biological samples are presented. Students receive hands-on, at-sea experience for sampling multiple levels of the pelagic food web, through active participation in two single-day oceanographic cruises. Prerequisites: SIO 134 or BIEB 134.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIO 134",
+      "BIEB 134"
+    ]
+  }
+}

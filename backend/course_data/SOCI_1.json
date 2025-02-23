@@ -1,0 +1,11 @@
+{
+  "code": "SOCI 1",
+  "title": "Introduction to Sociology",
+  "units": "4",
+  "dept": "SOC",
+  "anchor": "soci1",
+  "description": "An introduction to the organizing themes and ideas, empirical concerns, and analytical approaches of the discipline of sociology. The course focuses on both classical and contemporary views of modern society, on the nature of community, and on inequality, with special attention to class, race, and gender. Materials include both theoretical statements and case studies. Will not receive credit for SOCI 1 and SOCL 1A.",
+  "successors": [
+    "SOCG 227"
+  ]
+}

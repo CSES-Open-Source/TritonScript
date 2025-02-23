@@ -1,0 +1,16 @@
+{
+  "code": "TDDR 191",
+  "title": "Major Project in Stage Management",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tddr191",
+  "description": "For the advanced student in stage management. Intensive concentration on the full realization of a dramatic text, from research and analysis through rehearsal and final performance. A maximum of eight units of major project study regardless of area (design, directing, stage management, or playwriting) may be used to fulfill major requirements. See department for application. May be taken for credit two times. Prerequisites: THPR or TDPR 4, THPR or TDPR 104, THDR or TDDR 101, consent of instructor, and department stamp.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "TDPR 4",
+      "TDPR 104",
+      "TDDR 101"
+    ]
+  }
+}

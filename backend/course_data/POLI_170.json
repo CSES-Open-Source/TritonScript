@@ -1,0 +1,16 @@
+{
+  "code": "POLI 170",
+  "title": "Algorithms, Public Policy, and Ethics",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli170",
+  "description": "The deployment of predictive algorithms for public policy optimization has increased in recent years across a variety of domains. This course will introduce key concepts, considerations, and concerns relating to algorithmic decision-making in policy processes. This includes understanding how data are used to make predictions, how predictions can be used to aid decision-making, the conditions under which these practices will be effective, and the important ethical dimensions of these practices. Prerequisites: POLI 5, POLI 5D, or ECON 5.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "POLI 5",
+      "POLI 5D",
+      "ECON 5"
+    ]
+  }
+}

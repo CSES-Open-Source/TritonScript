@@ -1,0 +1,9 @@
+{
+  "code": "SE 143B",
+  "title": "Aerospace Structural Design II",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se143b",
+  "description": "Detailed structural design of aircraft and space vehicles. Composite material design considerations. Multidisciplinary design optimization. Introduction to aerospace computer-aided design and analysis tools. Team projects include the analysis, fabrication, and testing of a flight vehicle component. Oral presentations. Written reports. Use of computer resources. Program or materials fees may apply. Prerequisites: SE 143A.",
+  "prereqs": "SE 143A"
+}

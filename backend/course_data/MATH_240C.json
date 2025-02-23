@@ -1,0 +1,14 @@
+{
+  "code": "MATH 240C",
+  "title": "Real Analysis III",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math240c",
+  "description": "Third course in graduate real analysis. Abstract measure and integration theory, integration on product spaces. Lebesgue measure and integral, Lebesgue-Stieltjes integrals, functions of bounded variation, differentiation of measures. Locally compact Hausdorff spaces, Banach and Hilbert spaces, linear functionals. Lebesgue spaces and interpolation, elements of Fourier analysis and distribution theory. Prerequisites: MATH 240B. Students who have not completed MATH 240B may enroll with consent of instructor.",
+  "prereqs": "MATH 240B",
+  "successors": [
+    "MATH 231A",
+    "MATH 241A",
+    "MATH 242"
+  ]
+}

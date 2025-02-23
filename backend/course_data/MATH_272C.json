@@ -1,0 +1,9 @@
+{
+  "code": "MATH 272C",
+  "title": "Numerical Partial Differential Equations III",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math272c",
+  "description": "Time dependent (parabolic and hyperbolic) PDEs. Method of lines. Stiff systems of ODEs. Space-time finite element methods. Adaptive meshing algorithms. A posteriori error estimates. Prerequisites: MATH 272B or consent of instructor.",
+  "prereqs": "MATH 272B"
+}

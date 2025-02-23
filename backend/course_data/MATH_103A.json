@@ -1,0 +1,21 @@
+{
+  "code": "MATH 103A",
+  "title": "Modern Algebra I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math103a",
+  "description": "First course in a two-quarter introduction to abstract algebra with some applications. Emphasis on group theory. Topics include definitions and basic properties of groups, properties of isomorphisms, subgroups. (Students may not receive credit for both MATH 100A and MATH 103A.) Prerequisites: MATH 31CH or MATH 109 or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 31CH",
+      "MATH 109"
+    ]
+  },
+  "successors": [
+    "CSE 105",
+    "MATH 103B",
+    "MATH 160A",
+    "MATH 188"
+  ]
+}

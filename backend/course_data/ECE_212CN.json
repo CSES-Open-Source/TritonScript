@@ -1,0 +1,9 @@
+{
+  "code": "ECE 212CN",
+  "title": "Nanophotonics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece212cn",
+  "description": "Photonic properties of artificially engineered inhomogeneous nanoscale composite materials incorporating dielectrics, semiconductors, and/or metals. Near-field localization effects and applications. Device and component applications. Students may not receive credit for both ECE 212CN and 212B. Prerequisites: ECE 212BN; graduate standing.",
+  "prereqs": "ECE 212BN"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "ECE 161A",
+  "title": "Introduction to Digital Signal Processing",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece161a",
+  "description": "Review of discrete-time systems and signals, Discrete-Time Fourier Transform and its properties, the Fast Fourier Transform, design of Finite Impulse Response (FIR) and Infinite Impulse Response (IIR) filters, implementation of digital filters. Prerequisites: ECE 101.",
+  "prereqs": "ECE 101",
+  "successors": [
+    "ECE 157A",
+    "ECE 157B",
+    "ECE 161B",
+    "ECE 161C"
+  ]
+}

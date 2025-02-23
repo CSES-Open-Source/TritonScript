@@ -1,0 +1,28 @@
+{
+  "code": "PSYC 71",
+  "title": "Laboratory in Psychological Research Methods",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc71",
+  "description": "This course provides hands-on research experience. Lecture topics will include experimental and nonexperimental designs, research ethics, data analysis, and causal inference. Students will design original research projects, collect and analyze data, and write a full APA-style report, including a brief literature review relevant to their design. This course builds on PSYC 70 by applying design principles to students\u2019 own research questions and ideas.\u00a0Open to the following Department of Psychology majors only: PC26, PC28, PC29, PC30, PC31, PC32, PC33.\u00a0Prerequisites: upper-division standing,\u00a0COGS 14B or PSYC 60 or MATH 11 and PSYC 70 or COGS 14A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "COGS 14B",
+          "PSYC 60",
+          "MATH 11"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PSYC 70",
+          "COGS 14A"
+        ]
+      }
+    ]
+  }
+}

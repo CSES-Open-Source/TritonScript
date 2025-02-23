@@ -1,0 +1,14 @@
+{
+  "code": "VIS 41",
+  "title": "Design Communication",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis41",
+  "description": "This course provides a strong foundation in contemporary techniques of design communication, introduced in light of their significance to visual culture and the speculative design field. We cover digital image editing, typography, vector-based illustration and diagramming, and document layout. Also introduced are basic digital video editing tools and web production formats. Emphasis is on mastery of craft through iteration and presentation of multiple projects. Prerequisites: none.",
+  "successors": [
+    "VIS 133A",
+    "VIS 135",
+    "VIS 147A",
+    "VIS 163"
+  ]
+}

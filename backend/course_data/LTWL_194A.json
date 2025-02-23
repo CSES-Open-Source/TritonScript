@@ -1,0 +1,15 @@
+{
+  "code": "LTWL 194A",
+  "title": "Honors Practicum",
+  "units": "1",
+  "dept": "LIT",
+  "anchor": "ltwl194a",
+  "description": "Honors practicum for those students in the literature department Honors Program. This is a one-unit course for which students in the Honors Program will present their work as part of organized panels at an Honors Program conference (within the department). Students will receive a P/NP grade for LTWL 194A for completing the presentation.  Prerequisites:  LTWL 194 or LTWR 194, and senior standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTWL 194",
+      "LTWR 194"
+    ]
+  }
+}

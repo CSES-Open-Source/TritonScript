@@ -1,0 +1,16 @@
+{
+  "code": "CHEM 158",
+  "title": "Applied Spectroscopy",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem158",
+  "description": "Intensive coverage of modern spectroscopic techniques used to determine the structure of organic molecules. Problem solving and interpretation of spectra will be emphasized. May be coscheduled with CHEM 258. Prerequisites: CHEM 40C, 40CH, or 41C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 40C",
+      "CHEM 40CH",
+      "CHEM 41C"
+    ]
+  }
+}

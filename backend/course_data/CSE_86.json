@@ -1,0 +1,9 @@
+{
+  "code": "CSE 86",
+  "title": "C++ for Java Programmers",
+  "units": "2",
+  "dept": "CSE",
+  "anchor": "cse86",
+  "description": "Helps the Java programmer to be productive in the C++ programming environment. Topics include the similarities and differences between Java and C++ with special attention to pointers, operator overloading, templates, the STL, the preprocessor, and the C++ Runtime Environment. Prerequisites: CSE 12 or consent of instructor.",
+  "prereqs": "CSE 12"
+}

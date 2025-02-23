@@ -1,0 +1,12 @@
+{
+  "code": "LIHI 1AX",
+  "title": "Analysis of Hindi",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lihi1ax",
+  "description": "Presentation and practice of the basic grammatical structures needed for oral and written communication and for reading. This course is taught entirely in Hindi. Must be taken in conjunction with LIHI 1A. Prerequisites: no prior study of Hindi.",
+  "successors": [
+    "LIHI 1B",
+    "LIHI 1BX"
+  ]
+}

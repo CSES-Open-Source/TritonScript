@@ -1,0 +1,22 @@
+{
+  "code": "COMM 174",
+  "title": "Communication and Social Machines",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm174",
+  "description": "An examination of the questions that developments in robotics pose to the scholars of communication: How do we communicate when our interlocutors are nonhumans? How do we study objects that are claimed to be endowed with social and affective character? Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

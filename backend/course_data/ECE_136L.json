@@ -1,0 +1,9 @@
+{
+  "code": "ECE 136L",
+  "title": "Microelectronics Laboratory",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece136l",
+  "description": "Laboratory fabrication of diodes and field-effect transistors covering photolithography, oxidation, diffusion, thin film deposition, etching and evaluation of devices. (Course materials and/or program fees may apply.) Prerequisites: ECE 135B.",
+  "prereqs": "ECE 135B"
+}

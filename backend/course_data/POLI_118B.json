@@ -1,0 +1,15 @@
+{
+  "code": "POLI 118B",
+  "title": "The Political Theory of Liberation Theology",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli118b",
+  "description": "A comparative study of liberation theologies, including continental, Latin American, South African, and East Asian. Prerequisites: upper-division standing and POLI 13 or POLI 13D.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "POLI 13",
+      "POLI 13D"
+    ]
+  }
+}

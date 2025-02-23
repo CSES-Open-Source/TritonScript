@@ -1,0 +1,26 @@
+{
+  "code": "CSE 21",
+  "title": "Mathematics for Algorithms and Systems",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse21",
+  "description": "This course will cover mathematical concepts used to model and analyze algorithms and computer systems. Topics include counting techniques (inclusion-exclusion; recursive counting; permutations and combinations), data representations, analysis of algorithms (order notation; time complexities; loop invariants), recurrence relations, graphs and trees (data structure representations; basic graph algorithms; special classes of graphs), and basic probability and its applications. Prerequisites: CSE 20 or MATH 15A or MATH 31CH; students who have completed MATH 154 or MATH 184 or MATH 188 previously or concurrently may not receive credit for CSE 21; restricted to undergraduates. Graduate students will be allowed as space permits.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 20",
+      "MATH 15A",
+      "MATH 31CH"
+    ]
+  },
+  "successors": [
+    "CSE 100",
+    "CSE 100R",
+    "CSE 101",
+    "CSE 103",
+    "CSE 105",
+    "CSE 106",
+    "CSE 107",
+    "CSE 127"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 176",
+  "title": "Literature and Nation",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp176",
+  "description": "Study of literature as a means through which the nation has been imagined and as a site of debates over national identity and citizenship. Course materials may focus on Spain and/or Latin America. May be taken for credit up to two times as topics vary.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

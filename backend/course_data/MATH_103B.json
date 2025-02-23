@@ -1,0 +1,19 @@
+{
+  "code": "MATH 103B",
+  "title": "Modern Algebra II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math103b",
+  "description": "Second course in a two-quarter introduction to abstract algebra with some applications. Emphasis on rings and fields. Topics include definitions and basic properties of rings, fields, and ideals, homomorphisms, irreducibility of polynomials. (Students may not receive credit for both MATH 100B and MATH 103B.) Prerequisites: MATH 103A or MATH 100A or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 103A",
+      "MATH 100A"
+    ]
+  },
+  "successors": [
+    "MATH 104A",
+    "MATH 106"
+  ]
+}

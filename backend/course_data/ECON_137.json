@@ -1,0 +1,15 @@
+{
+  "code": "ECON 137",
+  "title": "Corruption",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ137",
+  "description": "This course examines corruption in developing countries today, with the aims of understanding why it occurs, what the consequences are, and what can or should be done about it. In the process, we will endeavor to build practical problem-solving and communication skills. As such, the course is designed for future leaders in business, nonprofit, and public service settings who seek to develop their ability to map high-quality research into pragmatic enterprise decision making. Prerequisites: ECON 100C and 120C. Enrollment limited to majors in the Department of Economics and MA33 only; department approval required.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 100C",
+      "ECON 120C"
+    ]
+  }
+}

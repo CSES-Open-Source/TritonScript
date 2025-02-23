@@ -1,0 +1,22 @@
+{
+  "code": "COMM 177",
+  "title": "Culture, Domination, and Resistance",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm177",
+  "description": "Explores theories and narratives of cultural power, contemporary practices of resistance. Texts from a wide range of disciplines consider how domination is enacted, enforced, and what modes of resistance are employed to contend with uses and abuses of political power. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

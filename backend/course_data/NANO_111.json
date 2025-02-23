@@ -1,0 +1,12 @@
+{
+  "code": "NANO 111",
+  "title": "Characterization of NanoEngineering Systems",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano111",
+  "description": "Fundamentals and hands-on practice of methods to image, measure, and analyze materials and devices that are structured on the nanometer scale. Optical and electron microscopy; scanning probe methods; photon, ion, and electron probe methods; spectroscopic, magnetic, electrochemical, and thermal methods. Prerequisites: NANO 102.",
+  "prereqs": "NANO 102",
+  "successors": [
+    "NANO 115L"
+  ]
+}

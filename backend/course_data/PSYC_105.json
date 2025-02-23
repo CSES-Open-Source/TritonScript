@@ -1,0 +1,12 @@
+{
+  "code": "PSYC 105",
+  "title": "Cognitive Psychology",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc105",
+  "description": "This course provides a comprehensive overview of cognitive psychology, the scientific study of mental processes: how people acquire, store, transform, use, and communicate information. Topics may include perception, attention, language, memory, reasoning, problem solving, decision-making, and creativity. Prerequisites: upper-division standing.",
+  "successors": [
+    "COGS 279",
+    "PSYC 136"
+  ]
+}

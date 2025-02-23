@@ -1,0 +1,12 @@
+{
+  "code": "LIPO 1A",
+  "title": "Portuguese Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lipo1a",
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Emphasis on the language and culture of Brazil. Must be taken in conjunction with LIPO 1AX. Prerequisites: no prior study of Portuguese.",
+  "successors": [
+    "LIPO 1B",
+    "LIPO 1BX"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "VIS 145B",
+  "title": "Time- and Process-Based Digital Media II",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis145b",
+  "description": "Students will implement time- and process-based projects under direction of faculty. Projects such as software and hardware interfacing, computer mediated performance, software art, installation, interactive environments, data visualization and sonification will be produced as advanced study and portfolio project. Program or materials fees may apply. Two production-course limitation. Prerequisites: VIS 145A or ICAM 102. Open to ICAM and speculative design majors and computing and the arts and speculative design minors.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 145A",
+      "ICAM 102"
+    ]
+  },
+  "successors": [
+    "MUS 160A",
+    "VIS 160A"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "CENG 15",
+  "title": "Engineering Computation Using MATLAB",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng15",
+  "description": "Introduction to solution of engineering problems using computational methods. Formulating problem statements, selecting algorithms, writing computer programs, and analyzing output using MATLAB. Computational problems from NanoEngineering, chemical engineering, and materials science are introduced. The course requires no prior programming skills. Cross-listed with NANO 15.\u00a0Students may only receive credit for one of the following: CENG 15, CENG 15R, NANO 15, or NANO 15R.",
+  "successors": [
+    "CENG 113",
+    "CENG 114",
+    "CENG 120",
+    "NANO 110",
+    "NANO 114"
+  ]
+}

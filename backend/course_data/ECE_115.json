@@ -1,0 +1,9 @@
+{
+  "code": "ECE 115",
+  "title": "Fast Prototyping",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece115",
+  "description": "Lab-based course. Students will learn how to prototype a mechatronic solution. Topics include cheap/accessible materials and parts; suppliers; fast prototyping techniques; useful electronic sketches and system integration shortcuts. Students will learn to materialize their electromechanical ideas and make design decisions to minimize cost, improve functionality/robustness. Labs will culminate toward a fully functional robot prototype for demonstration. Prerequisites: ECE 16 or consent of instructor.",
+  "prereqs": "ECE 16"
+}

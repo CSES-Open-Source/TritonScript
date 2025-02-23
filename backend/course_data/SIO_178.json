@@ -1,0 +1,23 @@
+{
+  "code": "SIO 178",
+  "title": "Geophysical Fluid Dynamics",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio178",
+  "description": "This course provides an introductory look at physical principles governing ocean currents and atmospheric flow. Topics may include large-scale circulation, ocean eddies, atmospheric storms systems, coastal upwelling, equatorial dynamics, and internal waves. Prerequisites: PHYS 2C and SIO 177 and MATH 18 or MATH 20F or MATH 31AH or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 2C",
+      "SIO 177",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "code": "VIS 141B",
+  "title": "Computer Programming for the Arts II",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis141b",
+  "description": "Students extend their programming capabilities to include the creation of reusable software libraries, packages, database APIs, tools, utilities, and applications intended to be publishable and useful to other practicing artists, or as preparatory work for the student\u2019s senior thesis sequence. Two production-course limitation. Program or materials fees may apply. Prerequisites: VIS 141A. Open to ICAM and speculative design majors and minors only.",
+  "prereqs": "VIS 141A",
+  "successors": [
+    "MUS 160A",
+    "VIS 160A"
+  ]
+}

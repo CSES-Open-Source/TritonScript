@@ -1,0 +1,21 @@
+{
+  "code": "COGS 128",
+  "title": "Information Visualization",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs128",
+  "description": "This course frames information visualization as a quintessential cognitive science problem within our interdisciplinary field. Students learn conceptual and practical aspects of creating high-quality, interactive information displays to support a variety of cognitive tasks and then apply them to real-world data. Prerequisites: COGS 10 or DSGN 1 and COGS 108.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "COGS 10",
+          "DSGN 1"
+        ]
+      },
+      "COGS 108"
+    ]
+  }
+}

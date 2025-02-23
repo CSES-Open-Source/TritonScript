@@ -1,0 +1,15 @@
+{
+  "code": "ECE 265C",
+  "title": "Power Amplifiers for Wireless Communications",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece265c",
+  "description": "Design of power amplifiers for mobile terminals and base-stations, with emphasis on high linearity and efficiency. After a discussion of classical designs (Class A, AB, B, C, D, E, F, and S), linearization procedures are presented and composite architectures (envelope tracking, EER, and Doherty) are covered. Familiarity with basic microwave design and communication system architecture is assumed. Recommended preparation: ECE 166. Prerequisites: ECE 265A-B; consent of instructor; graduate standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 265A",
+      "ECE 265B"
+    ]
+  }
+}

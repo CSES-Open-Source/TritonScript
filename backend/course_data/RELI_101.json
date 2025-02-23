@@ -1,0 +1,12 @@
+{
+  "code": "RELI 101",
+  "title": "Tools and Methods in the Study of Religion",
+  "units": "4",
+  "dept": "RELI",
+  "anchor": "reli101",
+  "description": "This course provides an advanced introduction to assumptions and norms that shape the study of religion as an academic field; to significant debates within the field; and to tools and methods used for professional research within the field.",
+  "successors": [
+    "RELI 189",
+    "RELI 196AH"
+  ]
+}

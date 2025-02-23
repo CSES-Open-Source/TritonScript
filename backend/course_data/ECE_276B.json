@@ -1,0 +1,12 @@
+{
+  "code": "ECE 276B",
+  "title": "Planning and Learning in Robotics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece276b",
+  "description": "This course covers optimal control and reinforcement learning fundamentals and their application to planning and decision-making in mobile robotics. Topics include Markov decision processes (MDP), Pontryagin\u2019s maximum principle, linear quadratic regulation (LQR), deterministic planning, value and policy iteration, and policy gradient methods. Prerequisites: ECE 276A; graduate standing.",
+  "prereqs": "ECE 276A",
+  "successors": [
+    "ECE 276C"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "code": "BENG 160",
+  "title": "Chemical and Molecular Bioengineering Techniques",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng160",
+  "description": "Introductory laboratory course in current principles and techniques of chemistry and molecular biology applicable to bioengineering. Quantitation of proteins and nucleic acids by spectrophotometric, immunological, and enzymatic methods. Separations and purification by centrifugation, chromatographic, and electrophoretic methods. Course materials fees may apply. Prerequisites: BICD 100, BENG 100, MAE 170; majors only or consent of department. (S)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BICD 100",
+      "BENG 100",
+      "MAE 170"
+    ]
+  },
+  "successors": [
+    "BENG 161A",
+    "BENG 162"
+  ]
+}

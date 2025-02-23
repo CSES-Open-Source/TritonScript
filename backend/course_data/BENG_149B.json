@@ -1,0 +1,10 @@
+{
+  "code": "BENG 149B",
+  "title": "Design Implementation in Vascular Bioengineering",
+  "units": "3",
+  "dept": "BENG",
+  "anchor": "beng149b",
+  "description": "Implementation of design project in vascular bioengineering. Prerequisites: BENG 149A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W)",
+  "prereqs": "BENG 149A",
+  "coreqs": "BENG 187C"
+}

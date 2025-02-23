@@ -1,0 +1,18 @@
+{
+  "code": "MAE 122",
+  "title": "Flow and Transport in the Environment",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae122",
+  "description": "Introduction to the air and aquatic environments. Buoyancy, stratification, and rotation. Earth surface energy balance. Introduction to the atmospheric boundary layer. Advection and diffusion. Turbulent diffusion and dispersion in rivers and in the atmospheric boundary layer. Surface waves and internal gravity waves. Prerequisites: MAE 101A or CENG 101A, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 101A",
+      "CENG 101A"
+    ]
+  },
+  "successors": [
+    "MAE 121"
+  ]
+}

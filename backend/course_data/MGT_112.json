@@ -1,0 +1,28 @@
+{
+  "code": "MGT 112",
+  "title": "Global Business Strategy",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt112",
+  "description": "Will examine the advantages and complications of the multinational organization with emphasis on translating marketing, financing, and operating plans in light of geographical, cultural, and legal differences across the globe. Will also cover organizational considerations for transglobal management. Prerequisites: MGT 100 or MGT 103 and MGT 180 or MGT 181 or MGT 187, upper-division standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MGT 100",
+          "MGT 103"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MGT 180",
+          "MGT 181",
+          "MGT 187"
+        ]
+      }
+    ]
+  }
+}

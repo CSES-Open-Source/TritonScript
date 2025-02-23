@@ -1,0 +1,9 @@
+{
+  "code": "BICD 145",
+  "title": "Laboratory in Molecular Medicine",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bicd145",
+  "description": "This course focuses upon a molecular and immunological approach to study problems in modern medical research. The emphasis will be on novel approaches in medicine, including lymphocyte biology, cancer biology, and gene transfer. Material lab fees will apply. Prerequisites: BIMM 100.",
+  "prereqs": "BIMM 100"
+}

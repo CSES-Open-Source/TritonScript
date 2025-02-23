@@ -1,0 +1,8 @@
+{
+  "code": "CSE 275",
+  "title": "Deep Learning for 3-D Data",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse275",
+  "description": "This course teaches state-of-the-art concepts and algorithms of geometry that are being used in computer graphics, computer vision, and machine learning. It covers topics such as geometry foundations (differentiable geometry), 3-D reconstruction, structured 3-D learning, geometry processing, and geometry collection analysis. Recommended preparation: previous course work on deep learning and machine learning courses is highly recommended. Prerequisites: graduate standing. Restricted to students within the CS75, CS76, CS78, CS88, and CS89 majors. All other students will be allowed as space permits."
+}

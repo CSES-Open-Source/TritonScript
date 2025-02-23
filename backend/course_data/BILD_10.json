@@ -1,0 +1,11 @@
+{
+  "code": "BILD 10",
+  "title": "Fundamental Concepts of Modern Biology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bild10",
+  "description": "An introduction to the biochemistry and genetics of cells and organisms; illustrations are drawn from microbiology and human biology. This course is designed for nonbiology students and does not satisfy a lower-division requirement for any biology major. Open to nonbiology majors only. Note: Students may not receive credit for BILD 10 after receiving credit for BILD 1.",
+  "successors": [
+    "COGS 115"
+  ]
+}

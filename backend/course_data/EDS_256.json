@@ -1,0 +1,15 @@
+{
+  "code": "EDS 256",
+  "title": "Introduction to Mixed Methods Research Design and Analysis",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds256",
+  "description": "This course offers an introduction to mixed methods research in education studies. Participants will learn how qualitative and quantitative data can be integrated to capture the perspectives of individuals and organizations to answer complex research questions. The course will cover formulating research questions, collecting and analyzing different types of data, choosing appropriate mixed methods designs, and interpreting mixed methods results. Letter grades only. Prerequisites: EDS 254 and EDS 264. ED82 major or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "EDS 254",
+      "EDS 264"
+    ]
+  }
+}

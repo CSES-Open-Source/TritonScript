@@ -1,0 +1,11 @@
+{
+  "code": "MATH 289A",
+  "title": "Topics in Probability and Statistics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math289a",
+  "description": "Introduction to varied topics in probability and statistics. In recent years, topics have included Markov processes, martingale theory, stochastic processes, stationary and Gaussian processes, ergodic theory. May be taken for credit six times with consent of adviser as topics vary. Prerequisites: graduate standing. Nongraduate students may enroll with consent of instructor.",
+  "successors": [
+    "MATH 289B"
+  ]
+}

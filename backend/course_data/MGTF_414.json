@@ -1,0 +1,8 @@
+{
+  "code": "MGTF 414",
+  "title": "Analyzing Large Data",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgtf414",
+  "description": "Introduction to both structured and unstructured data analysis. Methods for \u201charvesting\u201d internet data and putting it into suitable format will be covered. Other topics include large market microstructure data (tick-by-tick data, high-frequency data), data with missing observations, and Kalman filtering. Letter grades only. Prerequisites: restricted to master of finance program or by consent of instructor and department stamp."
+}

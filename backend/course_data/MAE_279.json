@@ -1,0 +1,8 @@
+{
+  "code": "MAE 279",
+  "title": "Uncertainty Quantification",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae279",
+  "description": "This course is an introduction to uncertainty quantification and will cover basic and advanced computational methods to quantify uncertainties in parameters, systems, and simulation. Covers basics in statistical and stochastic modeling, Monte Carlo sampling techniques including variance reduction and importance sampling, sensitivity analysis, Bayes\u2019 theorem and related Bayesian inference methods (variants of Markov chain Monte Carlo)."
+}

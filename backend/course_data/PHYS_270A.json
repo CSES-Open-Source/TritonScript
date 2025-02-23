@@ -1,0 +1,11 @@
+{
+  "code": "PHYS 270A",
+  "title": "Experimental Techniques for Quantitative Biology",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys270a",
+  "description": "A hands-on laboratory course in which the students learn and use experimental techniques, including optics, electronics, chemistry, machining, and computer interface, to design and develop simple instruments for quantitative characterization of living systems. Lab classes will comprise five two-week modules. Prerequisites: department approval required. Recommended preparation: knowledge of electronics and optics at the level of introductory calculus, basic statistics, programming skills; knowledge of introductory biology.",
+  "successors": [
+    "PHYS 270B"
+  ]
+}

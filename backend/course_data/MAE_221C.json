@@ -1,0 +1,8 @@
+{
+  "code": "MAE 221C",
+  "title": "Convection Heat Transfer",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae221c",
+  "description": "Classical introduction to convection analysis and fundamentals, including detailed treatment of nested boundary layers, turbulent mixing, similarity ad modeling, scale analysis, and the use of general conservation equations. Special topics covered in this course may include high-speed flows, natural convection, viscous dissipation, micro-scale convection, convection on rotating surfaces, and/or convection applications to mechanical and aerospace engineering. Prerequisites: graduate standing."
+}

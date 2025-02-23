@@ -1,0 +1,8 @@
+{
+  "code": "CSE 224",
+  "title": "Graduate Networked Systems",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse224",
+  "description": "This course will provide a broad understanding of network design and implementation. Topics include techniques for building distributed applications, sockets programming, remote procedure calls (RPC), scale-out distributed directories, distributed consensus and state management, fault tolerance, networked storage, indirection, overlay networks, load balancing, and datacenter design. Prerequisites: graduate standing or consent of instructor. This course is intended for MS students. PhD students may only take the course if they are not in systems/networking concentrations."
+}

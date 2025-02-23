@@ -1,0 +1,40 @@
+{
+  "code": "CSE 101",
+  "title": "Design and Analysis of Algorithms",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse101",
+  "description": "Design and analysis of efficient algorithms with emphasis of nonnumerical algorithms such as sorting, searching, pattern matching, and graph and network algorithms. Measuring complexity of algorithms, time and storage. NP-complete problems. Prerequisites: CSE 21 or MATH 154 or MATH 158 or MATH 184 or MATH 188 and CSE 12 or DSC 30; restricted to undergraduates. Graduate students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CSE 21",
+          "MATH 154",
+          "MATH 158",
+          "MATH 184",
+          "MATH 188"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CSE 12",
+          "DSC 30"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "BENG 181",
+    "BIMM 181",
+    "CSE 107",
+    "CSE 120",
+    "CSE 122",
+    "CSE 123",
+    "CSE 124",
+    "CSE 181"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "MGT 5",
+  "title": "Managerial Accounting",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt5",
+  "description": "Internal accounting fundamentals, including cost behavior, cost application methods, overhead allocation methods, break-even analysis, budgeting, cost variance analysis, inventory management, and capital budgeting.",
+  "successors": [
+    "MGT 131A",
+    "MGT 137",
+    "MGT 148",
+    "MGT 181"
+  ]
+}

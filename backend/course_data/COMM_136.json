@@ -1,0 +1,22 @@
+{
+  "code": "COMM 136",
+  "title": "Transmedia",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm136",
+  "description": "Transmedia is a mode of production in which a text or story unfolds across multiple media platforms. Exploring all the facets of this widespread phenomenon\u2014historical, aesthetic, industrial, theoretical, and practical. This course explores and critically analyzes the art and economics of contemporary transmedia. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

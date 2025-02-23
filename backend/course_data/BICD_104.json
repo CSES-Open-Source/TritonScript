@@ -1,0 +1,21 @@
+{
+  "code": "BICD 104",
+  "title": "Genetic Neurobiology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bicd104",
+  "description": "This course will survey studies of the genetic influences on behavior and the use of genetic tools to study behavior and neurobiology, with particular emphasis on studies of the mechanisms underlying various behaviors. Studies of model organisms (bacteria, paramecium, C. elegans, Drosophila, and mice) will be discussed along with their implications for understanding human behavior. The material is highly interdisciplinary, reflecting the variety of experimental approaches to the subject. Prerequisites: BILD 2 and BICD 100 or BICD 100R.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 2",
+      {
+        "type": "one",
+        "courses": [
+          "BICD 100",
+          "BICD 100R"
+        ]
+      }
+    ]
+  }
+}

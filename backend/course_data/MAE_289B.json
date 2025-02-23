@@ -1,0 +1,12 @@
+{
+  "code": "MAE 289B",
+  "title": "Real Analysis for Applications",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae289b",
+  "description": "Topics in real analysis, with the emphasis on those of use in applications.\u00a0May include countable/uncountable, open and closed sets, topology, Borel sets, sigma algebras, measurable functions, integration (Lebesgue), absolute continuity, function spaces, and fixed-point theorems. Prerequisites: MAE 289A, graduate standing, or consent of instructor.",
+  "prereqs": "MAE 289A",
+  "successors": [
+    "MAE 289C"
+  ]
+}

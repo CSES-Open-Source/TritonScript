@@ -1,0 +1,11 @@
+{
+  "code": "CHEM 11",
+  "title": "The Periodic Table",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem11",
+  "description": "Introduction to the material world of atoms and small inorganic molecules. Intended for nonscience majors. Students may not receive credit for both CHEM 4 and CHEM 11.",
+  "successors": [
+    "CHEM 12"
+  ]
+}

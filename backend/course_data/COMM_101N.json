@@ -1,0 +1,15 @@
+{
+  "code": "COMM 101N",
+  "title": "MPL: Sound Production and Manipulation",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm101n",
+  "description": "Advanced seminar in sound production, design, and editing. Students create projects by recording original sounds and editing on a Pro-Tools system. We consider the potential of sound in film, radio, TV, and on the web by reviewing work and reading sound theory. Prerequisites: COMM 10 and COMM 101.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      "COMM 101"
+    ]
+  }
+}

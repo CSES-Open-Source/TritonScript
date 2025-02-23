@@ -1,0 +1,12 @@
+{
+  "code": "PSYC 100",
+  "title": "Clinical Psychology",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc100",
+  "description": "This course provides a comprehensive overview of the causes, characteristics, and treatment of psychological disorders. Particular emphasis is given to the interaction between biological, psychological, and sociocultural processes contributing to abnormal behavior. Students may not receive credit for both PSYC 163 and PSYC 100. Prerequisites: upper-division standing.",
+  "successors": [
+    "PSYC 116A",
+    "PSYC 126"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "MUS 120B",
+  "title": "History of Music in Western Culture II",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus120b",
+  "description": "This sequence introduces key concepts, histories, and practices in contemporary music studies. In this course, students will develop original applications for research skills discussed in MUS 120A. Prerequisites: MUS 120A. Music majors are recommended to take MUS 101B concurrently. Department approval required for nonmajors.",
+  "prereqs": "MUS 120A",
+  "successors": [
+    "MUS 120C"
+  ]
+}

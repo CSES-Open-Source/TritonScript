@@ -1,0 +1,9 @@
+{
+  "code": "ECON 151",
+  "title": "Public Economics: Expenditures I",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ151",
+  "description": "Overview of the public sector in the United States and the scope of government intervention in economic life. Theory of public goods and externalities. Discussion of specific expenditure programs such as education and national defense. Prerequisites: ECON 100C.",
+  "prereqs": "ECON 100C"
+}

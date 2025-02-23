@@ -1,0 +1,24 @@
+{
+  "code": "ECON 3",
+  "title": "Principles of Macroeconomics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ3",
+  "description": "Introductory macroeconomics: unemployment, inflation, business cycles, monetary and fiscal policy. Prerequisites: ECON 1.",
+  "prereqs": "ECON 1",
+  "successors": [
+    "ECON 102",
+    "ECON 110A",
+    "ECON 110B",
+    "ECON 132",
+    "ECON 162",
+    "ECON 164",
+    "ECON 165",
+    "ECON 167",
+    "ECON 168",
+    "ECON 169",
+    "ECON 175",
+    "ECON 181",
+    "ECON 186"
+  ]
+}

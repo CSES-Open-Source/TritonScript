@@ -1,0 +1,16 @@
+{
+  "code": "VIS 169B",
+  "title": "Advanced Photographic Print",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis169b",
+  "description": "This course explores both material and conceptual analog photography practices and advanced darkroom techniques. Students are encouraged to pursue experimental chemical and optical photographic processes including cyanotypes and chemigrams, multiple exposure, medium and large format, and hybrid photo media. Students will be required to create a portfolio of work. Program or materials fees may apply. Two production-course limitation. Prerequisites: VIS 165 or VIS 165A or VIS 165B. Open to media, studio, and ICAM majors and photography and digital film production minors.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 165",
+      "VIS 165A",
+      "VIS 165B"
+    ]
+  }
+}

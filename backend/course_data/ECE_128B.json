@@ -1,0 +1,8 @@
+{
+  "code": "ECE 128B",
+  "title": "Power Grid Modernization",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece128b",
+  "description": "In-depth coverage of the future power grids. Covers the practical aspects of the technologies, their design and system implementation. Topics include the changing nature of the grid with renewable resources, smart meters, synchrophasors (PMU), microgrids, distributed energy resources, and the associated information and communications infrastructures. Presents actual examples and best practices. Students will be provided with various tools."
+}

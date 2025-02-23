@@ -1,0 +1,11 @@
+{
+  "code": "PSYC 124",
+  "title": "Clinical Assessment and Treatment",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc124",
+  "description": "This course provides an introduction to the history, purpose, and recent changes to the Diagnostic and Statistical Manual of Mental Disorders along with appropriate evidence-based interventions. Other topics include psychiatric emergencies, crisis management, and ethics. Recommended preparation: Completion of PSYC 100. Prerequisites: upper-division standing.",
+  "successors": [
+    "PSYC 126"
+  ]
+}

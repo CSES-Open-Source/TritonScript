@@ -1,0 +1,11 @@
+{
+  "code": "EDS 125",
+  "title": "History, Politics, and Theory of Bilingual Education",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds125",
+  "description": "This course provides a historical overview and models of bilingual education in the United States. Students will examine sociocultural, theoretical, and policy issues associated with native language and second-language instruction, and legal requirements for public bilingual program.",
+  "successors": [
+    "EDS 120"
+  ]
+}

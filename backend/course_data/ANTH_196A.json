@@ -1,0 +1,12 @@
+{
+  "code": "ANTH 196A",
+  "title": "Honors Studies in Anthropology",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "anth196a",
+  "description": "Seminar to explore student research interests and methodologies needed to complete Honors Thesis in ANTH 196B. Students will be admitted to the Honors Program by invitation of the department in the spring of their junior year. Completion of this course with a grade of at least B+ is a prerequisite to ANTH 196B. Prerequisites: department approval required.",
+  "successors": [
+    "ANTH 196B",
+    "ANTH 196C"
+  ]
+}

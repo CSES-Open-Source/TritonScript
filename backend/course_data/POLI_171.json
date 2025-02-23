@@ -1,0 +1,33 @@
+{
+  "code": "POLI 171",
+  "title": "Making Policy with Data",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli171",
+  "description": "This class explores how we can make policy recommendations using data. We attempt to establish causal relationships between policy intervention and outcomes based on statistical evidence. Hands-on examples will be provided throughout the course. Prerequisites: POLI 5 or 5D or ECON 5 and POLI 30 or 30D.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "POLI 5",
+          "POLI 5D",
+          "ECON 5"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "POLI 30",
+          "POLI 30D"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "DSC 161",
+    "POLI 175",
+    "POLI 176"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "ANSC 164",
+  "title": "Introduction to Medical Anthropology",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "ansc164",
+  "description": "Basic concepts and theory of medical anthropology are introduced and applied to comparison of medical systems including indigenous and biomedical, taking into account cross-cultural variation in causal explanation, diagnosis, perception, management, and treatment of illness and disease. Prerequisites: upper-division standing.",
+  "successors": [
+    "ANSC 190GS",
+    "ANSC 191GS"
+  ]
+}

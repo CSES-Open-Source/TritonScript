@@ -1,0 +1,15 @@
+{
+  "code": "MGTF 432",
+  "title": "Portfolio Theory in Practice",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgtf432",
+  "description": "Provides students with a deeper and broader understanding of risk-return analysis (especially, but not exclusively, mean-variance analysis) than is common among users. Surveys how risk-return analysis is used in practice and examines the \u201cModern Portfolio Theory Industry\u201d and its entrepreneurs. Letter grades only. Students may not receive credit for both MGT 232 and MGT 282 Topics in Finance course with same course subtitle: Portfolio Theory in Practice. Prerequisites: MGT 281 or MGT 491; restricted to master of finance students, MBA students, or by consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MGT 281",
+      "MGT 491"
+    ]
+  }
+}

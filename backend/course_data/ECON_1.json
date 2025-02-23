@@ -1,0 +1,27 @@
+{
+  "code": "ECON 1",
+  "title": "Principles of Microeconomics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ1",
+  "description": "Introduction to the study of the economic system. Course will introduce the standard economic models used to examine how individuals and firms make decisions in perfectly competitive markets, and how these decisions affect supply and demand in output markets.",
+  "successors": [
+    "ECON 100A",
+    "ECON 102",
+    "ECON 110A",
+    "ECON 110B",
+    "ECON 120A",
+    "ECON 132",
+    "ECON 138",
+    "ECON 162",
+    "ECON 164",
+    "ECON 165",
+    "ECON 167",
+    "ECON 168",
+    "ECON 175",
+    "ECON 181",
+    "ECON 186",
+    "ECON 2",
+    "ECON 3"
+  ]
+}

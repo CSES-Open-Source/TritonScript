@@ -1,0 +1,22 @@
+{
+  "code": "COMM 139",
+  "title": "Examining Marvel\u2019s Black Panther",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm139",
+  "description": "This course looks at the politics of the cinema industry and the development and reception of Marvel\u2019s blockbuster film, Black Panther. We read articles, books, and graphic novels connected to the film examining its reception, impact, and response. We dive deeper into the issues around cinematic representations of Black people with a focus on depictions of African cultures in cinema. We also consider the history and contributions of the original Black Panthers of the 1960s to worldwide cultures. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

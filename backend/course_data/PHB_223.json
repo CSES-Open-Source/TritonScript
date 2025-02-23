@@ -1,0 +1,35 @@
+{
+  "code": "PHB 223",
+  "title": "Analysis of Longitudinal Data",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "phb223",
+  "description": "Analysis of longitudinal data applied to biomedical research. Models for continuous, binary, and count outcomes include the general linear model, linear and generalized linear mixed-effects models, and generalized estimating equations (GEE). Other topics: model building and model selection strategies; types of missing data and dropout; power and sample size calculations. While the focus is on practical statistical modeling, the estimation methodology and computational aspects are explored. Renumbered from FMPH 223. Students may not receive credit for PHB 223 and FMPH 223. Must be taken for a letter grade to be applied to the biostatistics degree requirements. Prerequisites: successful completion of FMPH 222 or PHB 222 and MATH 281A or MATH 282A or FMPH 244B or PHB 244B or program approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 222",
+          "PHB 222"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 281A",
+          "MATH 282A",
+          "FMPH 244B",
+          "PHB 244B"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "PHB 224",
+    "PHB 225",
+    "PHB 226",
+    "PHB 243A"
+  ]
+}

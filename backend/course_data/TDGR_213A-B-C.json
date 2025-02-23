@@ -1,0 +1,15 @@
+{
+  "code": "TDGR 213A-B-C",
+  "title": "Movement for Theatre I",
+  "units": "2-2-2",
+  "dept": "THEA",
+  "anchor": "tdgr-213c",
+  "description": "An intensive studio course in the art of movement as a basis for theatre performance. Theory and practice of energy flow, weight, spatial focus, time consumption, and the shape factor. (S/U grades only.) Prerequisites: THGR or TDGR 213A for B, THGR or TDGR 213B for C; admission to the MFA theatre program.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "TDGR 213A",
+      "TDGR 213B"
+    ]
+  }
+}

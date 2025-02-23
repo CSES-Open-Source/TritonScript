@@ -1,0 +1,15 @@
+{
+  "code": "MUS 101B",
+  "title": "Music Theory and Practice II",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus101b",
+  "description": "Study of tonal harmony and counterpoint. Analysis of Bach chorales and other music from the Baroque period. Musicianship studies: sight-singing, dictation, and keyboard skills. Prerequisites: MUS 2C.",
+  "prereqs": "MUS 2C",
+  "successors": [
+    "MUS 101C",
+    "MUS 102",
+    "MUS 105",
+    "MUS 128"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "MAE 255",
+  "title": "Boundary Layer and Renewable Energy Meteorology",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae255",
+  "description": "Radiative and convective heat transfer in the atmosphere. Surface energy balance and the urban heat island. Turbulence and dispersion in the atmospheric boundary layer. Solar and wind energy systems, resource assessment, and intermittency. Prerequisites: MAE 210A or consent of instructor.",
+  "prereqs": "MAE 210A"
+}

@@ -1,0 +1,9 @@
+{
+  "code": "MAE 293",
+  "title": "Flow Control",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae293",
+  "description": "Intersection of control theory and fluid mechanics. Applications: transition delay, turbulence mitigation, noise reduction, weather forecasting, shape optimization, and UAV\u2019s (perching). Tractable feedback (Riccati-based) formulations via parallel and parabolic flow assumptions. Regularization of variational (adjoint-based) formulations for MPC and MHE. EnKF and EnVE approaches for forecasting. Prerequisites: MAE 290A or consent of instructor.",
+  "prereqs": "MAE 290A"
+}

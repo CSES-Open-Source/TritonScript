@@ -1,0 +1,15 @@
+{
+  "code": "ECE 225B",
+  "title": "Universal Probability and Its Applications in Data Science",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece225b",
+  "description": "In many data science problems, there is only limited information on statistical properties of the data. This course develops the concept of universal probability that can be used as a proxy for the unknown distribution of data and provides a unified framework for several data science problems, including compression, portfolio selection, prediction, and classification. Prerequisites: ECE 225A or ECE 250; graduate standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECE 225A",
+      "ECE 250"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "VIS 143",
+  "title": "Virtual Environments",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis143",
+  "description": "Students develop artworks and performances in current virtual environments. Projects may be done individually or in groups in multiplayer games, immersive life platforms, or mixed reality projects and performances. Exploration of theoretical issues involved will underlie acquisition of techniques utilized in the construction of virtual environments. Materials fees required. Prerequisites: VIS 142; CSE 11 recommended. Open to visual arts majors and ICAM minors only. Two production-course limitation.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "VIS 142",
+      "CSE 11"
+    ]
+  }
+}

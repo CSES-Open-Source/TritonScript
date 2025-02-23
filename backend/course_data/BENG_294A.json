@@ -1,0 +1,11 @@
+{
+  "code": "BENG 294A",
+  "title": "Patient-Centered Clinical Medicine for Bioengineers",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng294a",
+  "description": "Case-based introduction to patient-focused reasoning. Covers principles of quantitative physiology, medical devices (diagnostic and therapeutic), and complexities of real-world care settings. Emphasis on cardiopulmonary diseases. Prerequisites: bioengineering MS medicine majors only or consent of department.",
+  "successors": [
+    "BENG 294B"
+  ]
+}

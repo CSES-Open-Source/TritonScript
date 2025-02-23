@@ -1,0 +1,11 @@
+{
+  "code": "LIGN 270",
+  "title": "Topics in Psycholinguistics",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign270",
+  "description": "We will discuss issues in theoretical linguistics from a perspective of language representation and processing, and current development in psycholinguistics and neighboring disciplines from a methodological point of view. May be taken for credit up to three times when topics vary.",
+  "successors": [
+    "LIGN 271"
+  ]
+}

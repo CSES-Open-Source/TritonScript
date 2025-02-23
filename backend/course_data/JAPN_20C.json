@@ -1,0 +1,14 @@
+{
+  "code": "JAPN 20C",
+  "title": "Second-Year Japanese",
+  "units": "5",
+  "dept": "JAPN",
+  "anchor": "japn20c",
+  "description": "Students will improve their fundamental skills in listening, speaking, reading, and writing including acquiring knowledge of Japanese culture and customs. Students will conduct research including writing a short essay and presentation. Prerequisites: previous course or consent of instructor.",
+  "successors": [
+    "JAPN 135A",
+    "JAPN 137A",
+    "JAPN 137B",
+    "JAPN 137C"
+  ]
+}

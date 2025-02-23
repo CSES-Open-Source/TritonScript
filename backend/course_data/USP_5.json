@@ -1,0 +1,11 @@
+{
+  "code": "USP 5",
+  "title": "Introduction to the Real Estate and Development Process",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp5",
+  "description": "This course introduces students to the terminology, concepts, and basic practices of real estate finance and development. It surveys real estate law, appraisal, marketing, brokerage, management, finance, investment analysis, and taxation.",
+  "successors": [
+    "USP 151"
+  ]
+}

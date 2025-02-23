@@ -1,0 +1,12 @@
+{
+  "code": "MATH 216B",
+  "title": "Mathematical Methods in Data Science II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math216b",
+  "description": "This is the second course in a three-course sequence in mathematical methods in data science. Topics include analysis on graphs, random walks and diffusion geometry for uniform and non-uniform sampling, eigenvector perturbation, multi-scale analysis of data, concentration of measure phenomenon, binary embeddings, quantization, topic modeling, and geometric machine learning, as well as scientific applications. Some scientific programming experience is recommended. Prerequisites: MATH 216A. Students who have not completed MATH 216A may enroll with consent of instructor.",
+  "prereqs": "MATH 216A",
+  "successors": [
+    "MATH 216C"
+  ]
+}

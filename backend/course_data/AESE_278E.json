@@ -1,0 +1,16 @@
+{
+  "code": "AESE 278E",
+  "title": "Patterns for Enterprise Architecting",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "aese278e",
+  "description": "Fundamental aspects of pattern methodologies and reuse, requirements, design and architecture patterns, patterns for service-oriented architectures, enterprise application and integration patterns, e-business patterns, event-driven architectures and patterns for complex event processing, process patterns, architecture evolution and refactoring using patterns. This course will meet from 8:00 a.m. to 5:00 p.m. every alternating Friday and Saturday. Prerequisites: enrollment in MAS-AESE, AESE 278B-C-D, or instructor approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "AESE 278B",
+      "AESE 278C",
+      "AESE 278D"
+    ]
+  }
+}

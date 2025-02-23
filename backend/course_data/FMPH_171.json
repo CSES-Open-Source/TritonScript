@@ -1,0 +1,15 @@
+{
+  "code": "FMPH 171",
+  "title": "Field Epidemiology and Outbreak Investigations",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fmph171",
+  "description": "This course consists of a series of practical epidemiological infectious and non-infectious disease paper- and computer-based exercises. Students will have the opportunity to apply their epidemiological and biostatistical skills to real-world situations. The course is highly interactive and challenges students\u2019 knowledge and critical thinking capacities. Students will give presentations, write a scientific abstract and press release, and develop a poster. Must be taken for a letter grade to be applied to the public health major. Students may not receive credit for FMPH 171 and FMPH 191 subtitled \u201cField Epidemiology and Outbreak Investigations.\u201d Prerequisites: FMPH 40 and FMPH 101. Restricted enrollment to sophomore, junior, and senior standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "FMPH 40",
+      "FMPH 101"
+    ]
+  }
+}

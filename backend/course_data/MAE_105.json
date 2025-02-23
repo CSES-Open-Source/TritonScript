@@ -1,0 +1,27 @@
+{
+  "code": "MAE 105",
+  "title": "Introduction to Mathematical Physics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae105",
+  "description": "Fourier series, Sturm Liouville theory, elementary partial differential equations, integral transforms with applications to problems in vibration, wave motion, and heat conduction. Prerequisites: PHYS 2A and B, and MATH 20D or 21D. Enrollment restricted to engineering majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 2A",
+      "PHYS 2B",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20D",
+          "MATH 21D"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MAE 101C",
+    "MAE 123",
+    "MAE 131B"
+  ]
+}

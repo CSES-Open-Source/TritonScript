@@ -1,0 +1,47 @@
+{
+  "code": "BIBC 100",
+  "title": "Structural Biochemistry",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bibc100",
+  "description": "The structure and function of biomolecules. Includes protein conformation, dynamics, and function; enzymatic catalysis, enzyme kinetics, and allosteric regulation; lipids and membranes; sugars and polysaccharides; and nucleic acids. Prerequisites: BENG 120 or CHEM 140A or CHEM 40A or CHEM 41A and BENG 120 or CHEM 140B or CHEM 40B or CHEM 41B. Note: Students may not receive credit for both BIBC 100 and CHEM 114A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BENG 120",
+          "CHEM 140A",
+          "CHEM 40A",
+          "CHEM 41A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BENG 120",
+          "CHEM 140B",
+          "CHEM 40B",
+          "CHEM 41B"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "BIBC 151",
+    "BIBC 194",
+    "BICD 110",
+    "BICD 130",
+    "BIMM 110",
+    "BIMM 118",
+    "BIMM 120",
+    "BIMM 124",
+    "BIMM 130",
+    "BIOM 266",
+    "CHEM 114C",
+    "CHEM 142",
+    "CHEM 164",
+    "CHEM 165"
+  ]
+}

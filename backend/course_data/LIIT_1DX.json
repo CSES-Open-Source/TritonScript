@@ -1,0 +1,14 @@
+{
+  "code": "LIIT 1DX",
+  "title": "Analysis of Italian",
+  "units": "2.5",
+  "dept": "LING",
+  "description": "Practice of the grammatical functions indispensable for comprehensible communication in the language. The course is taught entirely in Italian. Must be taken in conjunction with LIIT 1D. Successful completion of LIIT 1D and LIIT 1DX satisfies the requirement for language proficiency in Revelle and Eleanor Roosevelt Colleges. Prerequisites: LIIT 1C and LIIT 1CX, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIIT 1C",
+      "LIIT 1CX"
+    ]
+  }
+}

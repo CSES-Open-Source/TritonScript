@@ -1,0 +1,31 @@
+{
+  "code": "MATH 173A",
+  "title": "Optimization Methods for Data Science I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math173a",
+  "description": "Introduction to convexity: convex sets, convex functions; geometry of hyperplanes; support functions for convex sets; hyperplanes and support vector machines. Linear and quadratic programming: optimality conditions; duality; primal and dual forms of linear support vector machines; active-set methods; interior methods. Prerequisites: MATH 20C or MATH 31BH and MATH 18 or 20F or 31AH. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MATH 173B"
+  ]
+}

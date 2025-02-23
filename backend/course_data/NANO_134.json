@@ -1,0 +1,15 @@
+{
+  "code": "NANO 134",
+  "title": "Polymeric Materials",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano134",
+  "description": "Foundations of polymeric materials. Topics: structure of polymers; mechanisms of polymer synthesis; characterization methods using calorimetric, mechanical, rheological, and X-ray-based techniques; and electronic, mechanical, and thermodynamic properties. Special classes of polymers: engineering plastics, semiconducting polymers,\u00a0photoresists, and polymers for medicine. Cross-listed with CENG 134 and CHEM 134.\u00a0Students may only receive credit for one of the following:\u00a0CENG\u00a0134, CHEM 134, NANO\u00a0134. Prerequisites:\u00a0CHEM 6C\u00a0and PHYS\u00a02C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 6C",
+      "PHYS 2C"
+    ]
+  }
+}

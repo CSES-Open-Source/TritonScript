@@ -1,0 +1,12 @@
+{
+  "code": "VIS 105A",
+  "title": "Drawing: Representing the Subject",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis105a",
+  "description": "A studio course in beginning drawing covering basic drawing and composition. These concepts will be introduced by the use of models, still life, landscapes, and conceptual projects. Prerequisites: VIS 80.",
+  "prereqs": "VIS 80",
+  "successors": [
+    "VIS 105B"
+  ]
+}

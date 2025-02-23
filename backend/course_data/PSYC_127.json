@@ -1,0 +1,16 @@
+{
+  "code": "PSYC 127",
+  "title": "Sexual Health Inequities and Sexual Well-Being",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc127",
+  "description": "This course provides an overview of sexual health inequities and sexual well-being. Students will engage critically and reflexively in topics related to race/ethnicity, gender, and sexual orientation.\u00a0Open to the following Department of Psychology majors only: PC25, PC26, PC28, PC29, PC30, PC31, PC32, PC33, PC34, PC35.\u00a0Prerequisites: upper-division standing, PSYC 60, PSYC 70, PSYC 172.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PSYC 60",
+      "PSYC 70",
+      "PSYC 172"
+    ]
+  }
+}

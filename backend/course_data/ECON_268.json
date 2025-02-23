@@ -1,0 +1,16 @@
+{
+  "code": "ECON 268",
+  "title": "Energy and Environmental Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ268",
+  "description": "Designed to prepare graduate students for original research in environmental or energy economics. Topics include theory and empirical study of economic regulation, energy markets, technological change, pollution and other externalities, energy efficiency, and climate change. Emphasis on empirical applications. Prerequisites: graduate standing and ECON 200A-B-C or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 200A",
+      "ECON 200B",
+      "ECON 200C"
+    ]
+  }
+}

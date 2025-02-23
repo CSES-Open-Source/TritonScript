@@ -1,0 +1,12 @@
+{
+  "code": "SIO 183",
+  "title": "Phycology: Marine Plant Biology",
+  "units": "6",
+  "dept": "SIO",
+  "anchor": "sio183",
+  "description": "Lecture and laboratory course emphasizing the biology, ecology and taxonomy of marine plants and seaweeds. Laboratory work mainly involves examination, slide preparation and dissection of fresh material collected locally. An oral presentation on a current research topic is required. Program or course fee may apply. Prerequisites: BILD 3 or consent of instructor.",
+  "prereqs": "BILD 3",
+  "successors": [
+    "SIO 131"
+  ]
+}

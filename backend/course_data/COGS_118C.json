@@ -1,0 +1,37 @@
+{
+  "code": "COGS 118C",
+  "title": "Neural Signal Processing",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs118c",
+  "description": "This course will cover theoretical foundations and practical applications of signal processing to neural data. Topics include EEG/field potential methods (filtering, Fourier (spectral) analysis, coherence) and spike train analysis (reverse correlation, spike sorting, multielectrode recordings). Some applications to neural imaging (optical microscopy, fMRI) data will also be discussed. Prerequisites: MATH 18 or MATH 31AH, COGS 14B or PSYC 60, and COGS 108 or COGS 109.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "COGS 14B",
+          "PSYC 60"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "COGS 108",
+          "COGS 109"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "COGS 138"
+  ]
+}

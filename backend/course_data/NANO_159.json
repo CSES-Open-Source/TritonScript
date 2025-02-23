@@ -1,0 +1,41 @@
+{
+  "code": "NANO 159",
+  "title": "Electrochemistry: Fundamentals and Applications",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano159",
+  "description": "Introduce fundamentals of electrochemical processes and electrode reactions to the principles of electrochemical techniques, instrumental requirements, and their diverse real-life applications in the energy, environmental, and diagnostics areas. Prerequisites: CHEM 6A or 6AH, CHEM 6B or 6BH, CHEM 6C or 6CH, CHEM 7L or 7LM.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6A",
+          "CHEM 6AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6B",
+          "CHEM 6BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6C",
+          "CHEM 6CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 7L",
+          "CHEM 7LM"
+        ]
+      }
+    ]
+  }
+}

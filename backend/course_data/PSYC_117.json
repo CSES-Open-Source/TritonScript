@@ -1,0 +1,27 @@
+{
+  "code": "PSYC 117",
+  "title": "Laboratory in Educational Research and Outreach",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc117",
+  "description": "This course provides experience conducting educational research and outreach for children in greater San Diego County. May be taken for credit three times.\u00a0Open to the following majors only: PC26, PC28, PC29, PC30, PC31, PC32, PC33, PC34, CG32.\u00a0Prerequisites: upper-division standing, PSYC 60 or COGS 14B and PSYC 70 or COGS 14A. Instructor approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PSYC 60",
+          "COGS 14B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PSYC 70",
+          "COGS 14A"
+        ]
+      }
+    ]
+  }
+}

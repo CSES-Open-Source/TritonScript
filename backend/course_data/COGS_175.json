@@ -1,0 +1,15 @@
+{
+  "code": "COGS 175",
+  "title": "The Neuropsychological Basis of Alternate States of Consciousness",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs175",
+  "description": "This course will review the literature that correlates brain rhythms in the human EEG with aspects of cognition, behavioral states, neuropsycho-pharmacology, and psychopathology in order to understand the psychological and neurophysiological underpinnings of these experiences. Prerequisites: COGS 101A or COGS 107A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 101A",
+      "COGS 107A"
+    ]
+  }
+}

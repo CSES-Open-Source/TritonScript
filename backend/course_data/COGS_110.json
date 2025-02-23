@@ -1,0 +1,16 @@
+{
+  "code": "COGS 110",
+  "title": "The Developing Mind",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs110",
+  "description": "(Cross-listed with HDS 121.) This course examines changes in thinking and perceiving the physical and social world from birth through childhood. Evidence of significant changes in encoding information, forming mental representations, and solving problems is culled from psychological research, cross-cultural studies, and cognitive science. Cross-listed course. HDS 121 has been renumbered from HDP 121. Students may receive credit for one of the following: COGS 110, HDS 121, or HDP 121. Prerequisites: COGS 1 or HDP 1 or HDS 1.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 1",
+      "HDP 1",
+      "HDS 1"
+    ]
+  }
+}

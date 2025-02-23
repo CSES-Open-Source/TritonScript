@@ -1,0 +1,15 @@
+{
+  "code": "VIS 152",
+  "title": "Media in Social Context",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis152",
+  "description": "This collection of courses gathers photography or films that are strongly marked by period, geography, and the culture within which they received their dominating local quality. These courses pay particular attention to the stamp of place\u2014climate, dress, habitation, language, music, politics\u2014as well as the formal and conceptual moves that helped shape such works. The series takes in these works in relation to current thought. Specific topics to be covered will vary by instructor. May be taken up to two times for credit. Program or materials fees may apply. Prerequisites: VIS 83 or VIS 84.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 83",
+      "VIS 84"
+    ]
+  }
+}

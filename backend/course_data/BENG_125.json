@@ -1,0 +1,15 @@
+{
+  "code": "BENG 125",
+  "title": "Modeling and Computation in Bioengineering",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng125",
+  "description": "Computational modeling of molecular bioengineering phenomena: excitable cells, regulatory networks, and transport. Application of ordinary, stochastic, and partial differential equations. Introduction to data analysis techniques: power spectra, wavelets, and nonlinear time series analysis. Prerequisites: BENG 122A or BENG 123 or consent of department. (S)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BENG 122A",
+      "BENG 123"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "code": "SE 224",
+  "title": "Structural Reliability and Risk Analysis",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se224",
+  "description": "Review of probability theory and random processes. Fundamentals of structural reliability theory. First- and second-order, and simulation methods of reliability analysis. Structural component and system reliability. Reliability sensitivity measures. Bayesian reliability analysis methods. Bases for probabilistic design codes. Use of computer resources. Recommended preparation: basic knowledge of probability theory (e.g., SE 125). Prerequisites: graduate standing."
+}

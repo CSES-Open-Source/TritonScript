@@ -1,0 +1,12 @@
+{
+  "code": "TDMV 130",
+  "title": "Intermediate Jazz",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdmv130",
+  "description": "Designed to provide training in the technique of jazz dance, while placing the art form in its historical context as an American vernacular form. Builds an intermediate technical jazz level with a focus on style, musicality, dynamics, and performance. May be taken for credit six times. Prerequisites:\u00a0TDMV 3 or consent of instructor.",
+  "prereqs": "TDMV 3",
+  "successors": [
+    "TDMV 133"
+  ]
+}

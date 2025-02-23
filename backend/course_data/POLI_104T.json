@@ -1,0 +1,9 @@
+{
+  "code": "POLI 104T",
+  "title": "Survey in Evidence, Civil Procedure, and Criminal Law",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli104t",
+  "description": "This course offers a survey of criminal law, civil procedure, and evidence law. The course will use a text with both a civil case file and a criminal case file, where students will be assigned to be the state/plaintiff in one matter and the defendant in the other. Each class will have students arguing as if they were in the courtroom setting to teach the rules of civil procedure, rules of evidence, and criminal law. Prerequisites: upper-division standing and POLI 104J.",
+  "prereqs": "POLI 104J"
+}

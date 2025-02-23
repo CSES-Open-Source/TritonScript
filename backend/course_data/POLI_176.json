@@ -1,0 +1,18 @@
+{
+  "code": "POLI 176",
+  "title": "Text as Data",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli176",
+  "description": "(Cross-listed with DSC 161.) This class explores statistical and computational methods to enable students to use text as a data source in the social sciences. Hands-on examples will equip students to work with text data in final projects. Prerequisites: POLI/ECON 5D\u00a0or\u00a0POLI 30D\u00a0or\u00a0POLI 170A\u00a0or\u00a0POLI 171\u00a0or\u00a0POLI 172.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 5D",
+      "POLI 30D",
+      "POLI 170A",
+      "POLI 171",
+      "POLI 172"
+    ]
+  }
+}

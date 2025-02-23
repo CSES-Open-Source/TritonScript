@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 151",
+  "title": "Elementary Plasma Physics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys151",
+  "description": "Particle motions, plasmas as fluids, waves, diffusion, equilibrium and stability, nonlinear effects, controlled fusion. Cross-listed with MAE 117A.\u00a0Students will not receive credit for both MAE 117A and PHYS 151. Prerequisites: MATH 20D.",
+  "prereqs": "MATH 20D"
+}

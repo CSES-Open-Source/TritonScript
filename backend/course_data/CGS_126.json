@@ -1,0 +1,15 @@
+{
+  "code": "CGS 126",
+  "title": "Muslims on Gender and Sexuality",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs126",
+  "description": "This course will critically examine selected feminist, queer, and trans activist and scholarly productions of Muslim women and nonbinary people who are engaging with urgent questions about gender and sexuality in relation to Islam and Muslimness in the Islamicate and diasporas. It will encourage students to explore questions of gender and queerness at the Muslim sacred and seemingly secular sites of the Qur\u2019an, law, borders, immigration, home, labor, desire, fashion, and activism. Prerequisites: CGS 2A or 2B or at least one CGS upper-division course.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B"
+    ]
+  }
+}

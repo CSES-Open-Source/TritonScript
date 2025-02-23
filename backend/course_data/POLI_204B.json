@@ -1,0 +1,11 @@
+{
+  "code": "POLI 204B",
+  "title": "Quantitative Methods I",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli204b",
+  "description": "The use of quantitative methods (particularly multiple regression and its extensions) in political science. Emphasis on understanding the methods and using them in political science applications. Prerequisites: graduate student standing.",
+  "successors": [
+    "POLI 260"
+  ]
+}

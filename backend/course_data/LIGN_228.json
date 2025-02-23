@@ -1,0 +1,8 @@
+{
+  "code": "LIGN 228",
+  "title": "Probabilistic Models of Cognition",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign228",
+  "description": "(Same as PSYC 232.) Computational theories of human cognition, particularly Bayesian approaches.\u00a0Techniques may include directed graphical models; hierarchical models; nonparametric models; probabilistic programming languages. Topics may include decision making; perception; causal reasoning; categorization; language. Recommended preparation: previous experience with statistics, machine learning, and/or functional programming helpful."
+}

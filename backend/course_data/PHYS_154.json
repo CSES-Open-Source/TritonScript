@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 154",
+  "title": "Elementary Particle Physics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys154",
+  "description": "The constituents of matter (quarks and leptons) and their interactions (strong, electromagnetic, and weak). Symmetries and conservation laws. Fundamental processes involving quarks and leptons. Unification of weak and electromagnetic interactions. Particle-astrophysics and the Big Bang. Prerequisites: PHYS 130B.",
+  "prereqs": "PHYS 130B"
+}

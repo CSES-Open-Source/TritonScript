@@ -1,0 +1,16 @@
+{
+  "code": "MATH 282A",
+  "title": "Applied Statistics I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math282a",
+  "description": "General theory of linear models with applications to regression analysis. Ordinary and generalized least squares estimators and their properties. Hypothesis testing, including analysis of variance, and confidence intervals. Completion of courses in linear algebra and basic statistics are recommended prior to enrollment. Prerequisites: graduate standing or consent of instructor. (S/U grades permitted.)",
+  "successors": [
+    "MATH 282B",
+    "MATH 284",
+    "MATH 287A",
+    "MATH 287B",
+    "MATH 287D",
+    "PHB 223"
+  ]
+}

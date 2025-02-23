@@ -1,0 +1,8 @@
+{
+  "code": "CSE 258",
+  "title": "Recommender Systems and Web Mining",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse258",
+  "description": "Current methods for data mining and predictive analytics. Emphasis is on studying real-world data sets, building working systems, and putting current ideas from machine learning research into practice. Recommended preparation: No previous background in machine learning is required, but students should be comfortable with programming (all example code will be in Python), and with basic optimization and linear algebra. Recommended preparation: No previous background in machine learning is required, but students should be comfortable with programming (all example code will be in Python). Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits. May be coscheduled with CSE 158. Students will not receive credit for both CSE 258 and CSE 258R."
+}

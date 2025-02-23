@@ -1,0 +1,28 @@
+{
+  "code": "ECON 113",
+  "title": "Mathematical Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ113",
+  "description": "Mathematical concepts and techniques used in advanced economic analysis; applications to selected aspects of economic theory. Prerequisites: ECON 100C or MATH 140A or MATH 142A and MATH 18 or MATH 31AH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "ECON 100C",
+          "MATH 140A",
+          "MATH 142A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  }
+}

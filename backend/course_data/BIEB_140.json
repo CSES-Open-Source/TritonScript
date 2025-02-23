@@ -1,0 +1,9 @@
+{
+  "code": "BIEB 140",
+  "title": "Biodiversity",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb140",
+  "description": "An introduction to the patterns of geographic distribution and natural history of plants and animals living in terrestrial and marine ecosystems. We will explore ecological and evolutionary processes responsible for generating and maintaining biological diversity; and the nature of extinction both in past and present ecosystem. Prerequisites: BILD 3.",
+  "prereqs": "BILD 3"
+}

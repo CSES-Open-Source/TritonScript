@@ -1,0 +1,13 @@
+{
+  "code": "ECE 230A",
+  "title": "Solid State Electronics I",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece230a",
+  "description": "This course is designed to provide a general background in solid state electronic materials and devices. Course content emphasizes the fundamental and current issues of semiconductor physics related to the ECE solid state electronics sequences. Recommended preparation: ECE 135A-B or equivalent. Prerequisites: graduate standing.",
+  "successors": [
+    "ECE 230B",
+    "ECE 230C",
+    "ECE 236A"
+  ]
+}

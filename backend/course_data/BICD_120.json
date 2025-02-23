@@ -1,0 +1,9 @@
+{
+  "code": "BICD 120",
+  "title": "Molecular Basis of Plant Development",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bicd120",
+  "description": "Introduction to the biology of plants with a particular focus on the underlying genetic and molecular mechanisms controlling plant development. Topics include the role of plant hormones and stem cells in the formation of embryos, roots, flowers, and fruit. Prerequisites: BILD 1.",
+  "prereqs": "BILD 1"
+}

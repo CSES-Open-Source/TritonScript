@@ -1,0 +1,17 @@
+{
+  "code": "CHEM 6AH",
+  "title": "Honors General Chemistry I",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem6ah",
+  "description": "First quarter of a three-quarter honors sequence intended for well-prepared science and engineering majors. Topics include quantum mechanics, molecular orbital theory, and bonding. An understanding of nomenclature, stoichiometry, and other fundamentals is assumed. Students completing 6AH may not subsequently take 6A for credit.\u00a0May be taken for credit after credit for CHEM 6A. Recommended: completion of a high school physics course strongly recommended. Concurrent enrollment in MATH 20A or higher.",
+  "successors": [
+    "CHEM 6B",
+    "CHEM 6BH",
+    "MAE 20",
+    "MAE 21",
+    "NANO 159",
+    "SIO 170",
+    "SIO 179"
+  ]
+}

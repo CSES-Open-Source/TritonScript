@@ -1,0 +1,9 @@
+{
+  "code": "CENG 260",
+  "title": "Introduction to Biochemical Engineering",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng260",
+  "description": "Introduction to biochemical engineering. Topics include biological macromolecules, enzyme kinetics, cell metabolism, protein synthesis, recombinant DNA technology, bioreactor design, and bioproduct recovery.\u00a0Prerequisites: department approval will ensure students have taken CENG 100 or an equivalent undergraduate-level material and energy balances course.",
+  "prereqs": "CENG 100"
+}

@@ -1,0 +1,11 @@
+{
+  "code": "MGT 412",
+  "title": "New Venture Design",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt412",
+  "description": "An integrated examination of competencies needed to transform innovations into profitable market opportunities. Focus on processes to generate ideas, assess which ones are viable business opportunities, and evolve them into products and businesses. Letter grades only. Prerequisites: MBA student or instructor approval or department approval.",
+  "successors": [
+    "MGT 452"
+  ]
+}

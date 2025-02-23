@@ -1,0 +1,10 @@
+{
+  "code": "BENG 148B",
+  "title": "Design Implementation in Cardiac Bioengineering",
+  "units": "3",
+  "dept": "BENG",
+  "anchor": "beng148b",
+  "description": "Implementation of design project in cardiac bioengineering. Prerequisites: BENG 148A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W)",
+  "prereqs": "BENG 148A",
+  "coreqs": "BENG 187C"
+}

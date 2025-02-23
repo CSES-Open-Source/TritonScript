@@ -1,0 +1,15 @@
+{
+  "code": "LTWR 119",
+  "title": "Writing for Performance Workshop",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr119",
+  "description": "A workshop and survey of experimental approaches to the writing and production of performance works in a range of literary genres. Emphasis will be placed on the integration of written texts with nonverbal elements from the visual arts, theatre, and music. May be taken for credit up to three times. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department.  Prerequisites:  LTWR 8A or 8B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTWR 8A",
+      "LTWR 8B"
+    ]
+  }
+}

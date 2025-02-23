@@ -1,0 +1,15 @@
+{
+  "code": "DSC 213",
+  "title": "Statistics on Manifolds",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc213",
+  "description": "This is a graduate topics course covering statistics with manifold constraints. Topics include Frechet means and variances, principal geodesic analysis, directional statistics, random fields on manifolds, statistical distances between distributions, transport problems, and information geometry. Manifold constraints will be considered on simplexes, spheres, Stiefel manifold, stratified manifolds, cone of positive definite matrices, trees, compositional data, and other relevant manifolds. Prerequisites: DSC 210 and DSC 212. Restricted to students within the DS75 and DS76 major.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 210",
+      "DSC 212"
+    ]
+  }
+}

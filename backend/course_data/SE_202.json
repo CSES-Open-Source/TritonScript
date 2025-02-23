@@ -1,0 +1,8 @@
+{
+  "code": "SE 202",
+  "title": "Structural Stability",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se202",
+  "description": "Static, dynamic, and energy-based techniques and predicting elastic stability. Linear and nonlinear analysis of classical and shear deformable beams and plates. Ritz, Galerkin, and finite element approaches for frames and reinforced shells. Nonconservative aerodynamic (divergence flutter) and follower forces. Recommended preparation: SE 101A-C and SE 110A or equivalent background in solid mechanics and structural dynamics. Prerequisites: graduate standing."
+}

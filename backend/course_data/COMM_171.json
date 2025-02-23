@@ -1,0 +1,22 @@
+{
+  "code": "COMM 171",
+  "title": "Environmental Communication",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm171",
+  "description": "Survey of the communication practices found in environment controversies. The sociological aspects of environmental issues will provide background for the investigation of environmental disputes in particular contested areas, such as scientific institutions, communities, workplaces, governments, popular culture, and the media. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

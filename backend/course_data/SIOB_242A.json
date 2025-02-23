@@ -1,0 +1,12 @@
+{
+  "code": "SIOB 242A",
+  "title": "Marine Biotechnology I: Tools and Methods",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siob242a",
+  "description": "The course will explore cutting-edge techniques as it applies to genomics, transcriptomics, proteomics, metabolomics, and the bioinformatics needed to analyze such data sets. Next generation sequencing, state-of-the-art mass spectrometry, and NMR techniques and bioinformatic challenges. Students may not receive credit for SIO 242A and SIO 242. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "SIOB 242B",
+    "SIOB 242C"
+  ]
+}

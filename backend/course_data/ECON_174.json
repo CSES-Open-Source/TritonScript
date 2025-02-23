@@ -1,0 +1,9 @@
+{
+  "code": "ECON 174",
+  "title": "Financial Risk Management",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ174",
+  "description": "Risk measures, hedging techniques, value of risk to firms, estimation of optimal hedge ratio, risk management with options and futures. ECON 171 is recommended. Prerequisites: ECON 173A.",
+  "prereqs": "ECON 173A"
+}

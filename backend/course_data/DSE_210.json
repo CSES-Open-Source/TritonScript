@@ -1,0 +1,8 @@
+{
+  "code": "DSE 210",
+  "title": "Statistics and Probability Using Python",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "dse210",
+  "description": "Probability and statistics for data science. Distribution over the real line; independence, expectation, variance, correlation. Central limit theorem. Chernoff/Hoeffding bound. Statistical tests. Bonferroni correction."
+}

@@ -1,0 +1,8 @@
+{
+  "code": "MATH 214",
+  "title": "Introduction to Computational Stochastics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math214",
+  "description": "Topics include random number generators, variance reduction, Monte Carlo (including Markov Chain Monte Carlo) simulation, and numerical methods for stochastic differential equations. Methods will be illustrated on applications in biology, physics, and finance. May be coscheduled with MATH 114. Recommended preparation: Probability Theory and basic computer programming. Prerequisites: graduate standing."
+}

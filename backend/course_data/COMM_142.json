@@ -1,0 +1,22 @@
+{
+  "code": "COMM 142",
+  "title": "Film Authorship",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm142",
+  "description": "This course examines film authorship by focusing on two filmmakers and exploring the many ways that films are authored and produce meaning. Students learn how to analyze a film\u2019s production, collaboration, representation, reception, and industrial context, in order to explore broader themes and social issues such as race, class, gender, violence, and authorial responsibility. Film authors may include Spike Lee, Kathryn Bigelow, Bong Joon-ho, or Alfonso Cuar\u00f3n. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

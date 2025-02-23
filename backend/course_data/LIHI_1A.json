@@ -1,0 +1,12 @@
+{
+  "code": "LIHI 1A",
+  "title": "Hindi Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lihi1a",
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIHI 1AX. Prerequisites: no prior study of Hindi.",
+  "successors": [
+    "LIHI 1B",
+    "LIHI 1BX"
+  ]
+}

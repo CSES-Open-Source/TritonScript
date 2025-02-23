@@ -1,0 +1,8 @@
+{
+  "code": "ECE 203",
+  "title": "Biomedical Integrated Circuits and Systems",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece203",
+  "description": "Integrated circuit analysis and design for medical devices. Introduction to subthreshold conduction in MOS transistor and its similarities to biomolecular transport. Design of instrumentation amplifiers, sensors, and electrical stimulation interfaces. Transcutaneous wireless power transfer and electromagnetic effects on tissue. Recommended preparation: ECE 164, Analog Integrated Circuit Design, or equivalent. Prerequisites:\u00a0graduate level standing."
+}

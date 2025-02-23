@@ -1,0 +1,9 @@
+{
+  "code": "ECON 143",
+  "title": "Experimental Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ143",
+  "description": "Explore use of experiments to study individual and interactive (strategic) decision making. Topics may include choice over risky alternatives, altruism and reciprocity, allocation and information aggregation in competitive markets, cooperation and collusion, bidding in auctions, strategy in coordination and \u201coutguessing\u201d games. Prerequisites: ECON 100C. Enrollment limited to majors in the Department of Economics and MA33 only.",
+  "prereqs": "ECON 100C"
+}

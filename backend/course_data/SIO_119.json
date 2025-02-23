@@ -1,0 +1,21 @@
+{
+  "code": "SIO 119",
+  "title": "Physics and Chemistry of the Oceans",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio119",
+  "description": "Basic physical and chemical processes that influence the biology of the oceans, such as ocean circulation, ocean acidification, carbonate chemistry, trace metal chemistry. Prerequisites: PHYS 1C or 2C, CHEM 6C, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1C",
+          "PHYS 2C"
+        ]
+      },
+      "CHEM 6C"
+    ]
+  }
+}

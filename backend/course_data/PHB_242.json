@@ -1,0 +1,27 @@
+{
+  "code": "PHB 242",
+  "title": "Advanced Topics in Biostatistics",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "phb242",
+  "description": "Biostatistics elective courses will be taught under this course heading. Courses will have a varying focus each year/quarter. Topics will include random field theory and image analysis, advanced statistical computing, Bayesian methods, and others. May be taken for credit up to three times. Renumbered from FMPH 242. PHB 242 and/or FMPH 242 may be taken for credit for a combined total of three times. Must be taken for a letter grade to be applied to the biostatistics degree requirements. Prerequisites: successful completion of FMPH 221 or PHB 221 and FMPH 222 or PHB 222 or program approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 221",
+          "PHB 221"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 222",
+          "PHB 222"
+        ]
+      }
+    ]
+  }
+}

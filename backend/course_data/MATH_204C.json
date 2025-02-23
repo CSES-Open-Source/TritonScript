@@ -1,0 +1,9 @@
+{
+  "code": "MATH 204C",
+  "title": "Number Theory III",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math204c",
+  "description": "Third course in graduate-level number theory. Zeta and L-functions; Dedekind zeta functions; Artin L-functions; the class-number formula and generalizations; density theorems. Prerequisites: MATH 204B. Students who have not taken MATH 204B may enroll with consent of instructor.",
+  "prereqs": "MATH 204B"
+}

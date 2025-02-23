@@ -1,0 +1,11 @@
+{
+  "code": "POLI 100Q",
+  "title": "Advanced Topics in Racial Politics",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli100q",
+  "description": "This course explores how race shapes outcomes in American democracy through in-depth exploration of key issues in American politics. Topics include race in the voting booth, immigration, discrimination, and inter-minority conflict.",
+  "successors": [
+    "EDS 120"
+  ]
+}

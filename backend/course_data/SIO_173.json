@@ -1,0 +1,15 @@
+{
+  "code": "SIO 173",
+  "title": "Dynamics of the Atmosphere and Climate",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio173",
+  "description": "Introduction to the dynamical principles governing the atmosphere and climate using observations, numerical models, and theory to understand atmospheric circulation, weather systems, severe storms, marine layer, Santa Ana winds, El Ni\u00f1o, climate variability, and other phenomena. Prerequisites: MATH 20E and PHYS 2C, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20E",
+      "PHYS 2C"
+    ]
+  }
+}

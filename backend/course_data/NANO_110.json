@@ -1,0 +1,33 @@
+{
+  "code": "NANO 110",
+  "title": "Molecular Modeling of Nanoscale Systems",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano110",
+  "description": "Principles and applications of molecular modeling and simulations toward NanoEngineering. Topics covered include molecular mechanics, energy minimization, statistical mechanics, molecular dynamics simulations, and Monte Carlo simulations. Students will get hands-on training in running simulations and analyzing simulation results. Prerequisites: MATH 20F or MATH 18, NANO 102, NANO 104, and NANO 15 or CENG 15 or MAE 8. Restricted to NanoEngineering majors or by department approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20F",
+          "MATH 18"
+        ]
+      },
+      "NANO 102",
+      "NANO 104",
+      {
+        "type": "one",
+        "courses": [
+          "NANO 15",
+          "CENG 15",
+          "MAE 8"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "NANO 120A"
+  ]
+}

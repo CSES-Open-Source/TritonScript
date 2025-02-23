@@ -1,0 +1,30 @@
+{
+  "code": "ECON 110B",
+  "title": "Short Run Macroeconomics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ110b",
+  "description": "Analysis of the determination of consumption spending at the aggregate level; extension of the basic macro model to include exchange rates and international trade; the aggregate money supply, and the business cycle. Prerequisites: ECON 1 and ECON 3 and MATH 10C or MATH 20C or MATH 31BH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 1",
+      "ECON 3",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10C",
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "ECON 103",
+    "ECON 111",
+    "ECON 112",
+    "ECON 146",
+    "ECON 183"
+  ]
+}

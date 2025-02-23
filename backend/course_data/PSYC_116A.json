@@ -1,0 +1,18 @@
+{
+  "code": "PSYC 116A",
+  "title": "Laboratory in Clinical Psychology Research I",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc116a",
+  "description": "This course, the first in a sequence of three courses, provides an applied examination of theory, research design, and methods for clinical research to support an independent study in research at a clinical research lab. Prerequisites: upper-division standing, PSYC 70, PSYC 100, and instructor and department approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PSYC 70",
+      "PSYC 100"
+    ]
+  },
+  "successors": [
+    "PSYC 116B"
+  ]
+}

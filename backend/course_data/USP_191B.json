@@ -1,0 +1,9 @@
+{
+  "code": "USP 191B",
+  "title": "Advanced GIS for Urban and Community Planning",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp191b",
+  "description": "Advanced geographic information systems (GIS) as applied to urban studies. Learn to use the GIS software with a focus on data management, online GIS, elements of spatial statistics, technologies, and models for spatial data integration to support urban research and decision-making. Prerequisites: USP 191A and upper-division standing.",
+  "prereqs": "USP 191A"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CSE 152B",
+  "title": "Introduction to Computer Vision II",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse152b",
+  "description": "This course covers advanced topics needed to apply computer vision in industry or follow current research. Example topics include real-time systems for 3-D computer vision, machine learning tools such as support-vector machine (SVM) and boosting for image classification, and deep neural networks for object detection and semantic segmentation. Prerequisites: CSE 152A or CSE 152 or CSE 166; Python programming experience recommended; restricted to students within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 152A",
+      "CSE 152",
+      "CSE 166"
+    ]
+  }
+}

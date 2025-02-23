@@ -1,0 +1,22 @@
+{
+  "code": "COMM 144",
+  "title": "American Television in the 1970s",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm144",
+  "description": "Course will explore the politics and culture of the 1970s through the lens of network television programming and the decade\u2019s most provocative sitcoms, dramas, variety shows, and news features. Students will analyze television episodes and read relevant media studies scholarship. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

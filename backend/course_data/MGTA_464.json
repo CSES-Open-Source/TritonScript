@@ -1,0 +1,8 @@
+{
+  "code": "MGTA 464",
+  "title": "SQL and ETL",
+  "units": "2\u20134",
+  "dept": "MGT",
+  "anchor": "mgta464",
+  "description": "Most organizations store transaction data (e.g., sales, purchases, production, etc.) in relational databases. These databases are of central importance in most business analytics projects. To access and analyze this data, knowledge of SQL (structured query language), one of the most sought-after skills by recruiters, is needed. In this course, students will learn how to write SQL statements to extract and transform data. Students will be introduced to ETL (extract, transform, and load) concepts. Prerequisites: restricted to MS in business analytics students."
+}

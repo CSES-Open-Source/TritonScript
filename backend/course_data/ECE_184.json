@@ -1,0 +1,9 @@
+{
+  "code": "ECE 184",
+  "title": "Optical Information Processing and Holography",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece184",
+  "description": "(Conjoined with ECE 241AL) Labs: optical holography, photorefractive effect, spatial filtering, computer generated holography. Students enrolled in ECE 184 will receive four units of credit; students enrolled in ECE 241AL will receive two units of credit. (Course materials and/or program fees may apply.) Prerequisites: ECE 182 with a grade of C\u2013 or better.",
+  "prereqs": "ECE 182"
+}

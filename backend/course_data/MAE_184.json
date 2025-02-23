@@ -1,0 +1,8 @@
+{
+  "code": "MAE 184",
+  "title": "Flight Simulation Techniques",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae184",
+  "description": "Students will develop software and methods to simulate the motion characteristics of flight vehicles. Six degree-of-freedom equations of motion will be reviewed with emphasis on computer implementation. Algorithms for data modeling, numerical integration, equilibrium, and linearization will be introduced. Three-dimensional visualization techniques will be explored for representing operator and observer viewpoints. Applications include aircraft, automobiles, and marine vessels. Prerequisites: upper-division standing or consent of instructor."
+}

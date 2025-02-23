@@ -1,0 +1,11 @@
+{
+  "code": "PHIL 10",
+  "title": "Introduction to Logic",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil10",
+  "description": "Basic concepts and techniques in both informal and formal logic and reasoning, including a discussion of argument, inference, proof, and common fallacies, and an introduction to the syntax, semantics, and proof method in sentential (propositional) logic.",
+  "successors": [
+    "PHIL 120"
+  ]
+}

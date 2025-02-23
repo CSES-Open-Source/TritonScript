@@ -1,0 +1,9 @@
+{
+  "code": "NANO 100L",
+  "title": "Physical Properties of Materials Lab",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano100l",
+  "description": "Experimental investigation of physical properties of materials such as: thermal expansion coefficient, thermal conductivity, glass transitions in polymers, resonant vibrational response, longitudinal and shear acoustic wave speeds, Curie temperatures, UV-VIS absorption and reflection. Prerequisites: NANO 108.",
+  "prereqs": "NANO 108"
+}

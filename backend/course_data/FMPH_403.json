@@ -1,0 +1,11 @@
+{
+  "code": "FMPH 403",
+  "title": "Public Health Research Methods",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fmph403",
+  "description": "This course will focus on fundamental concepts in research design and measurement that will help prepare students to plan and implement scientific studies in public health and be able to critically evaluate and discuss public health research. Emphasis will be on learning how to identify significant public health problems, develop causal models for understanding those problems, create testable hypotheses, and design, implement, and interpret research studies to evaluate those hypotheses. Prerequisites: must be enrolled in MPH program (FM75) or program approval.",
+  "successors": [
+    "FMPH 411"
+  ]
+}

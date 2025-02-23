@@ -1,0 +1,15 @@
+{
+  "code": "USP 190",
+  "title": "Senior Honors Seminar",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp190",
+  "description": "Each student enrolled will be required to write an honors essay, a substantial research paper on a current urban policy issue, under the supervision of a member of the faculty. Most often the essay will be based on their previous fieldwork courses and internship. This essay and other written exercises, as well as class participation, will be the basis of the final grade for the course. The seminar will rotate from year to year among the faculty in urban studies and planning. Prerequisites: USP 187 or USP 185B, major GPA 3.5, and department approval.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "USP 187",
+      "USP 185B"
+    ]
+  }
+}

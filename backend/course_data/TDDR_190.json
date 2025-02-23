@@ -1,0 +1,15 @@
+{
+  "code": "TDDR 190",
+  "title": "Major Project in Directing",
+  "units": "2\u20136",
+  "dept": "THEA",
+  "anchor": "tddr190",
+  "description": "For the advanced student in directing. Intensive concentration on the full realization of a dramatic text from research and analysis through rehearsal and into performance. A maximum of eight units of major project study, regardless of area (design, directing, or stage management) may be used to fulfill major requirements. See department for application. May be taken for credit two times. Prerequisites: THDR or TDDR 108, THDR or TDDR 111, consent of instructor, and department stamp.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "TDDR 108",
+      "TDDR 111"
+    ]
+  }
+}

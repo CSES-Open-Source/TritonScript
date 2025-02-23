@@ -1,0 +1,11 @@
+{
+  "code": "WCWP 100",
+  "title": "Academic Writing",
+  "units": "4",
+  "dept": "WARR",
+  "anchor": "wcwp100",
+  "description": "An upper-division workshop course in argumentation and research with particular attention to analyzing and constructing academic arguments. A course specially designed for and required of transfer students who enter Warren College through the TAG, IGETC, or another articulation agreement. The course must be taken for a letter grade to fulfill this requirement. Letter grades only. Prerequisites: junior/senior standing and must be a Warren College student.",
+  "successors": [
+    "CSE 194"
+  ]
+}

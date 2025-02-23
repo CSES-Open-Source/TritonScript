@@ -1,0 +1,8 @@
+{
+  "code": "PHYS 278",
+  "title": "Biophysics of Neurons and Networks",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys278",
+  "description": "Information processing by nervous system through physical reasoning and mathematical analysis. A review of the biophysics of neurons and synapses and fundamental limits to signaling by nervous systems is followed by essential aspects of the dynamics of phase coupled neuronal oscillators, the dynamics and computational capabilities of recurrent neuronal networks, and the computational capability of layered networks. May be coscheduled with PHYS 178. Recommended preparation: a working knowledge of calculus and linear algebra."
+}

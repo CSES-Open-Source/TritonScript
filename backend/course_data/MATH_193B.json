@@ -1,0 +1,9 @@
+{
+  "code": "MATH 193B",
+  "title": "Actuarial Mathematics II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math193b",
+  "description": "Life Insurance and Annuities. Analysis of premiums and premium reserves. Introduction to multiple life functions and decrement models as time permits. Prerequisites: MATH 193A or consent of instructor.",
+  "prereqs": "MATH 193A"
+}

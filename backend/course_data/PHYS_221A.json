@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 221A",
+  "title": "Nonlinear and Nonequilibrium Dynamics of Physical Systems",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys221a",
+  "description": "An introduction to the modern theory of dynamical systems and applications thereof. Topics include maps and flows, bifurcation theory and normal form analysis, chaotic attractors in dissipative systems, Hamiltonian dynamics and the KAM theorem, and time series analysis. Examples from real physical systems will be stressed throughout. Prerequisites: PHYS 200B.",
+  "prereqs": "PHYS 200B"
+}

@@ -1,0 +1,8 @@
+{
+  "code": "SIOC 241",
+  "title": "Advanced Signal Processing for Structural Vibrations and Acoustics",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc241",
+  "description": "Review basic fluid and elastic wave propagation in infinite and finite media. Introduce signal and array-processing methods for localization, medium inversion, and nondestructive testing based on the underwater, seismic, and radar literature. Renumbered from SIO 241, students will not receive credit for SIOC 241 and SIO 241. Recommended preparation: calculus through differential equations, linear algebra; MATLAB experience strongly desired. Prerequisites: graduate standing or consent of instructor."
+}

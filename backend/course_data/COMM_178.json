@@ -1,0 +1,22 @@
+{
+  "code": "COMM 178",
+  "title": "Communication and Nonhuman Animals",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm178",
+  "description": "The course increases our awareness of communicative repertoires in nonhuman animals. Noticing their richness allows us to engage topics of iconicity and indexicality, body and movement, feeling and sensation, space and environment, and aspects of voice that do not stand for established units of meaning. We will discuss how this turning to nonhuman communication illuminates human communication and how cross-species communication takes place. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

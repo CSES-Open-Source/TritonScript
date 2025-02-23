@@ -1,0 +1,22 @@
+{
+  "code": "COGS 150",
+  "title": "Large Language Models and Cognitive Science",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs150",
+  "description": "This course will approach the topic of large language models (LLMs) from a cognitive science perspective. Topics covered include the history of AI and cognitive science; basic mechanics of LLMs; the emerging field of \u201cLLM-ology\u201d; philosophy of mind; how LLMs can help inform research on human cognition; the role of sensorimotor grounding in cognition and the development of multimodal LLMs; and the impacts of LLMs on human culture and society more broadly. Recommended preparation: basic programming experience, some exposure to topics in machine learning, and introductory concepts in language. Prerequisites: COGS 14A and COGS 14B or MATH 11 or PSYC 60.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COGS 14A",
+      {
+        "type": "one",
+        "courses": [
+          "COGS 14B",
+          "MATH 11",
+          "PSYC 60"
+        ]
+      }
+    ]
+  }
+}

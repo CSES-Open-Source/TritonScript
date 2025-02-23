@@ -1,0 +1,9 @@
+{
+  "code": "MATH 181C",
+  "title": "Mathematical Statistics\u2014Nonparametric Statistics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math181c",
+  "description": "Topics covered may include the following: classical rank test, rank correlations, permutation tests, distribution free testing, efficiency, confidence intervals, nonparametric regression and density estimation, resampling techniques (bootstrap, jackknife, etc.) and cross validations. Prior enrollment in MATH 109 is highly recommended. Prerequisites: MATH 181B or consent of instructor.",
+  "prereqs": "MATH 181B"
+}

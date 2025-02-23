@@ -1,0 +1,47 @@
+{
+  "code": "BIBC 102",
+  "title": "Metabolic Biochemistry",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bibc102",
+  "description": "Energy-producing pathways\u2013glycolysis, the TCA cycle, oxidative phosphorylation, photosynthesis, and fatty acid oxidation; and biosynthetic pathways\u2013gluconeogenesis, glycogen synthesis, and fatty acid biosynthesis. Nitrogen metabolism, urea cycle, amino acid metabolism, nucleotide metabolism, and metabolism of macromolecules. Prerequisites: BENG 120 or CHEM 140A or CHEM 40A or CHEM 41A and BENG 120 or CHEM 140B or CHEM 40B or CHEM 41B. Note: Students may not receive credit for both BIBC 102 and CHEM 114B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BENG 120",
+          "CHEM 140A",
+          "CHEM 40A",
+          "CHEM 41A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BENG 120",
+          "CHEM 140B",
+          "CHEM 40B",
+          "CHEM 41B"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "BIBC 120",
+    "BIBC 151",
+    "BIBC 194",
+    "BICD 110",
+    "BICD 130",
+    "BIMM 110",
+    "BIMM 118",
+    "BIMM 120",
+    "BIMM 124",
+    "BIMM 130",
+    "BIOM 266",
+    "BIPN 108",
+    "BIPN 150",
+    "CHEM 164"
+  ]
+}

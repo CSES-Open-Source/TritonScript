@@ -1,0 +1,9 @@
+{
+  "code": "MAE 283B",
+  "title": "Approximate Identification and Control",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae283b",
+  "description": "Identification for control: approximate identification, estimation of models via closed-loop experiments. Closed-loop identification techniques. Estimation of model uncertainty. Model invalidation techniques. Iterative techniques for model estimation and control design. Prerequisites: MAE 283A.",
+  "prereqs": "MAE 283A"
+}

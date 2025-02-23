@@ -1,0 +1,27 @@
+{
+  "code": "MATH 174",
+  "title": "Numerical Methods for Physical Modeling",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math174",
+  "description": "(Conjoined with MATH 274.) Floating point arithmetic, direct and iterative solution of linear equations, iterative solution of nonlinear equations, optimization, approximation theory, interpolation, quadrature, numerical methods for initial and boundary value problems in ordinary differential equations. (Students may not receive credit for both MATH 174 and PHYS 105, AMES 153 or 154. Students may not receive credit for MATH 174 if MATH 170A, B, or C has already been taken.) Graduate students will do an extra assignment/exam. Prerequisites: Math 20D or MATH 21D, and either MATH 20F or MATH 31AH, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 21D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MATH 175",
+    "MATH 179",
+    "MATH 275",
+    "MATH 279"
+  ]
+}

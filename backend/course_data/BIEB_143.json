@@ -1,0 +1,18 @@
+{
+  "code": "BIEB 143",
+  "title": "Computer Modeling in Evolution and Ecology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb143",
+  "description": "An introduction to computer modeling in evolution and ecology. Students will use the computer language \u201cR\u201d to write code to analyze ecological and evolutionary processes. Topics include natural selection, genetic drift, community ecology, game theory, and chaos. Students will use their own laptop computers. Prerequisites: BIEB 100 or BIEB 150.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BIEB 100",
+      "BIEB 150"
+    ]
+  },
+  "successors": [
+    "BIEB 150"
+  ]
+}

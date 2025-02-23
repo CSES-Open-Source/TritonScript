@@ -1,0 +1,19 @@
+{
+  "code": "LTIT 50",
+  "title": "Advanced Italian",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltit50",
+  "description": "This course constitutes the sixth and final quarter of the Italian language sequence. It offers an intensive study of Italian grammar, drills in conversation and composition, and readings in modern Italian literature.  Prerequisites:  LTIT 2A and 2B, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LTIT 2A",
+      "LTIT 2B"
+    ]
+  },
+  "successors": [
+    "LTIT 100",
+    "LTIT 122"
+  ]
+}

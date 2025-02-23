@@ -1,0 +1,11 @@
+{
+  "code": "ANAR 153",
+  "title": "The Mysterious Maya",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "anar153",
+  "description": "The archaeology, anthropology, and history of the Maya civilization, which thrived in Mexico and Central America from 1000 BC, until the Spanish conquest.\u00a0Prerequisites: upper-division standing.",
+  "successors": [
+    "ANAR 160"
+  ]
+}

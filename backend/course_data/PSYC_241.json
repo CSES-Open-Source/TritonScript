@@ -1,0 +1,8 @@
+{
+  "code": "PSYC 241",
+  "title": "Programming Web-Based Experiments for Psychology Research",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc241",
+  "description": "This hands-on programming course focuses on the design, implementation, and analysis of online experiments, particularly using Amazon\u2019s Mechanical Turk. Topics include experimental design and counterbalancing, stimulus presentation and timing, response collection using the mouse and keyboard, and debugging experiments written in JavaScript and HTML/CSS. Course work will include individual projects. Recommended preparation: Graduate students who have not programmed at all should speak with the professor beforehand. Prerequisites: graduate standing."
+}

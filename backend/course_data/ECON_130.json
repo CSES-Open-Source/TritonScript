@@ -1,0 +1,15 @@
+{
+  "code": "ECON 130",
+  "title": "Public Policy",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ130",
+  "description": "Course uses basic microeconomic tools to discuss a wide variety of public issues, including the war on drugs, global warming, natural resources, health care and safety regulation. Appropriate for majors who have not completed ECON 100A-B-C and students from other departments. Prerequisites: ECON 2 or 100A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 2",
+      "ECON 100A"
+    ]
+  }
+}

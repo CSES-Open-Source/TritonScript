@@ -1,0 +1,9 @@
+{
+  "code": "MATH 210C",
+  "title": "Mathematical Methods in Physics and Engineering",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math210c",
+  "description": "Calculus of variations: Euler-Lagrange equations, Noether\u2019s theorem. Fourier analysis of functions and distributions in several variables. Partial differential equations: Laplace, wave, and heat equations; fundamental solutions (Green\u2019s functions); well-posed problems. Prerequisites: MATH 210B or consent of instructor. (S)",
+  "prereqs": "MATH 210B"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "VIS 105B",
+  "title": "Drawing: Practices and Genre",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis105b",
+  "description": "A continuation of VIS 105A. A studio course in which the student will investigate a wider variety of technical and conceptual issues involved in contemporary art practice related to drawing. Prerequisites: VIS 105A.",
+  "prereqs": "VIS 105A",
+  "successors": [
+    "VIS 105C"
+  ]
+}

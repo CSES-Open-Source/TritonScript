@@ -1,0 +1,26 @@
+{
+  "code": "ECON 110A",
+  "title": "Long Run Macroeconomics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ110a",
+  "description": "Analysis of the determination of long run growth and models of the determination of output, interest rates, and the price level. Analysis of inflation, unemployment, and monetary and fiscal policy. Prerequisites: ECON 1 and ECON 3 and MATH 10C or MATH 20C or MATH 31BH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 1",
+      "ECON 3",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10C",
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "ECON 129"
+  ]
+}

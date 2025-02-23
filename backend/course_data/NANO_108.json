@@ -1,0 +1,15 @@
+{
+  "code": "NANO 108",
+  "title": "Materials Science and Engineering",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano108",
+  "description": "Structure and control of materials: metals, ceramics, glasses, semiconductors, polymers to produce useful properties. Atomic structures. Defects in materials, phase diagrams, micro structural control. Mechanical, rheological, electrical, optical and magnetic properties discussed. Time temperature transformation diagrams. Diffusion. Scale dependent material properties. Prerequisites: upper-division standing.",
+  "successors": [
+    "NANO 100L",
+    "NANO 150",
+    "NANO 158",
+    "NANO 161",
+    "NANO 174"
+  ]
+}

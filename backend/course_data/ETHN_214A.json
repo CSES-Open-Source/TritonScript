@@ -1,0 +1,11 @@
+{
+  "code": "ETHN 214A",
+  "title": "Representing Native America",
+  "units": "4",
+  "dept": "ETHN",
+  "anchor": "ethn214a",
+  "description": "This course provides an introduction to the history and theory of museum representation of American Indians in order to explore its relation to colonialism and decolonization. In addition to a wide-ranging look at the complex foundations of systems of representing Indians and Indianness, the course includes a study of a specific art form and history of a specific Native American community that will allow the class to create new approaches to designing a museum exhibition. May be co-scheduled with ETHN 114A.",
+  "successors": [
+    "ETHN 214B"
+  ]
+}

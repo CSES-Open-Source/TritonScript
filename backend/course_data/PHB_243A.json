@@ -1,0 +1,27 @@
+{
+  "code": "PHB 243A",
+  "title": "Practicum in Biostatistics A",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "phb243a",
+  "description": "This is the first in a sequence of two core courses for the MS degree in biostatistics. The course takes advantage of the extensive involvement of the program faculty in collaborative and interdisciplinary work within the life sciences. Didactic instruction on best practices in statistical collaboration. Under supervision, the students will participate in applied, real-life projects stemming from the research and collaborations of the faculty in the Division of Biostatistics. Renumbered from FMPH 243A. Students may not receive credit for PHB 243A and FMPH 243A. Prerequisites: successful completion of FMPH 221 or PHB 222 and FMPH 223 or PHB 223. Restricted to major code PB76.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 221",
+          "PHB 222"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 223",
+          "PHB 223"
+        ]
+      }
+    ]
+  }
+}

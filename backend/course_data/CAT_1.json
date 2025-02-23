@@ -1,0 +1,16 @@
+{
+  "code": "CAT 1",
+  "title": "Culture, Art, and Technology 1",
+  "units": "4",
+  "dept": "CAT",
+  "anchor": "cat1",
+  "description": "Lower-division composition course teaching critical reading and drafting by examining how culture, art, and technology have intersected in the past. Prerequisites: Sixth College students only; completion of UC Entry Level Writing Requirement.",
+  "successors": [
+    "CAT 197",
+    "CAT 198",
+    "CAT 199",
+    "CAT 2",
+    "CAT 2CE",
+    "HITO 106"
+  ]
+}

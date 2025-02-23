@@ -1,0 +1,16 @@
+{
+  "code": "MGTA 402",
+  "title": "Data Driven Communications",
+  "units": "2",
+  "dept": "MGT",
+  "anchor": "mgta402",
+  "description": "This project-based course explores and develops applied communication skills needed for analytical professions to make the business case. Students work individually and in teams to develop persuasive messaging to communicate complex technical information and business insights to, and between, technical experts and business decision-makers. Prerequisites: MGTA 451, MGTA 452, MGTA 453, and restricted to MS in business analytics students or with department and instructor approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGTA 451",
+      "MGTA 452",
+      "MGTA 453"
+    ]
+  }
+}

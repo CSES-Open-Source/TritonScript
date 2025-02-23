@@ -1,0 +1,16 @@
+{
+  "code": "ECON 217",
+  "title": "Real Frictions and Financial Frictions",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ217",
+  "description": "While understanding how the macro economy behaves in the ideal, frictionless setting is indispensable; most of the interesting issues in macro arise as a consequence of some sort of friction or missing market. In this course, we will study some models based on real frictions and financial frictions. Topics covered include convex and nonconvex adjustment costs, housing markets and investment decisions, and financial crises. Prerequisites: ECON 210A-B-C or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 210A",
+      "ECON 210B",
+      "ECON 210C"
+    ]
+  }
+}

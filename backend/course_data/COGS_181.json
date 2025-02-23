@@ -1,0 +1,42 @@
+{
+  "code": "COGS 181",
+  "title": "Neural Networks and Deep Learning",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs181",
+  "description": "This course will cover the basics about neural networks, as well as recent developments in deep learning including deep belief nets, convolutional neural networks, recurrent neural networks, long-short term memory, and reinforcement learning. We will study details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. Students may receive credit for one of the following: COGS 181, CSE 151B, or CSE 154. Prerequisites: COGS 18 or CSE 11 or CSE 8B and MATH 18 or MATH 31AH and MATH 20E and MATH 180A and COGS 118A or COGS 118B or CSE 150 or CSE 151A or CSE 158 or ECE 174 or ECE 175A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "COGS 18",
+          "CSE 11",
+          "CSE 8B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      "MATH 20E",
+      "MATH 180A",
+      {
+        "type": "one",
+        "courses": [
+          "COGS 118A",
+          "COGS 118B",
+          "CSE 150",
+          "CSE 151A",
+          "CSE 158",
+          "ECE 174",
+          "ECE 175A"
+        ]
+      }
+    ]
+  }
+}

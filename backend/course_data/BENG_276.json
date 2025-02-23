@@ -1,0 +1,8 @@
+{
+  "code": "BENG 276",
+  "title": "Numerical Analysis in Multiscale Biology",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng276",
+  "description": "Introduces mathematical tools to simulate biological processes at multiple scales. Numerical methods for ordinary and partial differential equations (deterministic and stochastic), and methods for parallel computing and visualization. Hands-on use of computers emphasized; students will apply numerical methods in individual projects. Prerequisites: consent of instructor. (W)"
+}

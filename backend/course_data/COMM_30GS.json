@@ -1,0 +1,18 @@
+{
+  "code": "COMM 30GS",
+  "title": "Global Digital Media Literacy: Analyzing Forms, Practices, and Infrastructures of Mediated Public Life",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm30gs",
+  "description": "This course focuses on the role of journalism in a global system, and the ways mass media both contribute to and inhibit the development of a viable public sphere and effective political process. With a focus on American as well as international news media, we will examine theories and functions of journalism as well as current issues facing today\u2019s news producers.",
+  "successors": [
+    "COMM 106",
+    "COMM 106D",
+    "COMM 106M",
+    "COMM 106N",
+    "COMM 115J",
+    "COMM 118C",
+    "COMM 148",
+    "COMM 152"
+  ]
+}

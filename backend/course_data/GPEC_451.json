@@ -1,0 +1,15 @@
+{
+  "code": "GPEC 451",
+  "title": "Economic Development",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpec451",
+  "description": "This course examines comparative patterns of industrialization and agricultural modernization with a focus on certain common features of the modernization process and widely varying endowments, policies, and experiences, of different countries. Renumbered from IRGN 451. Students may not receive credit for GPEC 451 and IRGN 451. Prerequisites: GPCO 401 and GPCO 403.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "GPCO 401",
+      "GPCO 403"
+    ]
+  }
+}

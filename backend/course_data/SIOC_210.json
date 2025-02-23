@@ -1,0 +1,13 @@
+{
+  "code": "SIOC 210",
+  "title": "Physical Oceanography",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc210",
+  "description": "Physical description of the sea; physical properties of seawater, methods and measurements, boundary processes, regional oceanography. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "SIOB 270",
+    "SIOB 285",
+    "SIOC 235"
+  ]
+}

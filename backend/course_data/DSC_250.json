@@ -1,0 +1,8 @@
+{
+  "code": "DSC 250",
+  "title": "Advanced Data Mining",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc250",
+  "description": "Graph mining and basic text analysis (including keyphrase extraction and generation), set expansion and taxonomy construction, graph representation learning, graph convolutional neural networks, heterogeneous information networks, label propagation, and truth findings. Prerequisites: none. Restricted to DS75 and DS76 students."
+}

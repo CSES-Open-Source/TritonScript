@@ -1,0 +1,16 @@
+{
+  "code": "BIPN 145",
+  "title": "Neurobiology Laboratory",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn145",
+  "description": "Students will gain experience with an array of methods used in modern neurobiology, including electrophysiology, optogenetics, and big data analysis. This laboratory course begins with the electric and chemical underpinnings of the nervous system and then dives into innovative techniques that we can use to study and change it. Attendance at the first lecture/lab is required. Nonattendance may result in the student being dropped from the course roster. Material lab fee will apply. Prerequisites: BILD 2 and BILD 4 and MATH 11.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 2",
+      "BILD 4",
+      "MATH 11"
+    ]
+  }
+}

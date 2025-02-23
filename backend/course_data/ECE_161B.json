@@ -1,0 +1,9 @@
+{
+  "code": "ECE 161B",
+  "title": "Digital Signal Processing I",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece161b",
+  "description": "Sampling and quantization of baseband signals; A/D and D/A conversion, quantization noise, oversampling and noise shaping. Sampling of bandpass signals, undersampling downconversion, and Hilbert transforms. Coefficient quantization, roundoff noise, limit cycles and overflow oscillations. Insensitive filter structures, lattice and wave digital filters. Systems will be designed and tested with MATLAB, implemented with DSP processors and tested in the laboratory. Prerequisites: ECE 161A with a grade of C\u2013 or better.",
+  "prereqs": "ECE 161A"
+}

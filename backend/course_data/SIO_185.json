@@ -1,0 +1,21 @@
+{
+  "code": "SIO 185",
+  "title": "Marine Microbiology Laboratory",
+  "units": "5",
+  "dept": "SIO",
+  "anchor": "sio185",
+  "description": "Techniques and theory in marine microbiology. Students perform experiments concerning (a) enrichment, enumeration, and identification, and (b) metabolic and physiochemical adaptations, along with an independent project. Students may not receive credit for both SIO 126L and SIO 185. Prerequisites: BILD 1 and SIO 132 or SIO 134 or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      {
+        "type": "one",
+        "courses": [
+          "SIO 132",
+          "SIO 134"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "code": "SE 131B",
+  "title": "Finite Element Analysis: Beam and Shell Models",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se131b",
+  "description": "Project-based exploration of structural engineering computations. Topics include analysis of shell structures, design optimization, computational vibration analysis. Prerequisites: SE 131A (or SE 131), SE 101C or MAE 130C, and SE 130B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SE 131A",
+          "SE 131"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SE 101C",
+          "MAE 130C"
+        ]
+      },
+      "SE 130B"
+    ]
+  }
+}

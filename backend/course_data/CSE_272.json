@@ -1,0 +1,8 @@
+{
+  "code": "CSE 272",
+  "title": "Advanced Image Synthesis",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse272",
+  "description": "Computer graphics techniques for creating realistic images. Topics include ray tracing, global illumination, subsurface scattering, and participating media. CSE 168 or equivalent recommended."
+}

@@ -1,0 +1,13 @@
+{
+  "code": "TDDR 101",
+  "title": "Stage Management",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tddr101",
+  "description": "Discussion and research into the duties, responsibilities, and roles of a stage manager. Work to include studies in script analysis, communication, rehearsal procedures, performance skills, and style and conceptual approach to theatre. THGE or TDGE 1, THAC or TDAC 1, and THDE or TDDE 1 recommended.",
+  "successors": [
+    "TDDR 102",
+    "TDDR 191",
+    "TDPR 104"
+  ]
+}

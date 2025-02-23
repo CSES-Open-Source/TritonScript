@@ -1,0 +1,22 @@
+{
+  "code": "BIMM 143R",
+  "title": "Bioinformatics Laboratory",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm143r",
+  "description": "Bioinformatics is the analysis of big data in the biosciences. This course provides a hands-on introduction to the computer-based analysis of biomolecular and genomic data. Major topic areas include advances in sequencing technologies, genome resequencing and variation analysis, transcriptomics, structural bioinformatics, and personal genomics. This course will utilize free, web-based bioinformatics tools and no programming skills are required. This course is a distance education course. Students may receive credit for one of the following: BIMM 143 or BIMM 143R.\u00a0Prerequisites: BILD 1 and BILD 4 or BIEB 123 or BIMM 101.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      {
+        "type": "one",
+        "courses": [
+          "BILD 4",
+          "BIEB 123",
+          "BIMM 101"
+        ]
+      }
+    ]
+  }
+}

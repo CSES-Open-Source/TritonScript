@@ -1,0 +1,9 @@
+{
+  "code": "ECE 276C",
+  "title": "Robot Manipulation and Control",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece276c",
+  "description": "This course follows ECE 276A-B, and covers techniques relevant to robot manipulation as well as open problems that involve new forms of machine learning (i.e., reinforcement learning). Topics will review kinematics, dynamics, low-level control and motion planning, and reinforcement learning approaches. A substantial, student-driven project demonstrates their collected knowledge of robotics from ECE 276A-B-C. Prerequisites: ECE 276B; graduate standing.",
+  "prereqs": "ECE 276B"
+}

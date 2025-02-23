@@ -1,0 +1,27 @@
+{
+  "code": "SE 280",
+  "title": "Finite Element Computations in Solid Mechanics",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se280",
+  "description": "Techniques of computation with the finite element method. Preprocessing (geometry, mesh generation, boundary conditions), solution methods (statics including contact, dynamics, buckling), and postprocessing (visualization, error estimation, interpretation of results). Hands-on exercises with commercial and open-source software. Use of computer resources. Prerequisites: graduate standing, SE 276A or MAE 232A, and SE 276B or MAE 232B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SE 276A",
+          "MAE 232A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SE 276B",
+          "MAE 232B"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ECE 269",
+  "title": "Linear Algebra and Application",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece269",
+  "description": "This course will build mathematical foundations of linear algebraic techniques and justify their use in signal processing, communication, and machine learning. Topics include geometry of vector and Hilbert spaces, orthogonal projection, systems of linear equations and role of sparsity, eigenanalysis, Hermitian matrices and variational characterization, positive semidefinite matrices, singular value decomposition, and principal component analysis. Prerequisites: graduate standing.",
+  "successors": [
+    "DSC 205",
+    "DSC 254",
+    "ECE 226",
+    "ECE 229",
+    "ECE 272A",
+    "ECE 273"
+  ]
+}

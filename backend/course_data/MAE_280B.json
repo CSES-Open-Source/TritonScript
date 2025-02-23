@@ -1,0 +1,9 @@
+{
+  "code": "MAE 280B",
+  "title": "Linear Control Design",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae280b",
+  "description": "Parameterization of all stabilizing output feedback controllers, covariance controllers, H-infinity controllers, and L-2 to L-infinity controllers. Continuous and discrete-time treatment. Alternating projection algorithms for solving output feedback problems. Model reduction. All control design problems reduced to one critical theorem in linear algebra. Prerequisites: MAE 280A.",
+  "prereqs": "MAE 280A"
+}

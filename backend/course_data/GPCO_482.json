@@ -1,0 +1,11 @@
+{
+  "code": "GPCO 482",
+  "title": "Global Economics and Markets",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpco482",
+  "description": "This course studies major economies of the Pacific region by combining standard tools in economics with institutional background on each economy. Special attention is given to the challenges that economic globalization poses on the economic relations among those economies. Renumbered from IRCO 482. Students may not receive credit for GPCO 482 and IRCO 482. Prerequisites: MAS-IA students only.",
+  "successors": [
+    "GPCO 483"
+  ]
+}

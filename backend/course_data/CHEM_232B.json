@@ -1,0 +1,9 @@
+{
+  "code": "CHEM 232B",
+  "title": "Statistical Mechanics II",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem232b",
+  "description": "Interacting systems at equilibrium, both classical (liquids) and quantum (spins). Phase transitions. Nonequilibrium systems: glasses, transport, time correlation functions, Onsager relations, fluctuation-dissipation theorem, random walks, Brownian motion. Applications in biophysics. Prerequisites: CHEM 232A or consent of instructor.",
+  "prereqs": "CHEM 232A"
+}

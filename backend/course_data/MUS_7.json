@@ -1,0 +1,11 @@
+{
+  "code": "MUS 7",
+  "title": "Music, Science, and Computers",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus7",
+  "description": "Exploration of the interactions among music, science, and technology, including the history and current development of science and technology from the perspective of music. Prerequisites: none.",
+  "successors": [
+    "MUS 170"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "DSC 170",
+  "title": "Spatial Data Science and Applications",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc170",
+  "description": "Spatial data science is a set of concepts and methods that deal with accessing, managing, visualizing, analyzing, and reasoning about spatial data in applications where location, shape and size of objects, and their mutual arrangement are important. This upper-division course explores advanced data science concepts for spatial data, introducing students to principles and techniques of spatial data analysis, including geographic information systems, spatial big data management, and geostatistics. Prerequisites: DSC 80. Restricted to students with upper-division standing.",
+  "prereqs": "DSC 80"
+}

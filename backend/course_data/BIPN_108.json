@@ -1,0 +1,21 @@
+{
+  "code": "BIPN 108",
+  "title": "Biology and Medicine of Exercise",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn108",
+  "description": "Course addresses the human body\u2019s response to exercise, addressing energy metabolism and the effects of both acute and chronic exercise on function in several important organ systems. Designing training regimes and the role of exercise in health will be considered. Prerequisites: BIPN 100 and BIBC 102 or CHEM 114B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BIPN 100",
+      {
+        "type": "one",
+        "courses": [
+          "BIBC 102",
+          "CHEM 114B"
+        ]
+      }
+    ]
+  }
+}

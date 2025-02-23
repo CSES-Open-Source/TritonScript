@@ -1,0 +1,12 @@
+{
+  "code": "TDDE 131",
+  "title": "Special Topics in Theatre Design",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdde131",
+  "description": "A course designed to expose the theatre design students to a variety of specialized topics that will vary from quarter to quarter. May be taken for credit three times. Prerequisites: THDE or TDDE 1 or consent of instructor.",
+  "prereqs": "TDDE 1",
+  "successors": [
+    "TDDE 132"
+  ]
+}

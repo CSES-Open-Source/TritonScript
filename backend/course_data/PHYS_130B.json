@@ -1,0 +1,21 @@
+{
+  "code": "PHYS 130B",
+  "title": "Quantum Physics II",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys130b",
+  "description": "Matrix mechanics, angular momentum, spin, and the two-state system. Approximation methods and the hydrogen spectrum. Identical particles, atomic and nuclear structures. Scattering theory. Three hours lecture, one-hour discussion session. Prerequisites: PHYS 100B and 130A. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 100B",
+      "PHYS 130A"
+    ]
+  },
+  "successors": [
+    "PHYS 113",
+    "PHYS 130C",
+    "PHYS 140B",
+    "PHYS 154"
+  ]
+}

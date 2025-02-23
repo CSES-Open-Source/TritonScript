@@ -1,0 +1,8 @@
+{
+  "code": "DSC 215",
+  "title": "Statistical Thinking and Experimental Design",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc215",
+  "description": "The goal of this course is to evaluate any paper in data science, regardless of application area. Topics include experimental design, claims, evidence, and statistical significance, the replication crisis, falsifiability, philosophy of science, history of probability and statistics. This class will be in the form of an open discussion based on provided reading materials. Prerequisites: none. Restricted to students within the DS75 and DS76 major."
+}

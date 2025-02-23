@@ -1,0 +1,25 @@
+{
+  "code": "CAT 2",
+  "title": "Culture, Art, and Technology 2",
+  "units": "6",
+  "dept": "CAT",
+  "anchor": "cat2",
+  "description": "Lower-division writing-intensive course foregrounding argumentation, revision, and writing as process by examining case studies of culture, art, and technology interacting in the present moment. Prerequisites: Sixth College students only; CAT 1.",
+  "prereqs": "CAT 1",
+  "successors": [
+    "CAT 197",
+    "CAT 198",
+    "CAT 199",
+    "CAT 3",
+    "CAT 3CE",
+    "ENG 100D",
+    "HITO 106",
+    "LTEN 30",
+    "LTWR 8A",
+    "LTWR 8B",
+    "LTWR 8C",
+    "PHIL 27",
+    "PHYS 30",
+    "POLI 27"
+  ]
+}

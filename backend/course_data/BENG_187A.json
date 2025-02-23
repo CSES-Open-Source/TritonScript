@@ -1,0 +1,19 @@
+{
+  "code": "BENG 187A",
+  "title": "Bioengineering Design Project: Planning",
+  "units": "1",
+  "dept": "BENG",
+  "anchor": "beng187a",
+  "description": "General engineering design topics including project planning and design objectives, background research, engineering needs assessment, technical design specifications, engineering standards, and design requirements and constraints. Introduction to biomedical and biotechnology design projects. Career and professional advising. Majors must enroll in the course for a letter grade in order to count the sequence toward the major. No exceptions will be approved. Prerequisites: BENG 112A or BENG 152 or BENG 168; bioengineering, bioengineering: biotechnology, or bioengineering: biosystems majors only or consent of department. (S)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BENG 112A",
+      "BENG 152",
+      "BENG 168"
+    ]
+  },
+  "successors": [
+    "BENG 187B"
+  ]
+}

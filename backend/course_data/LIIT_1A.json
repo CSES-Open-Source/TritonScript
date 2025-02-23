@@ -1,0 +1,13 @@
+{
+  "code": "LIIT 1A",
+  "title": "Italian Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "liit1a",
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIIT 1AX. Prerequisites: no prior study of Italian.",
+  "successors": [
+    "LIIT 1B",
+    "LIIT 1BX",
+    "LIIT 5BS"
+  ]
+}

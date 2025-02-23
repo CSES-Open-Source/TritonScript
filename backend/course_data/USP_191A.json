@@ -1,0 +1,12 @@
+{
+  "code": "USP 191A",
+  "title": "Intermediate GIS for Urban and Community Planning",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp191a",
+  "description": "Intermediate geographic information systems (GIS) as applied to urban studies builds upon the introductory course and teaches students how to use the GIS software, collect and analyze data, and produce maps and products relating to demographics, transportation, health, public safety, and other current issues. Prerequisites: USP 4 and upper-division standing or consent of instructor.",
+  "prereqs": "USP 4",
+  "successors": [
+    "USP 191B"
+  ]
+}

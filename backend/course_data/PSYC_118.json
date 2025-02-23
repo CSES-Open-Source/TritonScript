@@ -1,0 +1,28 @@
+{
+  "code": "PSYC 118",
+  "title": "Laboratory in Animal Behavior",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc118",
+  "description": "This course provides an opportunity to learn about the various evolutionary forces that shape a species\u2019 natural behavioral repertoire while also conducting research related to these issues. Classroom lectures on topics related to ethology will be complemented by a research project in which students collect observational data on animal behavior.\u00a0Open to the following majors only: PC26, PC28, PC29, PC30, PC31, PC32, PC33, PC34, CG32. Prerequisites: upper-division standing, PSYC 60 or COGS 14B or MATH 11 and PSYC 70 or COGS 14A, and department approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PSYC 60",
+          "COGS 14B",
+          "MATH 11"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PSYC 70",
+          "COGS 14A"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "code": "PHIL 105",
+  "title": "Topics in Early Modern Philosophy",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil105",
+  "description": "A study of one or more figures from seventeenth- and/or eighteenth-century philosophy, such as Bacon, Descartes, Hobbes, Cavendish, Conway, Spinoza, Locke, Malebranche, Leibniz, Astell, Berkeley, Du Chatelet, Hume, or Reid. The focus may be on particular texts or intellectual themes and traditions. May be taken for credit up to two times. Prerequisites: upper-division standing or consent of instructor.",
+  "successors": [
+    "PHIL 106"
+  ]
+}

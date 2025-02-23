@@ -1,0 +1,13 @@
+{
+  "code": "ECE 153",
+  "title": "Probability and Random Processes for Engineers",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece153",
+  "description": "Random processes. Stationary processes: correlation, power spectral density. Gaussian processes and linear transformation of Gaussian processes. Point processes. Random noise in linear systems. Prerequisites: ECE 109 with a grade of C\u2013 or better.",
+  "prereqs": "ECE 109",
+  "successors": [
+    "ECE 155",
+    "ECE 159"
+  ]
+}

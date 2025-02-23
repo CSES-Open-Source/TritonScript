@@ -1,0 +1,9 @@
+{
+  "code": "BIMM 112",
+  "title": "Regulation of Eukaryotic Gene Expressions",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm112",
+  "description": "This course explores the mechanisms by which gene activity is regulated in eukaryotes, with an emphasis on transcriptional regulation and chromatin. Topics will include chromatin structure, histone modifications, chromatin dynamics, transcription factors, transcriptional elongation, enhancers, CpG methylation, heterochromatin, and epigenetics. Prerequisites: BIMM 100.",
+  "prereqs": "BIMM 100"
+}

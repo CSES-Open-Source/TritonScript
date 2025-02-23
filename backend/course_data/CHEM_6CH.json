@@ -1,0 +1,34 @@
+{
+  "code": "CHEM 6CH",
+  "title": "Honors General Chemistry III",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem6ch",
+  "description": "Third quarter of a three-quarter honors sequence intended for well-prepared science and engineering majors. Topics are similar to those in 6C but are taught at a higher level and faster pace. May be taken for credit after credit for CHEM 6C. Students completing 6CH may not subsequently take 6C for credit. Prerequisites: CHEM 6BH and MATH 20B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 6BH",
+      "MATH 20B"
+    ]
+  },
+  "successors": [
+    "CHEM 100A",
+    "CHEM 111",
+    "CHEM 120A",
+    "CHEM 126A",
+    "CHEM 130",
+    "CHEM 131",
+    "CHEM 171",
+    "CHEM 172",
+    "CHEM 173",
+    "CHEM 174",
+    "CHEM 187",
+    "CHEM 188",
+    "CHEM 40AH",
+    "NANO 159",
+    "SIO 141",
+    "SIO 143",
+    "SIO 174"
+  ]
+}

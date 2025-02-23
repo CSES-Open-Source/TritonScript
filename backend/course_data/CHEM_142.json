@@ -1,0 +1,34 @@
+{
+  "code": "CHEM 142",
+  "title": "Introduction to Glycosciences",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem142",
+  "description": "The primary aim of this course is to provide an overview of fundamental facts, concepts, and methods in glycoscience. The course is structured around major themes in the field, starting from basic understanding of structure and molecular interactions of carbohydrates, to the mechanisms of their biological functions in normal and disease states, to their applications in materials science and energy generation. May be coscheduled with CHEM 242. CHEM 40C and at least one course in either general biology, molecular biology, or cell biology is strongly encouraged. Prerequisites: CHEM 40B, 40BH, 41B, 140B, or 140BH and BIBC 100 or BILD 1 or CHEM 114A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 40B",
+          "CHEM 40BH",
+          "CHEM 41B",
+          "CHEM 140B",
+          "CHEM 140BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BIBC 100",
+          "BILD 1",
+          "CHEM 114A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CHEM 237"
+  ]
+}

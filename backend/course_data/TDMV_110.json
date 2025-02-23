@@ -1,0 +1,12 @@
+{
+  "code": "TDMV 110",
+  "title": "Intermediate Ballet",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdmv110",
+  "description": "Continued studio work in ballet technique at the intermediate level and terminology. Emphasis on increasing strength, flexibility, and balance, and the interpretation of classical musical phrasing. Includes proper alignment training and artistic philosophy of classical ballet. May be taken for credit six times. Prerequisites: TDMV 1 or consent of instructor.",
+  "prereqs": "TDMV 1",
+  "successors": [
+    "TDMV 111"
+  ]
+}

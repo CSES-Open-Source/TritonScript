@@ -1,0 +1,19 @@
+{
+  "code": "ECE 166",
+  "title": "Microwave Systems and Circuits",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece166",
+  "description": "Waves, distributed circuits, and scattering matrix methods. Passive microwave elements. Impedance matching. Detection and frequency conversion using microwave diodes. Design of transistor amplifiers including noise performance. Circuits designs will be simulated by computer and tested in the laboratory. (Course materials and/or program fees may apply.) Prerequisites: ECE 102 and 107 with grades of C\u2013 or better.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 102",
+      "ECE 107"
+    ]
+  },
+  "successors": [
+    "ECE 265A",
+    "ECE 265B"
+  ]
+}

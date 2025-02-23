@@ -1,0 +1,16 @@
+{
+  "code": "ECON 208",
+  "title": "Games and Information",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ208",
+  "description": "Further topics in game theory and the economics of information. Prerequisites: ECON 200A-B-C or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 200A",
+      "ECON 200B",
+      "ECON 200C"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "code": "USP 30",
+  "title": "Urban Studies and Planning Colloquium",
+  "units": "2",
+  "dept": "USP",
+  "anchor": "usp30",
+  "description": "In this course, students will attend weekly seminars presented by leading researchers and practitioners in fields related to urban studies and planning. Students will learn about best practices and innovative case studies from the field.",
+  "successors": [
+    "USP 186"
+  ]
+}

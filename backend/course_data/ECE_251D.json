@@ -1,0 +1,15 @@
+{
+  "code": "ECE 251D",
+  "title": "Array Processing",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece251d",
+  "description": "The coherent processing of data collected from sensors distributed in space for signal enhancement and noise rejection purposes or wavefield directionality estimation. Conventional and adaptive beamforming. Matched field processing. Sparse array design and processing techniques. Applications to acoustics, geophysics, and electromagnetics. Students will not receive credit for both ECE 251D and SIOC 207D. Cross-listed with SIOC 207D. Prerequisites: graduate standing; ECE 251A or SIOC 207B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECE 251A",
+      "SIOC 207B"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "code": "LISL 1D",
+  "title": "American Sign Language Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lisl1d",
+  "description": "Small conversation sections taught entirely in American Sign Language. Emphasis on developing signing fluency and greater cultural awareness. Practice of the principal language functions needed for successful communication. Must be taken in conjunction with LISL 1DX. Successful completion of LISL 1D and LISL 1DX satisfies the requirement for language proficiency in Eleanor Roosevelt and Revelle Colleges. Prerequisites: LISL 1C with a grade of C\u2013 or better, or equivalent and LISL 1CX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LISL 1C",
+      "LISL 1CX"
+    ]
+  },
+  "successors": [
+    "LISL 1E"
+  ]
+}

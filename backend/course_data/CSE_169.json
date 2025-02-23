@@ -1,0 +1,9 @@
+{
+  "code": "CSE 169",
+  "title": "Computer Animation",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse169",
+  "description": "Advanced graphics focusing on the programming techniques involved in computer animation. Algorithms and approaches for both character animation and physically based animation. Particular subjects may include skeletons, skinning, key framing, facial animation, inverse kinematics, locomotion, motion capture, video game animation, particle systems, rigid bodies, clothing, and hair. Recommended preparation: an understanding of linear algebra. Prerequisites: CSE 167; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": "CSE 167"
+}

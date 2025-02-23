@@ -1,0 +1,11 @@
+{
+  "code": "MGTP 424",
+  "title": "Professional Research and Communication for Accountants",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgtp424",
+  "description": "Introduces communication strategies to ensure effective communication to internal and external business and governmental audiences at all levels. Students will search and report on a range of technical topics from the professional/practitioner accounting literature. Prerequisites: restricted to MPAc students (major code RS91) or by department approval.",
+  "successors": [
+    "MGTP 444"
+  ]
+}

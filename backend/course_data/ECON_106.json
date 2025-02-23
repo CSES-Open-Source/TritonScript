@@ -1,0 +1,15 @@
+{
+  "code": "ECON 106",
+  "title": "International Economic Agreements",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ106",
+  "description": "Examines reasons for international economic agreements, their design, the strategic interactions that determine how the agreements are implemented and sustained, and consequences for global welfare and inequality. Draws on international economics, game theory, law and economics, and political economy to understand international economic agreements. These tools are used to understand multilateral trade and investment agreements, such as NAFTA, and international organizations, such as the WTO. Prerequisites: ECON 100B and 102.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 100B",
+      "ECON 102"
+    ]
+  }
+}

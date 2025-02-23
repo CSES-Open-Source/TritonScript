@@ -1,0 +1,15 @@
+{
+  "code": "CSE 200",
+  "title": "Computability and Complexity",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse200",
+  "description": "Computability review, including halting problem, decidable sets, r.e. sets, many-one reductions; TIME(t(n)), SPACE(s(n)) and general relations between these classes; L, P, PSPACE, NP; NP\u2014completeness; hierarchy theorems; RP, BPP. Prerequisites: CSE 105 or equivalent.",
+  "prereqs": "CSE 105",
+  "successors": [
+    "CSE 205A",
+    "CSE 206A",
+    "CSE 208",
+    "CSE 233"
+  ]
+}

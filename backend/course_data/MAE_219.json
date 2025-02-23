@@ -1,0 +1,8 @@
+{
+  "code": "MAE 219",
+  "title": "Design and Control of Haptic Systems",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae219",
+  "description": "Course provides an introduction to the design and control of haptic systems, which provide touch feedback to human users interacting with virtual environments and teleoperated robots. Topics include haptic-focused mechatronic design, system modeling and analysis (kinematics and dynamics), human-in-the-loop feedback control, and haptic feedback evaluation. Course topics including mechatronic system design, as well as system modeling, analysis, and control reinforce many fundamental MAE topics."
+}

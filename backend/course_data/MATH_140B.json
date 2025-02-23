@@ -1,0 +1,17 @@
+{
+  "code": "MATH 140B",
+  "title": "Foundations of Real Analysis II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math140b",
+  "description": "Second course in a rigorous three-quarter sequence on real analysis. Topics include differentiation, the Riemann-Stieltjes integral, sequences and series of functions, power series, Fourier series, and special functions. (Students may not receive credit for both MATH 140B and MATH 142B.) Prerequisites: MATH 140A or consent of instructor.",
+  "prereqs": "MATH 140A",
+  "successors": [
+    "MATH 140C",
+    "MATH 144",
+    "MATH 146",
+    "MATH 148",
+    "MATH 220A-B-C",
+    "MATH 290A-B-C"
+  ]
+}

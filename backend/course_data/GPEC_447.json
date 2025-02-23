@@ -1,0 +1,15 @@
+{
+  "code": "GPEC 447",
+  "title": "Data Science Approaches to Spatial Analysis",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpec447",
+  "description": "Course introduces spatial data science techniques and key applications. Students will learn the fundamentals of online mapping, spatial data management, and spatial data science, with practical experience with open source and commercial data science libraries using Python and Jupyter notebooks. Covers a range of topics, from finding and accessing data online to integrating data and assembling datasets, machine learning, and predictive analytics applications. Prerequisites: GPEC 443 and GPEC 444.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "GPEC 443",
+      "GPEC 444"
+    ]
+  }
+}

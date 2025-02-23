@@ -1,0 +1,38 @@
+{
+  "code": "CSE 170",
+  "title": "Interaction Design",
+  "units": "5",
+  "dept": "CSE",
+  "anchor": "cse170",
+  "description": "Introduces fundamental methods and principles for designing, implementing, and evaluating user interfaces. Topics include user-centered design, rapid prototyping, experimentation, direct manipulation, cognitive principles, visual design, social software, software tools. Learn by doing: Work with a team on a quarter-long design project. Students may not receive credit for COGS 120 and CSE 170. Recommended preparation: Basic familiarity with HTML. Prerequisites: COGS 108 or CSE 12 or DSC 30 and COGS 1 or COGS 10 or DSGN 1 or ENG 100D.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "COGS 108",
+          "CSE 12",
+          "DSC 30"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "COGS 1",
+          "COGS 10",
+          "DSGN 1",
+          "ENG 100D"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "COGS 121",
+    "COGS 122",
+    "COGS 125",
+    "COGS 126",
+    "CSE 176A",
+    "DSGN 118"
+  ]
+}

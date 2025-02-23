@@ -1,0 +1,9 @@
+{
+  "code": "COMM 105M",
+  "title": "CT: Mobile Communication",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm105m",
+  "description": "Movement is central to our lives. This course draws on the latest research into how we travel, trade, and move. Diverse topics will be covered, including kids in cars, the New York subway, and theories of mobility. Prerequisites: COMM 10.",
+  "prereqs": "COMM 10"
+}

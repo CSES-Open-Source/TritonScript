@@ -1,0 +1,20 @@
+{
+  "code": "MUS 137A",
+  "title": "Jazz Theory and Improvisation",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus137a",
+  "description": "Study of jazz theory and improvisation, focused on fundamental rhythmic, harmonic, melodic, and formal aspects of modern jazz style. Application of theoretical knowledge to instruments and concepts will be reinforced through listening, transcription work, and composition and improvisation exercises. First course of a yearlong sequence. Prerequisites: MUS 2A-B-C, proficiency exam, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MUS 2A",
+      "MUS 2B",
+      "MUS 2C"
+    ]
+  },
+  "successors": [
+    "MUS 137B",
+    "MUS 137D"
+  ]
+}

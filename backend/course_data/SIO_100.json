@@ -1,0 +1,13 @@
+{
+  "code": "SIO 100",
+  "title": "Geological Field Methods",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio100",
+  "description": "Mapping and interpretation of geologic units. Fieldwork is done locally, and the data are analyzed in the laboratory. There will be one mandatory weekend field trip to Anza Borrego State Park. Program and/or materials fees may apply. Prerequisites: SIO 50 or consent of instructor.",
+  "prereqs": "SIO 50",
+  "successors": [
+    "SIO 162",
+    "SIO 170"
+  ]
+}

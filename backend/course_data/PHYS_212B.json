@@ -1,0 +1,13 @@
+{
+  "code": "PHYS 212B",
+  "title": "Quantum Mechanics II",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys212b",
+  "description": "Symmetry theory and conservation laws: time reversal, discrete, translation and rotational groups. Potential scattering. Time-dependent perturbation theory. Quantization of Electromagnetic fields and transition rates. Identical particles. Open systems: mixed states, dissipation, decoherence. Prerequisites: PHYS 212A.",
+  "prereqs": "PHYS 212A",
+  "successors": [
+    "PHYS 210A",
+    "PHYS 212C"
+  ]
+}

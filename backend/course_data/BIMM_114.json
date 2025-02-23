@@ -1,0 +1,9 @@
+{
+  "code": "BIMM 114",
+  "title": "Virology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm114",
+  "description": "An introduction to eukaryotic virology, with emphasis on animal virus systems. Topics discussed include the molecular structure of viruses; the multiplication strategies of the major virus families; and viral latency, persistence, and oncology. Prerequisites: BIMM 100.",
+  "prereqs": "BIMM 100"
+}

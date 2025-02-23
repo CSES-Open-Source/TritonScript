@@ -1,0 +1,9 @@
+{
+  "code": "FMPH 440",
+  "title": "Introduction to Health Economics",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fmph440",
+  "description": "This course will cover the economics of health care demand and supply. This course will describe the health care industry in an economics context; analyze health behaviors of consumers, producers, and insurers; and introduce and evaluate health policies to regulate the health care industry. The theories developed throughout the course will be applied to current health policy problems. Prerequisites: successfully completed FMPH 405.",
+  "prereqs": "FMPH 405"
+}

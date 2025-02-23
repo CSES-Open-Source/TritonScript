@@ -1,0 +1,18 @@
+{
+  "code": "MATH 187A",
+  "title": "Introduction to Cryptography",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math187a",
+  "description": "An introduction to the basic concepts and techniques of modern cryptography. Classical cryptanalysis. Probabilistic models of plaintext. Monoalphabetic and polyalphabetic substitution. The one-time system. Caesar-Vigenere-Playfair-Hill substitutions. The Enigma. Modern-day developments. The Data Encryption Standard. Public key systems. Security aspects of computer networks. Data protection. Electronic mail. Recommended preparation: basic programming experience. Renumbered from MATH 187. Students may not receive credit for both MATH 187A and MATH 187. Prerequisites: MATH 10A or MATH 20A. Students who have not completed listed prerequisite may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 10A",
+      "MATH 20A"
+    ]
+  },
+  "successors": [
+    "MATH 187B"
+  ]
+}

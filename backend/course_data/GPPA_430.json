@@ -1,0 +1,15 @@
+{
+  "code": "GPPA 430",
+  "title": "Education Policy Around the World",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gppa430",
+  "description": "What policies should countries adopt if they want to improve the quality of their education system? The course draws on development economics and its rigorous evaluations of the impact of education policies on student outcomes in developing countries. Questions to be asked: What are the challenges faced in developing countries? What are the policies that have been proposed and how have they been evaluated? What questions have not been asked and/or answered? Prerequisites: GPCO 453 and GPCO 454 or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "GPCO 453",
+      "GPCO 454"
+    ]
+  }
+}

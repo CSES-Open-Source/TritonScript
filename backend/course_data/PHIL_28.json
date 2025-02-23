@@ -1,0 +1,15 @@
+{
+  "code": "PHIL 28",
+  "title": "Ethics and Society II",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil28",
+  "description": "An examination of a single set of major contemporary social, political, or economic issues (e.g., environmental ethics, international ethics) in light of ethical and moral principles and values. Warren College students must take course for a letter grade in order to satisfy the Warren College general-education requirement. Prerequisites: PHIL 27 or POLI 27.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "PHIL 27",
+      "POLI 27"
+    ]
+  }
+}

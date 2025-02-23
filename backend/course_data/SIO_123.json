@@ -1,0 +1,15 @@
+{
+  "code": "SIO 123",
+  "title": "Microbial Environmental Systems Biology",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio123",
+  "description": "Environmental systems biology is the study of the genomic basis for patterns of microbial diversity and adaptation in relation to habitat. This course introduces the microbial genome as a unit of study and surveys introductory principles in microbial genomics and bioinformatics that underlie a range of contemporary research in diverse marine habitats, such as the deep sea and polar regions, as well as studies of biomedical importance, including the human microbiome. Prerequisites: BICD 100 or BICD 100R or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BICD 100",
+      "BICD 100R"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "code": "MUS 5",
+  "title": "Sound in Time",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus5",
+  "description": "An examination and exploration of the art and science of music making. Topics include acoustics, improvisation, composition, and electronic and popular forms. There will be required listening, reading, and creative assignments. No previous musical background required. Prerequisites: none.",
+  "successors": [
+    "MUS 170"
+  ]
+}

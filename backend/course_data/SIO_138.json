@@ -1,0 +1,22 @@
+{
+  "code": "SIO 138",
+  "title": "The Coral Reef Environment",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio138",
+  "description": "Assessment of the physical, chemical, and biological interactions that define the coral reef system; essential geography and evolutionary history of reefs; natural and human perturbations to the coral reef ecosystem; aspects of reef management and sustainability. Prerequisites: BILD 3, MATH 10A or MATH 20A, CHEM 6B, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 3",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10A",
+          "MATH 20A"
+        ]
+      },
+      "CHEM 6B"
+    ]
+  }
+}

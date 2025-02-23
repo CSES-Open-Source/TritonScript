@@ -1,0 +1,22 @@
+{
+  "code": "VIS 165A",
+  "title": "The Photographic Print",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis165a",
+  "description": "This course continues the student\u2019s work of photographic printing with digital technology, with regard to the potentials of various print media and the way in which printing, editing, and sequence contribute to making meaning. Through demonstrations and workshops, lessons will include inkjet printing, alternative materials, scanning, and digital output of film. Students will be required to create a portfolio of prints. Program or materials fees may apply. Two production-course limitation. Prerequisites: VIS 60. Open to art history and criticism, media, studio, and ICAM majors and photography minors.",
+  "prereqs": "VIS 60",
+  "successors": [
+    "VIS 169A",
+    "VIS 169B",
+    "VIS 180A",
+    "VIS 180B",
+    "VIS 181",
+    "VIS 182",
+    "VIS 182A",
+    "VIS 183A",
+    "VIS 183B",
+    "VIS 184",
+    "VIS 185"
+  ]
+}

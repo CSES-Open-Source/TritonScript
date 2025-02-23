@@ -1,0 +1,15 @@
+{
+  "code": "ECON 181",
+  "title": "Topics in Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ181",
+  "description": "Selected topics in economics. May be taken for credit up to three times. Prerequisites: ECON 1 and ECON 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 1",
+      "ECON 3"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "code": "VIS 133A",
+  "title": "Studio Topics in Speculative Design",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis133a",
+  "description": "A seminar that examines a topic of special interest in speculative design that is not addressed in the regular curriculum. Students will read, write, and produce work through projects. Topics will vary. May be taken for credit two times. Prerequisites: VIS 30 or VIS 41. Open to media, studio, ICAM, and speculative design majors and speculative design minors.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 30",
+      "VIS 41"
+    ]
+  },
+  "successors": [
+    "VIS 190"
+  ]
+}

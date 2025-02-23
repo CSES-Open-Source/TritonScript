@@ -1,0 +1,17 @@
+{
+  "code": "BIBC 194",
+  "title": "Advanced Topics in Modern Biology: Biochemistry",
+  "units": "2",
+  "dept": "BIOL",
+  "anchor": "bibc194",
+  "description": "Course will vary in title and content. Students are expected to actively participate in course discussions, read, and analyze primary literature. Current descriptions and subtitles may be found on the Schedule of Classes and the School of Biological Sciences website. Students may receive credit in 194 courses a total of four times as topics vary. Students may not receive credit for the same topic. Prerequisites: BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BIBC 100",
+      "BIBC 102",
+      "CHEM 114A",
+      "CHEM 114B"
+    ]
+  }
+}

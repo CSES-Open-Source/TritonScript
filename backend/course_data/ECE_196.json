@@ -1,0 +1,21 @@
+{
+  "code": "ECE 196",
+  "title": "Engineering Hands-on Group Project",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece196",
+  "description": "Groups of students work to build and demonstrate at least three engineering projects at the beginning, intermediate, and advanced levels. The final project consists of either a new project designed by the student team or extension of an existing project. The student teams also prepare a manual as part of their documentation of the final project. May be taken for credit two times. Prerequisites: BENG 1 or CENG 4 or CSE 11 or CSE 8B or ECE 5 or MAE 3 or NANO 4 or SE 1.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BENG 1",
+      "CENG 4",
+      "CSE 11",
+      "CSE 8B",
+      "ECE 5",
+      "MAE 3",
+      "NANO 4",
+      "SE 1"
+    ]
+  }
+}

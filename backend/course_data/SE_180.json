@@ -1,0 +1,15 @@
+{
+  "code": "SE 180",
+  "title": "Earthquake Engineering",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se180",
+  "description": "Elements of seismicity and seismology. Seismic hazards. Dynamic analysis of structures underground motion. Elastic and inelastic response spectra. Modal analysis, nonlinear time-history analysis. Earthquake resistant design. Seismic detailing. Prerequisites: grade of C\u2013 or better in SE 110A, and SE 130A. Enrollment restricted to SE27 majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SE 110A",
+      "SE 130A"
+    ]
+  }
+}

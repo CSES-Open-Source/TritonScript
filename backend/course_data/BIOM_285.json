@@ -1,0 +1,8 @@
+{
+  "code": "BIOM 285",
+  "title": "Statistical Inference in the Medical Sciences",
+  "units": "2",
+  "dept": "BIOM",
+  "anchor": "biom285",
+  "description": "An introduction to basic techniques used in biomedical literature: t tests, ANOVA, chi-square, linear and nonlinear regression. Emphasis will be on understanding the appropriate use and interpretation of the tests, rather than on the calculations."
+}

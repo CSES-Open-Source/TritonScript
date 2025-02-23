@@ -1,0 +1,9 @@
+{
+  "code": "ECON 138",
+  "title": "Economics of Discrimination",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ138",
+  "description": "This course will investigate differences in economic outcomes on the basis of race, gender, ethnicity, religion, and sexual orientation. We will study economic theories of discrimination, empirical work testing those theories, and policies aimed at alleviating group-level differences in economic outcomes. Prerequisites: ECON 1.",
+  "prereqs": "ECON 1"
+}

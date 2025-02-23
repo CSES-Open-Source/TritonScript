@@ -1,0 +1,23 @@
+{
+  "code": "CHEM 135",
+  "title": "Molecular Spectroscopy",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem135",
+  "description": "Time-dependent behavior of systems; interaction of matter with light; selection rules. Radiative and nonradiative processes, coherent phenomena, and the density matrices. Instrumentation, measurement, and interpretation. May be coscheduled with CHEM 235. Prior or concurrent enrollment in CHEM 105A recommended. Prerequisites: CHEM 126 or 126B or 130 or 133 and MATH 20D.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 126",
+          "CHEM 126B",
+          "CHEM 130",
+          "CHEM 133"
+        ]
+      },
+      "MATH 20D"
+    ]
+  }
+}

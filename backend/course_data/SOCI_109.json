@@ -1,0 +1,16 @@
+{
+  "code": "SOCI 109",
+  "title": "Analysis of Sociological Data",
+  "units": "4",
+  "dept": "SOC",
+  "anchor": "soci109",
+  "description": "Students test their own sociological research hypotheses using data from recent American and international social surveys and state-of-the-art computer software. Application of classical scientific method, interpretation of statistical results, and clear presentation of research findings. Prerequisites: CSS 2 or SOCI 60 or SOCL 60 and upper-division standing. Will not receive credit for SOCI 109 and SOCA 109.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSS 2",
+      "SOCI 60",
+      "SOCL 60"
+    ]
+  }
+}

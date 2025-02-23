@@ -1,0 +1,9 @@
+{
+  "code": "ECE 159",
+  "title": "Introduction to Data Processing and Information Theory",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece159",
+  "description": "Introduction to information theory and coding, including entropy, average mutual information, channel capacity, block codes, and convolutional codes. Renumbered from ECE 154C. Students may not receive credit for ECE 159 and ECE 154C. Prerequisites: ECE 153.",
+  "prereqs": "ECE 153"
+}

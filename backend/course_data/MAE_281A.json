@@ -1,0 +1,13 @@
+{
+  "code": "MAE 281A",
+  "title": "Nonlinear Systems",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae281a",
+  "description": "Existence and uniqueness of solutions of EDE\u2019s, sensitivity equations. Stability, direct and converse Lyapunov theorems, LaSalle\u2019s theorem, linearization, invariance theorems. Center manifold theorem. Stability of perturbed systems with vanishing and nonvanishing perturbations, input-to-state ability, comparison method. Input-output stability. Perturbation theory and averaging. Singular perturbations. Circle and Popov criteria. Prerequisites: MAE 280A.",
+  "prereqs": "MAE 280A",
+  "successors": [
+    "MAE 281B",
+    "MAE 286"
+  ]
+}

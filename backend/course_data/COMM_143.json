@@ -1,0 +1,22 @@
+{
+  "code": "COMM 143",
+  "title": "Science Fiction",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm143",
+  "description": "Focuses on science fiction\u2019s critical investigation of history, identity, and society across a range of media forms, including film, television, and literature. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

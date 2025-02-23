@@ -1,0 +1,8 @@
+{
+  "code": "MAE 244",
+  "title": "Renewable Energy Integration",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae244",
+  "description": "The objective of this course is to introduce students to the research field of integration of renewable energy (RE) in power systems. This course covers some relevant literature and the state of the art in the following subareas related to RE integration: capacity expansion models, optimal power flow, power dynamics, electricity markets, RE variability and forecasting, machine learning and AI for power systems, microgrids and islanded grids, electrical vehicles and demand response, among others."
+}
