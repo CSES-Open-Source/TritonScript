@@ -85,7 +85,7 @@ export default function Upload() {
   }
   async function handleSubmit(e: any) {
     e.preventDefault();
-    if (!selectedTerm || !selectedCourse || !formData.title || !formData.description) {
+    if (!selectedTerm || !selectedCourse || !formData.title || !file) {
       return alert("Please fill out all fields");
     }
   
