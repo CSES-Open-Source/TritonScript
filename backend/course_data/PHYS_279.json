@@ -1,0 +1,8 @@
+{
+  "code": "PHYS 279",
+  "title": "Neurodynamics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys279",
+  "description": "Introduction to the nonlinear dynamics of neurons and simple neural systems through nonlinear dynamics, bifurcation theory, and chaotic motions. The dynamics of single cells is considered at different levels of abstraction, e.g., biophysical and \u201creduced\u201d models for analysis of regularly spiking and bursting cells, their dynamical properties, and their representation in phase space. Laboratory exercises will accompany the lectures. Duplicate credit not allowed for cross-listed courses: BGGN 260, BENG 260, PHYS 279."
+}

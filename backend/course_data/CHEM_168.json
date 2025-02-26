@@ -1,0 +1,22 @@
+{
+  "code": "CHEM 168",
+  "title": "Drug Synthesis and Design",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem168",
+  "description": "Practical methods to make drugs currently in use and to design future drugs. Treats both chemical synthesis and biologics like monoclonal antibodies. Topics include fragment-based screening, solid phase synthesis, directed evolution, and bioconjugation as well as efficacy, metabolism, and toxicity. Prerequisites: CHEM 40C, 40CH, or 41C and CHEM 114A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 40C",
+          "CHEM 40CH",
+          "CHEM 41C"
+        ]
+      },
+      "CHEM 114A"
+    ]
+  }
+}

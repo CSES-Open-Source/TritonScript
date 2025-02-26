@@ -1,0 +1,12 @@
+{
+  "code": "CSE 121",
+  "title": "Real-World Operating Systems",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse121",
+  "description": "Case study of architecture and implementation of a modern operating system or parts of multiple operating systems. In-depth analysis through detailed study of deployed source code. Topics vary based on OS understudy each term. Emphasis on emerging concerns and the new techniques and technologies used to address them. Recommended preparation: Knowledge of programming languages and paradigms, the components that comprise them, and the principles of language design are strongly recommended but not required. Prerequisites: CSE 120.",
+  "prereqs": "CSE 120",
+  "successors": [
+    "CSE 221"
+  ]
+}

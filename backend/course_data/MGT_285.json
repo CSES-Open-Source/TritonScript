@@ -1,0 +1,20 @@
+{
+  "code": "MGT 285",
+  "title": "Financial Economics",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt285",
+  "description": "This course covers the basic concepts and important models used in finance research. The subjects include expected utility theories, stochastic dominance, portfolio math, mean-variance theory, CAPM, aggregation theorems, arbitrages, and arbitrage pricing. Prerequisites: ECON 220A-B-C; admission to management PhD program or by consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 220A",
+      "ECON 220B",
+      "ECON 220C"
+    ]
+  },
+  "successors": [
+    "MGT 286",
+    "MGT 287"
+  ]
+}

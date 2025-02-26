@@ -1,0 +1,19 @@
+{
+  "code": "CHEM 154",
+  "title": "Mechanisms of Organic Reactions",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem154",
+  "description": "A qualitative approach to the mechanisms of various organic reactions; substitutions, additions, eliminations, condensations, rearrangements, oxidations, reductions, free-radical reactions, and photochemistry. Includes considerations of molecular structure and reactivity, synthetic methods, spectroscopic tools, and stereochemistry. The topics emphasized will vary from year to year. This is the first quarter of the advanced organic chemistry sequence. May be coscheduled with CHEM 254. Prerequisites: CHEM 40C, 40CH, or 41C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 40C",
+      "CHEM 40CH",
+      "CHEM 41C"
+    ]
+  },
+  "successors": [
+    "CHEM 155"
+  ]
+}

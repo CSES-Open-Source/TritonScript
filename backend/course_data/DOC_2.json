@@ -1,0 +1,23 @@
+{
+  "code": "DOC 2",
+  "title": "Dimensions of Culture: Justice",
+  "units": "6",
+  "dept": "DOC",
+  "anchor": "doc2",
+  "description": "This course considers the nature of justice in philosophical, historical, and legal terms. Topics include racial justice, political representation, economic justice, gender and justice, the rights of cultural minorities, and crime and punishment. The course offers intensive instruction in writing university-level expository prose, specifically thesis-based argumentative essays. Restrictions: Marshall College students only, must be taken for a letter grade.\u00a0Prerequisites: satisfaction of UC Entry Level Writing Requirement and completion of DOC 1. Enrollment by department approval only. (W)",
+  "prereqs": "DOC 1",
+  "successors": [
+    "COMM 114F",
+    "DOC 3",
+    "ENG 100D",
+    "HITO 106",
+    "LTEN 30",
+    "LTWR 8A",
+    "LTWR 8B",
+    "LTWR 8C",
+    "PHIL 27",
+    "PHYS 30",
+    "POLI 27",
+    "TMC 198"
+  ]
+}

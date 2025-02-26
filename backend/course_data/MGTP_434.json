@@ -1,0 +1,13 @@
+{
+  "code": "MGTP 434",
+  "title": "Financial Statement Analysis",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgtp434",
+  "description": "Examines tools and techniques to analyze a firm\u2019s financial position and performance. This course combines both accounting and finance in a practical framework for debt and equity valuation methods from both a conceptual and practical framework. Prerequisites: restricted to MPAc students (major code RS91) or by department approval.",
+  "successors": [
+    "MGTP 441",
+    "MGTP 443",
+    "MGTP 444"
+  ]
+}

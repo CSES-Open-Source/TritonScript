@@ -1,0 +1,22 @@
+{
+  "code": "VIS 165B",
+  "title": "The Photographer\u2019s Studio",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis165b",
+  "description": "This course introduces students to the techniques and equipment for studio and/or composed photography utilizing natural lighting on location and strobe and hot lighting in the studio. Genres within studio photography like portraiture and still life will be covered through lectures, demonstrations, workshops, and assignment prompts. Program or materials fees may apply. Two production-course limitation. Prerequisites: VIS 60. Open to art history and criticism, media, studio, and ICAM majors and photography minors.",
+  "prereqs": "VIS 60",
+  "successors": [
+    "VIS 169A",
+    "VIS 169B",
+    "VIS 180A",
+    "VIS 180B",
+    "VIS 181",
+    "VIS 182",
+    "VIS 182A",
+    "VIS 183A",
+    "VIS 183B",
+    "VIS 184",
+    "VIS 185"
+  ]
+}

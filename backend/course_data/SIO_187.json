@@ -1,0 +1,16 @@
+{
+  "code": "SIO 187",
+  "title": "Statistical Methods in Marine Biology",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio187",
+  "description": "Introduction to statistical inference. Emphasis on constructing statistics for specific problems in marine biology. Topics include probability, distributions, sampling, replication, and experimental design. Students may not receive credit for both SIO 187 and BIEB 100. Prerequisites: BILD 3 or consent of instructor.",
+  "prereqs": "BILD 3",
+  "successors": [
+    "BIEB 121",
+    "MGT 151R",
+    "MGT 153",
+    "MGT 160",
+    "SIO 186"
+  ]
+}

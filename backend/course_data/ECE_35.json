@@ -1,0 +1,27 @@
+{
+  "code": "ECE 35",
+  "title": "Introduction to Analog Design",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece35",
+  "description": "Fundamental circuit theory concepts, Kirchhoff\u2019s voltage and current laws, Thevenin\u2019s and Norton\u2019s theorems, loop and node analysis, time-varying signals, transient first order circuits, steady-state sinusoidal response. It is highly recommended taking MATH 20C and PHYS 2B prior or during the same quarter. Program or materials fees may apply. Prerequisites: MATH 18, 20A\u2013B, and PHYS 2A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 18",
+      "MATH 20A",
+      "MATH 20B",
+      "PHYS 2A"
+    ]
+  },
+  "successors": [
+    "BENG 186B",
+    "CSE 194",
+    "ECE 118",
+    "ECE 121A",
+    "ECE 148",
+    "ECE 45",
+    "ECE 65",
+    "MAE 148"
+  ]
+}

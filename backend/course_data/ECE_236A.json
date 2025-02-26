@@ -1,0 +1,9 @@
+{
+  "code": "ECE 236A",
+  "title": "Fundamentals of Heterostructure Materials and Devices",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece236a",
+  "description": "This course comprehensively treats heterostructure materials and devices. Topics include band alignments in semiconductor heterostructures and their measurement techniques, crystal growth, thermodynamics and kinetics, crystal and misfit defects, lattice mismatch, strain energetics and coherency limits, influence of strain on energy band-edges, quantum wells, 2DEG and superlattices, lateral and vertical transport in heterostructures, tunnel diodes, nitrides, polarization effects, HEMTs. Recommended preparation: completion of ECE 230B and ECE 230C. Prerequisites: ECE 230A; graduate standing.",
+  "prereqs": "ECE 230A"
+}

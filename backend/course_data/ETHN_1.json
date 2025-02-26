@@ -1,0 +1,16 @@
+{
+  "code": "ETHN 1",
+  "title": "Introduction to Ethnic Studies: Land and Labor",
+  "units": "4",
+  "dept": "ETHN",
+  "anchor": "ethn1",
+  "description": "This course examines key historical events and debates in the field that center around land and labor, including disputes about territory and natural resources, slavery and other forms of unfree labor, labor migration and recruitment, and US and transnational borders. Students may not receive credit for both ETHN 1R and ETHN 1.",
+  "successors": [
+    "CGS 137",
+    "CGS 147",
+    "CGS 150",
+    "CGS 165",
+    "CGS 187",
+    "ETHN 100A"
+  ]
+}

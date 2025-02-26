@@ -1,0 +1,12 @@
+{
+  "code": "NANO 120A",
+  "title": "NanoEngineering System Design I",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano120a",
+  "description": "Principles of product design and the design process. Application and integration of technologies in the design and production of nanoscale components. Engineering economics. Initiation of team design projects to be completed in NANO 120B. Prerequisites: NANO 110.",
+  "prereqs": "NANO 110",
+  "successors": [
+    "NANO 120B"
+  ]
+}

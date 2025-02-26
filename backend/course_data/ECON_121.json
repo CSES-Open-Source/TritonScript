@@ -1,0 +1,9 @@
+{
+  "code": "ECON 121",
+  "title": "Applied Econometrics and Data Analysis",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ121",
+  "description": "Theoretically develops extensions to the standard econometric toolbox, studies their application in scientific research, and applies them to data. Emphasis is on using techniques, and on understanding and critically assessing others\u2019 use of them. Requires practical work on the computer using a range of data from around the world. Topics include advanced regression analysis, limited dependent variables, nonparametric methods, and new methods for causal inference. Prerequisites: ECON 120C.",
+  "prereqs": "ECON 120C"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "MATH 283",
+  "title": "Statistical Methods in Bioinformatics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math283",
+  "description": "This course will cover material related to the analysis of modern genomic data; sequence analysis, gene expression/functional genomics analysis, and gene mapping/applied population genetics. The course will focus on statistical modeling and inference issues and not on database mining techniques. Prerequisites: one year of calculus, one statistics course or consent of instructor.",
+  "successors": [
+    "BENG 285",
+    "BNFO 285",
+    "BNFO 286",
+    "ECE 204"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "COMM 152",
+  "title": "News Media and Politics",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm152",
+  "description": "How political journalism and political communication are embedded in and connected to technology, history, and culture. Role of journalism in a democratic system; how mass media contributes to and inhibits the development of a viable public sphere and effective political process. Theories and functions of journalism, political communication, and political participation. The web as a possible democratizing force; the changing nature of public deliberation in a pluralistic democratic system. Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40"
+    ]
+  }
+}

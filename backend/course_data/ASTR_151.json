@@ -1,0 +1,9 @@
+{
+  "code": "ASTR 151",
+  "title": "Advanced Observational Optical Research Lab",
+  "units": "5",
+  "dept": "ASTR",
+  "anchor": "astr151",
+  "description": "Advanced laboratory that develops research for imaging and spectroscopy applications. Students will learn to integrate core astronomy curriculum with state-of-the-art technical methods. The lab provides instruction in modern astronomical techniques in acquiring and measuring data to derive fundamental properties of cosmic sources. Prerequisites: ASTR 150.",
+  "prereqs": "ASTR 150"
+}

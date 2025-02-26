@@ -1,0 +1,17 @@
+{
+  "code": "ECE 148",
+  "title": "Introduction to Autonomous Vehicles",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece148",
+  "description": "This course introduces students to the fundamentals of autonomous vehicles using an accelerated and engaging engineering curriculum leveraging the educational benefits of robotics \u201ccoopertition\u201d (cooperative competition). Students work in small teams building scale cars utilizing best engineering practices. Skills to be learned include fast prototyping, project management, traditional programming, and computer vision using Robot Operating System (ROS) and artificial intelligence deep learning. Cross-listed with MAE 148. Students may not receive credit for ECE 148 and MAE 148. Program or materials fees may apply. Prerequisites: ECE 15 or ECE 35 or MAE 2 or MAE 3, and consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECE 15",
+      "ECE 35",
+      "MAE 2",
+      "MAE 3"
+    ]
+  }
+}

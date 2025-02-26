@@ -1,0 +1,20 @@
+{
+  "code": "CSE 252B",
+  "title": "Computer Vision II",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse252b",
+  "description": "Comprehensive introduction to computer vision providing focused coverage of multiview geometry, structure from motion, image segmentation, motion segmentation, texture analysis and recognition, object detection, and image-based rendering. Companion to CSE 252A covering complementary topics. Prerequisites: MATH 10D and MATH 20A\u2013F or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 10D",
+      "MATH 20A",
+      "MATH 20B",
+      "MATH 20C",
+      "MATH 20D",
+      "MATH 20E",
+      "MATH 20F"
+    ]
+  }
+}

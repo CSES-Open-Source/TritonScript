@@ -1,0 +1,9 @@
+{
+  "code": "MAE 264",
+  "title": "Mechanics and Thermodynamics of Biological Membranes",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae264",
+  "description": "This course will introduce the advanced graduate student to the topics of mechanical and thermodynamic analyses of cellular membranes, lipid bilayers, and the study of synthetic vesicles. Prerequisites: MAE 209 and graduate standing, or consent of instructor.",
+  "prereqs": "MAE 209"
+}

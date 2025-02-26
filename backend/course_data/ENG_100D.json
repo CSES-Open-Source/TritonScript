@@ -1,0 +1,25 @@
+{
+  "code": "ENG 100D",
+  "title": "Design for Development",
+  "units": "4",
+  "dept": "ENG",
+  "anchor": "eng100d",
+  "description": "An introduction to the practice of human-centered design and team engineering within a humanitarian context. Includes a group project designing a solution for a local or global nonprofit organization. Topics include design process, contextual listening, project management, needs and capacity assessment, stakeholder analysis, ethical issues, models of leadership, gender and cultural issues, sustainable community development, and social entrepreneurship. ENG 100D is the gateway course for the Global TIES program, but it is open to all undergraduate students. Please go to http://globalties.ucsd.edu for information about Global TIES. Recommended preparation: one university-level mathematics course. Prerequisites: CAT 2 or DOC 2 or HUM 2 or MCWP 40 or MMW 2 or WCWP 10B or SYN 1.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CAT 2",
+      "DOC 2",
+      "HUM 2",
+      "MCWP 40",
+      "MMW 2",
+      "WCWP 10B",
+      "SYN 1"
+    ]
+  },
+  "successors": [
+    "COGS 120",
+    "CSE 170",
+    "ENG 100L"
+  ]
+}

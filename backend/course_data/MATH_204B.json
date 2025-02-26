@@ -1,0 +1,12 @@
+{
+  "code": "MATH 204B",
+  "title": "Number Theory II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math204b",
+  "description": "Second course in graduate-level number theory. Global fields: arithmetic properties and relation to local fields; ideal class groups; groups of units; ramification theory; ad\u00e8les and id\u00e8les; main statements of global class field theory. Prerequisites: MATH 204A. Students who have not taken MATH 204A may enroll with consent of instructor.",
+  "prereqs": "MATH 204A",
+  "successors": [
+    "MATH 204C"
+  ]
+}

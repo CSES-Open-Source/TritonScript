@@ -1,0 +1,20 @@
+{
+  "code": "CSE 141L",
+  "title": "Project in Computer Architecture",
+  "units": "2",
+  "dept": "CSE",
+  "anchor": "cse141l",
+  "description": "Hands-on computer architecture project aiming to familiarize students with instruction set architecture, and design of process. Control and memory systems. Prerequisites: CSE 30 and CSE 140 and CSE 140L; CSE 141 should be taken concurrently; restricted to CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CSE 30",
+      "CSE 140",
+      "CSE 140L"
+    ]
+  },
+  "coreqs": "CSE 141",
+  "successors": [
+    "CSE 148"
+  ]
+}

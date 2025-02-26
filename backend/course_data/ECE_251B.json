@@ -1,0 +1,15 @@
+{
+  "code": "ECE 251B",
+  "title": "Digital Signal Processing II",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece251b",
+  "description": "Adaptive filter theory, estimation errors for recursive least squares and gradient algorithms, convergence and tracking analysis of LMD, RLS, and Kalman filtering algorithms, comparative performance of Weiner and adaptive filters, transversal and lattice filter implementations, performance analysis for equalization, noise cancelling, and linear prediction applications. Cross-listed with SIO 207C. Prerequisites: graduate standing; ECE 251A (for ECE 251B); SIO 207B (for SIO 207C).",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 251A",
+      "SIO 207B"
+    ]
+  }
+}

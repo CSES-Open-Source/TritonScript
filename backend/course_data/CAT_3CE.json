@@ -1,0 +1,18 @@
+{
+  "code": "CAT 3CE",
+  "title": "Writing and Community 2",
+  "units": "6",
+  "dept": "CAT",
+  "anchor": "cat3ce",
+  "description": "Lower-division writing- and research-intensive course focusing on collaboration, research, and art-making by speculating on how the relationships between culture, art, and technology will be transformed in the future. Incorporates community-engaged learning in a small seminar environment. Prerequisites: Sixth College students only; CAT 2 or CAT 2CE; department authorization required.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CAT 2",
+      "CAT 2CE"
+    ]
+  },
+  "successors": [
+    "PHIL 27"
+  ]
+}

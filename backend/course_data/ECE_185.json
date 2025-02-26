@@ -1,0 +1,9 @@
+{
+  "code": "ECE 185",
+  "title": "Lasers and Modulators",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece185",
+  "description": "(Conjoined with ECE 241BL) Labs: CO2 laser, HeNe laser, electro-optic modulation, acousto-optic modulation, spatial light modulators. Students enrolled in ECE 185 will receive four units of credit; students enrolled in ECE 241BL will receive two units of credit. (Course materials and/or program fees may apply.) Prerequisites: ECE 183 with a grade of C\u2013 or better.",
+  "prereqs": "ECE 183"
+}

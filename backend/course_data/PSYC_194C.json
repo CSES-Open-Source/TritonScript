@@ -1,0 +1,15 @@
+{
+  "code": "PSYC 194C",
+  "title": "Honors Thesis III",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc194c",
+  "description": "This course provides the opportunity for students to complete their research, write their honors thesis, and present their results at the Honors Poster Session. Must be taken for a letter grade for the Psychology Honors Program. Prerequisites: PSYC 194A-B, department approval, psychology majors only, acceptance to the Honors program.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PSYC 194A",
+      "PSYC 194B"
+    ]
+  }
+}

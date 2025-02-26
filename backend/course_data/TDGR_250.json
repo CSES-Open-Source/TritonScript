@@ -1,0 +1,11 @@
+{
+  "code": "TDGR 250",
+  "title": "Playwriting Seminar",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdgr250",
+  "description": "A seminar focusing on the current playwriting project of all graduate playwriting students. Work for each quarter is individually determined according to student needs, but may include exploration of an inceptive idea, development of a scenario or other structural work, and writing dialogue. Students present work to be discussed in class. May include group or individual playwriting exercises. Prerequisites: admission to the MFA theatre program.",
+  "successors": [
+    "TDGR 257A-B"
+  ]
+}

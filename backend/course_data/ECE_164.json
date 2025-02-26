@@ -1,0 +1,9 @@
+{
+  "code": "ECE 164",
+  "title": "Analog Integrated Circuit Design",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece164",
+  "description": "Design of linear and nonlinear analog integrated circuits including operational amplifiers, voltage regulators, drivers, power stages, oscillators, and multipliers. Use of feedback and evaluation of noise performance. Parasitic effects of integrated circuit technology. Laboratory simulation and testing of circuits. Prerequisites: ECE 102 with a grade of C\u2013 or better. ECE 163 recommended.",
+  "prereqs": "ECE 102"
+}

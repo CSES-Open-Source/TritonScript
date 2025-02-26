@@ -1,0 +1,9 @@
+{
+  "code": "BIEB 152",
+  "title": "Evolution of Infectious Diseases",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb152",
+  "description": "Treating infectious diseases is a uniquely difficult problem since pathogens often evolve, rendering today\u2019s therapies useless tomorrow. This course will provide a review of concepts and methods in evolutionary medicine, with an emphasis on microbial genomics and molecular evolution. Prerequisites: BILD 3.",
+  "prereqs": "BILD 3"
+}

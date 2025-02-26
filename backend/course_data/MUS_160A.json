@@ -1,0 +1,21 @@
+{
+  "code": "MUS 160A",
+  "title": "Senior Project in Computing Arts I",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus160a",
+  "description": "Students pursue projects of their own design over two quarters with support from faculty in a seminar environment. Project proposals are developed, informed by project development guidelines from real world examples. Collaborations are possible. Two production-course limitation. Renumber from ICAM 160A. Students may receive credit for only one of the following: MUS 160A, VIS 160A, ICAM 160A. Prerequisites: VIS 141B or VIS 145B or VIS 147B or MUS 172. Open to music and ICAM majors only. Department approval required.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 141B",
+      "VIS 145B",
+      "VIS 147B",
+      "MUS 172"
+    ]
+  },
+  "successors": [
+    "MUS 160B",
+    "VIS 160B"
+  ]
+}

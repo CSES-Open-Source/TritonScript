@@ -1,0 +1,23 @@
+{
+  "code": "ECON 175",
+  "title": "International Financial Markets",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ175",
+  "description": "Examines international asset prices and their consequences from an economic perspective using both theory and data. Topics include exchange rates, global bonds and derivatives, and a lot of emphasis on the US dollar\u2019s specialness in the international financial system and emerging economy\u2019s financial markets. Prerequisites: ECON 1 and ECON 3 and MATH 10C or MATH 20C or MATH 31BH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 1",
+      "ECON 3",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10C",
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  }
+}

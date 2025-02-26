@@ -1,0 +1,15 @@
+{
+  "code": "MATH 100B",
+  "title": "Abstract Algebra II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math100b",
+  "description": "Second course in a rigorous three-quarter introduction to the methods and basic structures of higher algebra. Topics include rings (especially polynomial rings) and ideals, unique factorization, fields; linear algebra from perspective of linear transformations on vector spaces, including inner product spaces, determinants, diagonalization. (Students may not receive credit for both MATH 100B and MATH 103B.) Prerequisites: MATH 100A or consent of instructor.",
+  "prereqs": "MATH 100A",
+  "successors": [
+    "MATH 100C",
+    "MATH 104A",
+    "MATH 106",
+    "MATH 290A-B-C"
+  ]
+}

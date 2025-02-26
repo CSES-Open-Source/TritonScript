@@ -1,0 +1,9 @@
+{
+  "code": "MATH 173B",
+  "title": "Optimization Methods for Data Science II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math173b",
+  "description": "Unconstrained optimization: linear least squares; randomized linear least squares; method(s) of steepest descent; line-search methods; conjugate-gradient method; comparing the efficiency of methods; randomized/stochastic methods; nonlinear least squares; norm minimization methods. Convex constrained optimization: optimality conditions; convex programming; Lagrangian relaxation; the method of multipliers; the alternating direction method of multipliers; minimizing combinations of norms. Prerequisites: MATH 173A. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": "MATH 173A"
+}

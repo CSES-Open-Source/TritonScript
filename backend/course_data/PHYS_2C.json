@@ -1,0 +1,77 @@
+{
+  "code": "PHYS 2C",
+  "title": "Physics\u2014Fluids, Waves, Thermodynamics, and Optics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys2c",
+  "description": "Continuation of PHYS 2B covering fluid mechanics, waves in elastic media, sound waves, temperature, heat and the first law of thermodynamics, kinetic theory of gases, entropy and the second law of thermodynamics, Maxwell\u2019s equations, electromagnetic waves, geometric optics, interference and diffraction. Students continuing to PHYS 2D will need MATH 20D. Prerequisites: PHYS 2A or 4A, and MATH 20C or 31BH. Recommended preparation: prior or concurrent enrollment in MATH 20D. Prior completion of PHYS 2B is strongly recommended.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 4A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "ASTR 101",
+    "ASTR 120",
+    "ASTR 122",
+    "ASTR 123",
+    "ASTR 124",
+    "ASTR 130",
+    "ASTR 131",
+    "ASTR 150",
+    "ASTR 152",
+    "ASTR 154",
+    "ASTR 155",
+    "ASTR 18",
+    "BENG 110",
+    "BENG 130",
+    "BENG 140A",
+    "CENG 134",
+    "CHEM 100B",
+    "CHEM 126A",
+    "CHEM 130",
+    "CHEM 131",
+    "CHEM 134",
+    "ECE 107",
+    "ECE 134",
+    "ECE 187",
+    "EDS 105",
+    "MAE 11",
+    "MAE 119",
+    "MAE 170",
+    "NANO 134",
+    "PHYS 111",
+    "PHYS 139",
+    "PHYS 170",
+    "PHYS 4C",
+    "PHYS 4D",
+    "PHYS 4E",
+    "SIO 103",
+    "SIO 106",
+    "SIO 111",
+    "SIO 115",
+    "SIO 117",
+    "SIO 119",
+    "SIO 125",
+    "SIO 143",
+    "SIO 171",
+    "SIO 172",
+    "SIO 173",
+    "SIO 178",
+    "SIO 182"
+  ]
+}

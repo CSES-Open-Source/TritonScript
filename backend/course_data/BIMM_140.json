@@ -1,0 +1,9 @@
+{
+  "code": "BIMM 140",
+  "title": "Quantitative Principles in Biology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm140",
+  "description": "Course considers problems in biology that were solved using quantitative biology approaches. Problems will range from the molecular to the population level. Students will learn about the scientific method and process, and how to apply it. Prerequisites: BILD 1.",
+  "prereqs": "BILD 1"
+}

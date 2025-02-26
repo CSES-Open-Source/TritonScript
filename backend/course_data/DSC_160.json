@@ -1,0 +1,9 @@
+{
+  "code": "DSC 160",
+  "title": "Data Science and the Arts",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc160",
+  "description": "This course addresses the intersection of data science and contemporary arts and culture, exploring four main themes of authorship, representation, visualization, and data provenance. The course is not solely an introduction to data science techniques nor merely an arts practice course, but explores significant new possibilities for both fields arising from their intersection. Students will examine problems from complementary perspectives of artist-researchers and data scientists. Prerequisites: DSC 80.",
+  "prereqs": "DSC 80"
+}

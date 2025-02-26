@@ -1,0 +1,12 @@
+{
+  "code": "TDAC 103A",
+  "title": "Acting Intensive I",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdac103a",
+  "description": "An intensive foundation class for students interested in professional actor training. Using Viewpoints, students will train the physical, vocal, and emotional aspects of their actor instrument toward developing character and relationships by using scenes from contemporary and modern plays. Prerequisites: TDAC 102 or consent of instructor.",
+  "prereqs": "TDAC 102",
+  "successors": [
+    "TDAC 103B"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "DSC 106",
+  "title": "Introduction to Data Visualization",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc106",
+  "description": "Data visualization helps explore and interpret data through interaction. This course introduces the principles, techniques, and algorithms for creating effective visualizations. The course draws on the knowledge from several disciplines including computer graphics, human-computer interaction, cognitive psychology, design, and statistical graphics and synthesizes relevant ideas. Students will design visualization systems using D3 or other web-based software and evaluate their effectiveness.\u00a0Prerequisites: DSC 80. Restricted to students with upper-division standing. Restricted to students within the DS25 major. All other students will be allowed as space permits.",
+  "prereqs": "DSC 80",
+  "successors": [
+    "DSC 180A"
+  ]
+}

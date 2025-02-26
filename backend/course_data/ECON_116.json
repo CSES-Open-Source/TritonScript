@@ -1,0 +1,15 @@
+{
+  "code": "ECON 116",
+  "title": "Economic Development",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ116",
+  "description": "Introduction to the economics of less developed countries, covering their international trade, human resources, urbanization, agriculture, income distribution, political economy, and environment. Prerequisites: ECON 2 or 100B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 2",
+      "ECON 100B"
+    ]
+  }
+}

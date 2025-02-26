@@ -1,0 +1,44 @@
+{
+  "code": "PHYS 105B",
+  "title": "Mathematical and Computational Physics II",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys105b",
+  "description": "A continuation of PHYS 105A covering selected advanced topics in applied mathematical and numerical methods. Topics include statistics, diffusion and Monte-Carlo simulations; Laplace equation and numerical methods for nonseparable geometries; waves in inhomogeneous media, WKB analysis; nonlinear systems and chaos. Prerequisites: PHYS 105A, MATH 20A-B-C or 31BH, 20D, 20E or 31CH, and 18 or 20F or 31AH. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 105A",
+      {
+        "type": "one",
+        "courses": [
+          {
+            "type": "all",
+            "courses": [
+              "MATH 20A",
+              "MATH 20B",
+              "MATH 20C"
+            ]
+          },
+          "MATH 31BH"
+        ]
+      },
+      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20E",
+          "MATH 31CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  }
+}

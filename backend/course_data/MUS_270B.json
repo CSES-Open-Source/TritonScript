@@ -1,0 +1,11 @@
+{
+  "code": "MUS 270B",
+  "title": "Musical Cognitive Science",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus270b",
+  "description": "Theoretical bases for analyzing musical sound. Approaches to perception and cognition, including psychoacoustics and information processing, both ecological and computational. Models of audition including Helmholtz\u2019s consonance/dissonance theory and Bregman\u2019s streaming model. Musical cognition theories of Lerdahl and Narmour. Neural network models of music perception and cognition. Models of rhythm. The problem of timbre and timbre perception. Prerequisites: consent of instructor.",
+  "successors": [
+    "MUS 270D"
+  ]
+}

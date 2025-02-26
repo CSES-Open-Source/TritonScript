@@ -1,0 +1,28 @@
+{
+  "code": "MATH 187B",
+  "title": "Mathematics of Modern Cryptography",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math187b",
+  "description": "The object of this course is to study modern public key cryptographic systems and cryptanalysis (e.g., RSA, Diffie-Hellman, elliptic curve cryptography, lattice-based cryptography, homomorphic encryption) and the mathematics behind them. We also explore other applications of these computational techniques (e.g., integer factorization and attacks on RSA). Recommended preparation: Familiarity with Python and/or mathematical software (especially SAGE) would be helpful, but it is not required. Prerequisites: MATH 187 or MATH 187A and MATH 18 or MATH 31AH or MATH 20F. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 187",
+          "MATH 187A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH",
+          "MATH 20F"
+        ]
+      }
+    ]
+  }
+}

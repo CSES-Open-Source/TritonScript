@@ -1,0 +1,26 @@
+{
+  "code": "CSE 20",
+  "title": "Discrete Mathematics",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse20",
+  "description": "This course will introduce the ways logic is used in computer science: for reasoning, as a language for specifications, and as operations in computation. Concepts include sets, relations, functions, equivalence relations, partial orders, number systems, and proof methods (especially induction and recursion). Propositional and predicate logic will be introduced and applied to various computer science domains such as circuit design, databases, cryptography, and program correctness. Students who have completed MATH 109 may not receive credit for CSE 20. Credit not offered for both MATH 15A and CSE 20. Equivalent to MATH 15A. Prerequisites: CSE 11 or CSE 6R or CSE 8A or CSE 8B or ECE 15. Prerequisite courses must have been completed with a grade of C\u2013 or better; restricted to undergraduates. Graduate students will be allowed as space permits.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 11",
+      "CSE 6R",
+      "CSE 8A",
+      "CSE 8B",
+      "ECE 15"
+    ]
+  },
+  "successors": [
+    "CSE 105",
+    "CSE 140",
+    "CSE 140L",
+    "CSE 21",
+    "ECON 109",
+    "MATH 170A"
+  ]
+}

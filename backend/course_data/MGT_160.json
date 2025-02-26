@@ -1,0 +1,41 @@
+{
+  "code": "MGT 160",
+  "title": "Experiments in Firms",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt160",
+  "description": "An understanding of how to design and run a good experiment will position students at the cutting edge of decision-making in business and policy. Students will develop their own experiments that can be implemented online and in organizations. Students will learn to distinguish between a correlation and a causal effect; incorporate behavioral economics into experimental designs; randomize, analyze, and critique experimental interventions; and address organizational concerns about experimentation. Prerequisites: (BENG 100 or BIEB 100 or COGS 14B or ECE 109 or ECON 120A or MAE 108 or MATH 11 or MATH 180A or MATH 181A or MATH 183 or MATH 186 or MGT 3 or PSYC 60 or SIO 187) and (MATH 10A or MATH 18 or MATH 20A or MATH 31AH).",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BENG 100",
+          "BIEB 100",
+          "COGS 14B",
+          "ECE 109",
+          "ECON 120A",
+          "MAE 108",
+          "MATH 11",
+          "MATH 180A",
+          "MATH 181A",
+          "MATH 183",
+          "MATH 186",
+          "MGT 3",
+          "PSYC 60",
+          "SIO 187"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10A",
+          "MATH 18",
+          "MATH 20A",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  }
+}

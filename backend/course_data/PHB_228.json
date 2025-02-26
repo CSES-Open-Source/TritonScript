@@ -1,0 +1,35 @@
+{
+  "code": "PHB 228",
+  "title": "Statistical Computing",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "phb228",
+  "description": "The goal of this course is to give students a useful toolkit for handling statistical computations in R. This includes being able to write legible and robust code, debug R functions, run computer simulations, find ways to speed up calculations, encapsulate code and documents in R packages, and have some sense of issues that impact real-world computation. Students may not receive credit for PHB 228 and the FMPH 291 taught with the same title. Prerequisites: FMPH 221 or PHB 221, and FMPH 222 or PHB 222, and FMPH 244B or MATH 281A or PHB 244B. Restricted to biostatistics majors or department approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 221",
+          "PHB 221"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 222",
+          "PHB 222"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 244B",
+          "MATH 281A",
+          "PHB 244B"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "SE 120",
+  "title": "Engineering Graphics and Computer Aided Structural Design",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se120",
+  "description": "Engineering graphics, solid modeling, CAD applications including 2-D and 3-D transformations, 3-D viewing, wire frame and solid models, Hidden surface elimination. Program or materials fees may apply. Prerequisites: SE 102 and SE 103.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SE 102",
+      "SE 103"
+    ]
+  }
+}

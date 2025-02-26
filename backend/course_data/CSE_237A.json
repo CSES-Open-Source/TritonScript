@@ -1,0 +1,12 @@
+{
+  "code": "CSE 237A",
+  "title": "Introduction to Embedded Computing",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse237a",
+  "description": "Embedded system technologies including processors, DSP, memory, and software. System interfacing basics, communication strategies, sensors, and actuators. Mobile and wireless technology in embedded systems. Using predesigned hardware and software components. Design case studies in wireless, multimedia, and/or networking domains. Prerequisites: basic courses in digital hardware, algorithms and data structures, elementary calculus, and probability; or consent of instructor.",
+  "successors": [
+    "CSE 237B",
+    "CSE 237C"
+  ]
+}

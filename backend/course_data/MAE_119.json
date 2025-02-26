@@ -1,0 +1,9 @@
+{
+  "code": "MAE 119",
+  "title": "Introduction to Renewable Energy: Solar and Wind",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae119",
+  "description": "Basic principles of solar radiation\u2014diffuse and direct radiation; elementary solar energy engineering\u2014solar thermal and solar photovoltaic; basic principles of wind dynamics\u2014hydrodynamic laws, wind intermittency, Betz\u2019s law; elementary wind energy engineering; solar and wind energy perspectives; operating the California power grid with 33 percent renewable energy sources. Students may not receive credit for both MAE 118B and MAE 119. Prerequisites: PHYS 2C or consent of instructor.",
+  "prereqs": "PHYS 2C"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "MAE 210B",
+  "title": "Fluid Mechanics II",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae210b",
+  "description": "Potential flows, boundary layers, low-Reynolds number flows. Prerequisites: BENG 209 or MAE 209 or MAE 210A; MAE 101A and B; and MAE 110A, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BENG 209",
+          "MAE 209",
+          "MAE 210A"
+        ]
+      },
+      "MAE 101A",
+      "MAE 101B",
+      "MAE 110A"
+    ]
+  },
+  "successors": [
+    "MAE 210C",
+    "MAE 285",
+    "MAE 290C"
+  ]
+}

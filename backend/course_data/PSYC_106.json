@@ -1,0 +1,19 @@
+{
+  "code": "PSYC 106",
+  "title": "Behavioral Neuroscience",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc106",
+  "description": "This course provides a comprehensive overview of human and animal behavior from a neuroscience perspective. Topics include the functions and mechanisms of perception, motivation (sex, sleep, hunger, emotions), learning and memory, and motor control and movement. Prerequisites: upper-division standing.",
+  "successors": [
+    "BIMM 116",
+    "BIMM 116R",
+    "BIPN 189",
+    "COGS 116",
+    "COGS 165",
+    "COGS 279",
+    "PSYC 113",
+    "PSYC 171",
+    "PSYC 189"
+  ]
+}

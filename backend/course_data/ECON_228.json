@@ -1,0 +1,18 @@
+{
+  "code": "ECON 228",
+  "title": "Nonstandard Inference",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ228",
+  "description": "Topics include weak instruments, unit roots, break tests, switching models, set-based inference, maximum likelihood estimation and meaning of misspecified models, consistency, asymptotic normality, consistent covariance matrix estimation, and tests of model misspecification. Prerequisites: graduate standing and ECON 220A, 220B, 220C, 220D, and 220E or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 220A",
+      "ECON 220B",
+      "ECON 220C",
+      "ECON 220D",
+      "ECON 220E"
+    ]
+  }
+}

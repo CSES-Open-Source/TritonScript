@@ -1,0 +1,20 @@
+{
+  "code": "LIPO 1D",
+  "title": "Portuguese Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lipo1d",
+  "description": "Small conversion sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIPO 1DX. Successful completion of LIPO 1D and LIPO 1DX satisfies the requirement for language proficiency in Revelle and Eleanor Roosevelt Colleges. Prerequisites: LIPO 1C with a grade of C\u2013 or better, or equivalent and LIPO 1CX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIPO 1C",
+      "LIPO 1CX"
+    ]
+  },
+  "successors": [
+    "LIPO 15",
+    "LIPO 16",
+    "LIPO 17"
+  ]
+}

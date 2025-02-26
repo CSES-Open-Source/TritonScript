@@ -1,0 +1,12 @@
+{
+  "code": "MATH 272B",
+  "title": "Numerical Partial Differential Equations II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math272b",
+  "description": "Survey of solution techniques for partial differential equations. Basic iterative methods. Preconditioned conjugate gradients. Multigrid methods. Hierarchical basis methods. Domain decomposition. Nonlinear PDEs. Sparse direct methods. Prerequisites: MATH 272A or consent of instructor.",
+  "prereqs": "MATH 272A",
+  "successors": [
+    "MATH 272C"
+  ]
+}

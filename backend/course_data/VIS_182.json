@@ -1,0 +1,30 @@
+{
+  "code": "VIS 182",
+  "title": "Advanced Editing",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis182",
+  "description": "Film/video editing and problems of editing from theoretical and practical points-of-view. Films and tapes analyzed on a frame-by-frame, shot-by-shot basis. Edit stock material and generate own materials for editing final project. Aesthetic and technical similarities/differences of film/video. Recommended preparation: VIS 175 Editing-Theory and Production strongly recommended. Two production-course limitation. Prerequisites: VIS 174 and two from VIS 164, 165, 165A, 165B, 171, 172, 175, 176, 177, 178, 179. Open to media majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "VIS 174",
+      {
+        "type": "two",
+        "courses": [
+          "VIS 164",
+          "VIS 165",
+          "VIS 165A",
+          "VIS 165B",
+          "VIS 171",
+          "VIS 172",
+          "VIS 175",
+          "VIS 176",
+          "VIS 177",
+          "VIS 178",
+          "VIS 179"
+        ]
+      }
+    ]
+  }
+}

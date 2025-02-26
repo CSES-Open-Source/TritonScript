@@ -1,0 +1,11 @@
+{
+  "code": "MGT 293A",
+  "title": "Literature Review and Critique Paper",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt293a",
+  "description": "This course will require the student to identify and critique the research literature in a particular area identified during the summer of first year. The student will write a review paper that identifies opportunities for further research. Prerequisites: none.",
+  "successors": [
+    "MGT 293B"
+  ]
+}

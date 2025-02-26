@@ -1,0 +1,15 @@
+{
+  "code": "MAE 233A",
+  "title": "Fracture Mechanics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae233a",
+  "description": "Theoretical strength; stress concentration. Linear and nonlinear fracture mechanics: stress singularity, fracture modes, crack tip plastic zone, dugdale model, the R-curve; power-law materials, the J-integral; fatigue; special topics. Prerequisites: MAE 231A, MAE 231B, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 231A",
+      "MAE 231B"
+    ]
+  }
+}

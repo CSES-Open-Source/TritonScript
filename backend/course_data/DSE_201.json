@@ -1,0 +1,8 @@
+{
+  "code": "DSE 201",
+  "title": "Database Management Systems",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "dse201",
+  "description": "This course will provide an introduction to the management of structured data beginning with an introduction to database models including relational, hierarchical, and network approaches. It will also cover topics in database system implementation including query languages and system architectures; parallel, column-oriented, and array-based database systems; advanced SQL features including user-defined functions (UDFs), triggers, statistical functions; and support for spatial data."
+}

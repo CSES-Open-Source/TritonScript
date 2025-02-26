@@ -1,0 +1,31 @@
+{
+  "code": "CSS 2",
+  "title": "Data and Model Programming for Computational Social Science",
+  "units": "4",
+  "dept": "CSS",
+  "anchor": "css2",
+  "description": "This course explores the use of computational methods across the social sciences. Topics include thinking like a computational social scientist; research design for big data; legal and ethical dimensions of computational social science (CSS). Students will implement demonstrations of these methods in Python. Prerequisites: CSS 1\u00a0and\u00a0choose\u00a0one\u00a0of the following courses: COGS 14B, MATH 11, MGT 3, POLI 30, POLI 30D, PSYC 60.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CSS 1",
+      {
+        "type": "one",
+        "courses": [
+          "COGS 14B",
+          "MATH 11",
+          "MGT 3",
+          "POLI 30",
+          "POLI 30D",
+          "PSYC 60"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CSS 100",
+    "SOCI 102",
+    "SOCI 103M",
+    "SOCI 109"
+  ]
+}

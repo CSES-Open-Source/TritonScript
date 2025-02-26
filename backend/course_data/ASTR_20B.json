@@ -1,0 +1,9 @@
+{
+  "code": "ASTR 20B",
+  "title": "Introduction to Astrophysics II",
+  "units": "4",
+  "dept": "ASTR",
+  "anchor": "astr20b",
+  "description": "Second course in a two-quarter sequence of an introduction to astrophysics. This course covers galaxies and cosmology. Topics include the Milky Way galaxy, star formation and the interstellar medium, galaxies, galaxy evolution, black holes, quasars, dark matter, the expansion of the universe, large-scale structure, cosmology, the early universe, and the big bang. Prerequisites: ASTR 20A.",
+  "prereqs": "ASTR 20A"
+}

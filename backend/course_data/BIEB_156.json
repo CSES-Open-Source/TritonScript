@@ -1,0 +1,15 @@
+{
+  "code": "BIEB 156",
+  "title": "Evolution and Society",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb156",
+  "description": "Students will investigate concepts and techniques from the field of evolutionary biology that can be used to tackle societal issues and challenges. Popular science articles and primary research will be used to highlight the use of evolutionary methods or concepts. The course will begin with a brief overview of core eco-evolutionary concepts, then move into exploration of the contributions of evolutionary biology to the fields of conservation, bioengineering, agriculture, and medicine. Prerequisites: BILD 1 and BILD 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 3"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "code": "BIEB 134",
+  "title": "Introduction to Biological Oceanography",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb134",
+  "description": "(Cross-listed with SIO 134.) Basics for understanding the ecology of marine communities. The approach is process-oriented, focusing on major functional groups of organisms, their food-web interactions and community response to environmental forcing, and contemporary issues in human and climate influences. Prerequisites: BILD 3. Students will not receive credit for both BIEB 134 and SIO 134.",
+  "prereqs": "BILD 3",
+  "successors": [
+    "SIO 145"
+  ]
+}

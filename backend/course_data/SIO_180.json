@@ -1,0 +1,16 @@
+{
+  "code": "SIO 180",
+  "title": "Communicating Science to Informal Audiences",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio180",
+  "description": "Students develop fundamental science communication and instructional skills through the understanding and application of learning theory, interpretive techniques, and pedagogical practices, which occur in the context of communicating ocean science concepts to a diverse audience at Birch Aquarium at Scripps. Prerequisites: CHEM 6A or SIO 50 or BILD 1 or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 6A",
+      "SIO 50",
+      "BILD 1"
+    ]
+  }
+}

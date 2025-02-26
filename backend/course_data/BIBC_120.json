@@ -1,0 +1,15 @@
+{
+  "code": "BIBC 120",
+  "title": "Nutrition",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bibc120",
+  "description": "Elaborates the relationship between diet and human metabolism, physiology, health, and disease. Covers the functions of carbohydrates, lipids, proteins, vitamins, and minerals, and discusses dietary influences on cardiovascular disease, diabetes, obesity, and cancer. Prerequisites: BIBC 102 or CHEM 114B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BIBC 102",
+      "CHEM 114B"
+    ]
+  }
+}

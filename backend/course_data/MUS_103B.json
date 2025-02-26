@@ -1,0 +1,13 @@
+{
+  "code": "MUS 103B",
+  "title": "Seminar in Composition II",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus103b",
+  "description": "Second part in composition course sequence. Intensive work in free composition by drafting a composition for presentation at the end of MUS 103C. Written analysis of contemporary repertoire is introduced. Instruction about calligraphic conventions including computer engraving programs. Prerequisites: MUS 103A.",
+  "prereqs": "MUS 103A",
+  "successors": [
+    "MUS 103C",
+    "MUS 103D-E-F"
+  ]
+}

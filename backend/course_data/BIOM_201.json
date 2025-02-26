@@ -1,0 +1,15 @@
+{
+  "code": "BIOM 201",
+  "title": "Seminars in Biomedical Research",
+  "units": "4",
+  "dept": "BIOM",
+  "anchor": "biom201",
+  "description": "This course includes attendance at seminars in the biomedical sciences and is designed to provoke critical discussion of the presented findings and scientific approaches in a small-group setting. Prerequisites: limited to BMS graduate students except by consent of instructor.",
+  "successors": [
+    "BIOM 226",
+    "BIOM 252",
+    "BIOM 253",
+    "BIOM 254",
+    "BIOM 255"
+  ]
+}

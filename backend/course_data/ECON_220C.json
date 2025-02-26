@@ -1,0 +1,24 @@
+{
+  "code": "ECON 220C",
+  "title": "Econometrics C",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ220c",
+  "description": "This course focuses on econometric analysis of panel data and cross-section data. Topics covered include static/dynamic panel data models, discrete choice models, censored and truncated regression models, sample selection models, and evaluation of treatment effects. Theory of extreme estimators is used to study the specification, estimation, and testing of these models. Prerequisites: ECON 220B, graduate standing; enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.",
+  "prereqs": "ECON 220B",
+  "successors": [
+    "ECON 220D",
+    "ECON 221",
+    "ECON 225",
+    "ECON 226",
+    "ECON 227",
+    "ECON 228",
+    "ECON 230",
+    "ECON 231",
+    "ECON 232",
+    "ECON 233",
+    "ECON 260",
+    "ECON 261",
+    "MGT 285"
+  ]
+}

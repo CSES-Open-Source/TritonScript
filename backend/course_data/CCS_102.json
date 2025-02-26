@@ -1,0 +1,12 @@
+{
+  "code": "CCS 102",
+  "title": "Research Perspectives on Climate Change",
+  "units": "2",
+  "dept": "CCS",
+  "anchor": "ccs102",
+  "description": "This course introduces students to exciting and current research topics related to climate change as presented by faculty and researchers across UC San Diego. The course is offered as a series of reading topics followed by seminars on original research presented by faculty and researchers. Prerequisites: upper-division standing.",
+  "successors": [
+    "CCS 197",
+    "CCS 199"
+  ]
+}

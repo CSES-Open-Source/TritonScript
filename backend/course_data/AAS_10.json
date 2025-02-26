@@ -1,0 +1,12 @@
+{
+  "code": "AAS 10",
+  "title": "Introduction to African American Studies",
+  "units": "4",
+  "dept": "AASM",
+  "anchor": "aasm10",
+  "description": "This course will cover the experiences of peoples of African descent in the U.S. and broader African Diaspora from the vantage points of cultural production, political practice, socioeconomic conditions, and the overall struggle for social justice along intersecting lines of race, gender, and class. Topics reviewed include slavery (and slave rebellion), Reconstruction, Jim Crow apartheid, the Great Migration and Harlem Renaissance, and the Civil Rights and Black Power Movements.",
+  "successors": [
+    "CSE 194",
+    "VIS 8"
+  ]
+}

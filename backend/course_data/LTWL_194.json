@@ -1,0 +1,11 @@
+{
+  "code": "LTWL 194",
+  "title": "Capstone Course for Literature Majors",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwl194",
+  "description": "An advanced seminar open to all literature majors in their senior year. Required for those interested in the Honors Program. It offers an integrative experience by considering key facets of the discipline, including literary theory/historiography, knowledge of neighboring disciplines, and relevance of literature/culture studies in various professions outside of academia.  Prerequisites:  senior standing.",
+  "successors": [
+    "LTWL 194A"
+  ]
+}

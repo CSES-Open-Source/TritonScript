@@ -1,0 +1,30 @@
+{
+  "code": "SIOC 211B",
+  "title": "Ocean Waves II",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc211b",
+  "description": "Propagation and dynamics of waves in the ocean, including the effects of stratification, rotation, topography, wind, and nonlinearity. Prerequisites: graduate standing and SIOC 211A or SIO 211A and SIOC 214A or SIO 214A or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SIOC 211A",
+          "SIO 211A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SIOC 214A",
+          "SIO 214A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "SIOC 235"
+  ]
+}

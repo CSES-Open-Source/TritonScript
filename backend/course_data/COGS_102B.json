@@ -1,0 +1,12 @@
+{
+  "code": "COGS 102B",
+  "title": "Cognitive Ethnography",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs102b",
+  "description": "Examines memory, reasoning, language, culture, planning, and interaction directly in everyday, real-world settings. Focuses on ethnographic methods, their history, and their application. The course work includes projects in which students make observations of real-world activity and analyze their cognitive significance. Prerequisites: COGS 102A.",
+  "prereqs": "COGS 102A",
+  "successors": [
+    "COGS 102C"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "ENG 201",
+  "title": "Venture Mechanics",
+  "units": "4",
+  "dept": "ENG",
+  "anchor": "soe201",
+  "description": "Examines the engineering/entrepreneurism interface. Discovery, development, and implementation of new product ideas. Understanding markets, competitors, and selling innovations. Cultivating effective working relationships between research, engineering, manufacturing, and marketing elements of an organization. Priority enrollment given to engineering majors.",
+  "successors": [
+    "ENG 207"
+  ]
+}

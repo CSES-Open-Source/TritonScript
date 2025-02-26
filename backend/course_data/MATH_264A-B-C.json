@@ -1,0 +1,8 @@
+{
+  "code": "MATH 264A-B-C",
+  "title": "Combinatorics",
+  "units": "4-4-4",
+  "dept": "MATH",
+  "anchor": "math264c",
+  "description": "Topics from partially ordered sets, Mobius functions, simplicial complexes and shell ability. Enumeration, formal power series and formal languages, generating functions, partitions. Lagrange inversion, exponential structures, combinatorial species. Finite operator methods, q-analogues, Polya theory, Ramsey theory. Representation theory of the symmetric group, symmetric functions and operations with Schur functions."
+}

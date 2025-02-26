@@ -1,0 +1,20 @@
+{
+  "code": "LISP 1D",
+  "title": "Spanish Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lisp1d",
+  "description": "Small conversation sections taught entirely in Spanish. Emphasis on speaking, reading, writing, and culture. Practice of the language functions needed for successful communication. Must be taken in conjunction with LISP 1DX. Successful completion of LISP 1D and LISP 1DX satisfies the requirement for language proficiency in Eleanor Roosevelt and Revelle Colleges. Prerequisites: LISP 1C with a grade of C\u2013 or better, or equivalent and LISP 1CX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LISP 1C",
+      "LISP 1CX"
+    ]
+  },
+  "successors": [
+    "LISP 15, 16, 17",
+    "LISP 18",
+    "LTSP 2A"
+  ]
+}

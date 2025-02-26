@@ -1,0 +1,11 @@
+{
+  "code": "TDDE 169A",
+  "title": "Digital Rendering for Theatre and Performance Design I",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdde169a",
+  "description": "Introductory course that explores a variety of digital rendering methods for artistic 2-D, 3-D, and moving graphics visualization in theatre and performance design. Course objective is to synthesize and expand traditional drawing and painting methods with modern digital media-based applications. Prerequisites: none.",
+  "successors": [
+    "TDDE 169B"
+  ]
+}

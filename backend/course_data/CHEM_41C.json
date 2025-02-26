@@ -1,0 +1,23 @@
+{
+  "code": "CHEM 41C",
+  "title": "Organic Chemistry III: Synthesis, Reactivity, and Macromolecules",
+  "units": "4",
+  "dept": "CHEM",
+  "description": "This is the third quarter of a three-quarter organic chemistry sequence intended for chemistry, biochemistry, and engineering majors and interested students. The course is a continuation of CHEM 41A and CHEM 41B with an in-depth study of the properties, synthesis, and reactions of the major classes of organic compounds. Emphasis on a mechanistic understanding of reactions, the effects of molecular structure, and multi-step syntheses. Prerequisites: CHEM 41B.",
+  "prereqs": "CHEM 41B",
+  "successors": [
+    "CHEM 116",
+    "CHEM 117",
+    "CHEM 119",
+    "CHEM 143D",
+    "CHEM 146",
+    "CHEM 152",
+    "CHEM 154",
+    "CHEM 156",
+    "CHEM 157",
+    "CHEM 158",
+    "CHEM 163",
+    "CHEM 167",
+    "CHEM 168"
+  ]
+}

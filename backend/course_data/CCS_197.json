@@ -1,0 +1,15 @@
+{
+  "code": "CCS 197",
+  "title": "Carbon Neutrality Internship",
+  "units": "1\u20134",
+  "dept": "CCS",
+  "anchor": "ccs197",
+  "description": "A campus-based internship, typically designed by the student, that will help the university meet our stated carbon neutrality goals. The project can be developed either individually or as part of a team. A written contract involving all parties will include learning objectives, a paper or project outline, and means of supervision and progress evaluation. May be taken for credit up to three times for a maximum of eight units. P/NP grades only. Prerequisites: CCS 101, CCS 102, and department approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CCS 101",
+      "CCS 102"
+    ]
+  }
+}

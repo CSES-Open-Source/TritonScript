@@ -1,0 +1,27 @@
+{
+  "code": "SE 168",
+  "title": "Structural System Testing and Model Correlation",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se168",
+  "description": "Dynamic/model testing of structures: test planning/execution, actuation, sensing, and data acquisition, signal processing, data conditioning, test troubleshooting. Methods of updating finite element structural models to correlate with dynamic test results. Model/test correlation assessment in industrial practice. Knowledge of MATLAB strongly encouraged. Prerequisites: SE 101C or MAE 130C and SE 131A (or SE 131).",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SE 101C",
+          "MAE 130C"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SE 131A",
+          "SE 131"
+        ]
+      }
+    ]
+  }
+}

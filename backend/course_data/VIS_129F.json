@@ -1,0 +1,27 @@
+{
+  "code": "VIS 129F",
+  "title": "Seminar in Art Theory and Criticism",
+  "units": "4",
+  "dept": "VIS",
+  "description": "A seminar on an advanced topic of special interest in art theory, art criticism, or the history of literature on art. Prerequisites: VIS 112 or two upper-division courses in art history (VIS 113AN\u2013129F).",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 112",
+      {
+        "type": "two",
+        "courses": [
+          "VIS 113AN",
+          "VIS 129F"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "VIS 129A",
+    "VIS 129B",
+    "VIS 129C",
+    "VIS 129E",
+    "VIS 129F"
+  ]
+}

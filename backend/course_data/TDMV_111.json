@@ -1,0 +1,12 @@
+{
+  "code": "TDMV 111",
+  "title": "Advanced Ballet",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdmv111",
+  "description": "A contemporary approach to ballet technique, terminology, and performance at the advanced level. Introduces more complex choreographic variations and skills. Individual and group composition will be examined and aesthetic criticism applied. May be taken for credit six times. Prerequisites: twelve units of TDMV 110 or consent of instructor.",
+  "prereqs": "TDMV 110",
+  "successors": [
+    "TDMV 112"
+  ]
+}

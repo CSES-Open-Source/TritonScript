@@ -1,0 +1,8 @@
+{
+  "code": "CSE 254",
+  "title": "Statistical Learning",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse254",
+  "description": "Learning algorithms based on statistics. Possible topics include minimum-variance unbiased estimators, maximum likelihood estimation, likelihood ratio tests, resampling methods, linear logistic regression, feature selection, regularization, dimensionality reduction, manifold detection. An upper-division undergraduate course on probability and statistics such as MATH 183 or 186, or any graduate course on statistics, pattern recognition, or machine learning is recommended. Recommended preparation: An upper-division undergraduate course on probability and statistics, or any graduate course on statistics, pattern recognition, or machine learning is recommended. Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits."
+}

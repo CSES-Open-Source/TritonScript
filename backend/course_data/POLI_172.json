@@ -1,0 +1,32 @@
+{
+  "code": "POLI 172",
+  "title": "Advanced Social Data Analytics",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli172",
+  "description": "An accelerated course in computer programming and data analytics for collecting, analyzing, and understanding data in the social world. Students engage in hands-on learning with applied social science problems, developing statistical and computational skills for sophisticated data manipulation, analysis, visualization. Prerequisites: POLI 5 or 5D or ECON 5 and POLI 30 or 30D.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "POLI 5",
+          "POLI 5D",
+          "ECON 5"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "POLI 30",
+          "POLI 30D"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "POLI 175",
+    "POLI 176"
+  ]
+}

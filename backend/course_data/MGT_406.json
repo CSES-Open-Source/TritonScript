@@ -1,0 +1,12 @@
+{
+  "code": "MGT 406",
+  "title": "Leadership Skills, Values, and Teamwork in Technology Firms",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt406",
+  "description": "Through lecture and online delivery, introduces principles of effective teamwork and leadership and of strategic managerial communication. Provides an introduction to case study and to ethical issues confronting managers in technology or science-driven firms. Develops managerial communication skills. Letter grades only. Prerequisites: MBA student or department stamp.",
+  "successors": [
+    "AESE 261",
+    "AESE 278B"
+  ]
+}

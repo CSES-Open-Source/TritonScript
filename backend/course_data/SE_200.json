@@ -1,0 +1,11 @@
+{
+  "code": "SE 200",
+  "title": "Applied Mathematics in Structural Engineering",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se200",
+  "description": "This course is designed to give beginning students the basic preparation in mathematical methods required for graduate Structural Engineering courses. Topics include linear algebra; systems of ordinary differential equations; diffusion and wave propagation problems; integral transforms; and calculus of variations.\u00a0Prerequisites: graduate standing or approval of instructor.",
+  "successors": [
+    "SE 243"
+  ]
+}

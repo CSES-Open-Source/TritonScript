@@ -1,0 +1,15 @@
+{
+  "code": "BIOM 200B",
+  "title": "Molecules to Organisms: Approaches",
+  "units": "2",
+  "dept": "BIOM",
+  "anchor": "biom200b",
+  "description": "Students will critically evaluate classic and current research papers in biomedical research, in addition to being exposed to state-of-the-art technologies in research. Prerequisites: limited to BMS graduate students except by consent of instructor.",
+  "successors": [
+    "BIOM 226",
+    "BIOM 252",
+    "BIOM 253",
+    "BIOM 254",
+    "BIOM 255"
+  ]
+}

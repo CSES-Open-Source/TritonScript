@@ -1,0 +1,14 @@
+{
+  "code": "PHIL 120",
+  "title": "Symbolic Logic I",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil120",
+  "description": "The syntax, semantics, and proof-theory of first order monadic and polyadic predicate logic. In this course, we will learn how to determine whether arguments that can be represented in first order predicate logic are deductively valid, how to symbolize English arguments, the rules of a natural deduction system, how to apply those rules to determine the logical status of symbolized arguments, and how to use semantic methods for determining validity and invalidity. Prerequisites: PHIL 10 or consent of instructor.",
+  "prereqs": "PHIL 10",
+  "successors": [
+    "PHIL 122",
+    "PHIL 123",
+    "PHIL 124"
+  ]
+}

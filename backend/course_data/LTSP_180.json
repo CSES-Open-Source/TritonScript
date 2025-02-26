@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 180",
+  "title": "Film and Visual Arts in Latin America",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp180",
+  "description": "This course analyzes different visual narratives (film, television, art, graffiti, murals, etc.) produced in Latin America. Students will be exposed to both classic and contemporary films from the region as well as to other relevant forms of visual culture in their historical context. These visual narratives will be related both to the political and historical context of Latin America.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

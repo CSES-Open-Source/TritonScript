@@ -1,0 +1,11 @@
+{
+  "code": "BGGN 206A",
+  "title": "Concepts of Reasoning and Experimentation (CORE) I",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bggn206a",
+  "description": "This course focuses on key concepts and the methods and logic used to ask and answer challenging biological questions. Course work will be organized around fundamental topics in molecular and cell biology and focus on problem solving, research articles, and/or research seminars to examine best practices in making reasoned scientific arguments and using logical experimental design to tackle biological problems, particularly at the molecular and cellular level. Enrollment restricted to the following major codes: BI77 and BI78.",
+  "successors": [
+    "BGGN 206B"
+  ]
+}

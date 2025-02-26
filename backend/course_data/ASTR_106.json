@@ -1,0 +1,9 @@
+{
+  "code": "ASTR 106",
+  "title": "Quantum Mechanics of Radiation, Atoms and Molecules",
+  "units": "4",
+  "dept": "ASTR",
+  "anchor": "astr106",
+  "description": "This course discusses quantum mechanical applications of astrophysical interest, with an emphasis on radiation processes. Topics include electromagnetic field and time-dependent perturbation theory, transitions, and Fermi\u2019s golden rule; absorption cross sections, selection rules, single and multi-electron atoms, and diatomic molecules, including the Born-Oppenheimer approximation; physics of the chemical bond and an introduction to the Dirac equation. Prerequisites: ASTR 105.",
+  "prereqs": "ASTR 105"
+}

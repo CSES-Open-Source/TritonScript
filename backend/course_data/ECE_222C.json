@@ -1,0 +1,12 @@
+{
+  "code": "ECE 222C",
+  "title": "Applied Electromagnetic Theory\u2014Computational Methods for Electromagnetics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece222c",
+  "description": "Computational techniques for numerical analysis of electromagnetic fields, including the finite difference time domain (FDTD) method, finite difference frequency domain (FDFD) method, method of moments (MOM), and finite element method (FEM). Practice in writing numerical codes. Review of commercial electromagnetic simulators. Prerequisites: ECE 222B; graduate standing.",
+  "prereqs": "ECE 222B",
+  "successors": [
+    "ECE 222D"
+  ]
+}

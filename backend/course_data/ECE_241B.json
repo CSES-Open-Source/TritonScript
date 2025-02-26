@@ -1,0 +1,12 @@
+{
+  "code": "ECE 241B",
+  "title": "Integrated Photonics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece241b",
+  "description": "Integrated photonic devices and components made using silicon, compound semiconductors, thin-film crystals, and dielectric materials. Design, analysis, and applications of components (e.g., waveguides, microresonators, couplers, modulators, lasers, and detectors) for use in communications, sensing, metrology, and other areas. Prerequisites: ECE 241A; graduate standing.",
+  "prereqs": "ECE 241A",
+  "successors": [
+    "ECE 241C"
+  ]
+}

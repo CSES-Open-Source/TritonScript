@@ -1,0 +1,15 @@
+{
+  "code": "VIS 158C",
+  "title": "History of Social Documentary",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis158c",
+  "description": "This course will examine the history of social documentary photography and film with a primary focus on North America and Europe. We will explore the initial emergence of a social documentary impulse in conjunction with social and political movements during the nineteenth and early twentieth centuries, the expansion of social documentary during the 1930s and its resurgence again during the 1960s and 70s, as well as more contemporary manifestations. Prerequisites: VIS 22 or VIS 83.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 22",
+      "VIS 83"
+    ]
+  }
+}

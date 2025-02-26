@@ -1,0 +1,11 @@
+{
+  "code": "CHEM 4",
+  "title": "Chemical Thinking",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem4",
+  "description": "This is a one-quarter preparatory chemistry course intended for students continuing on to general chemistry. The course will focus on the development and analysis of submicroscopic models of matter and structure-property relationships to explain, predict, and control chemical behavior. May not receive credit for both CHEM 4 and CHEM 11. Recommended: concurrent enrollment in MATH 3C, 4C, or 10A or higher. Restricted to first-year and sophomore enrollment.",
+  "successors": [
+    "CHEM 6A"
+  ]
+}

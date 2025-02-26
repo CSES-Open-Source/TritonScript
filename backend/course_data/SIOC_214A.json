@@ -1,0 +1,13 @@
+{
+  "code": "SIOC 214A",
+  "title": "Introduction to Fluid Mechanics",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc214a",
+  "description": "A survey of classical problems in fluid mechanics and approximate techniques of analysis. Topics include conservation equations, straight laminar flows, low and high Reynolds number laminar flow, stability of laminar flows, turbulent flow. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "SIOC 211B",
+    "SIOC 212B",
+    "SIOC 261"
+  ]
+}

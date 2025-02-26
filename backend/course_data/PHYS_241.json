@@ -1,0 +1,8 @@
+{
+  "code": "PHYS 241",
+  "title": "Computational Physics I: Probabilistic Models and Simulations",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys241",
+  "description": "Project-based computational physics laboratory course with student\u2019s choice of Fortran90/95 or C/C++. Applications from materials science to the structure of the early universe are chosen from molecular dynamics, classical and quantum Monte Carlo methods, physical Langevin/Fokker-Planck processes, and other modern topics."
+}

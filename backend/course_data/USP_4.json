@@ -1,0 +1,11 @@
+{
+  "code": "USP 4",
+  "title": "Introduction to Geographic Information Systems",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp4",
+  "description": "This course provides an entry-level introduction to Geographic Information Systems (GIS) and using GIS to make decisions: acquiring data and organizing data in useful formats, demographic mapping, and geocoding.",
+  "successors": [
+    "USP 191A"
+  ]
+}

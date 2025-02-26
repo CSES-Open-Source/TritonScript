@@ -1,0 +1,12 @@
+{
+  "code": "POLI 104A",
+  "title": "The Supreme Court and the Constitution",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli104a",
+  "description": "An introduction to the study of the Supreme Court and constitutional doctrine. Topics will include the nature of judicial review, federalism, race, and equal protection. The relation of judicial and legislative power will also be examined.",
+  "successors": [
+    "POLI 104F",
+    "POLI 104J"
+  ]
+}

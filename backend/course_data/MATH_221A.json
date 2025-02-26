@@ -1,0 +1,18 @@
+{
+  "code": "MATH 221A",
+  "title": "Topics in Several Complex Variables",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math221a",
+  "description": "Introduction to varied topics in several complex variables. In recent years, topics have included formal and convergent power series, Weierstrass preparation theorem, Cartan-Ruckert theorem, analytic sets, mapping theorems, domains of holomorphy, proper holomorphic mappings, complex manifolds and modifications. May be taken for credit six times with consent of adviser as topics vary. Prerequisites: MATH 200A and 220C. Students who have not completed MATH 200A and 220C may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 200A",
+      "MATH 220C"
+    ]
+  },
+  "successors": [
+    "MATH 221B"
+  ]
+}

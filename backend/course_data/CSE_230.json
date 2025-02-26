@@ -1,0 +1,9 @@
+{
+  "code": "CSE 230",
+  "title": "Principles of Programming Languages",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse230",
+  "description": "(Formerly CSE 273.) Functional versus imperative programming. Type systems and polymorphism; the ML language. Higher order functions, lazy evaluation. Abstract versus concrete syntax, structural and well-founded induction. The lambda calculus, reduction strategies, combinators. Denotational semantics, elementary domain theory. Prerequisites: CSE 130 or equivalent, or consent of instructor.",
+  "prereqs": "CSE 130"
+}

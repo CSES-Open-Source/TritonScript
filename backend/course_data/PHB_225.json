@@ -1,0 +1,34 @@
+{
+  "code": "PHB 225",
+  "title": "Topics in Non- and Semi-Parametric Statistics and Functional Data",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "phb225",
+  "description": "The graduate-level course will cover modern statistical inference including non- and semi-parametric statistics, resampling methods, and topics from functional data analysis. Data analysis and computation will be emphasized. Examples of applications discussed include biomedical imaging and wearable device data and their usage in studying health outcomes. Renumbered from FMPH 225. Students may not receive credit for PHB 225 and FMPH 225. Must be taken for a letter grade to be applied to the biostatistics degree requirements. Prerequisites: successful completion of FMPH 221 or PHB 221, and FMPH 222 or PHB 222, and FMPH 223 or PHB 223 or program approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 221",
+          "PHB 221"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 222",
+          "PHB 222"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 223",
+          "PHB 223"
+        ]
+      }
+    ]
+  }
+}

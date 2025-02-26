@@ -1,0 +1,12 @@
+{
+  "code": "BENG 294B",
+  "title": "Engineering in the Patient Healthcare System",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng294b",
+  "description": "Evaluation of medical schools in terms of historical background, specialties, graduating MDs metrics, and employment; and their societal, environmental, economic, political, and research impact. Coordination with medical school interviews with assigned off-campus time allocation. Report on results attained. Prerequisites: BENG 294A; bioengineering MS medicine majors only or consent of department.",
+  "prereqs": "BENG 294A",
+  "successors": [
+    "BENG 294C"
+  ]
+}

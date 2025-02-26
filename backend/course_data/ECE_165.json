@@ -1,0 +1,9 @@
+{
+  "code": "ECE 165",
+  "title": "Digital Integrated Circuit Design",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece165",
+  "description": "VLSI digital systems. Circuit characterization, performance estimation, and optimization. Circuits for alternative logic styles and clocking schemes. Subsystems include ALUs, memory, processor arrays, and PLAs. Techniques for gate arrays, standard cell, and custom design. Design and simulation using CAD tools. Prerequisites: ECE 102.",
+  "prereqs": "ECE 102"
+}

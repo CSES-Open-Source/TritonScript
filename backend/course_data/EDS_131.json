@@ -1,0 +1,11 @@
+{
+  "code": "EDS 131",
+  "title": "Early Childhood Development and Education",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds131",
+  "description": "This course investigates early child development (birth through eight years) and education and the role of high-quality early education on reducing inequities among diverse populations. Field experience and seminar focus on applying research and theory to experiences in early childhood classrooms (P\u20133). Prerequisites: department approval. Students will need to fill out a placement form prior to getting approval to enroll in EDS 131. This form provides the course instructor with information to make the appropriate field placement; EDS 139 must be taken as a corequisite.",
+  "successors": [
+    "EDS 140"
+  ]
+}

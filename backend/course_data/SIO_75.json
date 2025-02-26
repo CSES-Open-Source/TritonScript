@@ -1,0 +1,9 @@
+{
+  "code": "SIO 75",
+  "title": "Geological History of Earth",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio75",
+  "description": "An introduction to geologic time and the history of the Earth. Topics include physical, biological, and climate history of Earth, measurement of geologic time, formation of major Earth features, change in the Earth system, and North American geology. Prerequisites: SIO 50 or consent of instructor.",
+  "prereqs": "SIO 50"
+}

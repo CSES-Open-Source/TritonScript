@@ -1,0 +1,30 @@
+{
+  "code": "BIMM 110",
+  "title": "Molecular Basis of Human Disease",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm110",
+  "description": "An examination of the molecular basis of human diseases. Course emphasizes inherited human disorders, and some important diseases caused by viruses. Focus on the application of genetic, biochemical, and molecular biological principles to an understanding of the diseases. Prerequisites: BICD 100 or BICD 100R and BIMM 100 and BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B, upper-division standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BICD 100",
+          "BICD 100R"
+        ]
+      },
+      "BIMM 100",
+      {
+        "type": "one",
+        "courses": [
+          "BIBC 100",
+          "BIBC 102",
+          "CHEM 114A",
+          "CHEM 114B"
+        ]
+      }
+    ]
+  }
+}

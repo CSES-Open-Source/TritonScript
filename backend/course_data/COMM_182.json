@@ -1,0 +1,17 @@
+{
+  "code": "COMM 182",
+  "title": "Education and Global Citizenship",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm182",
+  "description": "Concepts, possibilities, and dilemmas inherent in the notion of global citizenship. Formulate goals and instructional strategies for global education, expected competence of individuals within society. Examine roles that communication and curriculum play in the formation of identity, language use, and civic responsibility of global citizens. Prerequisites: COMM 10, COMM 100A, 100B, and 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      "COMM 100A",
+      "COMM 100B",
+      "COMM 100C"
+    ]
+  }
+}

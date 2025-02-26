@@ -1,0 +1,15 @@
+{
+  "code": "CCS 199",
+  "title": "Supervised Independent Study or Research",
+  "units": "2\u20134",
+  "dept": "CCS",
+  "anchor": "ccs199",
+  "description": "Independent reading or research on a topic related to climate change by special arrangement with a faculty member. May be taken for credit up to three times for a maximum of eight units. P/NP grades only. Prerequisites: CCS 101, CCS 102, and department approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CCS 101",
+      "CCS 102"
+    ]
+  }
+}

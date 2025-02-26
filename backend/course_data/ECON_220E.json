@@ -1,0 +1,17 @@
+{
+  "code": "ECON 220E",
+  "title": "Econometrics E",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ220e",
+  "description": "Identification of economic models. Topics include rank and order conditions for identification in linear simultaneous equations systems; identification in nonlinear models; likelihood-based identification criteria; nonparametric identification; identification in models with multiple equilibria. Prerequisites: ECON 220D, graduate standing; enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.",
+  "prereqs": "ECON 220D",
+  "successors": [
+    "ECON 220F",
+    "ECON 221",
+    "ECON 225",
+    "ECON 226",
+    "ECON 227",
+    "ECON 228"
+  ]
+}

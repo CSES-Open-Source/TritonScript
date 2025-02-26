@@ -1,0 +1,33 @@
+{
+  "code": "ECE 103",
+  "title": "Fundamentals of Devices and Materials",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece103",
+  "description": "Introduction to semiconductor materials and devices. Semiconductor crystal structure, energy bands, doping, carrier statistics, drift and diffusion, p-n junctions, metal-semiconductor junctions. Bipolar junction transistors: current flow, amplification, switching, nonideal behavior. Metal-oxide-semiconductor structures, MOSFETs, device scaling. Prerequisites: ECE 65 and PHYS 2D or PHYS 4D and 4E.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 65",
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2D",
+          {
+            "type": "all",
+            "courses": [
+              "PHYS 4D",
+              "PHYS 4E"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "ECE 135A",
+    "ECE 181",
+    "ECE 182",
+    "ECE 183"
+  ]
+}

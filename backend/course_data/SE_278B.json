@@ -1,0 +1,9 @@
+{
+  "code": "SE 278B",
+  "title": "Computational Fluid-Structure Interaction",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se278b",
+  "description": "Conservation laws on general moving domains. Arbitrary Lagrange-Eulerian (ALE) and space-time approaches to fluid-structure interaction are covered. Suitable discretizations, mesh motion, and discrete solution strategies are discussed. Prerequisites: SE 278A.",
+  "prereqs": "SE 278A"
+}

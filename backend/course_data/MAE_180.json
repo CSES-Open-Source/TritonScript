@@ -1,0 +1,11 @@
+{
+  "code": "MAE 180",
+  "title": "Orbital Mechanics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae180",
+  "description": "Students perform analyses based on mission requirements. Selected topics include astrodynamics, orbital motion, perturbations, coordinate systems and frames of reference, ground tracks and classification of common orbits, orbit determination, orbital maneuvers, station keeping, orbit injection and launch geometry, and interplanetary and lunar trajectories.",
+  "successors": [
+    "MAE 182"
+  ]
+}

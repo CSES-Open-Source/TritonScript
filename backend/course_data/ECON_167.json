@@ -1,0 +1,15 @@
+{
+  "code": "ECON 167",
+  "title": "Economics of China",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ167",
+  "description": "Survey of the Chinese economy. Topics such as economic growth, China\u2019s transition to a market economy, international trade, financial markets, labor markets, and industrial structure. Prerequisites: ECON 1 and 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 1",
+      "ECON 3"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "code": "ECE 272A",
+  "title": "Stochastic Processes in Dynamic Systems I",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece272a",
+  "description": "Diffusion equations, linear and nonlinear estimation and detection, random fields, optimization of stochastic dynamic systems, applications of stochastic optimization to problems. Recommended preparation: ECE 250. Prerequisites: ECE 269; graduate standing.",
+  "prereqs": "ECE 269",
+  "successors": [
+    "ECE 272B"
+  ]
+}

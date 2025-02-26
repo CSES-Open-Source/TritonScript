@@ -1,0 +1,9 @@
+{
+  "code": "MATH 257B",
+  "title": "Further Topics in Differential Geometry",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math257b",
+  "description": "Continued development of a topic in differential geometry. Topics include Morse theory and general relativity. May be taken for credit three times with consent of adviser. Prerequisites: MATH 257A. Students who have not completed MATH 257A may enroll with consent of instructor.",
+  "prereqs": "MATH 257A"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "DSC 244",
+  "title": "Large-Scale Statistical Analysis",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc244",
+  "description": "Exploratory data analysis, diagnostics, bootstrap, large-scale (multiple) hypothesis testing, false discovery rate, empirical Bayes methods. Prerequisites: DSC 210 and DSC 212 and DSC 241. Restricted to DS75 and DS76 students.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 210",
+      "DSC 212",
+      "DSC 241"
+    ]
+  }
+}

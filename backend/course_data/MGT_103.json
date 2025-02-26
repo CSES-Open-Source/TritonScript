@@ -1,0 +1,15 @@
+{
+  "code": "MGT 103",
+  "title": "Product Marketing and Management",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt103",
+  "description": "Defining markets for products and services, segmenting these markets, and targeting critical customers within segments. Strategies to position products and services within segments. The critical role of pricing as well as market research, product management, promotion, selling, and customer support. Prerequisites: upper-division standing.",
+  "successors": [
+    "MGT 105",
+    "MGT 106",
+    "MGT 107",
+    "MGT 109",
+    "MGT 112"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "BIMM 130",
+  "title": "Microbial Physiology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm130",
+  "description": "Prokaryotic cell biology will be discussed primarily from physiological and biochemical standpoints with a focus on conceptual understanding, integration, and mechanism. Topics will vary from year to year but will include the following themes: bioenergetics, cell polarity, cell adhesion, the molecular basis of morphogenesis and differentiation, prokaryotic motility and behavior, rotary and linear molecular machines, bacterial organelles, pheromones and messengers, circadian rhythms, biological warfare, and bioremediation. Prerequisites: BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BIBC 100",
+      "BIBC 102",
+      "CHEM 114A",
+      "CHEM 114B"
+    ]
+  }
+}

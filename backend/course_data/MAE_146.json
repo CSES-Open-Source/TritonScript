@@ -1,0 +1,40 @@
+{
+  "code": "MAE 146",
+  "title": "Introduction to Machine Learning Algorithms",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae146",
+  "description": "An introduction to the principles used to design and implement machine learning algorithms, as well as an understanding of their advantages and limitations. The topics covered are python review, supervised learning (linear, logistic/sigmoid regression, generalized linear models, nonlinear regression via Kernels), neural network types (convolutional, recurrent, deep NN), unsupervised learning (k-means clustering). Application of ML in different examples. Recommended preparation: ECE 143 and/or python programming knowledge. Prerequisites: (MATH 31AH or MATH 18) and (MATH 20C or MATH 31BH) and MAE 8 and (MAE 108 or ECE 109 or SE 125 or MATH 186 or MATH 183 or MATH 180A or ECON 120A).",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 31AH",
+          "MATH 18"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      "MAE 8",
+      {
+        "type": "one",
+        "courses": [
+          "MAE 108",
+          "ECE 109",
+          "SE 125",
+          "MATH 186",
+          "MATH 183",
+          "MATH 180A",
+          "ECON 120A"
+        ]
+      }
+    ]
+  }
+}

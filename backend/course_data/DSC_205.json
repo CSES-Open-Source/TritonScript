@@ -1,0 +1,22 @@
+{
+  "code": "DSC 205",
+  "title": "Geometry of Data",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc205",
+  "description": "This course will cover graph-based data modeling, analysis, and representation. Topics include spectral graph theory, spectral clustering, kernel-based manifold learning, dimensionality reduction and visualization, multiway data analysis, graph signal processing, graph neural networks. Prerequisites: DSC 210 or ECE 269 and DSC 212 and DSC 240. Restricted to students within the DS75 and DS76 major.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "DSC 210",
+          "ECE 269"
+        ]
+      },
+      "DSC 212",
+      "DSC 240"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "MATH 260B",
+  "title": "Mathematical Logic II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math260b",
+  "description": "Theory of computation and recursive function theory, Church\u2019s thesis, computability and undecidability. Feasible computability and complexity. Peano arithmetic and the incompleteness theorems, nonstandard models. Prerequisites: MATH 260A or consent of instructor.",
+  "prereqs": "MATH 260A"
+}

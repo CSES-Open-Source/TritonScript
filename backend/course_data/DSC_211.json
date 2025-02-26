@@ -1,0 +1,13 @@
+{
+  "code": "DSC 211",
+  "title": "Introduction to Optimization",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc211",
+  "description": "Continuity and differentiability of a function of several variables, gradient vector, Hessian matrices, Taylor approximation, fundamentals of optimization, Lagrange multipliers, convexity, gradient descent. Prerequisites: DSC 210. Restricted to students within the DS75 and DS76 major.",
+  "prereqs": "DSC 210",
+  "successors": [
+    "DSC 243",
+    "DSC 251"
+  ]
+}

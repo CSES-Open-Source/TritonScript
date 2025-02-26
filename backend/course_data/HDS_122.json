@@ -1,0 +1,15 @@
+{
+  "code": "HDS 122",
+  "title": "Development of Social Cognition",
+  "units": "4",
+  "dept": "HDS",
+  "anchor": "hds122",
+  "description": "This course covers topics in development of social cognition across the life span. Grounded in current research and theoretical models, content addresses general principles such as the mutual influences of caregivers and children upon each other and the interplay of person and context. Discussion areas include attachment, aggression, identity development, social cognition, social components of achievement motivation, and development of conscience. Renumbered from HDP 122. Students may not receive credit for HDP 122 and HDS 122. Prerequisites: HDP 1 or HDS 1.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "HDP 1",
+      "HDS 1"
+    ]
+  }
+}

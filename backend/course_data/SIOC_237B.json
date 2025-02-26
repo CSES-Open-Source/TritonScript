@@ -1,0 +1,8 @@
+{
+  "code": "SIOC 237B",
+  "title": "Ocean Color Remote Sensing",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc237b",
+  "description": "Overview of ocean color satellite missions. Concepts in radiometry. Inherent and apparent optical properties. Radiative transfer equation. Solar radiation and elements of atmospheric optics. Propagation of light across the sea surface and within the ocean. Light absorption and scattering by seawater. Water-leaving radiance and remote-sensing reflectance. Ocean color algorithms and applications. Recommended preparation: basic physics and differential calculus. Prerequisites: graduate standing or consent of instructor. (S/U grades permitted.)"
+}

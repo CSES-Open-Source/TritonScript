@@ -1,0 +1,15 @@
+{
+  "code": "MAE 185",
+  "title": "Computational Fluid Mechanics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae185",
+  "description": "This course will cover numerical solutions of the compressible and incompressible Navier-Stokes equations using finite difference and finite volume discretization with a primary emphasis on programming and a secondary emphasis on application of commercial tools. Introduction to flow visualization will also be covered. Prerequisites: MAE 101B and MAE 107.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 101B",
+      "MAE 107"
+    ]
+  }
+}

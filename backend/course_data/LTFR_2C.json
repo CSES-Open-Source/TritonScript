@@ -1,0 +1,12 @@
+{
+  "code": "LTFR 2C",
+  "title": "Intermediate French III: Composition and Cultural Contexts",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltfr2c",
+  "description": "Designed to improve writing and conversational skills. Develop written expression in terms of organization or ideas, structure, vocabulary. Grammar review. Discussions of contemporary novel and film.\u00a0Prerequisites:  LTFR 2B or its equivalent, score of 5 on French language or score of 4 on French literature AP exams or consent of instructor.",
+  "prereqs": "LTFR 2B",
+  "successors": [
+    "LTFR 104"
+  ]
+}

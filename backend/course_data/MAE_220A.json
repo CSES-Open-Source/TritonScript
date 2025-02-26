@@ -1,0 +1,11 @@
+{
+  "code": "MAE 220A",
+  "title": "Physics of Gases",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae220a",
+  "description": "Thermodynamics of gases for use in gas dynamics. Derivation of thermodynamic functions from statistical mechanics. Applications of classical and quantum statistical mechanics to chemical, thermal, and radiative properties of gases. Equilibrium and nonequilibrium radiation, chemical equilibrium, and elements of chemical kinetics. Laser and reacting-flow applications. Prerequisites: graduate standing.",
+  "successors": [
+    "MAE 220B"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "MGT 132",
+  "title": "Auditing",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt132",
+  "description": "Theory and practice of the attest process; planning and implementing the audit of the financial statements and internal control over financial reporting to ensure compliance with applicable requirements. Prerequisites: MGT 131B.",
+  "prereqs": "MGT 131B",
+  "successors": [
+    "MGT 136",
+    "MGT 146"
+  ]
+}

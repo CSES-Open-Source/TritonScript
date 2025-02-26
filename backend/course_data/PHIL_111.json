@@ -1,0 +1,13 @@
+{
+  "code": "PHIL 111",
+  "title": "History of Philosophy: Early Modern",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil111",
+  "description": "An examination of seventeenth- and eighteenth-century philosophy, focusing on major works of Descartes, Locke, and Hume. PHIL 110, PHIL 111, and PHIL 112 should be taken in order. Prerequisites: PHIL 110, upper-division standing and department stamp or consent of instructor.",
+  "prereqs": "PHIL 110",
+  "successors": [
+    "PHIL 106",
+    "PHIL 112"
+  ]
+}

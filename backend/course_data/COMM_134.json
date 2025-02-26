@@ -1,0 +1,22 @@
+{
+  "code": "COMM 134",
+  "title": "Media Audiences",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm134",
+  "description": "Examines the complex relationship between mass media and the consumers and viewers they target. This course covers theories about audiences, reading practices of audiences, the economics of audiences, and the role of audiences in the digital era. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

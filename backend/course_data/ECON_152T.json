@@ -1,0 +1,9 @@
+{
+  "code": "ECON 152T",
+  "title": "Advanced Topics in Family Economics and Social Insurance",
+  "units": "2",
+  "dept": "ECON",
+  "anchor": "econ152t",
+  "description": "Investigate design of social insurance in the context of the family. Learn effects of economic shocks, such as unemployment and adverse health events, on the family as the economic unit. Learning outcomes include informal self-insurance arrangements and spillovers across family members. Use theory to study welfare implications of findings on optimal design of social insurance policies. Prerequisites: ECON 152.",
+  "prereqs": "ECON 152"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "BIBC 103",
+  "title": "Biochemical Techniques",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bibc103",
+  "description": "Introductory laboratory course in current principles and techniques applicable to research problems in biochemistry and molecular biology. Techniques include protein and nucleic acid purification; identification methods such as centrifugation, chromatography, and electrophoresis; immunological, spectrophotometric, and enzymatic methods. Material lab fees will apply. Prerequisites: BILD 1. Note: Students may not receive credit for BIBC 103 after taking CHEM 108. Attendance at the first lecture/lab is required. Nonattendance may result in the student\u2019s being dropped from the course roster.",
+  "prereqs": "BILD 1",
+  "successors": [
+    "BIMM 100"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "SIOC 207B",
+  "title": "Digital Signal Processing I",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc207b",
+  "description": "Discrete random signals; conventional (FFT based) spectral estimation. Coherence and transfer function estimation; model-based spectral estimation; linear prediction and AR modeling, Levinson-Durbin algorithm and lattice filters, minimum variance spectrum estimation. Coscheduled with ECE 251A. Recommended preparation:\u00a0ECE 153, Probability, or ECE 250, Random Processes; ECE 161A, Introduction to Digital Signal Processing; ECE 251C, Filter Banks and Wavelets; ECE 269, Linear Algebra and Application, or equivalent and SIOC 207A, Fundamentals of Digital Signal Processing, or equivalent.\u00a0Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "ECE 251D",
+    "SIOC 207C",
+    "SIOC 207D"
+  ]
+}

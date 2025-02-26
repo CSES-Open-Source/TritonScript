@@ -1,0 +1,15 @@
+{
+  "code": "BIEB 159",
+  "title": "Microbiome Function Laboratory",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb159",
+  "description": "This course examines current evidence of how host-associated microbiomes contribute toward host phenotypes. The course reviews approaches for studying host-microbiome interactions, including empirical experiments and omics, and the implications of microbiomes in ecology and evolutionary biology. Students will use their own laptop computers. May be coscheduled with BGGN 261. Prerequisites: BILD 1 and BILD 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 3"
+    ]
+  }
+}

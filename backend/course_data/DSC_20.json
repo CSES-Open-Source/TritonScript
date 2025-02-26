@@ -1,0 +1,16 @@
+{
+  "code": "DSC 20",
+  "title": "Programming and Basic Data Structures for Data Science",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc20",
+  "description": "Provides an understanding of the structures that underlie the programs, algorithms, and languages used in data science by expanding the repertoire of computational concepts introduced in DSC 10 and exposing students to techniques of abstraction. Course will be taught in Python and will cover topics including recursion, higher-order functions, function composition, object-oriented programming, interpreters, classes, and simple data structures such as arrays, lists, and linked lists. Prerequisites: DSC 10. Restricted to students within the DS25 major. All other students will be allowed as space permits.",
+  "prereqs": "DSC 10",
+  "successors": [
+    "DSC 30",
+    "DSC 40B",
+    "DSC 97",
+    "DSC 98",
+    "DSC 99"
+  ]
+}

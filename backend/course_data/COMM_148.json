@@ -1,0 +1,19 @@
+{
+  "code": "COMM 148",
+  "title": "Global Cultures of K-Pop",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm148",
+  "description": "Examine the sprawling, often contradictory cultural terrain of K-pop, South Korea\u2019s multi-billion-dollar pop music industry. Consider the broad range of social and technological structures, creative practices, emotional attachments, and embedded value systems that have been cultivated by the industry across a range of geopolitical contexts. Explore different sets of issues and case studies anchored in critical concepts drawn from assigned readings, lectures, and experiential exercises. Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40, or COMM 50.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40",
+      "COMM 50"
+    ]
+  }
+}

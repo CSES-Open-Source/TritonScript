@@ -1,0 +1,15 @@
+{
+  "code": "VIS 80",
+  "title": "Introduction to the Studio Major",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis80",
+  "description": "A practical introduction to the studio art major and a conceptual introduction to how diverse strategies of art making are produced, analyzed, and critiqued. Introduces historical and contemporary topics in painting, drawing, sculpture, installation, and performance art and field-based practices. Required for all studio majors and minors including transfer students. Must be taken in residence at UC San Diego. Prerequisites: none.",
+  "successors": [
+    "VIS 105A",
+    "VIS 105D",
+    "VIS 106A",
+    "VIS 107A",
+    "VIS 147A"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "SOCI 107",
+  "title": "Epidemiological Methods: Statistical Study of Disease",
+  "units": "4",
+  "dept": "SOC",
+  "anchor": "soci107",
+  "description": "Epidemiology is the statistical study of disease, and epidemiological methods are a powerful tool for understanding the causes of certain diseases, e.g., AIDS, scurvy, cholera, and lung cancer. These fundamental epidemiological methods will be taught. Prerequisites: SOCI 60 and upper-division standing. Will not receive credit for SOCI 107 and SOCA 107.",
+  "prereqs": "SOCI 60"
+}

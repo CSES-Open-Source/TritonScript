@@ -1,0 +1,27 @@
+{
+  "code": "COGS 279",
+  "title": "Electrophysiology of Cognition",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs279",
+  "description": "(Cross-listed with NEU 279) This course surveys the theory and practice of using recordings of electrical and magnetic activity of the brain to study cognition and behavior. It explores what brain waves reveal about normal and abnormal perception, processing, decision making, memory, preparation, and comprehension. Graduate students will be required to do additional readings for the material each week (different for each grad) and to present orally (as well as in a written page) a critical analysis of the readings. Prerequisites: COGS 107A or PSYC 106; COGS 101A or PSYC 105.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "COGS 107A",
+          "PSYC 106"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "COGS 101A",
+          "PSYC 105"
+        ]
+      }
+    ]
+  }
+}

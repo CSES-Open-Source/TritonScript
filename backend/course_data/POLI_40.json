@@ -1,0 +1,11 @@
+{
+  "code": "POLI 40",
+  "title": "Introduction to Law and Society",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli40",
+  "description": "This course is designed as a broad introduction to the study of law as a social institution and its relations to other institutions in society. The focus will be less on the substance of law (legal doctrine and judicial opinions) than on the process of law\u2013how legal rules both reflect and shape basic social values and their relation to social, political, and economic conflicts within society.",
+  "successors": [
+    "COMM 114F"
+  ]
+}

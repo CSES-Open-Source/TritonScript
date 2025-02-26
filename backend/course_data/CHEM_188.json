@@ -1,0 +1,27 @@
+{
+  "code": "CHEM 188",
+  "title": "Capstone Seminar in Science Education",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem188",
+  "description": "(Cross-listed with EDS 123.) In the lecture and observation format, students continue to explore the theories of learning in the science classroom. Conceptual development is fostered, as well as continued development of knowledge of science history. Students are exposed to the science of teaching in science in actual practice. Prerequisites: CHEM 6C or 6CH and CHEM 187 or EDS 122.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6C",
+          "CHEM 6CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 187",
+          "EDS 122"
+        ]
+      }
+    ]
+  }
+}

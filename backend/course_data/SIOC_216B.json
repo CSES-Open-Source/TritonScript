@@ -1,0 +1,16 @@
+{
+  "code": "SIOC 216B",
+  "title": "Applied Complexity",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc216b",
+  "description": "A project-based course focusing on applying methods from the study of complex systems to messy, real-world physical, biological, or social problems. Projects will encompass choosing a problem, writing a proposal, carrying out research, writing up and presenting results, and working collaboratively. Prerequisites: SIO 216 or SIOC 216 or SIOC 216A and graduate standing or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIO 216",
+      "SIOC 216",
+      "SIOC 216A"
+    ]
+  }
+}

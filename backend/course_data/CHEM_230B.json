@@ -1,0 +1,9 @@
+{
+  "code": "CHEM 230B",
+  "title": "Quantum Mechanics II",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem230b",
+  "description": "Continuation of theoretical quantum mechanics: evolution operators and time dependent representations, second quantization, Born-Oppenheimer approximation, electronic structure methods, selected topics from among density operators, quantized radiation fields, path integral methods, scattering theory. Prerequisites: CHEM 230A or consent of instructor.",
+  "prereqs": "CHEM 230A"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "BILD 70",
+  "title": "Genomics Research Initiative Lab I",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bild70",
+  "description": "Students will isolate bacterial viruses or other organisms from the environment and characterize them by methods including electron microscopy and nucleic acid analysis. The genomic DNA will be purified and sent for sequencing. Restricted to student participants in the Phage Genomics Research program. Renumbered from BIMM 171A. Students may not receive credit for BILD 70 and BIMM 171A. Material lab fees will apply. Prerequisites: department approval required.",
+  "successors": [
+    "BIMM 100",
+    "BIMM 170"
+  ]
+}

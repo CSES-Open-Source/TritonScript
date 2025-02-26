@@ -1,0 +1,15 @@
+{
+  "code": "CHEM 111",
+  "title": "Origins of Life and the Universe",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem111",
+  "description": "A chemical perspective of the origin and evolution of the biogeochemical systems of stars, elements, and planets through time. The chemical evolution of the earth, its atmosphere, and oceans, and their historical records leading to early life are discussed. The content includes search techniques for chemical traces of life on other planets. Prerequisites: CHEM 6C or 6CH.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 6C",
+      "CHEM 6CH"
+    ]
+  }
+}

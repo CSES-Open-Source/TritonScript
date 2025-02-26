@@ -1,0 +1,15 @@
+{
+  "code": "VIS 168",
+  "title": "Pictorialism and Constructed Reality",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis168",
+  "description": "This course will explore photography as art and its long and complicated relationship with painting. Students will learn and be encouraged to experiment with the medium formally and conceptually. From studio and lighting techniques to collage, montage, constructed realities, installations, and projections. Program or materials fees may apply. Two production-course limitation. Prerequisites: VIS 164 or VIS 165. Open to media, studio, and ICAM majors and photography minors.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 164",
+      "VIS 165"
+    ]
+  }
+}

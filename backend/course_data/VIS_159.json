@@ -1,0 +1,12 @@
+{
+  "code": "VIS 159",
+  "title": "History of Art and Technology",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis159",
+  "description": "Aims to provide historical context for computer arts by examining the interaction between the arts, media technologies, and sciences in different historical periods. Topics vary (e.g., Renaissance perspective, futurism and technology, and computer art of the 1950s and 1960s). Materials fees required. Prerequisites: upper-division standing.",
+  "successors": [
+    "VIS 151",
+    "VIS 151A"
+  ]
+}

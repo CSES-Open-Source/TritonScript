@@ -1,0 +1,22 @@
+{
+  "code": "COMM 164",
+  "title": "Behind the Internet: Invisible Geographies of Power and Inequality",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm164",
+  "description": "This course aims to unveil the vast and largely hidden infrastructures silently shaping how digital communication take place in contemporary societies as well as the visible and invisible geographic of power and inequality these infrastructures are helping to create. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "code": "PSYC 201B",
+  "title": "Quantitative Methods in Psychology II",
+  "units": "6",
+  "dept": "PSYC",
+  "anchor": "psyc201b",
+  "description": "The second part of a series of intensive courses in statistical methods and the mathematical treatment of data, with special reference to research in psychology. Prerequisites: PSYC 201A.",
+  "prereqs": "PSYC 201A",
+  "successors": [
+    "PSYC 201C"
+  ]
+}

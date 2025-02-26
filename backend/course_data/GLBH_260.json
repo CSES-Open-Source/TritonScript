@@ -1,0 +1,11 @@
+{
+  "code": "GLBH 260",
+  "title": "Global Health Policy",
+  "units": "4",
+  "dept": "GLBH",
+  "anchor": "glbh260",
+  "description": "Students will learn fundamental principles and concepts of global health policy, law, and governance. The course will focus on identifying critical global health policy challenges and solving them using a multidisciplinary approach that takes into account the perspectives of various stakeholders. May be coscheduled with GLBH 160. Prerequisites: graduate-level standing.",
+  "successors": [
+    "GLBH 261"
+  ]
+}

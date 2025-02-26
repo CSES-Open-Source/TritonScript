@@ -1,0 +1,11 @@
+{
+  "code": "PHIL 33",
+  "title": "Philosophy between Reason and Despair",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil33",
+  "description": "Introduction to nineteenth-century philosophy, focusing on skepticism about the authority of reason to answer questions about the ultimate meaning and value of human life. Figures discussed may include Kant, Schopenhauer, Kierkegaard, Nietzsche, Goldman, and de Beauvoir.",
+  "successors": [
+    "PHIL 106"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": "WES 237A",
+  "title": "Introduction to Embedded Systems Design",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "wes237a",
+  "description": "Embedded system technologies including processors, DSP, memory, and software. System interfacing basics, communication strategies, sensors, and actuators. Mobile and wireless technology in embedded systems. Design case studies in wireless, multimedia, and/or networking domains."
+}

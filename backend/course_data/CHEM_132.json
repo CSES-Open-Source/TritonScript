@@ -1,0 +1,24 @@
+{
+  "code": "CHEM 132",
+  "title": "Chemical Physics: Stat Thermo II",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem132",
+  "description": "With CHEM 130 and 131, CHEM 132 is part of the Physical Chemistry sequence taught over three quarters. Recommended as the third course of the sequence. Key topics covered in this course include chemical statistics, kinetic theory, and reaction kinetics. Students may not receive credit for CHEM 132 and either CHEM 126A or CHEM 127. Prerequisites: CHEM 130 or 133, and CHEM 131.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 130",
+          "CHEM 133"
+        ]
+      },
+      "CHEM 131"
+    ]
+  },
+  "successors": [
+    "PHYS 175"
+  ]
+}

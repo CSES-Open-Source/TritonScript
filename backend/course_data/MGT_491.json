@@ -1,0 +1,12 @@
+{
+  "code": "MGT 491",
+  "title": "Investments",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt491",
+  "description": "Examines financial theory and empirical evidence useful for making investment decisions. Topics include portfolio theory, equilibrium models of security prices, the empirical behavior of security prices, market efficiency, and fixed-income markets and behavioral finance.  Prerequisites: MGT 408 and MBA student or consent of instructor and department stamp.",
+  "prereqs": "MGT 408",
+  "successors": [
+    "MGTF 432"
+  ]
+}

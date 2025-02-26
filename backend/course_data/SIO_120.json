@@ -1,0 +1,13 @@
+{
+  "code": "SIO 120",
+  "title": "Mineralogy",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio120",
+  "description": "Application of mineralogical and X-ray crystallographic techniques in earth sciences. Topics include symmetry, crystal structure, chemical, and physical properties of minerals with special emphasis on the common rock-forming minerals. Laboratory component includes polarizing microscope and X-ray powder diffraction methods. Prerequisites: SIO 50, or consent of instructor.",
+  "prereqs": "SIO 50",
+  "successors": [
+    "SIO 144",
+    "SIO 152"
+  ]
+}

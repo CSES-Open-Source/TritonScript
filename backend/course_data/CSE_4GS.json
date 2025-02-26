@@ -1,0 +1,16 @@
+{
+  "code": "CSE 4GS",
+  "title": "Mathematical Beauty in Rome",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse4gs",
+  "description": "Exploration of topics in mathematics and engineering as they relate to classical architecture in Rome, Italy. In depth geometrical analysis and computer modeling of basic structures (arches, vaults, domes), and on-site studies of the Colosseum, Pantheon, Roman Forum, and St. Peter\u2019s Basilica. Prerequisites: MATH 10A or MATH 20A; department approval, and corequisite of CSE 6GS.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 10A",
+      "MATH 20A"
+    ]
+  },
+  "coreqs": "CSE 6GS"
+}

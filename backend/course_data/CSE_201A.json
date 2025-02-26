@@ -1,0 +1,8 @@
+{
+  "code": "CSE 201A",
+  "title": "Advanced Complexity",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse201a",
+  "description": "Polynomial-time hierarchy (PH), BPP in second level of PH, Savitch\u2019s theorem, NL=coNL, nonuniform and circuit complexity, some circuit lower bounds, IP=PSPACE, probabilistic proof checking (PCP), application of PCP to approximation hardness, complexity of proof systems, parallel complexity classes NC and AC, P-completeness. Recommended preparation: CSE 200. Prerequisites: graduate standing."
+}

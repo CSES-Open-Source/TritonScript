@@ -1,0 +1,9 @@
+{
+  "code": "ECE 171B",
+  "title": "Linear Control System Theory",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece171b",
+  "description": "Time-domain, state-variable formulation of the control problem for both discrete-time and continuous-time linear systems. State-space realizations from transfer function system description. Internal and input-output stability, controllability/observability, minimal realizations, and pole-placement by full-state feedback. Prerequisites: ECE 171A with a grade of C\u2013 or better.",
+  "prereqs": "ECE 171A"
+}

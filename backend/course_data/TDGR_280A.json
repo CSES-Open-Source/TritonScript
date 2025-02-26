@@ -1,0 +1,12 @@
+{
+  "code": "TDGR 280A",
+  "title": "Stage Management 1",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdgr280a",
+  "description": "Discussion and research into the duties, responsibilities, and roles of a stage manager. Work to include studies in script analysis, communication, conflict resolution, rehearsal procedures, performance skills, style, and conceptual approach to stage management. Prerequisites: admission to MFA theatre program or consent of instructor.",
+  "successors": [
+    "TDGR 280B",
+    "TDGR 280C"
+  ]
+}

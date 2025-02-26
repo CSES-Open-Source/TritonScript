@@ -1,0 +1,13 @@
+{
+  "code": "PHYS 212A",
+  "title": "Quantum Mechanics I",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys212a",
+  "description": "Quantum principles of state (pure, composite, entangled, mixed), observables, time evolution, and measurement postulate. Simple soluble systems: two-state, harmonic oscillator, and spherical potentials. Angular momentum and spin. Time-independent approximations.",
+  "successors": [
+    "PHYS 210A",
+    "PHYS 212B",
+    "PHYS 212C"
+  ]
+}

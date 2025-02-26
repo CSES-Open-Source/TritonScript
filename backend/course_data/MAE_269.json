@@ -1,0 +1,9 @@
+{
+  "code": "MAE 269",
+  "title": "Bioinspired Mobile Robotics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae269",
+  "description": "This course presents the field of bioinspired robotics and locomotion. Concepts include modes of bioinspired locomotion (walking, running, undulatory locomotion for example); limb kinematics; development of dynamic models from Euler-Lagrange, Newton\u2019s laws, manipulator equations; stability analysis of oscillatory gaits; force and compliance control of robot legs; generation of rhythmic movement and coupled oscillators. Prerequisites: MAE 204.",
+  "prereqs": "MAE 204"
+}

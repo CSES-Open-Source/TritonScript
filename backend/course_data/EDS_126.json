@@ -1,0 +1,11 @@
+{
+  "code": "EDS 126",
+  "title": "Social Organization of Education",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds126",
+  "description": "(Same as SOCI 126) The social organization of education in the United States and other societies; the functions of education for individuals and society; the structure of schools; educational decision making; educational testing; socialization and education; formal and informal education; cultural transmission. Prerequisites: upper-division standing.",
+  "successors": [
+    "EDS 120"
+  ]
+}

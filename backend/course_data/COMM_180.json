@@ -1,0 +1,22 @@
+{
+  "code": "COMM 180",
+  "title": "Advanced Studies in Communication Theory",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm180",
+  "description": "How are messages created, transmitted, and received? What is the relationship between thinking and communicating?\u00a0How are linguistic processes embedded in sociocultural practices?\u00a0Course discusses classic texts in the field of communication theory stemming from linguistics, semiotics, philosophy of language, literary theory.\u00a0Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

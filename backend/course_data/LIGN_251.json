@@ -1,0 +1,8 @@
+{
+  "code": "LIGN 251",
+  "title": "Probabilistic Methods in Linguistics",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign251",
+  "description": "Probabilistic approaches to language knowledge, acquisition, and use. Quantitative analysis of linguistic data. Quantitative models in linguistic theory. Covers basic probability theory and tools of statistical analysis for language, including linear regression, ANOVA, generalized linear models (e.g., logistic regression), data visualization. Familiarity with probability theory highly encouraged."
+}

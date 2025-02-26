@@ -1,0 +1,23 @@
+{
+  "code": "SIO 131",
+  "title": "Parasitology",
+  "units": "6",
+  "dept": "SIO",
+  "anchor": "sio131",
+  "description": "An ecological approach to parasitology. Students will gain the intellectual and practical foundation required to undertake parasitological research. Lectures will cover ecological/evolutionary concepts and the biology of various parasitic taxa. In labs, students will learn how to survey hosts for parasites, collect and identify parasites, perform infection experiments, and collect and analyze data. Students will also develop scholarship skills by delving into the scientific literature. Prerequisites: BILD 3 and BILD 2 or SIO 183 or SIO 184 or SIO 188, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 3",
+      {
+        "type": "one",
+        "courses": [
+          "BILD 2",
+          "SIO 183",
+          "SIO 184",
+          "SIO 188"
+        ]
+      }
+    ]
+  }
+}

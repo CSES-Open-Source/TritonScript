@@ -1,0 +1,16 @@
+{
+  "code": "EDS 268",
+  "title": "Introduction to Critical Race Theory and Education",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds268",
+  "description": "Introduction to critical race theory (CRT) and education provides a foundation for students who are interested in learning more about critical race theory in education. Students will read seminal and new scholarship in CRT. Students will gain a solid breadth of knowledge from the field of CRT and identify possible applications and opportunities for future research in education. Prerequisites: EDS 251 or EDS 252 or EDS 253. ED82 major or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "EDS 251",
+      "EDS 252",
+      "EDS 253"
+    ]
+  }
+}

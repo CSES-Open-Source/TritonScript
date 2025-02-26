@@ -1,0 +1,15 @@
+{
+  "code": "CSE 160",
+  "title": "Introduction to Parallel Computing",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse160",
+  "description": "Introduction to high performance parallel computing: parallel architecture, algorithms, software, and problem-solving techniques. Areas covered: Flynn\u2019s taxonomy, processor-memory organizations, shared and nonshared memory models: message passing and multithreading, data parallelism; speedup, efficiency and Amdahl\u2019s law, communication and synchronization, isoefficiency and scalability. Assignments given to provide practical experience. Prerequisites: CSE 100 or CSE 100R; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 100",
+      "CSE 100R"
+    ]
+  }
+}

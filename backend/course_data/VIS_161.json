@@ -1,0 +1,12 @@
+{
+  "code": "VIS 161",
+  "title": "Systems and Networks at Scale",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis161",
+  "description": "This course introduces students to the study and design of complex systems and networks at diverse scales, from the nanometric to the planetary (and perhaps beyond). Systems and networks are understood as both physical and conceptual organizations of tangible and intangible actors. These include architectural and urban systems, information and interactive systems, diagrammatic and performative systems, and political and geopolitical systems. Prerequisites: VIS 135.",
+  "prereqs": "VIS 135",
+  "successors": [
+    "VIS 190"
+  ]
+}

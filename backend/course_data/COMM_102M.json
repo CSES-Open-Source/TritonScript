@@ -1,0 +1,22 @@
+{
+  "code": "COMM 102M",
+  "title": "MMPP: Studio Television",
+  "units": "6",
+  "dept": "COMM",
+  "anchor": "comm102m",
+  "description": "This course offers students the opportunity to produce and engage in critical discussions around various television production formats. We will study and produce a variety of projects, including public service announcements, panel programs, scripted drama, and performance productions. May be taken for credit three times. Prerequisites: COMM 10 and COMM 101 or COGN 22 or VIS 70N.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 101",
+          "COGN 22",
+          "VIS 70N"
+        ]
+      }
+    ]
+  }
+}

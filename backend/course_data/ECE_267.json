@@ -1,0 +1,8 @@
+{
+  "code": "ECE 267",
+  "title": "Network/Graph Algorithms and Analysis",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece267",
+  "description": "Modern theory of networks from the algorithmic perspective with emphasis on the foundations in terms of performance analysis and design. Topics include algorithmic questions arising in the context of scheduling, routing, and congestion control in communication networks, including wired, wireless, sensor, and social networks. Prerequisites: graduate standing."
+}

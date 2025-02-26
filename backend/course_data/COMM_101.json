@@ -1,0 +1,21 @@
+{
+  "code": "COMM 101",
+  "title": "Introduction to Audiovisual Media Practices",
+  "units": "6",
+  "dept": "COMM",
+  "anchor": "comm101",
+  "description": "This upper-division course is required as the gateway to all future communication media production courses. Students will learn about contemporary media practices such as film, video, digital/online, and social media production, and how these practices are formed by technical and social constraints. In the studio portion of this course, students will work hands-on with video and new media equipment to apply what they have learned. Prerequisites: COMM 10.",
+  "prereqs": "COMM 10",
+  "successors": [
+    "COMM 101A",
+    "COMM 101D",
+    "COMM 101E",
+    "COMM 101K",
+    "COMM 101N",
+    "COMM 101T",
+    "COMM 102B",
+    "COMM 102M",
+    "COMM 102P",
+    "COMM 102T"
+  ]
+}

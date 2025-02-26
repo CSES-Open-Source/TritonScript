@@ -1,0 +1,20 @@
+{
+  "code": "TDPF 162",
+  "title": "Studies in Performance Spring Production",
+  "units": "2\u20136",
+  "dept": "THEA",
+  "anchor": "tdpf162",
+  "description": "A full spring production featuring the original choreographic work of undergraduate dance students, developed under the mentorship and direction of a faculty member. Admission by audition only. May be taken for credit up to six times for a maximum of twelve units. Prerequisites: audition, department approval, concurrent enrollment in TDMV 110 or TDMV 111 or TDMV 112 or TDMV 120 or TDMV 122 or TDMV 130 or TDMV 133.",
+  "coreqs": {
+    "type": "one",
+    "courses": [
+      "TDMV 110",
+      "TDMV 111",
+      "TDMV 112",
+      "TDMV 120",
+      "TDMV 122",
+      "TDMV 130",
+      "TDMV 133"
+    ]
+  }
+}

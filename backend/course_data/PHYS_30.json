@@ -1,0 +1,37 @@
+{
+  "code": "PHYS 30",
+  "title": "Poetry for Physicists",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys30",
+  "description": "Physicists have spoken of the beauty of equations. The poet John Keats wrote, \u201cBeauty is truth, truth beauty...\u201d What did they mean? Students will consider such questions while reading relevant essays and poems. Requirements include one creative exercise or presentation. Cross-listed with LTEN 30. Students cannot earn credit for both PHYS 30 and LTEN 30. Prerequisites: CAT 2 or DOC 2 or HUM 1 or MCWP 40 or MMW 12 or WARR 11A or WCWP 10A and CAT 3 or DOC 3 or HUM 2 or MCWP 50 or MMW 13 or WARR 11B or WCWP 10B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CAT 2",
+          "DOC 2",
+          "HUM 1",
+          "MCWP 40",
+          "MMW 12",
+          "WARR 11A",
+          "WCWP 10A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CAT 3",
+          "DOC 3",
+          "HUM 2",
+          "MCWP 50",
+          "MMW 13",
+          "WARR 11B",
+          "WCWP 10B"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "code": "SE 276A",
+  "title": "Finite Element Methods in Solid Mechanics I",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se276a",
+  "description": "Finite element methods for linear problems in solid mechanics. Emphasis on the principle of virtual work, finite element stiffness matrices, various finite element formulations and their accuracy and the numerical implementation required to solve problems in small strain, isotropic elasticity in solid mechanics.",
+  "successors": [
+    "MAE 232B",
+    "MAE 232C",
+    "SE 276B",
+    "SE 276C",
+    "SE 278A",
+    "SE 279",
+    "SE 280",
+    "SE 285"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "PHYS 200B",
+  "title": "Dynamics: Deterministic, Stochastic, Statistical",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys200b",
+  "description": "Deterministic dynamics: nonlinear oscillators, reductive perturbation theory, canonical perturbation theory, small denominator problem, secularity removal. Stochastic dynamics: island overlap, Chirikov criterion, KAM theorem, Hamiltonian chaos, K-S entropy, calculating in chaotic regime, Hamiltonian Fokker-Planck theory. Statistical dynamics: from Liouville to Boltzmann via BBGKY, H-theorem, chaos and entropy, fluid equations, Chapman-Enskog expansion and transport, selected topics in kinetics. Prerequisites: PHYS 200A.",
+  "prereqs": "PHYS 200A",
+  "successors": [
+    "PHYS 221A"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "code": "PHB 224",
+  "title": "Biostatistical Methods in Clinical Trials",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "phb224",
+  "description": "The graduate-level course will cover statistical aspects of clinical trial design, monitoring, analysis, and ethics of human subjects research. Design and computations will be emphasized. Renumbered from FMPH 224. Students may not receive credit for PHB 224 and FMPH 224. Must be taken for a letter grade if applied to biostatistics degree requirements. Prerequisites: successful completion of FMPH 221 or PHB 221 and FMPH 222 or PHB 222 and FMPH 223 or PHB 223 or program approval. Restricted to PB76, PB77, PB79, PB80, PB81, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 221",
+          "PHB 221"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 222",
+          "PHB 222"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 223",
+          "PHB 223"
+        ]
+      }
+    ]
+  }
+}

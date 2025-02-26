@@ -1,0 +1,21 @@
+{
+  "code": "SIO 115",
+  "title": "Ice and the Climate System",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio115",
+  "description": "This course examines the Earth\u2019s cryosphere, including glaciers, ice sheets, ice caps, sea ice, lake ice, river ice, snow, and permafrost. We cover the important role of the cryosphere in the climate systems and its response to climate change. Prerequisites: MATH 20C or MATH 31BH, and PHYS 2C, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      "PHYS 2C"
+    ]
+  }
+}

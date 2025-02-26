@@ -1,0 +1,16 @@
+{
+  "code": "COMM 114F",
+  "title": "CSI: Law, Communication, and Freedom of Expression",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm114f",
+  "description": "Examination of the legal framework of freedom of expression in the United States. Covers fundamentals of First Amendment law studying key cases in historical content. Prior restraint, incitement, obscenity, libel, fighting words, public forum, campaign finance, commercial speech, and hate speech are covered. Prerequisites: COMM 10 or DOC 2 or POLI 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "DOC 2",
+      "POLI 40"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "code": "CSE 276F",
+  "title": "Machine Learning for Robotics",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse276f",
+  "description": "The first half of this course covers basic concepts and algorithms of robotics, and the second half introduces the basic concepts, algorithms, and research trends of reinforcement learning. We assume that the course takers are interested in how to train a robot that can interact with the physical world by machine learning methods. We will instruct the students to build an armed robot in a simulated virtual environment through programming assignments. Prerequisites: instructor approval required."
+}

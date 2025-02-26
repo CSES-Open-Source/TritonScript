@@ -1,0 +1,23 @@
+{
+  "code": "CSE 110",
+  "title": "Software Engineering",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse110",
+  "description": "Introduction to software development and engineering methods, including specification, design, implementation, testing, and process. An emphasis on team development, agile methods, and use of tools such as IDE\u2019s, version control, and test harnesses. Prerequisites: CSE 100 or CSE 100R; restricted to students within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 100",
+      "CSE 100R"
+    ]
+  },
+  "successors": [
+    "CSE 112",
+    "CSE 120",
+    "CSE 122",
+    "CSE 123",
+    "CSE 124",
+    "CSE 176A"
+  ]
+}

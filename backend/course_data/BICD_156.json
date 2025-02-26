@@ -1,0 +1,27 @@
+{
+  "code": "BICD 156",
+  "title": "Population Genetics",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bicd156",
+  "description": "How do natural selection, mutation, and migration and genetic drift drive evolution? Students will learn how these forces operate and how to describe them quantitatively with simple mathematical models. We will discuss how to apply this knowledge to understand the spread of drug resistance in pathogens, the evolution of beneficial as well as disease traits in our own species, the evolution of engineered organisms, and more. Renumbered from BIEB 156. Students may not receive credit for BICD 156 and BIEB 156. Prerequisites: BICD 100 or BICD 100R and MATH 10A or MATH 20A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BICD 100",
+          "BICD 100R"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10A",
+          "MATH 20A"
+        ]
+      }
+    ]
+  }
+}

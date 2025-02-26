@@ -1,0 +1,21 @@
+{
+  "code": "CHIN 186A",
+  "title": "Readings in Chinese Economics, Politics, and Trade I",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "",
+  "description": "Advanced Mandarin Chinese language course designed for students interested in international trade or social science that engages students on topics related to Chinese economics, politics, and trade through study of original texts and other media that expand specialized vocabulary development, reading, and translating.\u00a0Prerequisites: any one of the following or department approval through placement interview: CHIN 100CM, CHIN 100CN, CHIN 186B-C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHIN 100CM",
+      "CHIN 100CN",
+      "CHIN 186B",
+      "CHIN 186C"
+    ]
+  },
+  "successors": [
+    "CHIN 186B",
+    "CHIN 186C"
+  ]
+}

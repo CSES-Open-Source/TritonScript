@@ -1,0 +1,11 @@
+{
+  "code": "CENG 212",
+  "title": "Intermolecular and Surface Forces",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng212",
+  "description": "Development of quantitative understanding of the different intermolecular forces between atoms and molecules and how these forces give rise to interesting phenomena at the nanoscale, such as flocculation, wetting, and self-assembly in biological (natural) and synthetic systems.\u00a0Cross-listed with NANO 202. Students may not receive credit for both CENG 212 and NANO 202.",
+  "successors": [
+    "CENG 214"
+  ]
+}

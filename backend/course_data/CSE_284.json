@@ -1,0 +1,8 @@
+{
+  "code": "CSE 284",
+  "title": "Personal Genomics for Bioinformaticians",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse284",
+  "description": "This course provides an introduction to bioinformatics techniques for analyzing and interpreting human genomes. Topics covered include an introduction to medical and population genetics, ancestry, finding and interpreting disease-causing variants, genome-wide association studies, genetic risk prediction, analyzing next-generation sequencing data, how to scale current genomics techniques to analyze hundreds of thousands of genomes, and the social impact of the personal genomics revolution. Programming experience, familiarity with the UNIX command line, and a basic course in probability and statistics are strongly recommended. Students may not receive credit for CSE 284 and CSE 291 (E00) taught winter 2017 with the same subtitle. Prerequisites: graduate standing."
+}

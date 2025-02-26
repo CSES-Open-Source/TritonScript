@@ -1,0 +1,13 @@
+{
+  "code": "EDS 355B",
+  "title": "Advanced Mathematics Teaching Practices for Grades K\u20136",
+  "units": "2",
+  "dept": "EDS",
+  "anchor": "eds355b",
+  "description": "Second course in the sequence. Provides a theoretical and practical grounding in pedagogy and professional factors influencing high-quality elementary mathematics education. Students will review research literature and various content standards, assessment materials, and curriculum materials in preparation for specialized mathematics instruction in elementary classrooms. Prerequisites: EDS 355A, admission into the ED85: Multiple Subject (MS-2 program), and concurrent enrollment in EDS 361B or consent of instructor.",
+  "prereqs": "EDS 355A",
+  "coreqs": "EDS 361B",
+  "successors": [
+    "EDS 355C"
+  ]
+}

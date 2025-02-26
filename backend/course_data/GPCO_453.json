@@ -1,0 +1,16 @@
+{
+  "code": "GPCO 453",
+  "title": "Quantitative Methods I",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpco453",
+  "description": "This course is designed to provide proficiency in quantitative methods that are used for optimization and decision making. The use of spreadsheets is applied to data analysis and problem solving. Statistical theory and regression analysis are introduced. Renumbered from IRCO 453. Students may not receive credit for GPCO 453 and IRCO 453. Prerequisites: GPS students only or consent of instructor.",
+  "successors": [
+    "GPEC 446",
+    "GPEC 452",
+    "GPEC 464",
+    "GPPA 430",
+    "GPPA 435",
+    "GPPS 435"
+  ]
+}

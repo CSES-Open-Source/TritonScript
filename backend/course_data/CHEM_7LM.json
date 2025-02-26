@@ -1,0 +1,21 @@
+{
+  "code": "CHEM 7LM",
+  "title": "General Chemistry Laboratory for Majors",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem7lm",
+  "description": "Condenses a year of introductory training in analytical, inorganic, physical, and synthetic techniques into one intensive quarter. Students may not receive credit for both CHEM 7L and CHEM 7LM. A materials fee is required. A safety exam must be passed. Enrollment preference given to chemistry and biochemistry majors, followed by other science/engineering majors. Prerequisites: CHEM 6B or 6BH. Restricted to the following major codes: CH25, CH31, CH34, CH35, CH36, CH37, CH38.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 6B",
+      "CHEM 6BH"
+    ]
+  },
+  "successors": [
+    "CHEM 100A",
+    "CHEM 43A",
+    "CHEM 43AM",
+    "NANO 159"
+  ]
+}

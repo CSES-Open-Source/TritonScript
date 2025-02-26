@@ -1,0 +1,8 @@
+{
+  "code": "MAE 240",
+  "title": "Space Flight Mechanics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae240",
+  "description": "Astrodynamics modeling within Newtonian, Lagrangian, and Hamiltonian frameworks with application to spacecraft motion in non-Keplerian and strongly perturbed environments. Topics include the gravitational n-body problem and reduced-order models, perturbation formulations and dynamical systems theory, and numerical methods."
+}

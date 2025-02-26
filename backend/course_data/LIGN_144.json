@@ -1,0 +1,15 @@
+{
+  "code": "LIGN 144",
+  "title": "Discourse Analysis: American Sign Language and Performing Arts",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign144",
+  "description": "This course provides a discourse-centered examination of ASL verbal arts: rhyme, meter, rhythm, handedness, non-manual signals, and spatial mapping; creation of scene and mood; properties of character, dialogue, narration, and voice; cultural tropes; poetic constructions in every genre; transcription, body memory, and performance. The course will be conducted entirely in ASL with no spoken English. Prerequisites: LISL 1C and LISL 1CX.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LISL 1C",
+      "LISL 1CX"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "code": "PHB 241",
+  "title": "Biostatistics Rotation",
+  "units": "3",
+  "dept": "FMPH",
+  "anchor": "phb241",
+  "description": "This practicum provides hand-on experience with biomedical research and data analysis. Working within a specific biomedical domain (e.g., cancer, genomics, or physical activity research), students will conduct original data analysis and prepare or substantially contribute to a final project report. Renumbered from FMPH 241. PHB 241 and/or FMPH 241 may be taken for credit for a combined total of five times. Prerequisites: successful completion of FMPH 221 or PHB 221 and FMPH 222 or PHB 222; biostatistics major only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 221",
+          "PHB 221"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 222",
+          "PHB 222"
+        ]
+      }
+    ]
+  }
+}

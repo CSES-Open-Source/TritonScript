@@ -1,0 +1,18 @@
+{
+  "code": "CGS 150",
+  "title": "Visuality, Sexuality, and Race",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs150",
+  "description": "(Cross-listed with ETHN 150.) Examines the role of the visual in power relations; the production of what we see regarding race and sexuality; the interconnected history of the caste system, plantation slavery, visuality and contemporary society; decolonial and queer counternarratives to visuality. Students may not receive credit for CGS 150 and ETHN 150. Prerequisites: CGS 2A-B, ETHN 1, 2, 3, at least one CGS or ETHN upper-division course, or permission of the instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B",
+      "ETHN 1",
+      "ETHN 2",
+      "ETHN 3"
+    ]
+  }
+}

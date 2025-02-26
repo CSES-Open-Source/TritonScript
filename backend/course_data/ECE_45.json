@@ -1,0 +1,19 @@
+{
+  "code": "ECE 45",
+  "title": "Circuits and Systems",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece45",
+  "description": "Steady-state circuit analysis, first and second order systems, Fourier Series and Transforms, time domain analysis, convolution, transient response, Laplace Transform, and filter design. Prerequisites: ECE 35.",
+  "prereqs": "ECE 35",
+  "successors": [
+    "BENG 135",
+    "BENG 186B",
+    "COGS 138",
+    "ECE 100",
+    "ECE 101",
+    "ECE 107",
+    "ECE 118",
+    "ECE 171A"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "VIS 158D",
+  "title": "Black Subjects and Black Material in Photography",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis158d",
+  "description": "Thematic course asks how modernity\u2019s concept of blackness might be bound to the emergence of photographic technologies and the trajectory and futures of Black peoples. Explores blackness as a fundamental element of photographic viewing\u2014Black subjects as constituted within systems of political power and Black and queer subjectivities as places to locate contemporary critique. Investigations of these ideas will cover historical and contemporary photo media including art documentary and vernacular imagery. Prerequisites: VIS 60 or VIS 83.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 60",
+      "VIS 83"
+    ]
+  }
+}

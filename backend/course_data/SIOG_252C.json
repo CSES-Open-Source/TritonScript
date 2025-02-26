@@ -1,0 +1,27 @@
+{
+  "code": "SIOG 252C",
+  "title": "Advanced Isotope Geochemistry II",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siog252c",
+  "description": "An advanced treatment of radiogenic and cosmogenic isotope geochemistry. Offered in alternate years with SIO 252B. Prerequisites: SIOG 252A or SIO 252A and SIOG 252B or SIO 252B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SIOG 252A",
+          "SIO 252A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SIOG 252B",
+          "SIO 252B"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "code": "BIEB 102",
+  "title": "Introductory Ecology\u2014Organisms and Habitat",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb102",
+  "description": "This course emphasizes principles shaping organisms, habitats, and ecosystems. Topics covered include population regulation, physiological ecology, competition, predation, and human exploitation. This will be an empirical look at general principles in ecology and conservation with emphasis on the unique organisms and habitats of California. Prerequisites: BILD 3 or equivalent.",
+  "prereqs": "BILD 3",
+  "successors": [
+    "BIEB 182",
+    "BIEB 194"
+  ]
+}

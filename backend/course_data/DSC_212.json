@@ -1,0 +1,19 @@
+{
+  "code": "DSC 212",
+  "title": "Probability and Statistics for Data Science",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc212",
+  "description": "Probability, random variables, distributions, central limit theorem, maximum likelihood estimation, method of moments, confidence intervals, hypothesis testing, Bayesian estimation, introduction to simulation and the bootstrap. Prerequisites: none. Restricted to students within the DS75 and DS76 major.",
+  "successors": [
+    "DSC 205",
+    "DSC 206",
+    "DSC 213",
+    "DSC 240",
+    "DSC 241",
+    "DSC 243",
+    "DSC 244",
+    "DSC 245",
+    "DSC 254"
+  ]
+}

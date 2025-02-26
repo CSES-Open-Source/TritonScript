@@ -1,0 +1,15 @@
+{
+  "code": "TDDE 142",
+  "title": "Advanced Sound Design",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdde142",
+  "description": "This course focuses on advancing students in their artistic and technical skills in sound design. A large-scale project will be identified with special attention given to text analysis and technical specification of the sound design. Prerequisites: TDDE 1 and TDDE 141 or equivalent, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "TDDE 1",
+      "TDDE 141"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "COMM 101E",
+  "title": "MPL: Ethnographic Methods for Media Production",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm101e",
+  "description": "This is a practical course on ethnographic fieldwork\u2014obtaining informed consent, interviewing, negotiating, formulating a research topic, finding relevant literature, writing a research paper, and assisting others with their research. May be taken for credit three times. Prerequisites: COMM 10 and COMM 101.\u00a0",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      "COMM 101"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "code": "EDS 251",
+  "title": "Transforming Learning Environments",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds251",
+  "description": "This course explores formal and informal learning environments with documented records of successful student engagement. Using an array of curriculum and learning theories, students investigate new and traditional pedagogical practices, curricula, and learning environments for elements of transformative practices. Students critique current literature on teaching for change as it applies to the contexts they chose to study and identify new possibilities for teaching and learning in diverse student contexts. Letter grades only.\u00a0Prerequisites: ED82 major or consent of instructor.",
+  "successors": [
+    "EDS 268"
+  ]
+}

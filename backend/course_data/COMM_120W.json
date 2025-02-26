@@ -1,0 +1,22 @@
+{
+  "code": "COMM 120W",
+  "title": "AMP: Writing for Digital Media",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm120w",
+  "description": "Practice, history, and theory of writing for digital media. Text combines with images, sounds, movement, and interaction. New network technologies (email, blogs, wikis, and virtual worlds) create new audience relationships. Computational processes enable texts that are dynamically configured and more. Prerequisites: COMM 10 and two from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "two",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "code": "PHIL 35",
+  "title": "Philosophy in the Americas",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil35",
+  "description": "An exploration of central philosophical issues as they have been taken up in the diverse philosophical traditions of the Americas, such as indigenous philosophy, Latin American philosophy, American Pragmatism, and the Civil Rights movement, among others. Topics may include ethics, social and political philosophy, colonialism, philosophy of race and gender, environmentalism, and issues in philosophy of language.",
+  "successors": [
+    "PHIL 157"
+  ]
+}

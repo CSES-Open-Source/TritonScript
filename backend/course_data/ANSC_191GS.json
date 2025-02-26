@@ -1,0 +1,21 @@
+{
+  "code": "ANSC 191GS",
+  "title": "Everyday Life in South Asia: Beyond the Clich\u00e9s",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "ansc191GS",
+  "description": "Popular representations of South Asia abound in clich\u00e9s: poverty and luxury, cities and hamlets, ascetics and call centers. What do these clich\u00e9s do to our understanding of South Asia? How do we get beneath or beyond these representations? We will respond to these questions by exploring how people in South Asia live on a day-to-day basis, while also attending to how major historical events, such as colonialism and the Partition of India and Pakistan, shape contemporary life and politics. Program or materials fees may apply. Prerequisites: ANSC 121, ANSC 148, ANSC 155, ANSC 164, ANTH 1, ANTH 21, ANTH 23, or ANTH 103, department approval required, and upper-division standing. Students must apply for and be accepted to the Global Seminar program.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ANSC 121",
+      "ANSC 148",
+      "ANSC 155",
+      "ANSC 164",
+      "ANTH 1",
+      "ANTH 21",
+      "ANTH 23",
+      "ANTH 103"
+    ]
+  }
+}

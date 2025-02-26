@@ -1,0 +1,18 @@
+{
+  "code": "DSC 241",
+  "title": "Statistical Models",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc241",
+  "description": "Linear/nonlinear models, generalized linear models, model fitting and model selection (cross-validation, knockoffs, etc.), regularization and penalization (ridge regression, lasso, etc.), robust methods, nonparametric regression, conformal prediction, causal inference. Prerequisites: DSC 210 and DSC 212. Restricted to students within the DS75 and DS76 major.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 210",
+      "DSC 212"
+    ]
+  },
+  "successors": [
+    "DSC 244"
+  ]
+}

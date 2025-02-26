@@ -1,0 +1,16 @@
+{
+  "code": "SE 151A",
+  "title": "Design of Reinforced Concrete",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se151a",
+  "description": "Concrete and reinforcement properties. Service and ultimate limit state analysis and design. Design and detailing of structural components. Corequisite: SE 103. Prerequisites: SE 130A.",
+  "prereqs": "SE 130A",
+  "coreqs": "SE 103",
+  "successors": [
+    "SE 140B",
+    "SE 151B",
+    "SE 152",
+    "SE 214"
+  ]
+}

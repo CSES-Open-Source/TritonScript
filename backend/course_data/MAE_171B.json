@@ -1,0 +1,9 @@
+{
+  "code": "MAE 171B",
+  "title": "Mechanical Engineering Laboratory II",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae171b",
+  "description": "Design and analysis of original experiments in mechanical engineering. Students research projects using experimental facilities in undergraduate laboratories: wind tunnel, water channel, vibration table, and testing machine and control systems. Students propose and design experiments, obtain data, complete engineering analysis and write a major report. Prerequisites: MAE 171A. (Not offered every year.)",
+  "prereqs": "MAE 171A"
+}

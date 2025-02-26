@@ -1,0 +1,19 @@
+{
+  "code": "MATH 160A",
+  "title": "Elementary Mathematical Logic I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math160a",
+  "description": "An introduction to recursion theory, set theory, proof theory, model theory. Turing machines. Undecidability of arithmetic and predicate logic. Proof by induction and definition by recursion. Cardinal and ordinal numbers. Completeness and compactness theorems for propositional and predicate calculi. Prerequisites: MATH 100A, or MATH 103A, or MATH 140A, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 100A",
+      "MATH 103A",
+      "MATH 140A"
+    ]
+  },
+  "successors": [
+    "MATH 160B"
+  ]
+}

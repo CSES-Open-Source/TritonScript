@@ -1,0 +1,13 @@
+{
+  "code": "PSYC 111B",
+  "title": "Research Methods II",
+  "units": "6",
+  "dept": "PSYC",
+  "anchor": "psyc111b",
+  "description": "This course builds upon the material of PSYC 111A. Students will participate in data collection, data organization, statistical analysis and graphical analysis, with emphasis placed on developing scientific report writing, presentations, and critical thinking about experimental methods. Must be taken for a letter grade for the Psychology Honors Program. Prerequisites: PSYC 111A; upper-division standing. Instructor and department approval.",
+  "prereqs": "PSYC 111A",
+  "successors": [
+    "PSYC 194A",
+    "PSYC 194B"
+  ]
+}

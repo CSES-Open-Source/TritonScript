@@ -1,0 +1,15 @@
+{
+  "code": "CSE 206A",
+  "title": "Lattice Algorithms and Applications",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse206a",
+  "description": "(Formerly CSE 207C) Introduction to the algorithmic theory of point lattices (aka algorithmic geometry of numbers), and some of its most important applications in cryptography and cryptanalysis. Topics usually include LLL basis reduction algorithm, cryptanalysis of broadcast RSA, hardness of approximating lattice problems. Prerequisites: CSE 202, CSE 200, or concurrent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CSE 202",
+      "CSE 200"
+    ]
+  }
+}

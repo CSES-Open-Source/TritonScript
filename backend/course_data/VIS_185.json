@@ -1,0 +1,30 @@
+{
+  "code": "VIS 185",
+  "title": "Senior Media Projects",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis185",
+  "description": "Through instruction and discussion, the class will focus on guiding students through advanced production on a senior project. Students will be expected to initiate and complete production on at least one portfolio-level project. May be taken for credit two times. Two production-course limitation. Prerequisites: VIS 174 and two from VIS 164, 165, 165A, 165B, 171, 172, 175, 176, 177, 178, 179. Open to media majors with senior standing only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "VIS 174",
+      {
+        "type": "two",
+        "courses": [
+          "VIS 164",
+          "VIS 165",
+          "VIS 165A",
+          "VIS 165B",
+          "VIS 171",
+          "VIS 172",
+          "VIS 175",
+          "VIS 176",
+          "VIS 177",
+          "VIS 178",
+          "VIS 179"
+        ]
+      }
+    ]
+  }
+}

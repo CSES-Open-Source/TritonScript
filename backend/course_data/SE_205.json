@@ -1,0 +1,15 @@
+{
+  "code": "SE 205",
+  "title": "Nonlinear Mechanical Vibrations",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se205",
+  "description": "Advanced analytical techniques to understand nonlinearity in mechanical vibration. Phase plane analysis instability, and bifurcations. Application in nonlinear structural resonance. Introduction to chaotic dynamics, advanced time series analysis, and using chaotic dynamics in applications such as structural damage assessment. Prerequisites: SE 203 or SE 203A or consent of instructor, graduate standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SE 203",
+      "SE 203A"
+    ]
+  }
+}

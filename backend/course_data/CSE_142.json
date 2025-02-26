@@ -1,0 +1,22 @@
+{
+  "code": "CSE 142",
+  "title": "Introduction to Computer Architecture: A Software Perspective",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse142",
+  "description": "This course covers the operation, structure, and programming interfaces of modern CPUs with an emphasis on exploiting processor features to improve software performance and efficiency. The topics covered in this course include performance, energy, x86 assembly, compiler optimizations, pipelining, instruction-level parallelism, caches, memory-level parallelism, multi-threading, multi-core processors, and SIMD. Two units of credit offered for CSE 142 if CSE 141 taken previously or concurrently. Prerequisites: CSE 30 and CSE 100 or CSE 100R; CSE 142L should be taken concurrently. Restricted to students within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CSE 30",
+      {
+        "type": "one",
+        "courses": [
+          "CSE 100",
+          "CSE 100R"
+        ]
+      }
+    ]
+  },
+  "coreqs": "CSE 142L"
+}

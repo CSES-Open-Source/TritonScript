@@ -1,0 +1,21 @@
+{
+  "code": "BIMM 172",
+  "title": "Genome Science",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm172",
+  "description": "Genomes are the immortal agents of evolution, passing from one individual to another in an unbroken line since the origin of life. This course explores the structure of genomes, the functions of its parts on a genome scale, the mechanisms of genome change, and the applications of genomic methods and knowledge. Prerequisites: BICD 100 or BICD 100R and BIMM 100.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BICD 100",
+          "BICD 100R"
+        ]
+      },
+      "BIMM 100"
+    ]
+  }
+}

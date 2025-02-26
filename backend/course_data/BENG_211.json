@@ -1,0 +1,15 @@
+{
+  "code": "BENG 211",
+  "title": "Systems Biology and Bioengineering I: Biological Components",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng211",
+  "description": "Components of biological systems, their biochemical properties and function. The technology used for obtaining component lists. Relationship within and integration of component lists. Structured vocabularies and component ontologies. Algorithms for comparative approaches in deciphering and mining component lists. Prerequisites: BENG 230A or BIMM 100, or consent of instructor. (F)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BENG 230A",
+      "BIMM 100"
+    ]
+  }
+}

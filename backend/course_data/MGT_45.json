@@ -1,0 +1,13 @@
+{
+  "code": "MGT 45",
+  "title": "Principles of Accounting",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt45",
+  "description": "Covers the principles, methods and applications of general accounting, cost accounting and investment ROI.\u00a0Development of the three key financial reports and their interrelations, cost identification, product costing, inventory control, operational performance, and investment return",
+  "successors": [
+    "MGT 137",
+    "MGT 148",
+    "MGT 181"
+  ]
+}

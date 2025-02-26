@@ -1,0 +1,23 @@
+{
+  "code": "PHYS 175",
+  "title": "Biological Physics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys175",
+  "description": "The course teaches how a few fundamental models from statistical physics provide quantitative explanatory frameworks for many seemingly unrelated problems in biology. Case studies rotate from year to year and may include ion channel gating, cooperative binding, protein-DNA interaction, gene regulation, molecular motor dynamics, cytoskeletal assembly, biological electricity, population and evolutionary dynamics. May be coscheduled with PHYS 275.  Prerequisites: CHEM 126 or 131 or 132 or the combination of PHYS 100A and 110A. Recommended preparation: prior or concurrent enrollment in PHYS 140A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 126",
+      "CHEM 131",
+      "CHEM 132",
+      {
+        "type": "all",
+        "courses": [
+          "PHYS 100A",
+          "PHYS 110A"
+        ]
+      }
+    ]
+  }
+}

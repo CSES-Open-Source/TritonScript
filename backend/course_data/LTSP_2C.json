@@ -1,0 +1,12 @@
+{
+  "code": "LTSP 2C",
+  "title": "Intermediate Spanish III: Cultural Topics and Composition",
+  "units": "5",
+  "dept": "LIT",
+  "anchor": "ltsp2c",
+  "description": "Continuation of LTSP 2B, with special emphasis in writing and translation. It includes discussion of cultural topics as well as grammar review and composition, further developing the ability to read articles, essays, and longer pieces of fiction/nonfictional texts.  Prerequisites:  LTSP 2B or score of 5 on AP Spanish language or 4 on AP Spanish literature exams or consent of instructor.",
+  "prereqs": "LTSP 2B",
+  "successors": [
+    "LTSP 100A"
+  ]
+}

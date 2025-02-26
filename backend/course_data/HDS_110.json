@@ -1,0 +1,16 @@
+{
+  "code": "HDS 110",
+  "title": "Brain and Behavioral Development",
+  "units": "4",
+  "dept": "HDS",
+  "anchor": "hds110",
+  "description": "The purpose of this course is to familiarize students with basic mechanisms of brain and behavioral development from embryology through aging. Multiple levels of analysis will be discussed, including the effects of hormones on behavior, developmental events at the level of cells, structures, and neural systems, and the neural basis of cognition, social, perceptual, and language development. Renumbered from HDP 110. Students may not receive credit for HDP 110 and HDS 110. Prerequisites: HDP 1 or HDS 1 or PSYC 101.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "HDP 1",
+      "HDS 1",
+      "PSYC 101"
+    ]
+  }
+}

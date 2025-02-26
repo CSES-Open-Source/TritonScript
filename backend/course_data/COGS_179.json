@@ -1,0 +1,15 @@
+{
+  "code": "COGS 179",
+  "title": "Electrophysiology of Cognition",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs179",
+  "description": "Survey the theory and practice of using electrical recordings (event-related brain potentials) to study cognition and behavior including attention, language, mental chronometry, memory, and plasticity. Prerequisites: COGS 107A or COGS 17.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 107A",
+      "COGS 17"
+    ]
+  }
+}

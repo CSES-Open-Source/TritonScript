@@ -1,0 +1,9 @@
+{
+  "code": "BIPN 148",
+  "title": "Cellular Basis of Learning and Memory",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn148",
+  "description": "Course will explore cellular and molecular mechanisms that underlie learning and memory. Topics will include synapse formation and synaptic plasticity, neurotransmitter systems and their receptors, mechanisms of synaptic modification, and effect of experience on neuronal connectivity, and gene expression. Prerequisites: BIPN 140.",
+  "prereqs": "BIPN 140"
+}

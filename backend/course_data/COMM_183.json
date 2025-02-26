@@ -1,0 +1,22 @@
+{
+  "code": "COMM 183",
+  "title": "Global Economy and Consumer Culture",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm183",
+  "description": "This course critically examines social and economic forces that shape the making of this new global consumer culture by following the flows of consumption and production between the developed and developing worlds in the 1990s. We will consider how consumers, workers, and citizens participate in a new globalized consumer culture that challenges older distinctions between the First and the Third World. In this course, we will focus on the flows between the United States, Asia, and Latin America. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

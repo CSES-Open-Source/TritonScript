@@ -1,0 +1,9 @@
+{
+  "code": "MUS 175",
+  "title": "Musical Psychoacoustics",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus175",
+  "description": "Survey of psychoacoustical phenomena, theories of hearing, and their relation to musical perception and cognition. Techniques of psychoacoustical experimentation. Prerequisites: MUS 170 recommended; restricted to music, ICAM-music, and ICAM-visual arts majors and minors, or consent of instructor. Depending on the instructor, this course may include the following tools: MATLAB.",
+  "prereqs": "MUS 170"
+}

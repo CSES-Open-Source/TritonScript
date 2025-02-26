@@ -1,0 +1,12 @@
+{
+  "code": "VIS 107B",
+  "title": "Sculpture: Practices and Genre",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis107b",
+  "description": "A studio course in which the student will investigate a wider variety of technical and conceptual issues as well as materials involved in contemporary art practice related to sculpture. Prerequisites: VIS 107A.",
+  "prereqs": "VIS 107A",
+  "successors": [
+    "VIS 107C"
+  ]
+}

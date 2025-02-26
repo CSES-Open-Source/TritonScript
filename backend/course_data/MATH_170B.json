@@ -1,0 +1,12 @@
+{
+  "code": "MATH 170B",
+  "title": "Introduction to Numerical Analysis: Approximation and Nonlinear Equations",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math170b",
+  "description": "Rounding and discretization errors. Calculation of roots of polynomials and nonlinear equations. Interpolation. Approximation of functions. Knowledge of programming recommended. Prerequisites: MATH 170A.",
+  "prereqs": "MATH 170A",
+  "successors": [
+    "MATH 170C"
+  ]
+}

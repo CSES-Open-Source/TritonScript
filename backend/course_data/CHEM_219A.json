@@ -1,0 +1,9 @@
+{
+  "code": "CHEM 219A",
+  "title": "Special Topics in Biochemistry",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem219a",
+  "description": "This special-topics course is designed for first-year graduate students in biochemistry. Topics presented in recent years have included protein processing, the chemical modification of proteins, the biosynthesis and function of glycoproteins, lipid biochemistry and membrane structure, and bioenergetics. Prerequisites: undergraduate courses in biochemistry, CHEM 114A or equivalent. (May not be offered every year.)",
+  "prereqs": "CHEM 114A"
+}

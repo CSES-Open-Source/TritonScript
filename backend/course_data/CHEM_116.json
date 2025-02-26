@@ -1,0 +1,24 @@
+{
+  "code": "CHEM 116",
+  "title": "Chemical Biology",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem116",
+  "description": "A discussion of current topics in chemical biology including mechanistic aspects of enzymes and cofactors, use of modified enzymes to alter biochemical pathways, chemical intervention in cellular processes, and natural product discovery. Prerequisites: CHEM 40C, 40CH, 41C, 140C, or 140CH, and CHEM 114A. (May not be offered every year.)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 40C",
+          "CHEM 40CH",
+          "CHEM 41C",
+          "CHEM 140C",
+          "CHEM 140CH"
+        ]
+      },
+      "CHEM 114A"
+    ]
+  }
+}

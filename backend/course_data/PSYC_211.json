@@ -1,0 +1,8 @@
+{
+  "code": "PSYC 211",
+  "title": "Proseminar in Computational Models of Mind",
+  "units": "5",
+  "dept": "PSYC",
+  "anchor": "psyc211",
+  "description": "Computational models of perception, cognition, behavior, and social interaction formalize psychological theories, and can offer insights into both how people solve challenging everyday problems and how to improve machine performance on these problems. We will consider formalisms for sensory processing, knowledge representation, learning, planning, and decisions, with an emphasis on modeling common problem structures such as statistical learning and probabilistic inference. Prerequisites: graduate standing."
+}

@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 145",
+  "title": "Memory, Human Rights, and Culture in Iberia and Latin America",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp145",
+  "description": "This course analyzes cultural representations (novels, films, poems, theatre plays, performances, etc.) that reconstruct the memory of human rights abuses in Iberia and/or Latin America. The course addresses the relationship between memory and justice in post-dictatorial societies.\u00a0Prerequisites: LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "CHEM 218",
+  "title": "Evolution of Non-Coding RNAs",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem218",
+  "description": "Fundamental concepts in directed evolution and natural (biological) evolution. In vitro selection and in vitro evolution of aptamers and catalytic RNAs. Application of directed evolution experiments to studies on the origin of life. Evolution of non-coding RNAs in biology, including the ribosome and self-splicing introns. Enrollment is limited to chemistry and biochemistry and molecular biophysics PhD students. Prerequisites: CHEM 217. (May not be offered every year.)",
+  "prereqs": "CHEM 217"
+}

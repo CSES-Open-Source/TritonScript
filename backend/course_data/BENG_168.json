@@ -1,0 +1,18 @@
+{
+  "code": "BENG 168",
+  "title": "Biomolecular Engineering",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng168",
+  "description": "Basic molecular biology and recombinant DNA technologies. Structure and function of biomolecules that decode genomes and perform energy conversion, enzymatic catalysis, and active transport. Metabolism of macromolecules. Molecular diagnostics. Design, engineering, and manufacture of proteins, genomes, cells, and biomolecular therapies. Prerequisites: BILD 1 and BENG 100, or consent of department. (W)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BENG 100"
+    ]
+  },
+  "successors": [
+    "BENG 187A"
+  ]
+}

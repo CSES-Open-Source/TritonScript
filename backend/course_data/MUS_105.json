@@ -1,0 +1,15 @@
+{
+  "code": "MUS 105",
+  "title": "Jazz Composition",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus105",
+  "description": "This course will explore a range of compositional possibilities from song forms to modal and more extended forms. May be taken for credit twice. Prerequisites: MUS 101A and 101B or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MUS 101A",
+      "MUS 101B"
+    ]
+  }
+}

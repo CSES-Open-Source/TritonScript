@@ -1,0 +1,31 @@
+{
+  "code": "NANO 114",
+  "title": "Probability and Statistical Methods for Engineers",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano114",
+  "description": "Probability theory, conditional probability, Bayes theorem, discrete random variables, continuous random variables, expectation and variance, central limit theorem, graphical and numerical presentation of data, least squares estimation and regression, confidence intervals, testing hypotheses. Cross-listed with CENG 114. Students may not receive credit for both NANO 114 and CENG 114. Prerequisites: MATH 20F or MATH 18 and NANO 15 or CENG 15 or MAE 8.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20F",
+          "MATH 18"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "NANO 15",
+          "CENG 15",
+          "MAE 8"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "NANO 181"
+  ]
+}

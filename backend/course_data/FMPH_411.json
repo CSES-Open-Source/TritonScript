@@ -1,0 +1,15 @@
+{
+  "code": "FMPH 411",
+  "title": "Program Optimization and Evaluation",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fmph411",
+  "description": "This course covers optimization and evaluation methods, including formative research, experimental and quasi-experimental study designs, and optimization trials as used in the multiphase optimization strategy (MOST). While this is not a statistics or measurement course, overviews of data analyses (e.g., statistical analyses, cost and cost-effectiveness analyses, dynamical modeling) and measurement (e.g., qualitative and quantitative) will be provided as appropriate for each of the above methods. Prerequisites: must be enrolled in MPH program (FM75) or program approval and successfully completed FMPH 402 and FMPH 403.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "FMPH 402",
+      "FMPH 403"
+    ]
+  }
+}

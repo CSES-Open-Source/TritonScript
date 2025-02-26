@@ -1,0 +1,11 @@
+{
+  "code": "AESE 279A",
+  "title": "Architecture-based Enterprise Systems Engineering Quarterly Team Project",
+  "units": "1",
+  "dept": "MAS",
+  "anchor": "aese279a",
+  "description": "Students will work collaboratively on a team project, mostly in a lab setting, to demonstrate their knowledge of leadership teams and enterprise architecting for complex systems. Students are required to take three instances of AESE 279A before they can take AESE 279B (the final for the team project). Prerequisites: enrollment in MAS-AESE.",
+  "successors": [
+    "AESE 279B"
+  ]
+}

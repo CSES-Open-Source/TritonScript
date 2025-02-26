@@ -1,0 +1,15 @@
+{
+  "code": "MGT 4",
+  "title": "Financial Accounting",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt4",
+  "description": "Cross-listed with ECON 4. Recording, organizing, and communicating financial information to business entities.",
+  "successors": [
+    "ECON 173B",
+    "MGT 131A",
+    "MGT 137",
+    "MGT 148",
+    "MGT 181"
+  ]
+}

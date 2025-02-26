@@ -1,0 +1,19 @@
+{
+  "code": "ECON 210C",
+  "title": "Macroeconomics C",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ210c",
+  "description": "Basic facts and time series for macroeconomics. Modern theories of short-run fluctuations: sources of business cycle and the evolution of income, employment, interest rate, and prices. Monetary and fiscal policy theories in the presence of real and nominal rigidities. Prerequisites: ECON 210B. Enrollment limited to Economics PhD students (EN75); or consent of instructor.",
+  "prereqs": "ECON 210B",
+  "successors": [
+    "ECON 210D",
+    "ECON 211",
+    "ECON 212A-B-C",
+    "ECON 213",
+    "ECON 214",
+    "ECON 215",
+    "ECON 216",
+    "ECON 217"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "SIOG 227A",
+  "title": "Introduction to Seismology",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siog227a",
+  "description": "Introduction to seismometers and seismograms; stress and strain; potentials and the wave equation; geometrical ray theory and travel times in layered media; representation of seismic sources; WKBJ and synthetic seismograms; seismic hazards and other applications of seismology. Prerequisites: graduate standing or consent of instructor. (S/U grades permitted.)",
+  "successors": [
+    "SIOG 227B",
+    "SIOG 227C"
+  ]
+}

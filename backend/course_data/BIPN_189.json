@@ -1,0 +1,16 @@
+{
+  "code": "BIPN 189",
+  "title": "Brain, Behavior, and Evolution",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn189",
+  "description": "This course provides a survey of natural behaviors, including birdsong, prey capture, localization, electroreception and echolocation, and the neural systems that control them, emphasizing broad fundamental relationships between brain and behavior across species. Note: Students may not receive credit for PSYC 189 and BIPN 189. Prerequisites: BILD 2 or PSYC 102 or PSYC 106.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BILD 2",
+      "PSYC 102",
+      "PSYC 106"
+    ]
+  }
+}

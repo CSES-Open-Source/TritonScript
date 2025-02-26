@@ -1,0 +1,16 @@
+{
+  "code": "BIOM 254",
+  "title": "Molecular and Cell Biology",
+  "units": "3",
+  "dept": "BIOM",
+  "anchor": "biom254",
+  "description": "This course will examine the basic principles of molecular and cellular biology and their impact on medicine focusing on classic discoveries and examples of approaches to current experimental problems. Emphasis areas will vary but will include genes and genomics, chromosome biology and nuclear structure, transcriptional regulation, RNA processing, cell cycle control, cell growth and death, cell differentiation and stem cell biology, molecular motors and motility, membrane trafficking and signaling. Prerequisites: BIOM 200A-B, 201. Limited to BMS graduate students except by consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BIOM 200A",
+      "BIOM 200B",
+      "BIOM 201"
+    ]
+  }
+}

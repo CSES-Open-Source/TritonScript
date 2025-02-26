@@ -1,0 +1,15 @@
+{
+  "code": "SE 164",
+  "title": "Sensors and Data Acquisition for Structural Engineering",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se164",
+  "description": "This course discusses theory, design, and applications of sensor technologies in the context of structural engineering and structural health monitoring. Topics include sensors and sensing mechanisms; measurement uncertainty; signal conditioning and interface circuits; data acquisition; analog/digital circuits; and emerging sensors. May be coscheduled with SE 264. Prerequisites: SE 101C and SE 110A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SE 101C",
+      "SE 110A"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "ECE 229",
+  "title": "Computational Data Analysis and Product Development",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece229",
+  "description": "Students learn to create statistical models and use computation and simulations to develop insight and deliver value to the end-user. Randomly assigned teams will learn to develop and deploy a data science product, write and document code in an ongoing process, produce corresponding user documentation and communicate product value verbally and in writing, and ultimately deploy and maintain products on a cloud platform. Recommended preparation: ECE 143. Prerequisites: ECE 225A or ECE 269, graduate standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECE 225A",
+      "ECE 269"
+    ]
+  }
+}

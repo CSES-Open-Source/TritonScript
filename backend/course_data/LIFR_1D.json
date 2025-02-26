@@ -1,0 +1,15 @@
+{
+  "code": "LIFR 1D",
+  "title": "French Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lifr1d",
+  "description": "Small conversation sections taught entirely in French. Emphasis on speaking, reading, writing, and culture. Practice of the language functions needed for successful communication. Must be taken in conjunction with LIFR 1DX. Successful completion of LIFR 1D and LIFR 1DX satisfies the requirement for language proficiency in Eleanor Roosevelt and Revelle Colleges. Prerequisites: LIFR 1C with a grade of C\u2013 or better, or equivalent and LIFR 1CX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIFR 1C",
+      "LIFR 1CX"
+    ]
+  }
+}

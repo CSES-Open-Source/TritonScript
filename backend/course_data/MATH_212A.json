@@ -1,0 +1,11 @@
+{
+  "code": "MATH 212A",
+  "title": "Introduction to Mathematical Biology I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math212a",
+  "description": "Part one of a two-course introduction to the use of mathematical theory and techniques in analyzing biological problems. Topics include differential equations, dynamical systems, and probability theory applied to a selection of biological problems from population dynamics, biochemical reactions, biological oscillators, gene regulation, molecular interactions, and cellular function. May be coscheduled with MATH 112A. Recommended preparation: Probability Theory and Differential Equations. Prerequisites: graduate standing.",
+  "successors": [
+    "MATH 212B"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "MAE 133",
+  "title": "Finite Element Methods in Mechanical and Aerospace Engineering",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae133",
+  "description": "Development of stiffness and mass matrices based upon variational principles and application to static, dynamic, and design problems in structural and solid mechanics. Architecture of computer codes for linear and nonlinear finite element analysis. The use of general-purpose finite element codes. Prerequisites: MAE 131A or SE 110A. (Not offered every year.)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 131A",
+      "SE 110A"
+    ]
+  }
+}

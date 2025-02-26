@@ -1,0 +1,15 @@
+{
+  "code": "ECON 139",
+  "title": "Labor Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ139",
+  "description": "Theoretical and empirical analysis of labor markets. Topics include labor supply, labor demand, human capital investment, wage inequality, labor mobility, immigration, labor market discrimination, labor unions and unemployment. Prerequisites: ECON 2 or 100B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 2",
+      "ECON 100B"
+    ]
+  }
+}

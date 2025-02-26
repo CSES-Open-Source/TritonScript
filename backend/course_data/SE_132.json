@@ -1,0 +1,34 @@
+{
+  "code": "SE 132",
+  "title": "Machine Learning for Structural Engineering",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se132",
+  "description": "This course aims at introducing concepts of machine learning and its applications to structural engineering. Theory behind popular machine learning algorithms will be discussed, including supervised learning, unsupervised learning, and deep learning. Topics include regression, classification, support vector machines, clustering, tree-based methods, model selections and regularizations, cross-validation and bootstrapping, neural networks, and Python programming. Prerequisites: SE 9 or MAE 8, SE 110A or MAE 131A, and SE 125 or MAE 108.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SE 9",
+          "MAE 8"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SE 110A",
+          "MAE 131A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SE 125",
+          "MAE 108"
+        ]
+      }
+    ]
+  }
+}

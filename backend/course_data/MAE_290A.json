@@ -1,0 +1,13 @@
+{
+  "code": "MAE 290A",
+  "title": "Numerical Linear Algebra",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae290a",
+  "description": "Fundamental concepts in numerical linear algebra. Fundamental matrix decompositions: LU, Cholesky, QR, Eigen, Schur, Jordan, SVD; how to compute them. Solution of large linear systems via iterative methods (Lanczos, Arnoldi, CG, GMRES). Stability of algorithms and conditioning of mathematical problems. Finite precision arithmetic and roundoff issues. Additional topics may include randomized methods for computing SVD/QR and solution of Lyapunov/Riccati equations for high-dimensional systems.\u00a0Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "MAE 261",
+    "MAE 290C",
+    "MAE 293"
+  ]
+}

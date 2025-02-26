@@ -1,0 +1,9 @@
+{
+  "code": "CENG 124B",
+  "title": "Chemical Plant and Process Design II",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng124b",
+  "description": "Engineering and economic analysis of integrated chemical processes, equipment, and systems. Cost estimation, heat and mass transfer equipment design and costs. Comprehensive integrated plant design. Optimal design. Profitability. Prerequisites: admission to chemical engineering major and grade of C\u2013 or better in CENG 124A.",
+  "prereqs": "CENG 124A"
+}

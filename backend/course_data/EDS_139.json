@@ -1,0 +1,36 @@
+{
+  "code": "EDS 139",
+  "title": "Practicum in Teaching and Learning",
+  "units": "2",
+  "dept": "EDS",
+  "anchor": "eds139",
+  "description": "Students are placed in local P\u201312 schools and community field sites to actively engage in face-to-face educational service work. Students spend a minimum of four hours per week consistently over the ten-week quarter for a minimum total of forty hours per quarter. P/NP grades only. May be taken for credit up to twelve times. Corequisites: One of the following courses must be taken concurrently: EDS 128A-B, or 129A-B-C, 130, 131, 133, 136, 137, 140, 141, 145, or 146. Prerequisites: department approval required.",
+  "coreqs": {
+    "type": "one",
+    "courses": [
+      "EDS 128A",
+      "EDS 128B",
+      "EDS 129A",
+      "EDS 129B",
+      "EDS 129C",
+      "EDS 130",
+      "EDS 131",
+      "EDS 133",
+      "EDS 136",
+      "EDS 137",
+      "EDS 140",
+      "EDS 141",
+      "EDS 145",
+      "EDS 146"
+    ]
+  },
+  "successors": [
+    "EDS 128",
+    "EDS 129",
+    "EDS 130",
+    "EDS 136",
+    "EDS 137",
+    "EDS 145",
+    "EDS 146"
+  ]
+}

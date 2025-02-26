@@ -1,0 +1,11 @@
+{
+  "code": "EDS 253",
+  "title": "Transforming Educational Systems and Policy",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds253",
+  "description": "This course exposes students to past and present systemic policies that influence the practices and efficiency of the P\u201320 system. Students will explore the barriers and facilitators of successful policy interventions at the local, state, and federal levels of education policy. Attention is given to each segment of the educational continuum, exposing students to strategies for transforming the educational system to ensure equitable opportunities to learn and achieve. Prerequisites: ED82 major or consent of instructor.",
+  "successors": [
+    "EDS 268"
+  ]
+}

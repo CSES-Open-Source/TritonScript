@@ -1,0 +1,15 @@
+{
+  "code": "NANO 168",
+  "title": "Electrical, Dielectric, and Magnetic Properties of Engineering Materials",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano168",
+  "description": "Introduction to physical principles of electrical, dielectric, and magnetic properties. Semiconductors, control of defects, thin film, and nanocrystal growth, electronic and optoelectronic devices. Processing-microstructure-property relations of dielectric materials, including piezoelectric, pyroelectric and ferroelectric, and magnetic materials. Prerequisites: NANO 102 and NANO 104.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "NANO 102",
+      "NANO 104"
+    ]
+  }
+}

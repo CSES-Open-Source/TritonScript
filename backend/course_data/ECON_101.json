@@ -1,0 +1,15 @@
+{
+  "code": "ECON 101",
+  "title": "International Trade",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ101",
+  "description": "Examines theories of international trade in goods and services and relates the insights to empirical evidence. Explains international trade at the level of industries and firms and analyzes the consequences of trade for resource allocation, welfare, and the income distribution. Discusses sources of comparative advantage, motives for trade policies, and the effects of trade barriers and trading blocs on welfare and incomes. Prerequisites: ECON 100B or 102.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 100B",
+      "ECON 102"
+    ]
+  }
+}

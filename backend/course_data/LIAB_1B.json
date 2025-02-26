@@ -1,0 +1,19 @@
+{
+  "code": "LIAB 1B",
+  "title": "Arabic Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "liab1b",
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIAB 1BX. Prerequisites: LIAB 1A with a grade of C\u2013 or better, or equivalent and LIAB 1AX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIAB 1A",
+      "LIAB 1AX"
+    ]
+  },
+  "successors": [
+    "LIAB 1C",
+    "LIAB 1CX"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "code": "COMM 176",
+  "title": "Communication and Religion",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm176",
+  "description": "The secularization thesis\u2014that as society becomes more modern and standards of living rise, the importance of religion will diminish and be confined to the private sphere\u2014may be wrong. We address religion, communication, culture, and politics in the United States. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "COMM 199H",
+  "title": "Honors Project Completion",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm199h",
+  "description": "Under the guidance of both Honors Seminar director and faculty mentor, students will complete their thesis or media production and prepare for a presentation of their finished product at a public event sponsored by the department. Prerequisites: COMM 196A-B and consent of instructor. (P/NP grades only.)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 196A",
+      "COMM 196B"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "code": "LTFR 2A",
+  "title": "Intermediate French I",
+  "units": "5",
+  "dept": "LIT",
+  "anchor": "ltfr2a",
+  "description": "First course in a three-quarter sequence designed to prepare students for upper-division French courses. The course is taught entirely in French and emphasizes the development of reading ability, listening comprehension, and conversational and writing skills. Basic techniques of literary analysis.  Prerequisites:  LIFR 1C/CX or its equivalent, score of 3 on French language AP exam or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LIFR 1C",
+      "LIFR 1CX"
+    ]
+  },
+  "successors": [
+    "LTFR 2B"
+  ]
+}

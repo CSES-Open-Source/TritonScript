@@ -1,0 +1,35 @@
+{
+  "code": "CHEM 43A",
+  "title": "Organic Chemistry Laboratory",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem43a",
+  "description": "Renumbered from CHEM 143A. Introduction to organic laboratory techniques. Separation, purification, spectroscopy, product analysis, and effects of reaction conditions. A materials fee is required. Students must pass a safety exam. Students may only receive credit for one of the following: CHEM 43A, 43AM, 143A, or 143AM. Prerequisites: CHEM 7L or 7LM and 40A, 40AH, or 41A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 7L",
+          "CHEM 7LM"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 40A",
+          "CHEM 40AH",
+          "CHEM 41A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CHEM 108",
+    "CHEM 109",
+    "CHEM 123",
+    "CHEM 143B",
+    "CHEM 143C"
+  ]
+}

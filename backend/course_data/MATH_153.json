@@ -1,0 +1,15 @@
+{
+  "code": "MATH 153",
+  "title": "Geometry for Secondary Teachers",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math153",
+  "description": "Two- and three-dimensional Euclidean geometry is developed from one set of axioms. Pedagogical issues will emerge from the mathematics and be addressed using current research in teaching and learning geometry. This course is designed for prospective secondary school mathematics teachers. Prerequisites: MATH 109 or MATH 31CH, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 109",
+      "MATH 31CH"
+    ]
+  }
+}

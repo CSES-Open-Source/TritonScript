@@ -1,0 +1,22 @@
+{
+  "code": "COMM 166",
+  "title": "Surveillance, Media, and the Risk Society",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm166",
+  "description": "Contributions of the field of communication to the study of surveillance and risk. Critical and legal perspectives on consumer research, copyright enforcement, the surveillance capacity of Information and Communication Technologies (ICTs), closed-circuit television, interactive media, and the \u201crhetorics of surveillance\u201d in television and film. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

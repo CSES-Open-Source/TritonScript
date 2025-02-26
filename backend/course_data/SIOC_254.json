@@ -1,0 +1,15 @@
+{
+  "code": "SIOC 254",
+  "title": "Science of Climate Change",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc254",
+  "description": "This course will provide the scientific basis for understanding climate change. The focus will be on the twentieth century and understanding the various natural and anthropogenic factors and feedback processes that are contributing to the observed climate changes, including extreme events. The students will develop a climate model and explore ways to slow down future changes. Prerequisites: SIOC 217A or SIO 217A or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIOC 217A",
+      "SIO 217A"
+    ]
+  }
+}

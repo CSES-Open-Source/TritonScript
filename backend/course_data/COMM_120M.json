@@ -1,0 +1,22 @@
+{
+  "code": "COMM 120M",
+  "title": "AMP: Media Stereotypes",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm120m",
+  "description": "An examination of how the media present society\u2019s members and activities in stereotypical formats. Reasons for and consequences of this presentation are examined. Student responsibilities will be (a) participation in measurement and analysis of stereotype presentations. (b) investigating techniques for assessing both cognitive and behavioral effects of such scripted presentations on the users of media. Students will not receive credit for COMT 105 and COMM 120M. Prerequisites: COMM 10 and two of COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "two",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

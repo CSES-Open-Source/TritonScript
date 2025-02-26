@@ -1,0 +1,19 @@
+{
+  "code": "LIGM 1B",
+  "title": "German Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "ligm1b",
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIGM 1BX. Prerequisites: LIGM 1A with a grade of C\u2013 or better, or equivalent and LIGM 1AX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIGM 1A",
+      "LIGM 1AX"
+    ]
+  },
+  "successors": [
+    "LIGM 1C",
+    "LIGM 1CX"
+  ]
+}

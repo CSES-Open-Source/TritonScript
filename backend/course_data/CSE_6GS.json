@@ -1,0 +1,16 @@
+{
+  "code": "CSE 6GS",
+  "title": "Mathematical Beauty in Rome Lab",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse6gs",
+  "description": "Companion course to CSE 4GS where theory is applied and lab experiments are carried out \u201cin the field\u201d in Rome, Italy. For final projects, students will select a complex structure (e.g., the Colosseum, the Pantheon, St. Peter\u2019s, etc.) to analyze and model, in detail, using computer-based tools. Prerequisites: MATH 10A or MATH 20A; department approval, and corequisite of CSE 4GS.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 10A",
+      "MATH 20A"
+    ]
+  },
+  "coreqs": "CSE 4GS"
+}

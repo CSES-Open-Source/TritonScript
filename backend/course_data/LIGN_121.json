@@ -1,0 +1,12 @@
+{
+  "code": "LIGN 121",
+  "title": "Syntax I",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign121",
+  "description": "What universal principles determine how words combine into phrases and sentences? Introduction to research methods and results. Emphasis on how argumentation in problem-solving can be used in the development of theories of language. Prerequisites: LIGN 101 or consent of instructor.",
+  "prereqs": "LIGN 101",
+  "successors": [
+    "LIGN 125"
+  ]
+}

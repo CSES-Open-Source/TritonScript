@@ -1,0 +1,27 @@
+{
+  "code": "MGT 121B",
+  "title": "Innovation to Market B",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt121b",
+  "description": "Build a business plan. Establish intellectual property rights. Provide financial projections and determine financing needs. Explore investment sourcing, business valuation, and harvesting opportunities. Determine operational plans and key employee requirements. Prerequisites: MGT 181 or MGT 187 and MGT 111 or MGT 121A, upper-division standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MGT 181",
+          "MGT 187"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MGT 111",
+          "MGT 121A"
+        ]
+      }
+    ]
+  }
+}

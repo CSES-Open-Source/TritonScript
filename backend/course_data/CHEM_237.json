@@ -1,0 +1,15 @@
+{
+  "code": "CHEM 237",
+  "title": "Advances in Glycobiology",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem237",
+  "description": "(Cross-listed with MED 225, CMM 225, and BIOM 222.) Advanced elective for medical and graduate students who have had courses in cell biology or biochemistry. This course consists of discussions of classic papers leading to modern concepts in glycobiology, with the objective of exploring the structure, metabolism, and function of glycans in biological systems. Prerequisites: CHEM 142, CHEM 242, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 142",
+      "CHEM 242"
+    ]
+  }
+}

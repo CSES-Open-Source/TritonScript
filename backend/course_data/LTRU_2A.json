@@ -1,0 +1,12 @@
+{
+  "code": "LTRU 2A",
+  "title": "Second-Year Russian",
+  "units": "5",
+  "dept": "LIT",
+  "anchor": "ltru2a",
+  "description": "Second-year Russian grammar, with attention to reading, writing, and speaking.   Prerequisites:   LTRU 1C or its equivalent or consent of instructor.",
+  "prereqs": "LTRU 1C",
+  "successors": [
+    "LTRU 2B"
+  ]
+}

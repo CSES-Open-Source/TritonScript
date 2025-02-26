@@ -1,0 +1,15 @@
+{
+  "code": "MAE 30B",
+  "title": "Dynamics and Vibrations",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae30b",
+  "description": "Dynamics: energy methods for motion of particles and rigid bodies, including virtual work, power, and Lagrange\u2019s equations. Impact and impulses. Systems of particles. Introduction to 3-D dynamics of rigid bodies. Introduction to vibrations: free and harmonically forced vibrations of undamped and damped single degree of freedom systems. Enrollment restricted to engineering majors only MC 25, MC 27, MC 29, MC 30\u201334, MC 35\u201337, and SE 27. Prerequisites: MAE 30A.",
+  "prereqs": "MAE 30A",
+  "successors": [
+    "MAE 130",
+    "MAE 155A",
+    "MAE 156A",
+    "SE 160A"
+  ]
+}

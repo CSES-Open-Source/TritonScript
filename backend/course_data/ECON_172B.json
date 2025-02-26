@@ -1,0 +1,15 @@
+{
+  "code": "ECON 172B",
+  "title": "Operations Research B",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ172b",
+  "description": "Nonlinear programming, deterministic and stochastic dynamic programming, queuing theory, search models, and inventory models. Credit not allowed for both ECON 172B and MATH 171B. Prerequisites: ECON 172A or MATH 171A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 172A",
+      "MATH 171A"
+    ]
+  }
+}

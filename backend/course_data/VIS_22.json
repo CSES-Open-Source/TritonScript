@@ -1,0 +1,15 @@
+{
+  "code": "VIS 22",
+  "title": "Formations of Modern Art",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis22",
+  "description": "A wide-ranging survey introducing the key aspects of global art and criticism in the nineteenth and twentieth centuries. The course will comparatively examine formations of modernism and modernity within and across a variety of aesthetic traditions in Africa, Asia, Europe, Latin America, North America, and Oceania. Prerequisites: none.",
+  "successors": [
+    "VIS 122D",
+    "VIS 151",
+    "VIS 151A",
+    "VIS 158B",
+    "VIS 158C"
+  ]
+}

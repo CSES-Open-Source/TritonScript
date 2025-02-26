@@ -1,0 +1,16 @@
+{
+  "code": "PHYS 215A",
+  "title": "Quantum Fields I",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys215a",
+  "description": "Introduction to field quantization for relativistic scalar, Fermion, and gauge fields. Symmetries and conservation laws. Calculation of cross sections and reaction rates via perturbation theory and Feynman diagram methods, including for tree-level processes in quantum electrodynamics.\u00a0Prerequisites: PHYS 212C.",
+  "prereqs": "PHYS 212C",
+  "successors": [
+    "PHYS 214",
+    "PHYS 215B",
+    "PHYS 215C",
+    "PHYS 222A",
+    "PHYS 233"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "MATH 280B",
+  "title": "Probability Theory II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math280b",
+  "description": "This is the second course in a three-course sequence in probability theory. Topics covered in the sequence include the measure-theoretic foundations of probability theory, independence, the Law of Large Numbers, convergence in distribution, the Central Limit Theorem, conditional expectation, martingales, Markov processes, and Brownian motion. Prerequisites: a grade of B or better required in MATH 280A. Students who have not completed MATH 280A may enroll with consent of instructor.",
+  "prereqs": "MATH 280A",
+  "successors": [
+    "MATH 280C",
+    "MATH 286"
+  ]
+}

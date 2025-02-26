@@ -1,0 +1,29 @@
+{
+  "code": "COGS 107A",
+  "title": "Neuroanatomy and Physiology",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs107a",
+  "description": "This first course in the sequence focuses on principles of brain organization, from neurons to circuits to functional networks. It explores developmental plasticity, neuronal connectivity, cellular communication, complex signaling, and how these various dimensions form functional brain systems. Prerequisites: BILD 12 or COGS 17.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BILD 12",
+      "COGS 17"
+    ]
+  },
+  "successors": [
+    "COGS 107B",
+    "COGS 115",
+    "COGS 116",
+    "COGS 169",
+    "COGS 172",
+    "COGS 175",
+    "COGS 176",
+    "COGS 178",
+    "COGS 179",
+    "COGS 184",
+    "COGS 279",
+    "PSYC 113"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "GPEC 452",
+  "title": "Migration and Development",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpec452",
+  "description": "This course explores the role of migration in the process of economic development. We look at internal migration in developing countries and international migration from the perspective of migrant-sending countries. Topics include barriers to migration, rural-urban mobility and structural change, remittances, emigration policy, smuggling and intermediaries, and the development consequences of international migration at both the micro and macro level. Prerequisites: GPCO 453 and GPCO 454.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "GPCO 453",
+      "GPCO 454"
+    ]
+  }
+}

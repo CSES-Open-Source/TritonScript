@@ -1,0 +1,8 @@
+{
+  "code": "POLI 272",
+  "title": "Bayesian Methods",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli272",
+  "description": "Provides students a solid understanding of Bayesian inference and Markov chain Monte Carlo methods. Topics covered include Bayesian treatment of the linear model, Markov chain Monte Carlo methods, assessing model adequacy, and hierarchical models. Prerequisites: graduate standing."
+}

@@ -1,0 +1,11 @@
+{
+  "code": "POLI 100H",
+  "title": "Race and Ethnicity in American Politics",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli100h",
+  "description": "This course examines the processes by which racial and ethnic groups have/have not been incorporated into the American political system. The course focuses on the political experiences of European immigrant groups, blacks, Latinos, and Asians.",
+  "successors": [
+    "EDS 120"
+  ]
+}

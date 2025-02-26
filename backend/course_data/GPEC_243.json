@@ -1,0 +1,8 @@
+{
+  "code": "GPEC 243",
+  "title": "GIS and Spatial Data Analysis",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpec243",
+  "description": "This course provides an introduction to GIS and spatial data analysis for applied social science research. Students will work in ArcGIS to manipulate different types of georeferenced data, visualize data, import/export data from Excel and STATA, and conduct spatial analysis. Course looks to motivate geography as an important lens through which to study society. Recommended preparation: Basic knowledge of statistics and regression (ordinary least squares) is assumed, as is familiarity with STATA. Students may not receive credit for GPEC 243 and IRGN 443. May be coscheduled with GPEC 443."
+}

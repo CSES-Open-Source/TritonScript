@@ -1,0 +1,8 @@
+{
+  "code": "GPEC 244",
+  "title": "Advanced GIS and Remote Sensing",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpec244",
+  "description": "Students will learn to design and maintain geospatial databases, validate the topology of a dataset, and produce clear and informative maps and reports. Part two will be dedicated to principles of remote sensing and to analysis of satellite imagery: geospatial database design and maintenance, topology validation and topological rules, the network analyst extension, the surface tool set, basic concepts of remote sensing, and introduction to Google Earth Engine UI and Google Earth Engine API. Previously taught as an IRGN 290, Special Topics course. Students may not receive credit for GPEC 244 and IRGN 290 or IRGN 490 with the same title. May be coscheduled with GPEC 444."
+}

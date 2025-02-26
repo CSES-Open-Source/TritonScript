@@ -1,0 +1,19 @@
+{
+  "code": "TDDE 101",
+  "title": "Theatre Process\u2014Scenery",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdde101",
+  "description": "A hands-on course develops craft skills and solution-finding process in design including script analysis, concept sketches, research, and scale model making. An exploration of fundamental ways of seeing and understanding visual design. Prerequisites: THDE or TDDE 1 or THPR or TDPR 1.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "TDDE 1",
+      "TDPR 1"
+    ]
+  },
+  "successors": [
+    "TDDE 102",
+    "TDDE 132"
+  ]
+}

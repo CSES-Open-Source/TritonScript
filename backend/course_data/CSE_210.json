@@ -1,0 +1,16 @@
+{
+  "code": "CSE 210",
+  "title": "Principles of Software Engineering",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse210",
+  "description": "(Formerly CSE 264A.) General principles in modern software engineering. Both theoretical and practical topics are covered. Theoretical topics include proofs of correctness, programming language semantics, and theory of testing. Practical topics include structured programming, modularization techniques, design of languages for reliable programming, and software tools. Prerequisites: CSE 100, 131A, 120, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CSE 100",
+      "CSE 131A",
+      "CSE 120"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "code": "BENG 230B",
+  "title": "Cell and Molecular Biology",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng230b",
+  "description": "A general survey of structure-function relationships at the molecular and cellular levels. Emphasis on basic genetic mechanisms; control of gene expression; membrane structure, transport and traffic; cell signaling; cell adhesion; mechanics of cell division; and cytoskeleton. Prerequisites: BENG 230A; restricted to bioengineering graduate students with major code BE75. (W)",
+  "prereqs": "BENG 230A",
+  "successors": [
+    "BENG 230C"
+  ]
+}

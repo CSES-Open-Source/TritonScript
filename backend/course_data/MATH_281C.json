@@ -1,0 +1,11 @@
+{
+  "code": "MATH 281C",
+  "title": "Mathematical Statistics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math281c",
+  "description": "Nonparametrics: tests, regression, density estimation, bootstrap and jackknife. Introduction to statistical computing using S plus. Prerequisites: advanced calculus and basic probability theory or consent of instructor.",
+  "successors": [
+    "BNFO 286"
+  ]
+}

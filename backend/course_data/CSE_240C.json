@@ -1,0 +1,8 @@
+{
+  "code": "CSE 240C",
+  "title": "Advanced Microarchitecture",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse240c",
+  "description": "This course covers advanced topics in computer architecture. It incorporates the latest research and development on topics such as branch prediction, instruction-level parallelism, cache hierarchy design, speculative multithreading, reliable architectures, and power-management techniques. CSE 240A recommended. Prerequisites: graduate standing."
+}

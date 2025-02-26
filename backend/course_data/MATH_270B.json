@@ -1,0 +1,12 @@
+{
+  "code": "MATH 270B",
+  "title": "Numerical Approximation and Nonlinear Equations",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math270b",
+  "description": "Iterative methods for nonlinear systems of equations, Newton\u2019s method. Unconstrained and constrained optimization. The Weierstrass theorem, best uniform approximation, least-squares approximation, orthogonal polynomials. Polynomial interpolation, piecewise polynomial interpolation, piecewise uniform approximation. Numerical differentiation: divided differences, degree of precision. Numerical quadrature: interpolature quadrature, Richardson extrapolation, Romberg Integration, Gaussian quadrature, singular integrals, adaptive quadrature. Prerequisites: MATH 270A or consent of instructor.",
+  "prereqs": "MATH 270A",
+  "successors": [
+    "MATH 270C"
+  ]
+}

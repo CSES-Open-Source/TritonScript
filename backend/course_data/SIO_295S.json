@@ -1,0 +1,12 @@
+{
+  "code": "SIO 295S",
+  "title": "Introduction to Marine Biodiversity and Conservation\u2014Seminar",
+  "units": "8",
+  "dept": "SIO",
+  "anchor": "sio295s",
+  "description": "Lectures on biology, ecology, economics, social issues, policies, and governance of marine biodiversity. Includes global case studies on ecology and socioeconomic and governance issues, with strong emphasis on practicing written, verbal, and visual communication skills and collaborative group work. Students are expected to attend field trips at sea and to various sites around San Diego County as part of the corequisite course. Students who have taken SIO 295 may not receive credit for SIO 295S. Corequisites: SIO 295LS. Prerequisites: MAS MBC students only; consent of instructor.",
+  "coreqs": "SIO 295LS",
+  "successors": [
+    "MBC 258"
+  ]
+}

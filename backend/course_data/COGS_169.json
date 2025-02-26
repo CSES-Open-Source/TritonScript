@@ -1,0 +1,15 @@
+{
+  "code": "COGS 169",
+  "title": "Genetic Information for Behavior: From Single Cells to Mammals",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs169",
+  "description": "Behavior draws on a wide range of genes acting as a complex source of information. Model organisms\u2014bacteria, Paramecium, C. elegans, Drosophila, and mice\u2014have provided insight into how genes influence both innate and learned behaviors. Prerequisites: COGS 1 and 107A or permission of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COGS 1",
+      "COGS 107A"
+    ]
+  }
+}

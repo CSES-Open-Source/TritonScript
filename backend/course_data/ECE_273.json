@@ -1,0 +1,9 @@
+{
+  "code": "ECE 273",
+  "title": "Convex Optimization and Applications",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece273",
+  "description": "This course covers some convex optimization theory and algorithms. It will mainly focus on recognizing and formulating convex problems, duality, and applications in a variety of fields (system design, pattern recognition, combinatorial optimization, financial engineering, etc.). Prerequisites: ECE 269; graduate standing.",
+  "prereqs": "ECE 269"
+}

@@ -1,0 +1,8 @@
+{
+  "code": "MGTF 423",
+  "title": "Data Science for Finance",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgtf423",
+  "description": "Introduction to a collection of powerful, open-source tools needed to manage and analyze data and to conduct data science in finance applications. Course will give an overview of the basic process of data science and dive into the data management and machine learning techniques useful for financial data analysis. Prerequisites: restricted to master of finance program or instructor approval, or by department approval."
+}

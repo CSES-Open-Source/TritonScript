@@ -1,0 +1,9 @@
+{
+  "code": "MAE 101D",
+  "title": "Intermediate Heat Transfer",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae101d",
+  "description": "Course builds on the MAE fluids sequence, offering more advanced concepts in conduction, convection, radiation, and heat exchanger design. This course covers numerical methods in conduction, boiling, condensation and evaporation analysis, natural and turbulent convection, spectral and directional radiative transfer, heatpipes, thermal design of spacecraft, heat exchanger analysis and design. Prerequisites: senior standing and MAE 101C, or consent of instructor.",
+  "prereqs": "MAE 101C"
+}

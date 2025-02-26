@@ -1,0 +1,17 @@
+{
+  "code": "TDPR 102",
+  "title": "Advanced Theatre Practicum",
+  "units": "4\u20136",
+  "dept": "THEA",
+  "anchor": "tdpr102",
+  "description": "A production performance-oriented course that continues the development of costume, lighting, scenery, or sound production and introduces greater responsibilities in the laboratory format. Students serve as crew heads on major departmental productions or creative projects. May be taken for credit two times. Prerequisites: THPR or TDPR 1, 2, 3, or 5; permission of instructor; department stamp required.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "TDPR 1",
+      "TDPR 2",
+      "TDPR 3",
+      "TDPR 5"
+    ]
+  }
+}

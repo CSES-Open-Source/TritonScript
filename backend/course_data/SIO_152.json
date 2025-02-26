@@ -1,0 +1,15 @@
+{
+  "code": "SIO 152",
+  "title": "Petrology and Petrography",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio152",
+  "description": "Mineralogic, chemical, textural and structural properties of igneous, metamorphic, and sedimentary rocks; their origin and relations to evolution of the Earth\u2019s crust and mantle. Laboratory emphasizes hand specimens and microscopic studies of rocks in thin sections. Prerequisites: SIO 50 and SIO 120 or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SIO 50",
+      "SIO 120"
+    ]
+  }
+}

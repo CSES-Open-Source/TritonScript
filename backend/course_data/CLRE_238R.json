@@ -1,0 +1,15 @@
+{
+  "code": "CLRE 238R",
+  "title": "Applied Translational Research",
+  "units": "2",
+  "dept": "CLRE",
+  "anchor": "clre238r",
+  "description": "Students will gain a real-world, comprehensive, and integrative understanding of an entire health innovation cycle, from ideation to commercialization of a biomedical product, through a case study. Prerequisites: CLRE 236 or CLRE 236R and admission to the MAS in Clinical Research Program or consent of department.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CLRE 236",
+      "CLRE 236R"
+    ]
+  }
+}

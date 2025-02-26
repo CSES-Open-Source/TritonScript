@@ -1,0 +1,12 @@
+{
+  "code": "VIS 136A",
+  "title": "Speculative Fiction Seminar",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis136a",
+  "description": "This course approaches writing as a research-based design of a text. We research, design, and write futuristic and historical texts that draw on fiction but also take other forms. To inform the writing, we read, view, and analyze works of speculative fiction and fantasy, graphic novels, supernatural fiction, alternative history, science fiction, counterfactual history, and systems novels, a form dedicated to interpreting a world increasingly structured through information systems and technology. Prerequisites: VIS 30. Open to media, studio, ICAM, and speculative design majors and speculative design minors.",
+  "prereqs": "VIS 30",
+  "successors": [
+    "VIS 190"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": "PSYC 232",
+  "title": "Probabilistic Models of Cognition",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc232",
+  "description": "Computational theories of human cognition, particularly Bayesian approaches. Techniques may include directed graphical models; hierarchical models; nonparametric models; probabilistic programming languages. Topics may include decision-making; perception; causal reasoning; categorization; language. Cross-listed with LIGN 228. Recommended preparation: Previous experience with statistics, machine learning, and/or functional programming helpful. Prerequisites: graduate standing."
+}

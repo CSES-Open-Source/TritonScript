@@ -1,0 +1,16 @@
+{
+  "code": "ENG 207",
+  "title": "Corporate Entrepreneurship for Global Competitiveness",
+  "units": "4",
+  "dept": "ENG",
+  "anchor": "soe207",
+  "description": "Explore corporate entrepreneurship and innovation process using the medical device industry as a case example. This highly dynamic industry segment provides an approachable model to analyze corporate strategies and behaviors that affect overall competitiveness. Prerequisites: ENG 201, ENG 202, ENG 203, or consent of the instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ENG 201",
+      "ENG 202",
+      "ENG 203"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 136",
+  "title": "Andean Literature",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp136",
+  "description": "Study of movements, traditions, key authors, or major trends in Peruvian, Ecuadorian, and Bolivian literatures, such as indigenismo, urban narrative, and the works of authors such as Vallejo, Icaza, Arguedas, Vargas Llosa. May be taken for credit up to two times as topics vary.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

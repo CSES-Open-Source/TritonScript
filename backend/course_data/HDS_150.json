@@ -1,0 +1,15 @@
+{
+  "code": "HDS 150",
+  "title": "Senior Seminar",
+  "units": "4",
+  "dept": "HDS",
+  "anchor": "hds150",
+  "description": "Seminar for graduating HDS seniors. Readings and discussion of special topics in human developmental sciences. Provides advanced-level study on subfields of human development. Topics vary quarterly. Renumbered from HDP 150. HDS 150 and/or HDP 150 may be repeated for a combined total of two times when topics vary. Prerequisites: senior standing, HDP 181 or HDS 181. Department approval required. (F,W,S)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "HDP 181",
+      "HDS 181"
+    ]
+  }
+}

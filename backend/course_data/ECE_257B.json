@@ -1,0 +1,11 @@
+{
+  "code": "ECE 257B",
+  "title": "Principles of Wireless Networks",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece257b",
+  "description": "This course will focus on the principles, architectures, and analytical methodologies for design of multiuser wireless networks. Topics to be covered include cellular approaches, call processing, digital modulation, MIMO technology, broadband networks, ad-hoc networks, and wireless packet access. Recommended preparation: ECE 159A and 154B, or equivalent. Prerequisites: graduate standing.",
+  "successors": [
+    "ECE 257C"
+  ]
+}

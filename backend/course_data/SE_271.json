@@ -1,0 +1,16 @@
+{
+  "code": "SE 271",
+  "title": "Solid Mechanics for Structural and Aerospace Engineering",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se271",
+  "description": "Application of principles of solid mechanics to structural components and systems, description of stresses, strains, and deformation. Use of conservation equations and principle of minimum potential energy. Development of constitutive equations for metallic cementitious and polymeric materials. Prerequisites: SE 110A or consent of instructor.",
+  "prereqs": "SE 110A",
+  "successors": [
+    "MAE 231C",
+    "MAE 232C",
+    "SE 272",
+    "SE 273",
+    "SE 276C"
+  ]
+}

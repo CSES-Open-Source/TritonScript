@@ -1,0 +1,11 @@
+{
+  "code": "HILD 10",
+  "title": "East Asia: The Great Tradition",
+  "units": "4",
+  "dept": "HIST",
+  "anchor": "hild10",
+  "description": "The East Asia survey compares and contrasts the development of China, Korea, and Japan from ancient times to the present. This course explores the evolution of civilization from the first writing through classical Hei\u2019an Japan, aristocratic Koryo, and late imperial Song China. Primary and secondary readings on basic ideas, institutions, and practices of the Confucian, Daoist, and Buddhist paths and of the state and family.",
+  "successors": [
+    "HITO 106"
+  ]
+}

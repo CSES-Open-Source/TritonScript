@@ -1,0 +1,15 @@
+{
+  "code": "DSC 243",
+  "title": "Advanced Optimization",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc243",
+  "description": "Linear/quadratic programming, optimization under constraints, gradient descent (deterministic and stochastic), convergence rate of gradient descent, acceleration phenomena in convex optimization, stochastic optimization with large data sets, complexity lower bounds for convex optimization. Prerequisites: DSC 211 and DSC 212. Restricted to DS75 and DS76 students.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 211",
+      "DSC 212"
+    ]
+  }
+}

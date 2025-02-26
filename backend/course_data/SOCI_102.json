@@ -1,0 +1,15 @@
+{
+  "code": "SOCI 102",
+  "title": "Network Data and Methods",
+  "units": "4",
+  "dept": "SOC",
+  "anchor": "soci102",
+  "description": "Social network analysts view society as a web of relationships rather than a mere aggregation of individuals. In this course, students will learn how to collect, analyze, and visualize social network data, as well as utilize these techniques to answer an original sociological research question. Prerequisites: SOCI 60 or CSS 2, and upper-division standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SOCI 60",
+      "CSS 2"
+    ]
+  }
+}

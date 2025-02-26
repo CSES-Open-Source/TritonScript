@@ -1,0 +1,8 @@
+{
+  "code": "COGS 283",
+  "title": "Big Visual Data Processing",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs283",
+  "description": "This course is designed for students interested in learning about basic tools and technologies for dealing with big image data in the sense of collecting, crawling, processing, and classifying images, focusing on matching, hashing, deep learning, and online learning."
+}

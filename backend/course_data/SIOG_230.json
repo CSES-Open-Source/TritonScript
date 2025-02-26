@@ -1,0 +1,11 @@
+{
+  "code": "SIOG 230",
+  "title": "Introduction to Inverse Theory",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siog230",
+  "description": "Solution of linear and nonlinear inverse problems in geophysics by optimization techniques such as norm minimization and linear programming. Construction of models by regularization; inference by bounding functionals. Illustrations from gravity, geomagnetism, and seismology. Prerequisites: graduate standing or consent of instructor. (S/U grades permitted.) C. Constable",
+  "successors": [
+    "SIOG 235"
+  ]
+}

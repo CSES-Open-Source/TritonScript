@@ -1,0 +1,8 @@
+{
+  "code": "SIOC 207A",
+  "title": "Fundamentals of Digital Signal Processing",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc207a",
+  "description": "Discussion of discrete-time signals and systems, Discrete-Time Fourier Transform (DFT) and window functions, Fast Fourier Transform (FFT), design of Finite Impulse Response (FIR) and Infinite Impulse Response (IIR) digital filters and their implementations, finite word length effects, applications to data acquisition and analysis. Prerequisites: graduate standing or consent of instructor."
+}

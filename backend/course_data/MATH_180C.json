@@ -1,0 +1,9 @@
+{
+  "code": "MATH 180C",
+  "title": "Introduction to Stochastic Processes II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math180c",
+  "description": "Markov chains in discrete and continuous time, random walk, recurrent events. If time permits, topics chosen from stationary normal processes, branching processes, queuing theory. Prerequisites: MATH 180B or consent of instructor.",
+  "prereqs": "MATH 180B"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ECON 216",
+  "title": "Computation for Macroeconomics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ216",
+  "description": "This course covers advanced computation techniques that are widely used in macroeconomics, finance, and other fields. Students will learn a range of numerical methods for handling systems of equations, integration, optimization, and other problems. Prerequisites: ECON 210A-B-C or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 210A",
+      "ECON 210B",
+      "ECON 210C"
+    ]
+  }
+}

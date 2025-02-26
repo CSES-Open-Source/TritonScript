@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 230",
+  "title": "Advanced Solid-State Physics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys230",
+  "description": "Selection of advanced topics in solid-state physics; material covered may vary from year to year. Examples of topics covered: disordered systems, surface physics, strong-coupling superconductivity, quantum Hall effect, low-dimensional solids, heavy fermion systems, high-temperature superconductivity, solid and liquid helium. Prerequisites: PHYS 211B.",
+  "prereqs": "PHYS 211B"
+}

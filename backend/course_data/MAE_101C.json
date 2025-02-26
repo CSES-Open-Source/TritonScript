@@ -1,0 +1,26 @@
+{
+  "code": "MAE 101C",
+  "title": "Heat Transfer",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae101c",
+  "description": "Extension of fluid mechanics in MAE 101A\u2013B to viscous, heat-conducting flows. Application of the energy conservation equation to heat transfer in ducts and external boundary layers. Heat conduction and radiation transfer. Heat transfer coefficients in forced and free convection. Design applications. Prerequisites: MAE 101A or CENG 101A, MAE 101B,\u00a0and MAE 105.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MAE 101A",
+          "CENG 101A"
+        ]
+      },
+      "MAE 101B",
+      "MAE 105"
+    ]
+  },
+  "successors": [
+    "MAE 101D",
+    "MAE 156B"
+  ]
+}

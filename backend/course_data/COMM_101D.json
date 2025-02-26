@@ -1,0 +1,15 @@
+{
+  "code": "COMM 101D",
+  "title": "MPL: Nonlinear/Digital Editing",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm101d",
+  "description": "This course will prepare students to edit on nonlinear editing facilities and introduce aesthetic theories of editing: time code editing, timeline editing on the Media 100, digital storage and digitization of audio and video, compression, resolution, and draft mode editing. By the end of the course students will be able to demonstrate mastery of the digital editing facilities. May be taken for credit three times. Prerequisites: COMM 10 and COMM 101.\u00a0",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      "COMM 101"
+    ]
+  }
+}

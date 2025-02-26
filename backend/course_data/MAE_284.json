@@ -1,0 +1,15 @@
+{
+  "code": "MAE 284",
+  "title": "Robust and Multivariable Control",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae284",
+  "description": "Multivariable feedback systems: transfer function matrices, Smith-McMillan form, poles, zeros, principal gains, operator norms, limits on performance. Model uncertainties, stability and performance robustness. Design of robust controllers, H_inf and mu synthesis. Controller reduction. Prerequisites: MAE 141B or MAE 280A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 141B",
+      "MAE 280A"
+    ]
+  }
+}

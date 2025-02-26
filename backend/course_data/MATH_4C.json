@@ -1,0 +1,14 @@
+{
+  "code": "MATH 4C",
+  "title": "Precalculus for Science and Engineering",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math4c",
+  "description": "Review of polynomials. Graphing functions and relations: graphing rational functions, effects of linear changes of coordinates. Circular functions and right triangle trigonometry. Reinforcement of function concept: exponential, logarithmic, and trigonometric functions. Vectors. Conic sections. Polar coordinates. (No credit given if taken after MATH 1A/10A or 2A/20A. Two units of credit given if taken after MATH 3C.) Three or more years of high school mathematics or equivalent recommended. Prerequisites: Math Placement Exam qualifying score, or MATH 3C, or ACT Math score of 25 or higher, or AP Calculus AB score (or subscore) of 2.",
+  "prereqs": "MATH 3C",
+  "successors": [
+    "MATH 10A",
+    "MATH 18",
+    "MATH 20A"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "MUS 103A",
+  "title": "Seminar in Composition I",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus103a",
+  "description": "First part in composition course sequence. Individual projects will be reviewed in seminar. Techniques of instrumentation will be developed through examination of scores and creative application. Assignments will include short exercises and analysis, and final project for standard ensemble. Prerequisites: MUS 33C.",
+  "prereqs": "MUS 33C",
+  "successors": [
+    "MUS 103B",
+    "MUS 103D-E-F"
+  ]
+}

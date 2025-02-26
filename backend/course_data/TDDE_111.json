@@ -1,0 +1,13 @@
+{
+  "code": "TDDE 111",
+  "title": "Theatre Process\u2014Costume Design",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdde111",
+  "description": "The process of the costume designer from script analysis and research visualization of ideas, through the process of costume design. Lecture and demonstration labs parallel lecture material. This course is intended for those interested in a basic understanding of the costumer\u2019s process. No previous drawing or painting skills required. Prerequisites: THDE or TDDE 1.",
+  "prereqs": "TDDE 1",
+  "successors": [
+    "TDDE 112",
+    "TDDE 132"
+  ]
+}

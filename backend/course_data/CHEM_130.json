@@ -1,0 +1,36 @@
+{
+  "code": "CHEM 130",
+  "title": "Chemical Physics: Quantum Mechanics",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem130",
+  "description": "Renumbered from CHEM 133. With CHEM 131 and 132, CHEM 130 is part of the Physical Chemistry sequence taught over three quarters. Recommended as the first course of the sequence. Key topics covered in this course include quantum mechanics, atomic and molecular spectroscopy, and molecular structure. Students may not receive credit for CHEM 130 and either 126B, 126, or 133. Prerequisites: CHEM 6C or 6CH, and PHYS 2C or 2D, and MATH 20D.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6C",
+          "CHEM 6CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2C",
+          "PHYS 2D"
+        ]
+      },
+      "MATH 20D"
+    ]
+  },
+  "successors": [
+    "CHEM 105A",
+    "CHEM 132",
+    "CHEM 135",
+    "CHEM 185",
+    "CHEM 186",
+    "PHYS 152A"
+  ]
+}

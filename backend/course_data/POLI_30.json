@@ -1,0 +1,16 @@
+{
+  "code": "POLI 30",
+  "title": "or 30D. Political Inquiry",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli30d",
+  "description": "Introduction to the logic of inference in social science and to quantitative analysis in political science and public policy including research design, data collection, data description and computer graphics, and the logic of statistical inference (including linear regression). POLI 30 is Lecture only, and POLI 30D is Lecture plus Discussion section. These courses are equivalents of each other in regard to major requirements, and students may not receive credit for both 30 and 30D.\u00a0",
+  "successors": [
+    "CSS 2",
+    "DSC 161",
+    "HDS 181",
+    "POLI 170A",
+    "POLI 171",
+    "POLI 172"
+  ]
+}

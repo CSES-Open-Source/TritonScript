@@ -1,0 +1,19 @@
+{
+  "code": "CHEM 41B",
+  "title": "Organic Chemistry II: Reactivity and Synthesis",
+  "units": "4",
+  "dept": "CHEM",
+  "description": "This is the second quarter of a three-quarter organic chemistry sequence for chemistry, biochemistry, and engineering majors and interested students. The course is a rigorous and in-depth study of the properties and reactions of the major classes of organic compounds; focusing on alcohols, ethers, sulfur compounds, aromatics, organometallics, and introduction to carbonyl reactivity. Emphasis on a mechanistic understanding of reactions, the effects of molecular structure, and multi-step syntheses. Prerequisites: CHEM 41A.",
+  "prereqs": "CHEM 41A",
+  "successors": [
+    "BIBC 100",
+    "BIBC 102",
+    "BIMM 100",
+    "CHEM 114B",
+    "CHEM 142",
+    "CHEM 143B",
+    "CHEM 143C",
+    "CHEM 145",
+    "CHEM 41C"
+  ]
+}

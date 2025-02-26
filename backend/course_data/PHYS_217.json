@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 217",
+  "title": "Field Theory and the Renormalization Group",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys217",
+  "description": "Application of field theoretic and renormalization group methods to problems in condensed matter, or particle physics. Topics will vary and may include phase transition and critical phenomena; many body quantum systems; quantum chromodynamics and the electroweak model. Prerequisites: PHYS 210A.",
+  "prereqs": "PHYS 210A"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "PHYS 137",
+  "title": "String Theory",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys137",
+  "description": "Quantum mechanics and gravity. Electromagnetism from gravity and extra dimensions. Unification of forces. Quantum black holes. Properties of strings and branes. Prerequisites: PHYS 100A, 110A, and 130A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 100A",
+      "PHYS 110A",
+      "PHYS 130A"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "MUS 173B",
+  "title": "Advanced Electronic Music Production",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus173b",
+  "description": "Advanced creative music production using digital audio workstations (DAWs), emphasizing creative mixing, sound processing, and experimental techniques in sound design and sampling. Existing works are analyzed and dissected for aesthetic value and production technique. Prerequisites: MUS 173A; restricted to music and ICAM-music majors. Consent of instructor if students do not meet prerequisites.",
+  "prereqs": "MUS 173A"
+}

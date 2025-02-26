@@ -1,0 +1,9 @@
+{
+  "code": "CSE 233",
+  "title": "Database Theory",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse233",
+  "description": "Theory of databases. Theory of query languages, dependency theory, deductive databases, incomplete information, complex objects, object-oriented databases, and more. Connections to logic and complexity theory including finite model theory and descriptive complexity. Prerequisites: CSE 200.",
+  "prereqs": "CSE 200"
+}

@@ -1,0 +1,11 @@
+{
+  "code": "SOCI 196A",
+  "title": "Honors Seminar: Advanced Studies in Sociology",
+  "units": "4",
+  "dept": "SOC",
+  "anchor": "soci196a",
+  "description": "This seminar will permit honors students to explore advanced issues in the field of sociology. It will also provide honors students the opportunity to develop a senior thesis proposal on a topic of their choice and begin preliminary work on the honors thesis under faculty supervision. Prerequisites: acceptance into Department of Sociology Honors Program.",
+  "successors": [
+    "SOCI 196B"
+  ]
+}

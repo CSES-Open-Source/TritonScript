@@ -1,0 +1,8 @@
+{
+  "code": "SE 222",
+  "title": "Geotechnical Earthquake Engineering",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se222",
+  "description": "Influence of soil conditions on ground motion characteristics; dynamic behavior of soils, computation of ground response using wave propagation analysis and finite element analysis; evaluation and mitigation of soil liquefaction; soil-structure interaction; lateral pressures on earth retaining structures; analysis of slope stability. Recommended preparation: SE 181 or equivalent. Prerequisites: department approval and graduate standing."
+}

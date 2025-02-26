@@ -1,0 +1,12 @@
+{
+  "code": "EDS 355A",
+  "title": "Advanced Mathematics Teaching Practices for Grades K\u20136",
+  "units": "2",
+  "dept": "EDS",
+  "anchor": "eds355a",
+  "description": "First course in a three-course sequence. Provides a theoretical and practical grounding in pedagogy and professional factors influencing high-quality elementary mathematics education. Students will review research literature and various content standards, assessment materials, and curriculum materials in preparation for specialized mathematics instruction in elementary classrooms. Prerequisites: admission into the ED78: Multiple Subject (MS-2 program), and concurrent enrollment in EDS 361A or consent of instructor.",
+  "coreqs": "EDS 361A",
+  "successors": [
+    "EDS 355B"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "COGS 101B",
+  "title": "Learning, Memory, and Attention",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs101b",
+  "description": "A survey of the experimental study of learning, memory, and attention. Topics include conditioning, automaticity, divided attention, memory systems, and the nature of mental representation. Prerequisites: COGS 1. Recommended: COGS 101A.",
+  "prereqs": "COGS 1",
+  "successors": [
+    "COGS 157"
+  ]
+}

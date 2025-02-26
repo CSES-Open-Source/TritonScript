@@ -1,0 +1,8 @@
+{
+  "code": "CSE 252A",
+  "title": "Computer Vision I",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse252a",
+  "description": "Comprehensive introduction to computer vision providing broad coverage including low-level vision (image formation, photometry, color, image feature detection), inferring 3-D properties from images (shape-from shading, stereo vision, motion interpretation) and object recognition. Companion to CSE 252B covering complementary topics. Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits."
+}

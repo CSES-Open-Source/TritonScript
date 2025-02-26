@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 166",
+  "title": "Creative Writing",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp166",
+  "description": "A workshop designed to foster and encourage writing in Spanish of students working on short forms of fiction. The workshop will include discussions of techniques and intensive writing.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

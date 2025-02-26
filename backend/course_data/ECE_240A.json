@@ -1,0 +1,11 @@
+{
+  "code": "ECE 240A",
+  "title": "Lasers and Optics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece240a",
+  "description": "Fresnel and Fraunhofer diffraction theory. Optical resonators, interferometry. Gaussian beam propagation and transformation. Laser oscillation and amplification, Q-switching and mode locking of lasers, some specific laser systems. Recommended preparation: ECE 107 and ECE 182 or equivalent, introductory quantum mechanics or ECE 183. Prerequisites: graduate standing.",
+  "successors": [
+    "ECE 240B"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "GPEC 489",
+  "title": "The Economics of Nonmarket Valuation",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpec489",
+  "description": "Government policies with respect to cultural amenities, the environment, health, and transportation generate benefits and costs not directly priced by the market. This course covers the range of techniques economists utilize to place a monetary value on nonmarket outputs. Course renumbered from IRGN 489. Student may not receive credit for GPEC 489 and IRGN 489. Prerequisites: GPCO 401 and GPCO 454.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "GPCO 401",
+      "GPCO 454"
+    ]
+  }
+}

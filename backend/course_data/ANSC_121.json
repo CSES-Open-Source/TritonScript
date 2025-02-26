@@ -1,0 +1,12 @@
+{
+  "code": "ANSC 121",
+  "title": "Psychological Anthropology",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "ansc121",
+  "description": "Interrelationships of aspects of individual personality and various aspects of sociocultural systems are considered. Relations of sociocultural contexts to motives, values, cognition, personal adjustment, stress and pathology, and qualities of personal experience are emphasized. Prerequisites: upper-division standing.",
+  "successors": [
+    "ANSC 190GS",
+    "ANSC 191GS"
+  ]
+}

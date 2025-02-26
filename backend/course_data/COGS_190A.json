@@ -1,0 +1,11 @@
+{
+  "code": "COGS 190A",
+  "title": "Pre-Honors Project in Cognitive Science",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs190a",
+  "description": "This course prepares students for the Cognitive Science Honors Program. The aim is to refine the research project and to teach students what a successfully written proposal entails. Students may be admitted to the Honors Program contingent upon completion and progress in the course. See \u201cCognitive Science Honors Program\u201d section for more information. Course should be taken for a letter grade. Prerequisites: upper-division standing; instructor and department approval.",
+  "successors": [
+    "COGS 190B"
+  ]
+}

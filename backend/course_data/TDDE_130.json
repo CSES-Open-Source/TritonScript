@@ -1,0 +1,23 @@
+{
+  "code": "TDDE 130",
+  "title": "Assistant Designer",
+  "units": "2\u20136",
+  "dept": "THEA",
+  "anchor": "tdde130",
+  "description": "A production-oriented course that continues to introduce students to the fundamentals of design assisting. Laboratory format allows the student to work with faculty, graduate, or advanced undergraduate theatre designers, doing research, developing design concepts, and supporting the designer in a number of professional ways. May be taken for credit up to six times for a maximum of twelve units. A maximum of eight total units may be used towards major requirements. Prerequisites: TDDE 1 and TDPR 1, 2, 3, or 5; consent of instructor and department approval required.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "TDDE 1",
+      {
+        "type": "one",
+        "courses": [
+          "TDPR 1",
+          "TDPR 2",
+          "TDPR 3",
+          "TDPR 5"
+        ]
+      }
+    ]
+  }
+}

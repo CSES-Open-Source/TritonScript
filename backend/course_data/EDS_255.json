@@ -1,0 +1,9 @@
+{
+  "code": "EDS 255",
+  "title": "Advanced Quantitative Data Analysis",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds255",
+  "description": "In this course, students will extend their knowledge of statistical methods based on the general linear model, including correlation, regression, analysis of variance, and analysis of covariance to address questions that emerge in educational and social science research. Students will address a variety of substantive research questions by analyzing data and fitting increasingly sophisticated analytic models. Letter grades only. Prerequisites: EDS 254. Restricted to doctoral students (ED82), MSED major ME75, or consent of instructor.",
+  "prereqs": "EDS 254"
+}

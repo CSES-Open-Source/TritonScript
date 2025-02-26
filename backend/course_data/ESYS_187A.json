@@ -1,0 +1,12 @@
+{
+  "code": "ESYS 187A",
+  "title": "Senior Internship Project I",
+  "units": "4",
+  "dept": "ESYS",
+  "anchor": "esys187a",
+  "description": "The first quarter of the three-quarter senior project sequence. In this course, the student works in a self-selected internship (off-campus, research project or on-campus project), focused on an interdisciplinary environmental problem or research topic. Prerequisites: ESYS 103.",
+  "prereqs": "ESYS 103",
+  "successors": [
+    "ESYS 187B"
+  ]
+}

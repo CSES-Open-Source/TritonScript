@@ -1,0 +1,15 @@
+{
+  "code": "NANO 112",
+  "title": "Synthesis and Fabrication of NanoEngineering Systems",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano112",
+  "description": "Introduction to methods for fabricating materials and devices in NanoEngineering. Nano-particle, -vesicle, -tube, and -wire synthesis. Top-down methods including chemical vapor deposition, conventional and advanced lithography, doping, and etching. Bottom-up methods including self-assembly. Integration of heterogeneous structures into functioning devices. Prerequisites: NANO 102 and NANO 104.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "NANO 102",
+      "NANO 104"
+    ]
+  }
+}

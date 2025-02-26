@@ -1,0 +1,8 @@
+{
+  "code": "DSC 252",
+  "title": "Statistical Natural Language Processing",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc252",
+  "description": "Diving deep to the classical NLP pipeline: tokenization, stemming, lemmatization, part-of-speech tagging, named entity recognition, parsing, and machine translation. Finite-state transducer, context-free grammar, hidden Markov models (HMM), and conditional random fields (CRF) will be covered in detail. Prerequisites: none. Restricted to DS75 and DS76 students."
+}

@@ -1,0 +1,32 @@
+{
+  "code": "SYN 100",
+  "title": "Engaging with a Changing Planet",
+  "units": "4",
+  "dept": "SYN",
+  "anchor": "syn100",
+  "description": "SYN 100 is a project-based course that builds upon foundational skills by taking a collaborative, interdisciplinary approach to complex global problems. Each section focuses on a different theme, challenge, or question related to the climate crisis. Despite the different class topics, all students will learn by designing and executing a team project that addresses their section\u2019s theme. Prerequisites: restricted to Seventh College students only, upper-division standing, completion of SYN 1/1R and SYN 2/2R, must be taken for a letter grade to count toward Seventh College general-education requirements.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SYN 1",
+          "SYN 1R"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SYN 2",
+          "SYN 2R"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "SYN 195",
+    "SYN 198",
+    "SYN 199"
+  ]
+}

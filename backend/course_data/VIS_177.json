@@ -1,0 +1,20 @@
+{
+  "code": "VIS 177",
+  "title": "Scripting Strategies",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis177",
+  "description": "Script writing, reading, and analysis of traditional and experimental media productions. The emphasis will be on the structural character of the scripting process and its language. Students will write several short scripts along with analytical papers. Two production-course limitation. Prerequisites: VIS 174. Open to media majors and film production minors.",
+  "prereqs": "VIS 174",
+  "successors": [
+    "VIS 180A",
+    "VIS 180B",
+    "VIS 181",
+    "VIS 182",
+    "VIS 182A",
+    "VIS 183A",
+    "VIS 183B",
+    "VIS 184",
+    "VIS 185"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "USP 152B",
+  "title": "Advanced Real Estate Development Finance and Investment",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp152b",
+  "description": "The course will examine various case studies of real-life development and investment projects, including apartments, acquisition of a distressed project, office development, land development, and student housing. The students will also incorporate zoning analysis and joint venture structures into the case studies where appropriate. Prerequisites: USP 152 or USP 152A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "USP 152",
+      "USP 152A"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "code": "PHIL 1",
+  "title": "Introduction to Philosophy",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil1",
+  "description": "A general introduction to some of the fundamental questions, texts, and methods of philosophy. Multiple topics will be covered, and may include the existence of God, the nature of mind and body, free will, ethics and political philosophy, knowledge and skepticism.",
+  "successors": [
+    "COGS 152"
+  ]
+}

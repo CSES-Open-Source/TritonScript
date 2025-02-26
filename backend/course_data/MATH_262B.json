@@ -1,0 +1,9 @@
+{
+  "code": "MATH 262B",
+  "title": "Further Topics in Combinatorial Mathematics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math262b",
+  "description": "Continued development of a topic in combinatorial mathematics. Topics include problems of enumeration, existence, construction, and optimization with regard to finite sets. Recommended preparation: some familiarity with computer programming desirable but not required. May be taken for credit three times with consent of adviser as topics vary. Prerequisites: MATH 262A. Students who have not completed MATH 262A may enroll with consent of instructor.",
+  "prereqs": "MATH 262A"
+}

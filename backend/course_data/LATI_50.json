@@ -1,0 +1,15 @@
+{
+  "code": "LATI 50",
+  "title": "Introduction to Latin America",
+  "units": "4",
+  "dept": "LATI",
+  "anchor": "lati50",
+  "description": "Interdisciplinary overview of society and culture in Latin America\u2014including Mexico, the Caribbean, and South America: legacies of conquest, patterns of economic development, changing roles of women, expressions of popular culture, cycles of political change, and US-Latin American relations.",
+  "successors": [
+    "LATI 150",
+    "LATI 180",
+    "LATI 190",
+    "LATI 191",
+    "LATI 199"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "code": "SIO 107",
+  "title": "Water Pollution",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio107",
+  "description": "This course covers the principles of water pollution and water pollution issues on local, regional, and global scales. It introduces and builds upon an understanding of basic chemical, physical, and biological properties of water and water contaminants, including hydrological and marine biogeochemical considerations. Case studies selected and researched by students will guide discussions. Prerequisites: (CHEM 6B or 6BH) and (BILD 3 or SIO 50 or SIO 60)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6B",
+          "CHEM 6BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BILD 3",
+          "SIO 50",
+          "SIO 60"
+        ]
+      }
+    ]
+  }
+}

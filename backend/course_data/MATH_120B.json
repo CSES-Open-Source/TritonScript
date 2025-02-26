@@ -1,0 +1,9 @@
+{
+  "code": "MATH 120B",
+  "title": "Applied Complex Analysis",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math120b",
+  "description": "Applications of the residue theorem. Conformal mapping and applications to potential theory, flows, and temperature distributions. Fourier transformations. Laplace transformations, and applications to integral and differential equations. Selected topics such as Poisson\u2019s formula, Dirichlet\u2019s problem, Neumann\u2019s problem, or special functions. Prerequisites: MATH 120A or consent of instructor.",
+  "prereqs": "MATH 120A"
+}

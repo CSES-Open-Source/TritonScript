@@ -1,0 +1,9 @@
+{
+  "code": "BENG 161B",
+  "title": "Biochemical Engineering",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng161b",
+  "description": "Commercial production of biochemical commodity products. Application of genetic control systems and mutant populations. Recombinant DNA and eukaryotic proteins in E. coli and other host organisms. Product recovery operations, including the design of bioseparation processes of filtration, adsorption, chromatography, and crystallization. Bioprocess economics. Human recombinant erythropoietin as an example, from genomic cloning to CHO cell expression, to bioreactor manufacturing and purification of medical products for clinical application. Prerequisites: BENG 161A or consent of department. (W)",
+  "prereqs": "BENG 161A"
+}

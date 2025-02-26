@@ -1,0 +1,11 @@
+{
+  "code": "MUS 270A",
+  "title": "Digital Audio Processing",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus270a",
+  "description": "Digital techniques for analysis, synthesis, and processing of musical sounds. Sampling theory. Software synthesis techniques. Digital filter design. The short-time Fourier transform. Numerical accuracy considerations. Prerequisites: consent of instructor.",
+  "successors": [
+    "MUS 270D"
+  ]
+}

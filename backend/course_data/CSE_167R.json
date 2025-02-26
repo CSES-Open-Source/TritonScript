@@ -1,0 +1,19 @@
+{
+  "code": "CSE 167R",
+  "title": "Computer Graphics",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse167r",
+  "description": "Representation and manipulation of pictorial data. Two-dimensional and three-dimensional transformations, curves, surfaces. Projection, illumination, and shading models. Raster and vector graphic I/O devices; retained-mode and immediate-mode graphics software systems and applications. This course is a distance education course. Students may not receive credit for CSE 167 and CSE 167R or MATH 155A. Prerequisites: CSE 100 or CSE 100R; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 100",
+      "CSE 100R"
+    ]
+  },
+  "successors": [
+    "CSE 168",
+    "CSE 168R"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "MATH 273A",
+  "title": "Advanced Techniques in Computational Mathematics I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math273a",
+  "description": "Models of physical systems, calculus of variations, principle of least action. Discretization techniques for variational problems, geometric integrators, advanced techniques in numerical discretization. Project-oriented; projects designed around problems of current interest in science, mathematics, and engineering. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "MATH 273B"
+  ]
+}

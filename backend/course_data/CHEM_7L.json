@@ -1,0 +1,22 @@
+{
+  "code": "CHEM 7L",
+  "title": "General Chemistry Laboratory",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem7l",
+  "description": "Condenses a year of introductory training in analytical, inorganic, physical, and synthetic techniques into one intensive quarter. A materials fee is required. A mandatory safety exam must be passed. Students may not receive credit for both CHEM 7L and CHEM 7LM. Prerequisites: CHEM 6B or 6BH.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 6B",
+      "CHEM 6BH"
+    ]
+  },
+  "successors": [
+    "CHEM 100A",
+    "CHEM 43A",
+    "CHEM 43AM",
+    "NANO 159",
+    "PHYS 173"
+  ]
+}

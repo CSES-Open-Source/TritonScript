@@ -1,0 +1,17 @@
+{
+  "code": "MGT 189",
+  "title": "Topics in Finance",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt189",
+  "description": "Introduces advanced topics of special interest in finance. Topics may include behavioral finance, financial derivatives, portfolio management, fixed income securities, asset pricing theory, commercial banking, etc. May be taken for credit up to three times. Prerequisites:\u00a0MGT 180 or MGT 180R or MGT 181 or MGT 187, upper-division standing. ",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MGT 180",
+      "MGT 180R",
+      "MGT 181",
+      "MGT 187"
+    ]
+  }
+}

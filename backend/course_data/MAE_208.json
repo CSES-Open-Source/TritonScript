@@ -1,0 +1,11 @@
+{
+  "code": "MAE 208",
+  "title": "Mathematics for Engineers",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae208",
+  "description": "This course will reintroduce the mathematics fundamentals necessary for success in the engineering graduate program in MAE. Topics will include calculus, ODE\u2019s, vector calculus, linear algebra, probability and PDE\u2019s. Prerequisites: nongraduate students can enroll with consent of instructor.",
+  "successors": [
+    "MAE 209"
+  ]
+}

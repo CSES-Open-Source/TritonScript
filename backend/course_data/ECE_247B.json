@@ -1,0 +1,8 @@
+{
+  "code": "ECE 247B",
+  "title": "BioElectronics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece247b",
+  "description": "Topics to be covered will include photolithographic techniques for high-density DNA microarray production, incorporation of CMOS control into electronic DNA microarrays, direct electronic detection technology used in microarrays and biosensor devices and focus on problems related to making highly integrated devices (lab-on-a-chip, in-vivo biosensors, etc.) from heterogeneous materials and components. Cross-listed with BENG 247B and NANO 247B. Prerequisites: graduate standing."
+}

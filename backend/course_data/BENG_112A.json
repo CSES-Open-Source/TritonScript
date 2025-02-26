@@ -1,0 +1,14 @@
+{
+  "code": "BENG 112A",
+  "title": "Soft Tissue Biomechanics",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng112a",
+  "description": "Tensor analysis. Stress, strain, equilibrium, and constitutive law for soft biological tissues. Applications of solid mechanics to mammalian tissue physiology. Viscoelasticity. Finite elasticity. Problem solving and design in soft tissue biomechanics. Prerequisites: BENG 110 or consent of department. (W)",
+  "prereqs": "BENG 110",
+  "successors": [
+    "BENG 103B",
+    "BENG 112B",
+    "BENG 187A"
+  ]
+}

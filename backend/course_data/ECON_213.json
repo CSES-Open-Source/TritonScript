@@ -1,0 +1,19 @@
+{
+  "code": "ECON 213",
+  "title": "Advanced Macroeconomic Theory",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ213",
+  "description": "This course develops purely theoretical models for problems in macroeconomics. Topics include dynamic general equilibrium, asset market equilibrium, and economic growth and distribution. Prerequisites: ECON 210A-B-C or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 210A",
+      "ECON 210B",
+      "ECON 210C"
+    ]
+  },
+  "successors": [
+    "ECON 201"
+  ]
+}

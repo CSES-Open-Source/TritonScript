@@ -1,0 +1,9 @@
+{
+  "code": "ECON 136",
+  "title": "Human Resources",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ136",
+  "description": "A practical yet theory-based study of the firm\u2019s role in managing workers, including issues related to hiring, education and training, promotions, layoffs and buyouts, and the overarching role that worker compensation plays in all of these. Prerequisites: ECON 100B.",
+  "prereqs": "ECON 100B"
+}

@@ -1,0 +1,35 @@
+{
+  "code": "PHYS 1C",
+  "title": "Waves, Optics, and Modern Physics",
+  "units": "3",
+  "dept": "PHYS",
+  "anchor": "phys1c",
+  "description": "Third quarter of a three-quarter introductory physics course geared toward life-science majors. The physics of oscillations and waves, vibrating strings and sound, and the interaction of light with matter as illustrated through optics and quantum mechanics. Examples from biology, sports, medicine, and current events. PHYS 1C and 1CL are designed to be taken concurrently but may be taken in separate terms; taking the lecture before the lab is the best alternative to enrolling in both. Prerequisites: PHYS 1B or 2B, and MATH 10B or 20B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1B",
+          "PHYS 2B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10B",
+          "MATH 20B"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CHEM 126A",
+    "EDS 105",
+    "PHYS 170",
+    "SIO 119",
+    "SIO 125",
+    "SIO 143"
+  ]
+}

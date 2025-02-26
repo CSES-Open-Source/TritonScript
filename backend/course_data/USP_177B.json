@@ -1,0 +1,16 @@
+{
+  "code": "USP 177B",
+  "title": "Advanced Urban Design",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp177b",
+  "description": "Settlement patterns, design of streets and open space, buildings, and civic space are the setting for public life. This course explores how we design and inhabit cities that are increasingly more populated and dense. Advanced design research, drawing skills required. Prerequisites: USP 177, USP 177A, or USP 179.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "USP 177",
+      "USP 177A",
+      "USP 179"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "code": "LTKO 140",
+  "title": "Readings in Korean Literature",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltko140",
+  "description": "Readings in Korean literature and culture from colonial period to present. May be taken for credit up to three times as topics vary.  Prerequisites:  LTKO 130F or LTKO 130W or LTKO 130F or equivalent proficiency with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTKO 130F",
+      "LTKO 130W",
+      "LTKO 130F"
+    ]
+  }
+}

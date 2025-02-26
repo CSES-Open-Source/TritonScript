@@ -1,0 +1,33 @@
+{
+  "code": "MATH 110",
+  "title": "Introduction to Partial Differential Equations",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math110",
+  "description": "An introduction to partial differential equations focusing on equations in two variables. Topics include the heat and wave equation on an interval, Laplace\u2019s equation on rectangular and circular domains, separation of variables, boundary conditions and eigenfunctions, introduction to Fourier series, software methods for solving equations. Formerly MATH 110A. (Students may not receive credit for MATH 110 and MATH 110A.) Prerequisites: MATH 18 or MATH 20F or MATH 31AH and MATH 20D and MATH 20E or MATH 31CH. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      },
+      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20E",
+          "MATH 31CH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MATH 112B",
+    "SIOC 203A"
+  ]
+}

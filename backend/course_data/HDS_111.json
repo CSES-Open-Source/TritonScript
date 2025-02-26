@@ -1,0 +1,17 @@
+{
+  "code": "HDS 111",
+  "title": "Evolutionary Principles in Human Development",
+  "units": "4",
+  "dept": "HDS",
+  "anchor": "hds111",
+  "description": "The course will examine the human evolutionary past to inform our understanding of the biological, cognitive, and socio-cultural aspects of growth and change across the life span. Lectures and readings will draw from diverse fields to situate our understanding of human development within its broader evolutionary context. Areas of focus will include but are not limited to human longevity, biology of growth, theory of mind, and social and biological development in cross-species comparison. Renumbered from HDP 111. Students may not receive credit for HDP 111 and HDS 111. Prerequisites: HDP 1 or HDS 1 or ANTH 2 or BILD 3.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "HDP 1",
+      "HDS 1",
+      "ANTH 2",
+      "BILD 3"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "code": "ASTR 20A",
+  "title": "Introduction to Astrophysics I",
+  "units": "4",
+  "dept": "ASTR",
+  "anchor": "astr20a",
+  "description": "First course in a two-quarter sequence of an introduction to astrophysics. This course covers the formation and evolution of stars and their planetary systems. Topics include telescopes, measuring distances to and masses of stars, thermal radiation and stellar spectra, energy generation in stars, stellar evolution, variable stars, orbital dynamics, the solar system, planetary atmospheres, and exoplanets. Prerequisites: MATH 20A-B-C, PHYS 2A/2AR-B or 4A-B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20A",
+      "MATH 20B",
+      "MATH 20C",
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          {
+            "type": "all",
+            "courses": [
+              "PHYS 2AR",
+              "PHYS 2B"
+            ]
+          },
+          {
+            "type": "all",
+            "courses": [
+              "PHYS 4A",
+              "PHYS 4B"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "ASTR 20B"
+  ]
+}

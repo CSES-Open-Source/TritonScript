@@ -1,0 +1,12 @@
+{
+  "code": "SIO 184",
+  "title": "Marine Invertebrates",
+  "units": "6",
+  "dept": "SIO",
+  "anchor": "sio182b2",
+  "description": "Course emphasizing the diversity, evolution and functional morphology of marine invertebrates. Laboratory work involves examination of live and prepared specimens. An oral presentation and a paper on current research topic are required. Program or course fee may apply. Prerequisites: BILD 3 or consent of instructor.",
+  "prereqs": "BILD 3",
+  "successors": [
+    "SIO 131"
+  ]
+}

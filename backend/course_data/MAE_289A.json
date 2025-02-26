@@ -1,0 +1,11 @@
+{
+  "code": "MAE 289A",
+  "title": "Mathematical Analysis for Applications",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae289a",
+  "description": "Topics in mathematical analysis, with the emphasis on those of use in applications. The topics may include metric spaces, open and closed sets, compact sets, continuity, differentiation, series of functions and uniform convergence, convex sets and functions, transforms, and Stokes theorem. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "MAE 289B"
+  ]
+}

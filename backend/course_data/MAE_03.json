@@ -1,0 +1,15 @@
+{
+  "code": "MAE 03",
+  "title": "Introduction to Mechanical Design",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae3",
+  "description": "Introduction to design process through hands-on individual and team projects. Topics include 2D/3D CAD (drawing projections/isometrics, dimensioning), design problem identification, prototype fabrication techniques (shop skills, rapid prototyping), design process (concept generation/selection, risk reduction strategies, scheduling), learning from hardware performance (problem solving/redesign), teamwork. Use of components: fasteners, couplings, DC motors, oral/written communication with graphics.\u00a0Program or materials fees may apply.\u00a0Prerequisites: PHYS 2A or 4A. Enrollment restricted to BE 25, MC 25, MC 27, MC 29, and MC 30\u201337 majors only.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "PHYS 2A",
+      "PHYS 4A"
+    ]
+  }
+}

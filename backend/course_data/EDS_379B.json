@@ -1,0 +1,12 @@
+{
+  "code": "EDS 379B",
+  "title": "Single Subject (Secondary) Internship Practicum II",
+  "units": "6",
+  "dept": "EDS",
+  "anchor": "eds379b",
+  "description": "Second course in the series. The secondary credential candidate teaches approximately one academic quarter for each course in this series (one public school academic year) under the guidance of a university supervisor with additional support provided by an on-site teacher. The internship offers extensive professional preparation and diversified teaching experience under actual classroom conditions for postbaccalaureate students pursuing the California Single Subject Teaching Credential. Prerequisites: EDS 379A. ED78 Single Subject major only. Affirmed Single Subject candidate at UC San Diego who has advanced to internship.\u00a0EDS 380B must be taken as a corequisite.",
+  "prereqs": "EDS 379A",
+  "successors": [
+    "EDS 379C"
+  ]
+}

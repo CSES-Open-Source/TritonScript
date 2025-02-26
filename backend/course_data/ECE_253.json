@@ -1,0 +1,8 @@
+{
+  "code": "ECE 253",
+  "title": "Fundamentals of Digital Image Processing",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece253",
+  "description": "Image quantization and sampling, image transforms, image enhancement, image compression. Recommended preparation: ECE 109, 153, ECE 161, ECE 161A."
+}

@@ -1,0 +1,9 @@
+{
+  "code": "DSC 204A",
+  "title": "Scalable Data Systems",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc204a",
+  "description": "Storage/memory hierarchy, distributed scalable computing (cluster, cloud, edge) principles. Big data storage, management, and processing at scale. Dataflow programming systems and programming models (MapReduce/Hadoop and Spark). Prerequisites: DSC 202. Restricted to students within the DS75 and DS76 major.",
+  "prereqs": "DSC 202"
+}

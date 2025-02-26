@@ -1,0 +1,16 @@
+{
+  "code": "VIS 113AN",
+  "title": "History of Criticism I: Early Modern",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis113an",
+  "description": "Using a wide range of nineteenth-century texts, this course will offer close discussions of romantic criticism and aesthetic philosophy (ideas of originality, genius, and nature); the conditions of \u201cmodern life\u201d; realism and naturalism; science and photography; and questions of form, expression, symbolism, and history. This is a seminar course. Recommended preparation: two upper-division art history courses. Prerequisites: VIS 112.",
+  "prereqs": "VIS 112",
+  "successors": [
+    "VIS 129A",
+    "VIS 129B",
+    "VIS 129C",
+    "VIS 129E",
+    "VIS 129F"
+  ]
+}

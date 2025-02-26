@@ -1,0 +1,11 @@
+{
+  "code": "MGTP 432",
+  "title": "Advanced Auditing and Forensic Accounting",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgtp432",
+  "description": "Provides students with applied knowledge on how assurance professionals assess and evaluate assurance-related evidence and risks. Topics include strategic risk analysis, corporate governance, internal control assessments, audit sampling, modified audit reports, and fraud detection. Prerequisites: restricted to MPAc students (major code RS91) or by department approval.",
+  "successors": [
+    "MGTP 429"
+  ]
+}

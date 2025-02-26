@@ -1,0 +1,38 @@
+{
+  "code": "BIMM 185",
+  "title": "Bioinformatics Laboratory (Advanced)",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm185",
+  "description": "This course emphasizes the hands-on application of bioinformatics methods to biological problems. Students will gain experience in the application of existing software, as well as in combining approaches to answer specific biological questions. Sequence alignment, fast database search, profiles and motifs, comparative genomics, gene finding, phylogenetic trees, protein structure, functional characterization of proteins, expression analysis, computational proteomics. This course open to bioinformatics majors only. Prerequisites: two courses out of BIMM 181 or BENG 181 or CSE 181, BIMM 182 or BENG 182 or CSE 182, BENG 183, BIMM 184 or BENG 184 or CSE 184. Attendance at the first lecture/lab is required. Nonattendance may result in the student\u2019s being dropped from the course roster.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BIMM 181",
+          "BENG 181",
+          "CSE 181"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BIMM 182",
+          "BENG 182",
+          "CSE 182"
+        ]
+      },
+      "BENG 183",
+      {
+        "type": "one",
+        "courses": [
+          "BIMM 184",
+          "BENG 184",
+          "CSE 184"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "code": "CSE 151A",
+  "title": "Machine Learning: Learning Algorithms",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse151a",
+  "description": "Broad introduction to machine learning. The topics include some topics in supervised learning, such as k-nearest neighbor classifiers, decision trees, boosting, and perceptrons; and topics in unsupervised learning, such as k-means and hierarchical clustering. In addition to the actual algorithms, the course focuses on the principles behind the algorithms. Students may not receive credit for both CSE 151A and COGS 188. May be coscheduled with CSE 251A. Prerequisites: CSE 12 or DSC 40B and CSE 15L or CSE 29 or DSC 80 and COGS 118D or CSE 103 or ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 181A or MATH 183 or MATH 186 and MATH 18 or MATH 31AH and MATH 20C or MATH 31BH; restricted to students within the CS25, CS26, CS27, CS28, EC26, and DS25 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CSE 12",
+          "DSC 40B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CSE 15L",
+          "CSE 29",
+          "DSC 80"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "COGS 118D",
+          "CSE 103",
+          "ECE 109",
+          "ECON 120A",
+          "MAE 108",
+          "MATH 180A",
+          "MATH 180B",
+          "MATH 181A",
+          "MATH 183",
+          "MATH 186"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "COGS 118B",
+    "COGS 181",
+    "COGS 182",
+    "CSE 151B",
+    "DSC 180A"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "PHYS 1AL",
+  "title": "Mechanics Laboratory",
+  "units": "2",
+  "dept": "PHYS",
+  "anchor": "phys1al",
+  "description": "Physics laboratory course to accompany PHYS 1A. Experiments in Mechanics. PHYS 1A and 1AL are designed to be taken concurrently but may be taken in separate terms; taking the lecture before the lab is the best alternative to enrolling in both. Students continuing to PHYS 1B/1BL will also need MATH 10B or 20B. Prerequisites: MATH 10A or 20A. Recommended preparation: concurrent or prior enrollment in PHYS 1A and MATH 10B or 20B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 10A",
+      "MATH 20A"
+    ]
+  },
+  "successors": [
+    "PHYS 1BL"
+  ]
+}

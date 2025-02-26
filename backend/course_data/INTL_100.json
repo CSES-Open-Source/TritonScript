@@ -1,0 +1,13 @@
+{
+  "code": "INTL 100",
+  "title": "Analysis, Argument, and Real-World Problems",
+  "units": "4",
+  "dept": "INTL",
+  "anchor": "intl100",
+  "description": "Focuses on developing skills in analytic reading and writing while using an interdisciplinary approach to asking and answering real-world questions. Lectures are topical and built around a series of readings that build in complexity and nuance; students work in an iterative process that builds toward a final policy memo project. Prerequisites: sophomore standing or above and completion of at least one quarter of a university-level writing course.",
+  "successors": [
+    "INTL 101",
+    "INTL 102",
+    "INTL 190"
+  ]
+}

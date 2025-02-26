@@ -1,0 +1,30 @@
+{
+  "code": "CHEM 40C",
+  "title": "Organic Chemistry III",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem40c",
+  "description": "Renumbered from CHEM 140C. Continuation of CHEM 40A, Organic Chemistry I and CHEM 40B, Organic Chemistry II. Organic chemistry of biologically important molecules: carboxylic acids, carbohydrates, proteins, fatty acids, biopolymers, natural products. Students may only receive credit for one of the following: CHEM 40C, 40CH, 140C, or 140CH. Prerequisites: CHEM 40B or 140B (a grade of C or higher in CHEM 40B or 140B is strongly recommended).",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 40B",
+      "CHEM 140B",
+      "CHEM 140B"
+    ]
+  },
+  "successors": [
+    "CHEM 113",
+    "CHEM 116",
+    "CHEM 119",
+    "CHEM 143D",
+    "CHEM 146",
+    "CHEM 152",
+    "CHEM 154",
+    "CHEM 156",
+    "CHEM 157",
+    "CHEM 158",
+    "CHEM 167",
+    "CHEM 168"
+  ]
+}

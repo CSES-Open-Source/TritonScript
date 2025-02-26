@@ -1,0 +1,32 @@
+{
+  "code": "BICD 100R",
+  "title": "Genetics",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bicd100r",
+  "description": "An introduction to the principles of heredity emphasizing diploid organisms. Topics include Mendelian inheritance and deviations from classical Mendelian ratios, pedigree analysis, gene interactions, gene mutation, linkage and gene mapping, reverse genetics, population genetics, and quantitative genetics. This course is a distance education course. Students may receive credit for one of the following: BICD 100 or BICD 100R. Prerequisites: BILD 1 and BILD 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 3"
+    ]
+  },
+  "successors": [
+    "BICD 102",
+    "BICD 102GS",
+    "BICD 104",
+    "BICD 123",
+    "BICD 124",
+    "BICD 130",
+    "BICD 140",
+    "BICD 156",
+    "BICD 158",
+    "BIMM 110",
+    "BIMM 172",
+    "BIPN 150",
+    "BISP 194",
+    "SIO 123",
+    "SIO 127"
+  ]
+}

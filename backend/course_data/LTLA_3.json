@@ -1,0 +1,17 @@
+{
+  "code": "LTLA 3",
+  "title": "Intermediate Latin (II)",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltla3",
+  "description": "Study of Latin, including grammar and reading.  Prerequisites:  LTLA 2 or equivalent.",
+  "prereqs": "LTLA 2",
+  "successors": [
+    "CLAS 110",
+    "LTLA 100",
+    "LTLA 102",
+    "LTLA 103",
+    "LTLA 104",
+    "LTLA 105"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "EDS 369A",
+  "title": "Multiple Subject (Elementary) Student Teaching Practicum-I",
+  "units": "6",
+  "dept": "EDS",
+  "anchor": "eds369a",
+  "description": "First course in the series. The elementary credential candidate performs clinical practice (fieldwork and student teaching) in participating schools for a minimum of 120 hours over the course of the quarter under the supervision of a school district guide teacher and a university supervisor. The clinical practice experience offers professional preparation for MEd/Multiple Subject credential candidates pursuing the California Preliminary Multiple Subject Teaching Credential. Prerequisites: ED76 or ED78 majors for Elementary Multiple Subjects only. Affirmed Multiple Subject Credential candidate at UC San Diego who has advanced to student teaching. EDS 370A must be taken as a corequisite.",
+  "successors": [
+    "EDS 369B"
+  ]
+}

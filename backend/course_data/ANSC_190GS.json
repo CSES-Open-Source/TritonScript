@@ -1,0 +1,22 @@
+{
+  "code": "ANSC 190GS",
+  "title": "Medicine and Healing in South Asia",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "ansc190GS",
+  "description": "This course introduces students to the medical anthropology of South Asia. This course will be divided into two parts. First, we will analyze how religious, cultural, political, and economic structures impact health and well-being. Second, we will look at ethnomedicine, that is, how local systems of healing provide alternative ideas of illness and health. Program or materials fees may apply. Prerequisites: ANSC 101, ANSC 121, ANSC 155, ANSC 173, ANTH 103, ANSC 146, ANSC 147, ANSC 148, or ANSC 164, department approval required, and upper-division standing. Students must apply for and be accepted to the Global Seminar program.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ANSC 101",
+      "ANSC 121",
+      "ANSC 155",
+      "ANSC 173",
+      "ANTH 103",
+      "ANSC 146",
+      "ANSC 147",
+      "ANSC 148",
+      "ANSC 164"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "code": "PHYS 4D",
+  "title": "Physics for Physics Majors\u2014Electromagnetic Waves, Special Relativity and Optics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys4d",
+  "description": "Continuation of PHYS 4C covering electric and magnetic fields in matter, Maxwell\u2019s equations and electromagnetic waves, special relativity and its applications to electromagnetism, optics, interference, diffraction. Prerequisites: PHYS 4A-B-C or the combination of PHYS 4C and PHYS 2A-B-C, MATH 20A-B-C or 31BH, 20E or 31CH, and 18 or 20F or 31AH. Recommended preparation: prior or concurrent enrollment in MATH 20D.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          {
+            "type": "all",
+            "courses": [
+              "PHYS 4A",
+              "PHYS 4B",
+              "PHYS 4C"
+            ]
+          },
+          "PHYS 4C"
+        ]
+      },
+      "PHYS 2A",
+      "PHYS 2B",
+      "PHYS 2C",
+      {
+        "type": "one",
+        "courses": [
+          {
+            "type": "all",
+            "courses": [
+              "MATH 20A",
+              "MATH 20B",
+              "MATH 20C"
+            ]
+          },
+          "MATH 31BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20E",
+          "MATH 31CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "ASTR 101",
+    "ASTR 120",
+    "ASTR 122",
+    "ASTR 123",
+    "ASTR 124",
+    "ASTR 130",
+    "ASTR 131",
+    "ASTR 150",
+    "ASTR 152",
+    "ASTR 154",
+    "ASTR 155",
+    "ECE 103",
+    "PHYS 100A",
+    "PHYS 105A",
+    "PHYS 110A",
+    "PHYS 130A",
+    "PHYS 139",
+    "PHYS 161",
+    "PHYS 162",
+    "PHYS 4E"
+  ]
+}

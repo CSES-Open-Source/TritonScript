@@ -1,0 +1,15 @@
+{
+  "code": "ECON 145",
+  "title": "Economics of Ocean Resources",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ145",
+  "description": "Economic issues associated with oceans. Economics of managing renewable resources in the oceans, with an emphasis on fisheries, economics of conservation and biodiversity preservation for living marine resources, with an emphasis on whales, dolphins, sea turtles, and coral reefs. Prerequisites: ECON 2 or 100A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 2",
+      "ECON 100A"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "PSYC 136",
+  "title": "Cognitive Development",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc136",
+  "description": "This course provides an overview of how children\u2019s thinking develops. Topics may include perception, concept formation, memory, problem solving, and social cognition. Prerequisites: upper-division standing; PSYC 101 or PSYC 105.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "PSYC 101",
+      "PSYC 105"
+    ]
+  }
+}

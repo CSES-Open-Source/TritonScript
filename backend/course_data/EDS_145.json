@@ -1,0 +1,12 @@
+{
+  "code": "EDS 145",
+  "title": "Artsbridge: Integrating the Arts Across the Curriculum",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds145",
+  "description": "In this course, students explore the role of the arts (dance, media arts, music, theatre, and/or visual arts) in P\u201312 education. A focus on STEAM (Science, Technology, Engineering, Arts, Mathematics), as well as the arts as a core subject, provide multiple perspectives on the arts and education. Students explore how arts activities enhance learning across the curriculum. The course explores issues of teaching, learning, creativity, communication, and social justice through the arts. Prerequisites: department approval required; EDS 139 must be taken as a corequisite.",
+  "prereqs": "EDS 139",
+  "successors": [
+    "EDS 140"
+  ]
+}

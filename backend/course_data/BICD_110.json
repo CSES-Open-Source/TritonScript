@@ -1,0 +1,20 @@
+{
+  "code": "BICD 110",
+  "title": "Cell Biology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bicd110",
+  "description": "The structure and function of cells and cell organelles, cell growth and division, motility, cell differentiation and specialization. Prerequisites: BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BIBC 100",
+      "BIBC 102",
+      "CHEM 114A",
+      "CHEM 114B"
+    ]
+  },
+  "successors": [
+    "BICD 194"
+  ]
+}

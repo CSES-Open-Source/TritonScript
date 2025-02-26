@@ -1,0 +1,16 @@
+{
+  "code": "CLAS 109",
+  "title": "Greek Seminar",
+  "units": "4",
+  "dept": "CLAS",
+  "anchor": "clas-109",
+  "description": "Readings in Greek covering specific topics in ancient Greek literature, philosophy, history, and religion. May be repeated for credit as topics vary. Prerequisites: LTGK 1, 2, 3, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LTGK 1",
+      "LTGK 2",
+      "LTGK 3"
+    ]
+  }
+}

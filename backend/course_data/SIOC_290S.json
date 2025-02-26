@@ -1,0 +1,11 @@
+{
+  "code": "SIOC 290S",
+  "title": "Climate Math and Science",
+  "units": "6",
+  "dept": "SIO",
+  "anchor": "sioc290s",
+  "description": "The course will introduce key physical and biogeochemical concepts needed to understand the Earth\u2019s climate system. The overview will provide a foundation for examining the physical evidence of climate change. Mathematical methods will be presented to reinforce the scientific concepts. Students will complete group papers and presentations and lead discussions on assigned readings. SIOC 290S is a required course in the curriculum of the master of advanced studies\u2014climate science and policy. (Letter grades only.) Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "SIOC 293"
+  ]
+}

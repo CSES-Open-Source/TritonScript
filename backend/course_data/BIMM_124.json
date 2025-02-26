@@ -1,0 +1,17 @@
+{
+  "code": "BIMM 124",
+  "title": "Medical Microbiology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm124",
+  "description": "Encompasses the increasingly important areas of viral, bacterial, and parasitic diseases and understanding the complex interaction between humans and infectious agents. Covers human-pathogen interactions, mechanisms and molecular principles of infectious diseases, immune responses, countermeasures by pathogens and hosts, epidemiology, and cutting-edge approaches to therapy. Prerequisites: BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BIBC 100",
+      "BIBC 102",
+      "CHEM 114A",
+      "CHEM 114B"
+    ]
+  }
+}

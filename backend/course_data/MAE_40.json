@@ -1,0 +1,26 @@
+{
+  "code": "MAE 40",
+  "title": "Linear Circuits",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae40",
+  "description": "Steady-state and dynamic behavior of linear, lumped-parameter electrical circuits. Kirchhoff\u2019s laws. RLC circuits. Node and mesh analysis. Operational amplifiers. Signal acquisition and conditioning. Electric motors. Design applications in engineering. Prerequisites: MATH 20D and MATH 31AH or MATH 18 or MATH 20F, and PHYS 2B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 31AH",
+          "MATH 18",
+          "MATH 20F"
+        ]
+      },
+      "PHYS 2B"
+    ]
+  },
+  "successors": [
+    "MAE 170"
+  ]
+}

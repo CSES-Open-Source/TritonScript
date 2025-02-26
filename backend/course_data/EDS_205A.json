@@ -1,0 +1,11 @@
+{
+  "code": "EDS 205A",
+  "title": "Reflective Teaching Practice",
+  "units": "2",
+  "dept": "EDS",
+  "anchor": "eds205a",
+  "description": "This course introduces principles and practices of reflective teaching. Student teachers and interns will systematically document their practice teaching and analyze observation data to improve performance. Students will collaborate with supervisors and expert teachers throughout the yearlong preservice teaching experience. Prerequisites: students must be registered EDS graduate students.",
+  "successors": [
+    "EDS 205B"
+  ]
+}

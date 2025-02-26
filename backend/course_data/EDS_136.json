@@ -1,0 +1,13 @@
+{
+  "code": "EDS 136",
+  "title": "Introduction to Academic Tutoring of Secondary School Students",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds136",
+  "description": "This course focuses on the role of undergraduate tutors in building academic resiliency in secondary students traditionally underrepresented at the university. The relationship between the school and community, the social and political organization of secondary schools, the philosophical, sociological, and political issues which relate to the US secondary educational system, and the academic achievement of secondary children are examined. Prerequisites: department approval required; EDS 139 must be taken as a corequisite.",
+  "prereqs": "EDS 139",
+  "successors": [
+    "EDS 120",
+    "EDS 140"
+  ]
+}

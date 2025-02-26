@@ -1,0 +1,10 @@
+{
+  "code": "BENG 127B",
+  "title": "Design Implementation in Molecular Systems Bioengineering",
+  "units": "3",
+  "dept": "BENG",
+  "anchor": "beng127b",
+  "description": "Implementation of design project in molecular systems bioengineering. Prerequisites: BENG 127A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W)",
+  "prereqs": "BENG 127A",
+  "coreqs": "BENG 187C"
+}

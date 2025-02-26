@@ -1,0 +1,21 @@
+{
+  "code": "DSC 155",
+  "title": "Hidden Data in Random Matrices",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc155",
+  "description": "Rigorous treatment of principal component analysis, one of the most effective methods in finding signals amidst the noise of large data arrays. Topics include singular value decomposition for matrices, maximal likelihood estimation, least squares methods, unbiased estimators, random matrices, Wigner\u2019s semicircle law, Markchenko-Pastur laws, universality of eigenvalue statistics, outliers, the BBP transition, applications to community detection, and stochastic block model. Prerequisites: MATH 180A and (MATH 18 or MATH 31AH). Students will not receive credit for both MATH 182 and DSC 155.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 180A",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  }
+}

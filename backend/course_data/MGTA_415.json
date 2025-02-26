@@ -1,0 +1,9 @@
+{
+  "code": "MGTA 415",
+  "title": "Analyzing Unstructured Data",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgta415",
+  "description": "Unstructured data such as text, images, and video are routinely collected by companies and other organizations. The complex nature and scale of data such as this requires specialized analytics frameworks. In this course, we discuss and use tools that empower decision makers to extract actionable information from unstructured data. Prerequisites: MGTA 452, and restricted to MS in business analytics students or with department and instructor approval.",
+  "prereqs": "MGTA 452"
+}

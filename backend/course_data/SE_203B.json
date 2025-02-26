@@ -1,0 +1,15 @@
+{
+  "code": "SE 203B",
+  "title": "Structural Dynamics II",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se203b",
+  "description": "Structural dynamics of multidegree of freedom systems with emphasis on earthquake response of buildings. Damping in structures. Numerical methods for the computation of vibration properties. Dynamic analysis and response of linear elastic systems. Numerical evaluation of the dynamic response of linear and nonlinear systems. Earthquake analysis and response of buildings. Laboratory hands-on activities that reinforce the fundamental concepts of structural dynamics. Prerequisites: SE 203A or SE 203 and graduate standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SE 203A",
+      "SE 203"
+    ]
+  }
+}

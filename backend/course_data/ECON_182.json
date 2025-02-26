@@ -1,0 +1,9 @@
+{
+  "code": "ECON 182",
+  "title": "Topics in Microeconomics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ182",
+  "description": "Selected topics in microeconomics. Prerequisites: ECON 100C.",
+  "prereqs": "ECON 100C"
+}

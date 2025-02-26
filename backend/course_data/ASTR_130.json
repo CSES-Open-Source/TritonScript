@@ -1,0 +1,49 @@
+{
+  "code": "ASTR 130",
+  "title": "Astrobiology",
+  "units": "4",
+  "dept": "ASTR",
+  "anchor": "astr130",
+  "description": "This course serves as a broad introduction to astrobiology, an emerging area of research that incorporates information from a variety of fields. Topics will include the origin of life on Earth, climate on prebiotic Earth, habitability considerations in the solar system, habitability requirements in exoplanetary systems, signatures of inhabited worlds including from intelligent life, and philosophical and ethical considerations in the search for life beyond Earth. Prerequisites: PHYS 2A or PHYS 2AR or PHYS 4A and PHYS 2B or PHYS 4B and PHYS 2C or PHYS 4C and PHYS 2D or PHYS 4D and PHYS 2D or PHYS 4E.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 2AR",
+          "PHYS 4A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2B",
+          "PHYS 4B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2C",
+          "PHYS 4C"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2D",
+          "PHYS 4D"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2D",
+          "PHYS 4E"
+        ]
+      }
+    ]
+  }
+}

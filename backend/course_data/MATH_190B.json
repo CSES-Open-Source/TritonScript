@@ -1,0 +1,9 @@
+{
+  "code": "MATH 190B",
+  "title": "Foundations of Topology II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math190b",
+  "description": "An introduction to the fundamental group: homotopy and path homotopy, homotopy equivalence, basic calculations of fundamental groups, fundamental group of the circle and applications (for instance to retractions and fixed-point theorems), van Kampen\u2019s theorem, covering spaces, universal covers. Examples of all of the above. Instructor may choose further topics such as deck transformations and the Galois correspondence, basic homology, compact surfaces. Prerequisites: MATH 190A. Students who have not completed the listed prerequisite may enroll with consent of instructor.",
+  "prereqs": "MATH 190A"
+}

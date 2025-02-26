@@ -1,0 +1,9 @@
+{
+  "code": "GPGN 494",
+  "title": "Special Topics in Remote Sensing and Data Analytics",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpgn494",
+  "description": "The course allows students to explore different areas of research that require the use of Geographic Information System (GIS), Remote Sensing, and the hard skills of data analytics. Topics will vary from year to year, but may include urban development, environmental and climate change, changes in land usage, and others. May be taken for credit up to two times. Students may receive a combined total of eight units for GPGN 494 and/or a GPGN with the same topic area. Prerequisites: GPEC 444 or consent of instructor.",
+  "prereqs": "GPEC 444"
+}

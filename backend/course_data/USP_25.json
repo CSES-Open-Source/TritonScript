@@ -1,0 +1,11 @@
+{
+  "code": "USP 25",
+  "title": "Real Estate and Development Principles and Analysis",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp25",
+  "description": "This course will analyze the concepts related to the planning, development, leasing, valuation, and financing of real estate. There will be special emphasis on critical thinking and analytical decision-making by solving real estate problems primarily using Excel and Argus.",
+  "successors": [
+    "USP 152A"
+  ]
+}

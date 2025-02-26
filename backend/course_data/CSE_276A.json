@@ -1,0 +1,8 @@
+{
+  "code": "CSE 276A",
+  "title": "Introduction to Robotics",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse276a",
+  "description": "This course provides an introduction to the fundamentals of robotics across kinematics, sensor systems, estimation, control, and planning. The contents include introduction to robotics in general, kinematics of robot systems, robot arm systems, sensors for robots, basic vision for robots, estimation methods, perception, robot localization and navigation, control of robot systems, robot motion planning, robot task planning, robot architectures, and evaluation of robot systems. It is expected that students have a solid understanding of linear algebra, can program in Python or C++, and have a basic understanding of methods for reasoning under uncertainty. Prerequisites: graduate standing."
+}

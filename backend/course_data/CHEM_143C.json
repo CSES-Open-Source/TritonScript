@@ -1,0 +1,33 @@
+{
+  "code": "CHEM 143C",
+  "title": "Organic Chemistry Laboratory",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem143c",
+  "description": "Identification of unknown organic compounds by a combination of chemical and physical techniques. Enrollment is limited to majors in the Department of Chemistry and Biochemistry unless space is available. Program or materials fees may apply. Prerequisites: CHEM 43A, 43AM, 143A, 143AM, or 143AH and CHEM 40B, 40BH, 41B, 140B, or 140BH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 43A",
+          "CHEM 43AM",
+          "CHEM 143A",
+          "CHEM 143AM",
+          "CHEM 143AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 40B",
+          "CHEM 40BH",
+          "CHEM 41B",
+          "CHEM 140B",
+          "CHEM 140BH"
+        ]
+      }
+    ]
+  }
+}

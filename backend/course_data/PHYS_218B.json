@@ -1,0 +1,12 @@
+{
+  "code": "PHYS 218B",
+  "title": "Plasma Physics II",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys218b",
+  "description": "This course deals with magnetized plasma. Topics include Appleton-Hartree theory of waves in cold plasma, waves in warm plasma (Bernstein waves, cyclotron damping). MHD equations, MHD waves, low frequency modes, and the adiabatic theory of particle orbits. Prerequisites: PHYS 218A.",
+  "prereqs": "PHYS 218A",
+  "successors": [
+    "PHYS 218C"
+  ]
+}

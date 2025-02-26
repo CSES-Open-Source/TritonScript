@@ -1,0 +1,11 @@
+{
+  "code": "MATH 267A",
+  "title": "Topics in Mathematical Logic",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math267a",
+  "description": "Introduction to varied topics in mathematical logic. Topics chosen from recursion theory, model theory, and set theory. May be taken for credit six times with consent of adviser as topics vary. Prerequisites: graduate standing or consent of instructor. Nongraduate students may enroll with consent of instructor.",
+  "successors": [
+    "MATH 267B"
+  ]
+}

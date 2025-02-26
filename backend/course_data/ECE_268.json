@@ -1,0 +1,8 @@
+{
+  "code": "ECE 268",
+  "title": "Security of Hardware Embedded Systems",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece268",
+  "description": "The course gives an overview of areas of security and protection of modern hardware, embedded systems, and IoTs. Covers essential cryptographic methodologies and blocks required for building a secure system. Topics include low overhead security, physical and side-channel attacks, physical security primitives, physical security and proofs of presence, hardware-based secure program execution, scalable implementation of secure functions, emerging technologies, and rising threats. Recommended preparation: Programming in a standard programming language. Undergraduate level knowledge of the IC design flow and digital designs.\u00a0Prerequisites: graduate standing."
+}

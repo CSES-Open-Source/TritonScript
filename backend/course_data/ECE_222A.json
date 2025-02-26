@@ -1,0 +1,11 @@
+{
+  "code": "ECE 222A",
+  "title": "Antennas and Their System Applications",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece222a",
+  "description": "Antennas, waves, polarization. Friis transmission and Radar equations, dipoles, loops, slots, ground planes, traveling wave antennas, array theory, phased arrays, impedance, frequency independent antennas, microstrip antennas, cell phone antennas, system level implications such as MIMO, multi-beam and phased array systems. Recommended preparation: ECE 107 or an equivalent undergraduate course in electromagnetics. Prerequisites: graduate standing.",
+  "successors": [
+    "ECE 222B"
+  ]
+}

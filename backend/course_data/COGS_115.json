@@ -1,0 +1,19 @@
+{
+  "code": "COGS 115",
+  "title": "Neurological Development and Cognitive Change",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs115",
+  "description": "This course provides an overview of neurological development and explores the relations between physiological change and the experience for the child from the prenatal period through adolescence. Prerequisites: BILD 10 or BILD 12 or COGS 107A or COGS 107B or COGS 17 or HDP 110.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BILD 10",
+      "BILD 12",
+      "COGS 107A",
+      "COGS 107B",
+      "COGS 17",
+      "HDP 110"
+    ]
+  }
+}

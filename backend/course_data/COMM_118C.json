@@ -1,0 +1,18 @@
+{
+  "code": "COMM 118C",
+  "title": "Comic Books as a Cultural Form",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm118c",
+  "description": "Comic books (as well as graphic novels, comic strips, and other sequential art) have been a globally influential form of media for more than a century. This course considers aspects of its artistic, cultural, and historical legacy, as well as comics\u2019 role in contemporary society. Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40"
+    ]
+  }
+}

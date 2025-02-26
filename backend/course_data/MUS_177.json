@@ -1,0 +1,9 @@
+{
+  "code": "MUS 177",
+  "title": "Music Programming",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus177",
+  "description": "Fundamentals of programming music software in C and C++. DSP implementation of oscillators, filters, delay, reverb and spectral processing; programming techniques specific to audio and MIDI and simple GUI design for parameter control and signal display. Implementation using a plug-in or external programming interface such as for VST, Audio Unit, PD, or Max/MSP. May be taken for credit twice. Prerequisites: MUS 172 (formerly MUS 161); restricted to music, ICAM-music, and ICAM-visual arts majors and minors, or consent of instructor.",
+  "prereqs": "MUS 172"
+}

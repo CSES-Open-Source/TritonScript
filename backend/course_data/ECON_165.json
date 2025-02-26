@@ -1,0 +1,15 @@
+{
+  "code": "ECON 165",
+  "title": "Middle East Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ165",
+  "description": "Socioeconomic development in the Arab world, Iran, and Turkey. Historical perspective; international trade and fuel resources; education, health, and gender gaps; unemployment and migration; population and environment; Islam and democracy. Prerequisites: ECON 1 and 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 1",
+      "ECON 3"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "code": "CHEM 269",
+  "title": "Applied Artificial Intelligence and Machine Learning for Chemistry and Biochemistry",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem269",
+  "description": "Dive deep into artificial intelligence (AI) for chemistry and biochemistry. The course provides students with hands-on exploration of AI methods applied to chemical and biochemical systems. Topics explored include areas like protein structure and complex prediction, protein language models, and large language models to accelerate research. Applications include molecular property prediction, enzyme substrate prediction, and drug discovery. Emphasis will be placed on project-based learning. May be coscheduled with CHEM 169. Recommended: Introductory course in Python programming, with a focus on the pandas library."
+}

@@ -1,0 +1,37 @@
+{
+  "code": "SIOC 235",
+  "title": "Ocean-Atmosphere Interaction and Climate",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc235",
+  "description": "The class discusses ocean-atmosphere interaction dynamics that cause climate to vary in space and time, and form the physical basis for predicting year-to-year climate variability and projecting future climate change in the face of global warming. Prerequisites: graduate standing, SIO 210 or SIOC 210 and SIO 211A or SIO 211B or SIO 212A or SIO 212B or SIO 217A or SIO 217B or SIOC 211A or SIOC 211B or SIOC 212A or SIOC 212B or SIOC 217A or SIOC 217B or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SIO 210",
+          "SIOC 210"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SIO 211A",
+          "SIO 211B",
+          "SIO 212A",
+          "SIO 212B",
+          "SIO 217A",
+          "SIO 217B",
+          "SIOC 211A",
+          "SIOC 211B",
+          "SIOC 212A",
+          "SIOC 212B",
+          "SIOC 217A",
+          "SIOC 217B"
+        ]
+      }
+    ]
+  }
+}

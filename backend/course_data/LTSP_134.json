@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 134",
+  "title": "Literature of the Southern Cone",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp134",
+  "description": "Study of movements, traditions, key authors, or major trends in Argentine, Paraguayan, Uruguayan, and Chilean literatures, such as gaucho poetry, the realist novel, modern urban narratives, the Borges School, etc. May be taken for credit up to two times as topics vary.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "code": "DSC 253",
+  "title": "Advanced Data-Driven Text Mining",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc253",
+  "description": "Unsupervised, weakly supervised, and distantly supervised methods for text mining problems, including information retrieval, open-domain information extraction, text summarization (both extractive and generative), and knowledge graph construction. Bootstrapping, comparative analysis, learning from seed words and existing knowledge bases will be the key methodologies. Prerequisites: none. Restricted to DS75 and DS76 students."
+}

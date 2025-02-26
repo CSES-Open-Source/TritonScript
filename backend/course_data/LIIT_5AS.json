@@ -1,0 +1,10 @@
+{
+  "code": "LIIT 5AS",
+  "title": "Fundamentals of Italian I",
+  "units": "5",
+  "dept": "LING",
+  "description": "A communicative introduction to Italian for students with no prior exposure, with attention to listening comprehension, conversation, reading, writing, grammar analysis, and culture. Equivalent to LIIT 1A/1AX. Prerequisites: None.",
+  "successors": [
+    "LIIT 5BS"
+  ]
+}

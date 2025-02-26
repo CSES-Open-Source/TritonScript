@@ -1,0 +1,16 @@
+{
+  "code": "ECON 103",
+  "title": "International Monetary Relations",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ103",
+  "description": "Analyzes exchange rates and the current account. Relates their joint determination to financial markets and the real-side macroeconomy using international macroeconomic models and presents empirical regularities. Discusses macroeconomic policies under different exchange rate regimes and implications for financial stability and current account sustainability. Prerequisites: ECON 102 or 110B or 173A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 102",
+      "ECON 110B",
+      "ECON 173A"
+    ]
+  }
+}

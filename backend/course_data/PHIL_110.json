@@ -1,0 +1,11 @@
+{
+  "code": "PHIL 110",
+  "title": "History of Philosophy: Ancient",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil110",
+  "description": "An examination of ancient Greek philosophy, focusing on major works of Plato and Aristotle. PHIL 10, PHIL 111, and PHIL 112 should be taken in order. Prerequisites: upper-division standing and department stamp or consent of instructor.",
+  "successors": [
+    "PHIL 111"
+  ]
+}

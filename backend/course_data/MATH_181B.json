@@ -1,0 +1,21 @@
+{
+  "code": "MATH 181B",
+  "title": "Introduction to Mathematical Statistics II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math181b",
+  "description": "Hypothesis testing. Linear models, regression, and analysis of variance. Goodness of fit tests. Nonparametric statistics. Two units of credit offered for MATH 181B if ECON 120B previously; no credit offered if ECON 120B concurrently. Prior enrollment in MATH 109 is highly recommended. Prerequisites: MATH 181A or consent of instructor.",
+  "prereqs": "MATH 181A",
+  "successors": [
+    "ECON 112",
+    "ECON 120C",
+    "ECON 122",
+    "ECON 125",
+    "ECON 147",
+    "ECON 173A",
+    "ECON 185",
+    "MATH 181C",
+    "MATH 181E",
+    "MGT 100"
+  ]
+}

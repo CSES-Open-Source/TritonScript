@@ -1,0 +1,19 @@
+{
+  "code": "ECE 17",
+  "title": "Object-Oriented Programming: Design and Development with C++",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece17",
+  "description": "This course combines the fundamentals of object-oriented design in C++, with the programming, debugging, and testing practices used by modern software developers. Emphasizes the use of object-oriented techniques to model and reason about system design, and using modern C++ idioms, design patterns, and the Standard Template Library (STL) to develop solutions to systems engineering challenges that are more reliable, robust, scalable, and secure. Prerequisites: CSE 8B or CSE 11 or ECE 15.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 8B",
+      "CSE 11",
+      "ECE 15"
+    ]
+  },
+  "successors": [
+    "ECE 141A"
+  ]
+}

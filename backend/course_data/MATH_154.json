@@ -1,0 +1,25 @@
+{
+  "code": "MATH 154",
+  "title": "Discrete Mathematics and Graph Theory",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math154",
+  "description": "Basic concepts in graph theory, including trees, walks, paths, and connectivity, cycles, matching theory, vertex and edge-coloring, planar graphs, flows and combinatorial algorithms, covering Hall\u2019s theorems, the max-flow min-cut theorem, Euler\u2019s formula, and the travelling salesman problem. Credit not offered for MATH 154 if MATH 158 is previously taken. If MATH 154 and MATH 158 are concurrently taken, credit is only offered for MATH 158. Prerequisites: MATH 31CH or MATH 109. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 31CH",
+      "MATH 109"
+    ]
+  },
+  "successors": [
+    "CSE 100",
+    "CSE 100R",
+    "CSE 101",
+    "CSE 103",
+    "CSE 105",
+    "CSE 106",
+    "CSE 107",
+    "CSE 127"
+  ]
+}

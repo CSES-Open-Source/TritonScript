@@ -1,0 +1,11 @@
+{
+  "code": "ECE 252A",
+  "title": "Speech Compression",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece252a",
+  "description": "Speech signals, production and perception, compression theory, high rate compression using waveform coding (PCM, DPCM, ADPCM, . . .), DSP tools for low rate coding, LPC vocoders, sinusoidal transform coding, multiband coding, medium rate coding using code excited linear prediction (CELP). Recommended preparation: ECE 161A. Prerequisites: graduate standing.",
+  "successors": [
+    "ECE 252B"
+  ]
+}

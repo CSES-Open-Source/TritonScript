@@ -1,0 +1,16 @@
+{
+  "code": "ECON 265",
+  "title": "Alternative Choice Theory",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ265",
+  "description": "Experimental findings by economists and psychologists of systematic departures from the classical model of decision making under risk and uncertainty. Issues of dynamic consistency in choice. Development, formal analysis and application of alternative models of risk preferences and beliefs. Prerequisites: graduate standing and ECON 200A-B-C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 200A",
+      "ECON 200B",
+      "ECON 200C"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "code": "BIOM 272",
+  "title": "Seminars in Genetics",
+  "units": "2",
+  "dept": "BIOM",
+  "anchor": "biom272",
+  "description": "This course includes attendance at seminars in genetics and is designed to provoke critical discussion of the presented findings and scientific approaches in a small group setting. Prerequisites: limited to BMS graduate students except by consent of instructor.",
+  "successors": [
+    "BGGN 237",
+    "BIOM 262",
+    "BNFO 262"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "VIS 83",
+  "title": "Photographic History",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis83",
+  "description": "Course examines the broader history of photography. We will discuss various technological processes associated with the early dissemination of photography and explore the ways in which this new medium transformed existing social and cultural practices, primarily in Europe and the United States during the nineteenth and twentieth centuries. We will examine photographic artists, as well as photographers working in a range of areas, from criminology and advertising to journalism and war photography. Prerequisites: none.",
+  "successors": [
+    "VIS 150A",
+    "VIS 151",
+    "VIS 151A",
+    "VIS 152",
+    "VIS 155",
+    "VIS 158A",
+    "VIS 158B",
+    "VIS 158C",
+    "VIS 158D"
+  ]
+}

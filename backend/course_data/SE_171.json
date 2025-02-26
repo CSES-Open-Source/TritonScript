@@ -1,0 +1,27 @@
+{
+  "code": "SE 171",
+  "title": "Aerospace Structures Repair",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se171",
+  "description": "Review methods used to repair aerospace structures. Emphasis on primary load-bearing airframe structures and analysis/design of substantiate repairs. Identification of structural/corrosion distress, fatigue cracking, damage tolerance, integrity and durability of built-up members, patching, health monitoring. Use of computer resources. Prerequisites: SE 110A or MAE 131A and SE 110B or MAE 131B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SE 110A",
+          "MAE 131A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SE 110B",
+          "MAE 131B"
+        ]
+      }
+    ]
+  }
+}

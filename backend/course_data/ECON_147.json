@@ -1,0 +1,27 @@
+{
+  "code": "ECON 147",
+  "title": "Economics of Education",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ147",
+  "description": "Examination of issues in education using theoretical and empirical approaches from economics. Analysis of decisions to invest in education. Consideration of various market structures in education, including school choice and school finance programs. Prerequisites: ECON 2 or 100A; and ECON 120B or MATH 181B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "ECON 2",
+          "ECON 100A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "ECON 120B",
+          "MATH 181B"
+        ]
+      }
+    ]
+  }
+}

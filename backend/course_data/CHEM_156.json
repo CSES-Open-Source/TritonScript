@@ -1,0 +1,16 @@
+{
+  "code": "CHEM 156",
+  "title": "Structure and Properties of Organic Molecules",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem156",
+  "description": "Introduction to the measurement and theoretical correlation of the physical properties of organic molecules. Topics covered include molecular geometry, molecular-orbital theory, orbital hybridization, aromaticity, chemical reactivity, stereochemistry, infrared and electronic spectra, photochemistry, and nuclear magnetic resonance. May be coscheduled with CHEM 256. Prerequisites: CHEM 40C, 40CH, or 41C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 40C",
+      "CHEM 40CH",
+      "CHEM 41C"
+    ]
+  }
+}

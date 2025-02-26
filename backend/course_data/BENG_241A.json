@@ -1,0 +1,12 @@
+{
+  "code": "BENG 241A",
+  "title": "Tissue Engineering and Regenerative Medicine: Foundations",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng241a",
+  "description": "Overview and foundations of tissue engineering and regenerative medicine. Tissue structure, function, and dynamics in health and disease. Cells, microenvironment, extracellular matrix, and biomaterials as components of engineered tissues and organs. Functional goals, design, testing, and evaluation of therapies. Prerequisites: graduate standing. (F)",
+  "successors": [
+    "BENG 241B",
+    "BENG 241C"
+  ]
+}

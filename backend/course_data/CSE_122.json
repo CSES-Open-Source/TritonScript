@@ -1,0 +1,34 @@
+{
+  "code": "CSE 122",
+  "title": "Wireless Networks",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse122",
+  "description": "This course covers the design, operation, and use of wireless technologies, with emphasis on how physical resource constraints and application constraints meet to affect link, network, system, and application design, with hands-on experience in multiple technologies. May be coscheduled with CSE 222C. Recommended preparation: Basics of software engineering, modular design, data structures, physical (in-memory) representation of data structures, code compilation, build systems, version control, debuggers, C code, and pointer manipulation in C. Prerequisites: CSE 30 or ECE 30 and CSE 101 or ECE 141A and CSE 110 or ECE 141B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CSE 30",
+          "ECE 30"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CSE 101",
+          "ECE 141A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CSE 110",
+          "ECE 141B"
+        ]
+      }
+    ]
+  }
+}

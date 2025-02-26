@@ -1,0 +1,15 @@
+{
+  "code": "LIHI 1DX",
+  "title": "Analysis of Hindi",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lihi1dx",
+  "description": "Presentation and practice of the basic grammatical structures needed for oral and written communication and for reading. This course is taught entirely in Hindi. Must be taken in conjunction with LIHI 1D. Prerequisites: LIHI 1C with a grade of C\u2013 or better, or equivalent and LIHI 1CX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIHI 1C",
+      "LIHI 1CX"
+    ]
+  }
+}

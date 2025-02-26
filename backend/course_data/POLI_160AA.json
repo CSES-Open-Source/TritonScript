@@ -1,0 +1,18 @@
+{
+  "code": "POLI 160AA",
+  "title": "Introduction to Policy Analysis",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli160aa",
+  "description": "(Same as USP 101) This course will explore the process by which the preferences of individuals are converted into public policy. Also included will be an examination of the complexity of policy problems, methods for designing better policies, and a review of tools used by analysts and policy makers. Prerequisites: POLI 10 or 11.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "POLI 10",
+      "POLI 11"
+    ]
+  },
+  "successors": [
+    "POLI 160AB"
+  ]
+}

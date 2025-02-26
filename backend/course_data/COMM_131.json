@@ -1,0 +1,22 @@
+{
+  "code": "COMM 131",
+  "title": "Communication, Dissent, and the Formation of Social Movements",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm130",
+  "description": "Emergence of dissent in different societies, and relationship of dissent to movements of protest and social change. Movements studied include media concentration, antiwar, antiglobalization, death penalty, national liberation, and labor. Survey of dissenting voices seeking to explain the relationship of ideas to collective action and outcomes. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "BIMM 122",
+  "title": "Microbial Genetics",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm122",
+  "description": "Course will consider the organization and function of prokaryotic genomes including content, DNA supercoiling, histone-like proteins, chromosomal dynamics (short-term and long-term), extrachromosomal elements, bacterial sex, transduction, transformation, mobile elements (transposon), epigenetic change, adaptive and directed mutation, transcription and its regulation, sensory transduction, bacterial differentiation, symbiosis, and pathogenesis. Prerequisites: BIMM 100.",
+  "prereqs": "BIMM 100"
+}

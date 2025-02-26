@@ -1,0 +1,29 @@
+{
+  "code": "GLBH 102",
+  "title": "Global Health Epidemiology",
+  "units": "4",
+  "dept": "GLBH",
+  "anchor": "glbh102",
+  "description": "This course will address basic epidemiology principles, concepts, and procedures that are used in investigation of health-related states or events from a global perspective. Explores study designs and methods appropriate for studies of incidence and prevalence, causality and prevention, with emphasis on research in resource-poor settings. Prerequisites: COGS 14B or MATH 11 or PSYC 60 and GLBH 20 or FMPH 40 and GLBH 181.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "COGS 14B",
+          "MATH 11",
+          "PSYC 60"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "GLBH 20",
+          "FMPH 40"
+        ]
+      },
+      "GLBH 181"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "code": "COGS 121",
+  "title": "Human Computer Interaction Portfolio Design Studio",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs121",
+  "description": "Create a personal portfolio of web/mobile/product design projects, oral presentations, and practice pitches to stakeholders. Prerequisites: COGS 120 or CSE 170 and COGS 18 or CSE 8B or CSE 11 or DSC 30.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "COGS 120",
+          "CSE 170"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "COGS 18",
+          "CSE 8B",
+          "CSE 11",
+          "DSC 30"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "COGS 124",
+    "COGS 126",
+    "CSE 118"
+  ]
+}

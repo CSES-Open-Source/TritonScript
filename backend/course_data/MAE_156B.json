@@ -1,0 +1,23 @@
+{
+  "code": "MAE 156B",
+  "title": "Fundamental Principles of Mechanical Design II",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae156b",
+  "description": "Fundamental principles of mechanical design and the design process. Culmination of a team design project initiated in MAE 156A which results in a working prototype designed for a real engineering application. Prerequisites: MAE 156A in the immediately preceding quarter, MAE 101C, MAE 143B, and MAE 160 or MAE 131B. Open to major codes MC 27 and MC 30\u201334 only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 156A",
+      "MAE 101C",
+      "MAE 143B",
+      {
+        "type": "one",
+        "courses": [
+          "MAE 160",
+          "MAE 131B"
+        ]
+      }
+    ]
+  }
+}

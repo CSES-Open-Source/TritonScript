@@ -1,0 +1,11 @@
+{
+  "code": "USP 179",
+  "title": "Urban Design, Theory, and Practice",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp179",
+  "description": "Roles of the urban designer, preparing schematic proposals and performance statements, identifying opportunities for and constraints on designers. Each student will prepare a practical exercise in urban design using various urban design methods. Prerequisites: upper-division standing or consent of instructor.",
+  "successors": [
+    "USP 177B"
+  ]
+}

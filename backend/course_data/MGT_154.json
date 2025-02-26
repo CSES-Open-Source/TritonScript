@@ -1,0 +1,9 @@
+{
+  "code": "MGT 154",
+  "title": "Advanced Business Research",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt154",
+  "description": "When considering complex business problems, research is often undertaken as a means of aiding decision-making. This course gives an in-depth look at the business research process, including methods of qualitative and quantitative research. Students learn about the design and execution of business analytics (including common descriptive and predictive models), and how models are selected, executed, and evaluated, with focus on extracting impactful information to aid in making informed decisions. Prerequisites: MGT 153, department approval required, upper-division standing.",
+  "prereqs": "MGT 153"
+}

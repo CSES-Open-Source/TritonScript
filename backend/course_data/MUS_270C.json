@@ -1,0 +1,11 @@
+{
+  "code": "MUS 270C",
+  "title": "Compositional Algorithms",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus270c",
+  "description": "Transformations in musical composition; series and intervallic structures; serial approaches to rhythm and dynamic. The stochastic music of Xenakis and Cage. Hiller\u2019s automatic composition. Improvisational models. Computer analysis of musical style. Neurally inspired and other quasiparallel algorithms. Prerequisites: consent of instructor.",
+  "successors": [
+    "MUS 270D"
+  ]
+}

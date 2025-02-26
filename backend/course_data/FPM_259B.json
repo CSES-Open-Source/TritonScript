@@ -1,0 +1,12 @@
+{
+  "code": "FPM 259B",
+  "title": "Applied Epidemiology\u2014Scientific Writing",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fpm259b",
+  "description": "Students will learn the principles of scientific writing, review examples of scientific literature, and then complete a manuscript suitable for publication based on their project from FPM 259A. May be taken for credit two times. Prerequisites: Joint Doctoral Program in Public Health graduate student, FPM 259A.",
+  "prereqs": "FPM 259A",
+  "successors": [
+    "FPM 259C"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "code": "DSC 161",
+  "title": "Text as Data",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc161",
+  "description": "This class explores statistical and computational methods to enable students to use text as a data source in the social sciences. Hands-on examples will equip students to work with text data in final projects. Prerequisites: ECON 5 or POLI 170A or POLI 171 or POLI 30 or POLI 30D or POLI 5 or POLI 5D. Students will not receive credit for both POLI 176 and DSC 161. Restricted to junior and senior level students. Restricted to students with upper-division standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 5",
+      "POLI 170A",
+      "POLI 171",
+      "POLI 30",
+      "POLI 30D",
+      "POLI 5",
+      "POLI 5D"
+    ]
+  }
+}

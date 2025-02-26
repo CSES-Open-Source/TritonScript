@@ -1,0 +1,11 @@
+{
+  "code": "MGT 403",
+  "title": "Business Analytics for Managers",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt403",
+  "description": "Through lecture and online delivery, students will be introduced to key techniques for using data to make informed management decisions. Covers probability, statistics, decision analysis, and optimization techniques. Emphasizes managerial applications in such areas as operations management, marketing, and finance. Letter grades only. Students will not receive credit for both MGT 403 and MGT 403R. Prerequisites: MBA student or instructor approval or department approval.",
+  "successors": [
+    "MGT 432"
+  ]
+}

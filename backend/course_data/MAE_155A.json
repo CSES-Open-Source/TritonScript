@@ -1,0 +1,34 @@
+{
+  "code": "MAE 155A",
+  "title": "Aerospace Engineering Design I",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae155a",
+  "description": "Fundamental principles of aerospace vehicle design including the conceptual, preliminary, and detailed design phases. Aeronautical or astronautical design project that integrates all appropriate engineering disciplines as well as issues associated with optimization, teamwork, manufacturability, reporting, and professionalism. Prerequisites: MAE 2, MAE 21, or SE 2 or SE 104, MAE 104, MAE 30B or MAE 130C, and SE 160A, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MAE 2",
+          "MAE 21",
+          "SE 2",
+          "SE 104"
+        ]
+      },
+      "MAE 104",
+      {
+        "type": "one",
+        "courses": [
+          "MAE 30B",
+          "MAE 130C"
+        ]
+      },
+      "SE 160A"
+    ]
+  },
+  "successors": [
+    "MAE 155B"
+  ]
+}

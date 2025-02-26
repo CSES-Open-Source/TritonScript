@@ -1,0 +1,30 @@
+{
+  "code": "MATH 121A",
+  "title": "Foundations of Teaching and Learning Mathematics I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math121a",
+  "description": "Develop teachers\u2019 knowledge base (knowledge of mathematics content, pedagogy, and student learning) in the context of advanced mathematics. This course builds on the previous courses where these components of knowledge were addressed exclusively in the context of high-school mathematics. Prerequisites: EDS 30/MATH 95 and MATH 31CH or MATH 109. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "EDS 30",
+          "MATH 95"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 31CH",
+          "MATH 109"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MATH 121B"
+  ]
+}

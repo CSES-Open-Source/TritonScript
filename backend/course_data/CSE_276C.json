@@ -1,0 +1,8 @@
+{
+  "code": "CSE 276C",
+  "title": "Mathematics for Robotics",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse276c",
+  "description": "The course will provide a comprehensive introduction to the key mathematical concepts used for modeling, implementing, and evaluation of robot systems. The course will use small home assignments tasks and a larger robot project to exercise the topics covered in class. The students should have a basic knowledge of mathematics and know one or more programming languages such as Python or MATLAB for completion of homework assignments. Prerequisites: graduate standing."
+}

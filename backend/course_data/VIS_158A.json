@@ -1,0 +1,15 @@
+{
+  "code": "VIS 158A",
+  "title": "Topics in Contemporary Photography",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis158a",
+  "description": "Current topics of debate in art and documentary photography will be explored through the study of contemporary exhibitions, artist books, publications, and theory. We may also focus on the practice of a select few contemporary photographers to consider the aesthetic/political/social aspects of their work and their impacts on the field of cultural production. The class will include visits to local museums and art spaces when photo exhibitions are on view. Prerequisites: VIS 60 or VIS 83.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 60",
+      "VIS 83"
+    ]
+  }
+}

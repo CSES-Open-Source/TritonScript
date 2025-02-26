@@ -1,0 +1,16 @@
+{
+  "code": "VIS 169A",
+  "title": "Photography in Exhibition and Artist Books",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis169a",
+  "description": "Focus on the preparation of photography for exhibition, including artist books, portfolios, or experimental and hybrid forms. How does exhibition and publishing contribute to the meaning and reception of photo-based work? Class includes workshops on file finishing and printing, framing, zine and artist bookmaking, and more. Students will visit exhibits in the San Diego-Los Angeles area. Students should have work-in-progress to examine. Program or materials fees may apply. Two production-course limitation. Prerequisites: VIS 165 or VIS 165A or VIS 165B. Open to media, studio, and ICAM majors and photography and digital film production minors.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 165",
+      "VIS 165A",
+      "VIS 165B"
+    ]
+  }
+}

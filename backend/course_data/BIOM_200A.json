@@ -1,0 +1,15 @@
+{
+  "code": "BIOM 200A",
+  "title": "Molecules to Organisms: Concepts",
+  "units": "6",
+  "dept": "BIOM",
+  "anchor": "biom200a",
+  "description": "This course provides a systematic approach to current biomedical research, using analysis of selected topics to focus on the process of research discovery and its critical evaluation. The course progresses through five thematic modules that cover genes, building a cell, cellular responses, organogenesis, and the processes that allow survival in the world. Prerequisites: limited to BMS graduate students except by consent of instructor.",
+  "successors": [
+    "BIOM 226",
+    "BIOM 252",
+    "BIOM 253",
+    "BIOM 254",
+    "BIOM 255"
+  ]
+}

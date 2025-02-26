@@ -1,0 +1,16 @@
+{
+  "code": "SE 140B",
+  "title": "Design of Civil Structures II",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se140b",
+  "description": "Part II of multidisciplinary team experience to design, analyze, build, and test civil/geotechnical engineering components and systems considering codes, regulations, alternative design solutions, economics, sustainability, constructability, reliability, and aesthetics. Professionalism, technical communication, project management, teamwork, and ethics in engineering practice. Use of computer resources. Program or materials fees may apply. Prerequisites: SE 140A, SE 151A, and SE 181.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SE 140A",
+      "SE 151A",
+      "SE 181"
+    ]
+  }
+}

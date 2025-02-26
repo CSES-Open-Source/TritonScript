@@ -1,0 +1,12 @@
+{
+  "code": "LISL 1AX",
+  "title": "Analysis of American Sign Language",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lisl1ax",
+  "description": "Study of American Sign Language (ASL) and analysis of its syntactic, morphological, and phonological features. Readings and discussions of cultural information. The course is taught entirely in ASL. Must be taken with LISL 1A. Prerequisites: no prior study of ASL.",
+  "successors": [
+    "LISL 1B",
+    "LISL 1BX"
+  ]
+}

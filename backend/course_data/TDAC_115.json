@@ -1,0 +1,9 @@
+{
+  "code": "TDAC 115",
+  "title": "Movement for Actors",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdac115",
+  "description": "An exploration of the wide array of physical skills necessary for the actor. Using techniques derived from mime, clowning, sports, acrobatics, and improvisation, students will investigate their individual physical potential as well as their sense of creativity and imagination. Prerequisites: THAC or TDAC 101.",
+  "prereqs": "TDAC 101"
+}

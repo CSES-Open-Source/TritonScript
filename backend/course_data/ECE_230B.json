@@ -1,0 +1,9 @@
+{
+  "code": "ECE 230B",
+  "title": "Solid State Electronics II",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece230b",
+  "description": "Physics of solid-state electronic devices, including p-n diodes, Schottky diodes, field-effect transistors, bipolar transistors, pnpn structures. Computer simulation of devices, scaling characteristics, high frequency performance, and circuit models. Prerequisites: ECE 230A; graduate standing.",
+  "prereqs": "ECE 230A"
+}

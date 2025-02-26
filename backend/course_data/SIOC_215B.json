@@ -1,0 +1,19 @@
+{
+  "code": "SIOC 215B",
+  "title": "Applied Mathematics for Oceanographers II",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc215b",
+  "description": "An introduction to the mathematical description of waves, beginning with a description of the linear oscillator, and followed by normal modes, the flexible string, membranes, water waves, ray theory, method of characteristics, and basic linear algebra. Prerequisites: graduate standing and SIOC 215A or SIO 215A or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIOC 215A",
+      "SIO 215A"
+    ]
+  },
+  "successors": [
+    "SIOC 203C",
+    "SIOC 215C"
+  ]
+}

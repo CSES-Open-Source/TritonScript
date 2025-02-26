@@ -1,0 +1,31 @@
+{
+  "code": "MATH 150A",
+  "title": "Differential Geometry",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math150a",
+  "description": "Differential geometry of curves and surfaces. Gauss and mean curvatures, geodesics, parallel displacement, Gauss-Bonnet theorem. Prerequisites: MATH 20E or MATH 31CH and either MATH 18 or MATH 20F or MATH 31AH. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20E",
+          "MATH 31CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MATH 150B"
+  ]
+}

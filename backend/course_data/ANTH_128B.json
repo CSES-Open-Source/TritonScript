@@ -1,0 +1,15 @@
+{
+  "code": "ANTH 128B",
+  "title": "Climate Action Scholars: Capstone Project",
+  "units": "6",
+  "dept": "ANTH",
+  "anchor": "anth128b",
+  "description": "In the second course of this series, students will deepen and apply their knowledge of the diverse ways the climate crisis manifests and interacts with local conditions and histories of inequity and injustice. Students will continue to participate in collaborative learning and community-based research. In addition, they will develop and implement a capstone, \u201cclimate action project,\u201d in collaboration with local community partners. Prerequisites: ANTH 128A or USP 128A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ANTH 128A",
+      "USP 128A"
+    ]
+  }
+}

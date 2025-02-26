@@ -1,0 +1,12 @@
+{
+  "code": "SE 272",
+  "title": "Theory of Elasticity",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se272",
+  "description": "Development, formulation, and application of field equations of elasticity and variational principles for structural applications in civil and aerospace area. Use of plane stress and plane strain formulation, solution of typical boundary value problems. Prerequisites: SE 271 or consent of instructor.",
+  "prereqs": "SE 271",
+  "successors": [
+    "MAE 231C"
+  ]
+}

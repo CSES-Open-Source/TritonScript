@@ -1,0 +1,11 @@
+{
+  "code": "MATH 237A",
+  "title": "Topics in Differential Equations",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math237a",
+  "description": "Introduction to varied topics in differential equations. In recent years, topics have included Riemannian geometry, Ricci flow, and geometric evolution. May be taken for credit six times with consent of adviser as topics vary. Prerequisites: graduate standing. Nongraduate students may enroll with consent of instructor.",
+  "successors": [
+    "MATH 237B"
+  ]
+}

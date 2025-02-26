@@ -1,0 +1,16 @@
+{
+  "code": "BIMM 116",
+  "title": "Circadian Rhythms\u2014Biological Clocks",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm116",
+  "description": "(Cross-listed with Psych 133; however, biology majors must take the course as BIMM 116.) This interdisciplinary course provides an overview of the fundamental properties of daily biological clocks of diverse species, from humans to microbes. Emphasis is placed on the relevance of internal time keeping in wide-ranging contexts including human performance, health, and industry. Prerequisites: BILD 1 or COGS 107B or PSYC 106. Students may receive credit for one of the following: BIMM 116, BIMM 116R, PSYC 133, or PSYC 133R.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BILD 1",
+      "COGS 107B",
+      "PSYC 106"
+    ]
+  }
+}

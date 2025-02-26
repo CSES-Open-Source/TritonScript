@@ -1,0 +1,15 @@
+{
+  "code": "ECE 265A",
+  "title": "Communication Circuit Design I",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece265a",
+  "description": "Introduction to noise and linearity concepts. System budgeting for optimum dynamic range. Frequency plan tradeoffs. Linearity analysis techniques. Down-conversion and up-conversion techniques. Modulation and demodulation. Microwave and RF system design communications. Current research topics in the field. Prerequisites: ECE 166 or consent of instructor; graduate standing.",
+  "prereqs": "ECE 166",
+  "successors": [
+    "ECE 265B",
+    "ECE 265C",
+    "ECE 265D",
+    "ECE 266"
+  ]
+}

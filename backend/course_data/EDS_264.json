@@ -1,0 +1,11 @@
+{
+  "code": "EDS 264",
+  "title": "Introduction to Qualitative Analysis",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds264",
+  "description": "This course provides an introduction to qualitative approaches in education research. Students explore various qualitative methods and analytic strategies and gain hands-on experiences analyzing qualitative data collected on topics relevant to the study of education. The assigned readings include scholarship on the philosophical underpinnings and practice of qualitative research and varied examples of published qualitative research studies. Prerequisites: ED82 major or consent of instructor.",
+  "successors": [
+    "EDS 256"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "CSE 282",
+  "title": "Bioinformatics II: Sequence and Structure Analysis\u2014Methods and Applications",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse282",
+  "description": "(Formerly CSE 257A/BENG 202.) Introduction to methods for sequence analysis. Applications to genome and proteome sequences. Protein structure, sequence-structure analysis. Prerequisites: Pharm 201 or consent of instructor.",
+  "successors": [
+    "BENG 203",
+    "CSE 283"
+  ]
+}

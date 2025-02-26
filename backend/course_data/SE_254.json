@@ -1,0 +1,9 @@
+{
+  "code": "SE 254",
+  "title": "FRPs in Civil Structures",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se254",
+  "description": "Strengthening of existing reinforced concrete structures with fiber reinforced composites. Mechanics of Fiber Reinforced Plastic lamina, bond strength of FRP-to-concrete joints, shear and flexural strengthening of beams and walls, increased strength and ductility of axially loaded columns, and seismic retrofit of columns. Use of computer resources. Prerequisites: SE 253A, graduate standing.",
+  "prereqs": "SE 253A"
+}

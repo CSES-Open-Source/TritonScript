@@ -1,0 +1,49 @@
+{
+  "code": "ASTR 152",
+  "title": "Observational Radio Research Lab",
+  "units": "4",
+  "dept": "ASTR",
+  "anchor": "astr152",
+  "description": "Laboratory course designed to provide hands-on experience in radio astronomy through learning the fundamentals of working with common radio astronomy equipment, astronomical observations, and data analysis techniques. Students learn fundamental concepts about radio signal receivers, how they are built, and how to gather their own data. Students will learn data analysis techniques that are utilized by radio astronomers in interpreting observations. Prerequisites: PHYS 2A or PHYS 2AR or PHYS 4A and PHYS 2B or PHYS 4B and PHYS 2C or PHYS 4C and PHYS 2D or PHYS 4D and PHYS 2D or PHYS 4E.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 2AR",
+          "PHYS 4A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2B",
+          "PHYS 4B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2C",
+          "PHYS 4C"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2D",
+          "PHYS 4D"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2D",
+          "PHYS 4E"
+        ]
+      }
+    ]
+  }
+}

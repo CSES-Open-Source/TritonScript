@@ -1,0 +1,20 @@
+{
+  "code": "ECE 265B",
+  "title": "Communication Circuit Design II",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece265b",
+  "description": "Radio frequency integrated circuits: low-noise amplifiers, AGCs, mixers, filters, voltage-controlled oscillators. BJT and CMOS technologies for radio frequency and microwave applications. Device modeling for radio frequency applications. Design and device tradeoffs of linearity, noise, power dissipation, and dynamic range. Current research topics in the field. Prerequisites: ECE 166 and ECE 265A or consent of instructor; graduate standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 166",
+      "ECE 265A"
+    ]
+  },
+  "successors": [
+    "ECE 265C",
+    "ECE 265D",
+    "ECE 266"
+  ]
+}

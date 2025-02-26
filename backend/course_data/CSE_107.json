@@ -1,0 +1,25 @@
+{
+  "code": "CSE 107",
+  "title": "Introduction to Modern Cryptography",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse107",
+  "description": "Topics include private and public-key cryptography, block ciphers, data encryption, authentication, key distribution and certification, pseudorandom number generators, design and analysis of protocols, zero-knowledge proofs, and advanced protocols. Emphasizes rigorous mathematical approach including formal definitions of security goals and proofs of protocol security. Prerequisites: CSE 21 or MATH 154 or MATH 158 or MATH 184 or MATH 188 and CSE 101 and CSE 105; restricted to students within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CSE 21",
+          "MATH 154",
+          "MATH 158",
+          "MATH 184",
+          "MATH 188"
+        ]
+      },
+      "CSE 101",
+      "CSE 105"
+    ]
+  }
+}

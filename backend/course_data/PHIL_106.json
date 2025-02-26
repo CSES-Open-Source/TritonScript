@@ -1,0 +1,19 @@
+{
+  "code": "PHIL 106",
+  "title": "Kant",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil106",
+  "description": "A study of selected portions of The Critique of Pure Reason and other theoretical writings and/or his major works in moral theory. May be repeated for credit with change in content and approval of the instructor. Prerequisites: PHIL 32 or 33 or 104 or 105 or 111 or 112 or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "PHIL 32",
+      "PHIL 33",
+      "PHIL 104",
+      "PHIL 105",
+      "PHIL 111",
+      "PHIL 112"
+    ]
+  }
+}

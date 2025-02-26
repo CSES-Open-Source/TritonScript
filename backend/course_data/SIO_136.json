@@ -1,0 +1,16 @@
+{
+  "code": "SIO 136",
+  "title": "Marine Biology Laboratory",
+  "units": "6",
+  "dept": "SIO",
+  "anchor": "sio136",
+  "description": "Introductory laboratory course in current principles and techniques applicable to research problems in marine biology. Field component includes introduction to intertidal, salt marsh, or other marine ecosystems. Program or materials fees may apply. Prerequisites: BILD 3, SIO 132, and SIO 134, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 3",
+      "SIO 132",
+      "SIO 134"
+    ]
+  }
+}

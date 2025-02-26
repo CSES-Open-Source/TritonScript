@@ -1,0 +1,62 @@
+{
+  "code": "ECE 109",
+  "title": "Engineering Probability and Statistics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece109",
+  "description": "Axioms of probability, conditional probability, theorem of total probability, random variables, densities, expected values, characteristic functions, transformation of random variables, central limit theorem. Random number generation, engineering reliability, elements of estimation, random sampling, sampling distributions, tests for hypothesis. One unit of credit given if taken after MAE 108, MATH 180A, MATH 180B, MATH 183, MATH 186, or ECON 120A. Prerequisites: MATH 20A-B, MATH 20D, MATH 20C or MATH 31BH, and MATH 31AH or MATH 18.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20A",
+      "MATH 20B",
+      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 31AH",
+          "MATH 18"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "COGS 118B",
+    "CSE 150A",
+    "CSE 150B",
+    "CSE 151A",
+    "CSE 151B",
+    "CSE 156",
+    "CSE 158",
+    "CSE 158R",
+    "DSC 140A",
+    "DSC 140B",
+    "DSC 148",
+    "ECE 153",
+    "ECE 155",
+    "ECE 157A",
+    "ECE 158A",
+    "ECE 175A",
+    "ECON 120B",
+    "ECON 129",
+    "ECON 171",
+    "ECON 172A",
+    "ECON 190",
+    "MAE 146",
+    "MATH 181D",
+    "MATH 181F",
+    "MATH 189",
+    "MGT 151R",
+    "MGT 153",
+    "MGT 160",
+    "MGT 180",
+    "MGT 180R"
+  ]
+}

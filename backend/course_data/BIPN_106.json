@@ -1,0 +1,17 @@
+{
+  "code": "BIPN 106",
+  "title": "Comparative Physiology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn106",
+  "description": "This course examines the physiological adaptation of animals, invertebrates and vertebrates, to their particular environmental and behavioral niches. Structural, functional, and molecular adaptations of the basic organ systems are discussed. Prerequisites: BILD 2, CHEM 6A-B-C. BILD 3 is recommended.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 2",
+      "CHEM 6A",
+      "CHEM 6B",
+      "CHEM 6C"
+    ]
+  }
+}

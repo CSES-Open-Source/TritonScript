@@ -1,0 +1,8 @@
+{
+  "code": "SE 269",
+  "title": "Verification and Validation of Computational Models",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se269",
+  "description": "This course covers methods to verify and validate numerical simulations, including the analysis of verification tests, asymptotic convergence of solutions, validation metrics for test-analysis correlation, global sensitivity analysis, propagation of uncertainty through numerical models, and model calibration. Prerequisites: department approval required, graduate standing."
+}

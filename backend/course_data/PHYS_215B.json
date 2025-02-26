@@ -1,0 +1,14 @@
+{
+  "code": "PHYS 215B",
+  "title": "Quantum Fields II",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys215b",
+  "description": "Continued introduction to quantum fields including quantum loop contributions, renormalization, and the renormalization group. Additional topics including e.g., effective field theory, consequences of unitarity, operator product expansion, Anderson Higgs mechanism (abelian case). Prerequisites: PHYS 215A.",
+  "prereqs": "PHYS 215A",
+  "successors": [
+    "PHYS 215C",
+    "PHYS 215D",
+    "PHYS 237"
+  ]
+}

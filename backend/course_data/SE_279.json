@@ -1,0 +1,15 @@
+{
+  "code": "SE 279",
+  "title": "Meshfree Methods for Linear and Nonlinear Mechanics",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se279",
+  "description": "Meshfree approximation theories (moving least-squares, reproducing kernel, partition of unity, radial basis), Galerkin meshfree methods, collocation meshfree methods, imposition of boundary conditions, domain integration, stability, nonlinear meshfree method for hyperelasticity and plasticity, meshfree methods for fracture and plate/shell problems.\u00a0Prerequisites: SE 276A or MAE 232A, graduate standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SE 276A",
+      "MAE 232A"
+    ]
+  }
+}

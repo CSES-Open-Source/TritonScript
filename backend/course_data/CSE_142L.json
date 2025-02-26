@@ -1,0 +1,22 @@
+{
+  "code": "CSE 142L",
+  "title": "Software Project for Computer Architecture",
+  "units": "2",
+  "dept": "CSE",
+  "anchor": "cse142l",
+  "description": "This course provides hands-on experience in using the features of modern CPUs to increase the performance and efficiency of programs. Prerequisites: CSE 30 and CSE 100 or CSE 100R; CSE 142 should be taken concurrently. Restricted to students within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CSE 30",
+      {
+        "type": "one",
+        "courses": [
+          "CSE 100",
+          "CSE 100R"
+        ]
+      }
+    ]
+  },
+  "coreqs": "CSE 142"
+}

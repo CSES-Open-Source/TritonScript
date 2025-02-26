@@ -1,0 +1,27 @@
+{
+  "code": "SIOC 221C",
+  "title": "Data Analysis Laboratory",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc221c",
+  "description": "This course is to give students practical experience with analysis techniques. Students complete three projects. Topics include empirical orthogonal functions, objective mapping, complex demodulation, inference of geostrophic flow, minimization of CTD salinity spiking, isolation of wind-driven currents, wavelets. Prerequisites: SIOC 221A or SIO 221A and SIOC 221B or SIO 221B or consent of instructor. (S/U grades only.)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SIOC 221A",
+          "SIO 221A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SIOC 221B",
+          "SIO 221B"
+        ]
+      }
+    ]
+  }
+}

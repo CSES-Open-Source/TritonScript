@@ -1,0 +1,27 @@
+{
+  "code": "SIO 174",
+  "title": "Chemistry of the Atmosphere and Oceans",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio174",
+  "description": "An introduction to chemical compounds and their biogeochemical cycles in the oceans and atmosphere, with emphasis on climate issues like ocean acidification, greenhouse gases and the carbon cycle, other biogeochemical cycles, chlorofluorocarbons and the ozone hole, urban pollutants and their photochemistry, and aerosol particles and their effects on clouds. Prerequisites: CHEM 6C or CHEM 6CH and MATH 20C or MATH 31BH or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6C",
+          "CHEM 6CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  }
+}

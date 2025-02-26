@@ -1,0 +1,16 @@
+{
+  "code": "HDS 120",
+  "title": "Language Development",
+  "units": "4",
+  "dept": "HDS",
+  "anchor": "hds120",
+  "description": "Examination of children\u2019s acquisition of language from babbling to the formation of sentences. Topics covered include prelinguistic gestures, relationships between babbling and sound systems, speech perception, linking words with objects, rule overgeneralization, bilingualism, nature vs. nurture, individual differences, and cultural differences. Renumbered from HDP 120. Students may not receive credit for HDP 120 and HDS 120. Prerequisites: HDP 1 or HDS 1 or LIGN 4.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "HDP 1",
+      "HDS 1",
+      "LIGN 4"
+    ]
+  }
+}

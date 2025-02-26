@@ -1,0 +1,22 @@
+{
+  "code": "MATH 102",
+  "title": "Applied Linear Algebra",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math102",
+  "description": "Second course in linear algebra from a computational yet geometric point of view. Elementary Hermitian matrices, Schur\u2019s theorem, normal matrices, and quadratic forms. Moore-Penrose generalized inverse and least square problems. Vector and matrix norms. Characteristic and singular values. Canonical forms. Determinants and multilinear algebra. Prerequisites: MATH 18 or MATH 20F or MATH 31AH and MATH 20C. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      },
+      "MATH 20C"
+    ]
+  }
+}

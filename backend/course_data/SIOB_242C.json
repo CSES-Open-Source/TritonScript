@@ -1,0 +1,27 @@
+{
+  "code": "SIOB 242C",
+  "title": "Marine Biotechnology III: Introduction to Bioinformatics",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siob242c",
+  "description": "Introduction to Unix commands and scripting techniques required for command line interaction with open source bioinformatics tools, including installation, configuration, and use for genome and transcriptome sequencing and assembly, gene expression analysis, and DNA- and RNA-binding protein binding site identification through ChIPseq. Emphasis is on how the bioinformatics tools work, how to use them, and their application to DNA and RNA data sets. Recommended preparation: prior programming skills will help the student gain more from the course. Students may not receive credit for SIO 242C if they have previously taken SIO 242. Prerequisites: SIOB 242A or SIO 242A and SIOB 242B or SIO 242B or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SIOB 242A",
+          "SIO 242A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SIOB 242B",
+          "SIO 242B"
+        ]
+      }
+    ]
+  }
+}

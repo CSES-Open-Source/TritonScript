@@ -1,0 +1,22 @@
+{
+  "code": "COMM 120P",
+  "title": "AMP: Digital Media in Education",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm120p",
+  "description": "This course develops critical understanding of educational uses of digital media through firsthand experience in public educational settings, and readings/discussions of challenges, benefits, and pitfalls of educational applications of media technology. Three hours/week of fieldwork required. Prerequisites: COMM 10 and two from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "two",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

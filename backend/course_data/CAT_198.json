@@ -1,0 +1,16 @@
+{
+  "code": "CAT 198",
+  "title": "Culture, Art, and Technology Directed Group Studies",
+  "units": "4",
+  "dept": "CAT",
+  "anchor": "cat198",
+  "description": "Directed group studies or, in group, field studies of a creative project. Designated for Sixth College students to have the opportunity to work together as a group or team on a project supervised by a faculty member in a specific department, not included in a regular curriculum, where group emphasis would be more beneficial and constructive than individual special studies. May be taken for credit three times. Prerequisites: upper-division standing; completion of lower-division writing sequence through taking CAT 1, CAT 2, and CAT 3 by students who entered as first-years, or through equivalent course work by transfer students.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CAT 1",
+      "CAT 2",
+      "CAT 3"
+    ]
+  }
+}

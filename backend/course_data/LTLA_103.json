@@ -1,0 +1,16 @@
+{
+  "code": "LTLA 103",
+  "title": "Latin Drama",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltla102",
+  "description": "Readings in Latin from Latin drama. May be taken for credit up to four times as topics vary.  Prerequisites:  LTLA 1, 2, and 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LTLA 1",
+      "LTLA 2",
+      "LTLA 3"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "code": "VIS 141A",
+  "title": "Computer Programming for the Arts I",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis141a",
+  "description": "Introduces external APIs currently of interest in the arts, extending a common programming language such as C, C++, Python, or Java, and the basics of TCP/IP networking. Students gain API fluency through planning and coding software or software mediated art projects. Program or materials fees may apply. Two production-course limitation. Prerequisites: VIS 142 and CSE 11 or CSE 8B. Open to ICAM and speculative design majors and computing and the arts and speculative design minors.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "VIS 142",
+      {
+        "type": "one",
+        "courses": [
+          "CSE 11",
+          "CSE 8B"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "VIS 141B"
+  ]
+}

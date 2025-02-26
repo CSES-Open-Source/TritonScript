@@ -1,0 +1,17 @@
+{
+  "code": "SIOC 250",
+  "title": "Advanced Atmospheric Dynamics",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc250",
+  "description": "Advanced topics in atmospheric dynamics not covered in the SIO 217 sequence, including baroclinic instability, mechanisms driving the general circulation of the troposphere and stratosphere, tropical waves, hurricanes and mesoscale phenomena, teleconnections, and spatially coherent patterns of variability. Prerequisites: SIOC 212A or SIO 212A or SIOC 217B or SIO 217B or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIOC 212A",
+      "SIO 212A",
+      "SIOC 217B",
+      "SIO 217B"
+    ]
+  }
+}

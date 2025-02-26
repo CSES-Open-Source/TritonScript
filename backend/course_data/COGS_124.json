@@ -1,0 +1,15 @@
+{
+  "code": "COGS 124",
+  "title": "HCI Technical Systems Research",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs124",
+  "description": "In this advanced project-based course, we study the state-of-the-art in research on technical systems for human-computer interaction (HCI). Students will deconstruct the systems described in top-tier HCI papers and work in teams to create novel technical systems of their own. Prerequisites: COGS 127 or COGS 121.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 127",
+      "COGS 121"
+    ]
+  }
+}

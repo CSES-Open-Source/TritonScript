@@ -1,0 +1,9 @@
+{
+  "code": "MATH 287B",
+  "title": "Multivariate Analysis",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math287b",
+  "description": "Bivariate and more general multivariate normal distribution. Study of tests based on Hotelling\u2019s T2. Principal components, canonical correlations, and factor analysis will be discussed as well as some competing nonparametric methods, such as cluster analysis. Students who have not taken MATH 282A may enroll with consent of instructor. Prerequisites: MATH 282A or consent of instructor.",
+  "prereqs": "MATH 282A"
+}

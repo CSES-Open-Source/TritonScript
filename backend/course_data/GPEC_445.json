@@ -1,0 +1,9 @@
+{
+  "code": "GPEC 445",
+  "title": "Spatial Analysis for Sustainable Development",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpec445",
+  "description": "Organized thematically by the sustainable development goals (SDGs), this course surveys the latest literature employing spatial data or remote sensing to improve SDG monitoring and policy design. As a culminating exercise for the three-course spatial analysis sequence, students will produce a policy advising report for a country\u2019s government, using spatial analysis to propose a public investment plan to put the country on track to meet an SDG. Prerequisites: GPEC 443.",
+  "prereqs": "GPEC 443"
+}

@@ -1,0 +1,8 @@
+{
+  "code": "CSE 276B",
+  "title": "Human Robot Interaction",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse276b",
+  "description": "Robots are entering human spaces. How do we make them functional, useful, and acceptable? This course explores the core computational, engineering, and experimental challenges in human-robot interaction. Course topics include shared autonomy, perception of people and context, coordination, collaboration, human-guided learning, robot design, and experimental robotics. Students will review seminal and recent papers in the field and engage in team-based projects with physical, mobile robots. This class requires expertise in software development. Prior exposure to robotics, computer vision, or machine learning is recommended. Students should be comfortable reading and analyzing scientific papers at the graduate level. Students may not receive credit for CSE 276B and CSE 291 (A00) taught winter 2017 with the same subtitle. Prerequisites: graduate standing."
+}

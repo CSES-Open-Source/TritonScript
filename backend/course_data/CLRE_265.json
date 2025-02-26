@@ -1,0 +1,10 @@
+{
+  "code": "CLRE 265",
+  "title": "Advanced Regression Methods",
+  "units": "2",
+  "dept": "CLRE",
+  "anchor": "clre265",
+  "description": "This course will introduce advanced biostatistical methods including: meta-analysis, smoothing, Poisson and negative binomial regression, ordinal and nominal logistic regression, propensity score analysis, and analysis of time-to-event data with competing risks. Corequisite: CLRE 254. Prerequisites: CLRE 253, admission to the MAS in Clinical Research Program, or consent of department.",
+  "prereqs": "CLRE 253",
+  "coreqs": "CLRE 254"
+}

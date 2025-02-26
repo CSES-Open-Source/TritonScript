@@ -1,0 +1,9 @@
+{
+  "code": "COMM 105G",
+  "title": "CT: Video Game Studies",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm105g",
+  "description": "An introduction to video game studies, an interdisciplinary field that explores the cultural, artistic, educational, and social function of gaming. Examine this medium from historical, industrial, technological, theoretical, and aesthetic perspectives. Read from a wide variety of sources and engage in gameplay and narrative and visual analysis. Prerequisites: COMM 10.",
+  "prereqs": "COMM 10"
+}

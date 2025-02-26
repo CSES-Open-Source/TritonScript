@@ -1,0 +1,15 @@
+{
+  "code": "BIMM 149",
+  "title": "Computation for Biologists",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm149",
+  "description": "Course will provide students with the computational tools and problem-solving skills that are increasingly important to the biosciences. Students learn to program in a modern general-purpose programming language and write their own programs to explore a variety of applications in biology including simulations, sequence analysis, phylogenetics, among others. Students will use their own laptop computers. Prerequisites: BILD 1 and BILD 2.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 2"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "code": "MATH 3B",
+  "title": "Foundations of Precalculus",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math3b",
+  "description": "Introduction to functions and their properties. Polynomial and rational functions. Exponential and logarithmic functions. Trigonometric functions and their properties. Prerequisites: Math Placement Exam qualifying score.",
+  "successors": [
+    "MATH 3C"
+  ]
+}

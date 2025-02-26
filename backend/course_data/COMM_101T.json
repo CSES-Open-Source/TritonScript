@@ -1,0 +1,16 @@
+{
+  "code": "COMM 101T",
+  "title": "MPL: Topics in Production",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm101t",
+  "description": "Specialized study in production with topics to be determined by the instructor for any given quarter. Students will use studio, editing rooms, cameras to construct a variety of in or outside studio productions that can include YouTube, Documentary shorts, Vimeo, with topics that show the effects on social issues. May be taken for credit three times. Prerequisites: COMM 101 or COGN 22 or VIS 70N prerequisites can be taken concurrently by permission.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 101",
+      "COGN 22",
+      "VIS 70N"
+    ]
+  }
+}

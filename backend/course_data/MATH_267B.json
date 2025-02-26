@@ -1,0 +1,9 @@
+{
+  "code": "MATH 267B",
+  "title": "Further Topics in Mathematical Logic",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math267b",
+  "description": "Continued development of a topic in mathematical logic. Topics chosen from recursion theory, model theory, and set theory. May be taken for credit three times with consent of adviser as topics vary. Prerequisites: MATH 267A or consent of instructor. Students who have not completed MATH 267A may enroll with consent of instructor.",
+  "prereqs": "MATH 267A"
+}

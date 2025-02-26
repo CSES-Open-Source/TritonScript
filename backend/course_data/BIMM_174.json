@@ -1,0 +1,21 @@
+{
+  "code": "BIMM 174",
+  "title": "Genomics, Big Data, and Human Health",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm174",
+  "description": "Imagine a world in which you can input your lifestyle and genomic information into an app to obtain personalized health recommendations. This world is not thirty years in the future but beginning to unfold now. Course reviews how genomic advances are revolutionizing health care. Includes recent developments in personalized medicine, disease screening, targeted immunotherapy, pharmacogenomics, and our emerging understanding of how microbiome and epigenetic factors impact health. Prerequisites: BILD 1 and BILD 4 or BIMM 101.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      {
+        "type": "one",
+        "courses": [
+          "BILD 4",
+          "BIMM 101"
+        ]
+      }
+    ]
+  }
+}

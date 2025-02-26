@@ -1,0 +1,41 @@
+{
+  "code": "CSE 105",
+  "title": "Theory of Computability",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse105",
+  "description": "An introduction to the mathematical theory of computability. Formal languages. Finite automata and regular expressions. Push-down automata and context-free languages. Computable or recursive functions: Turing machines, the halting problem. Undecidability. Prerequisites: CSE 12 and CSE 20 or MATH 109 or MATH 15A or MATH 31CH and CSE 21 or MATH 100A or MATH 103A or MATH 154 or MATH 158 or MATH 184 or MATH 188. Graduate students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CSE 12",
+      {
+        "type": "one",
+        "courses": [
+          "CSE 20",
+          "MATH 109",
+          "MATH 15A",
+          "MATH 31CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CSE 21",
+          "MATH 100A",
+          "MATH 103A",
+          "MATH 154",
+          "MATH 158",
+          "MATH 184",
+          "MATH 188"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CSE 107",
+    "CSE 130",
+    "CSE 131",
+    "CSE 200"
+  ]
+}

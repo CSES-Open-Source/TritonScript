@@ -1,0 +1,8 @@
+{
+  "code": "MAE 274",
+  "title": "Model Reduction",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae274",
+  "description": "Students will learn the mathematical tools, theory, and algorithms of model reduction so as to reproduce and predict behaviors in complex systems with low-dimensional models. Covers a wide range of methods and theory: system-theoretic (balanced truncation, transfer-function interpolation), data-driven and projection-based (proper orthogonal decomposition), and model learning approaches (dynamic mode decomposition, operator inference, Loewner-based system identification, eigensystem realization)."
+}

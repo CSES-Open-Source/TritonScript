@@ -1,0 +1,37 @@
+{
+  "code": "PHYS 1BL",
+  "title": "Electricity and Magnetism Laboratory",
+  "units": "2",
+  "dept": "PHYS",
+  "anchor": "phys1bl",
+  "description": "Physics laboratory course to accompany PHYS 1B. Experiments in electricity and magnetism. Program or materials fee may apply. PHYS 1B and 1BL are designed to be taken concurrently but may be taken in separate terms; taking the lecture before the lab is the best alternative to enrolling in both. Prerequisites: PHYS 1A or 2A, 1AL or 2BL, and MATH 10B or 20B. Recommended preparation: concurrent or prior enrollment in PHYS 1B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1A",
+          "PHYS 2A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1AL",
+          "PHYS 2BL"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10B",
+          "MATH 20B"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "PHYS 1CL"
+  ]
+}

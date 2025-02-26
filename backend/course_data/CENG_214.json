@@ -1,0 +1,9 @@
+{
+  "code": "CENG 214",
+  "title": "Nanoscale Physics and Modeling",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng214",
+  "description": "Expanded mathematical analysis of topics introduced in CENG 212. Introduction of both analytical and numerical methods through application to problems in NanoEngineering. Nanoscale systems of interest include colloidal systems, block-copolymer based self-assembled materials, molecular motors made out of DNA, RNA, or proteins, etc. Nanoscale phenomena including self-assembly at the nanoscale, phase separation within confined spaces, diffusion through nanopores and nanoslits, etc. Modeling techniques include quantum mechanics, diffusion and kinetics theories, molecular dynamics, etc. Cross-listed with NANO 204. Students may not receive credit for both CENG 214 and NANO 204. Prerequisites: CENG 212 or consent of instructor.",
+  "prereqs": "CENG 212"
+}

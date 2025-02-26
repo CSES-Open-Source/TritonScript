@@ -1,0 +1,8 @@
+{
+  "code": "SE 286",
+  "title": "Design Optimization for Additive Manufacturing",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se286",
+  "description": "This course will cover the following topics: fundamental mathematical concepts of optimization, constrained optimization, sensitivity analysis, topology optimization methods (SIMP and Level Set Topology Optimization), state of the art topology optimization applications and additive manufacturing methods, and future perspectives. Prerequisites: graduate standing."
+}

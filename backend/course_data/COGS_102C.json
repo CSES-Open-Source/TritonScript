@@ -1,0 +1,13 @@
+{
+  "code": "COGS 102C",
+  "title": "Cognitive Design Studio",
+  "units": "6",
+  "dept": "COGS",
+  "anchor": "cogs102c",
+  "description": "This project-based course focuses on learning and applying the process of human-centered cognitive design. Students work in teams to design and evaluate a prototype application or redesign an existing system. Emphasizes contextual inquiry, user research, ideation, iterative design, and evaluation. Prerequisites: COGS 102B.",
+  "prereqs": "COGS 102B",
+  "successors": [
+    "COGS 123",
+    "CSE 118"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "MGT 105",
+  "title": "Product Promotion and Brand Management",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt105",
+  "description": "Principles and decisions to be considered in overall communications and promotion strategy for traditional channels and emerging social networks. Decisions on promotional mix, ad design, implementation and evaluation for establishing brand equity, measure brand performance and sustaining brand equity. Prerequisites: MGT 100 or\u00a0MGT 103.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MGT 100",
+      "MGT 103"
+    ]
+  }
+}

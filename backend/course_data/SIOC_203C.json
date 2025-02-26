@@ -1,0 +1,18 @@
+{
+  "code": "SIOC 203C",
+  "title": "Introduction to Applied Mathematics III",
+  "units": "5",
+  "dept": "SIO",
+  "anchor": "sioc203c",
+  "description": "Partial differential equations: characteristics, similarity solutions, Green\u2019s functions, images, wave equation, diffusion equation, Laplace\u2019s equation. Applications to continuum mechanics, potential fields, and transport phenomena such as diffusion, linear and nonlinear waves, Burger\u2019s equation, shocks, and other topics. Other topics according to the interests of the instructor. Coscheduled with MAE 294C. Prerequisites: graduate standing and MAE 294B or SIOC 203B or SIO 203B or SIOC 215B or SIO 215B or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 294B",
+      "SIOC 203B",
+      "SIO 203B",
+      "SIOC 215B",
+      "SIO 215B"
+    ]
+  }
+}

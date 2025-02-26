@@ -1,0 +1,15 @@
+{
+  "code": "MAE 145",
+  "title": "Introduction to Robotic Planning and Estimation",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae145",
+  "description": "This course is an introduction to robotic planning algorithms and programming. Topics include sensor-based planning (bug algorithms), motion planning via decomposition and search (basic search algorithms on graphs, A*), the configuration-space concept, free configuration spaces via sampling, collision detection algorithms, (optimal) planning via sampling (probabilistic trees), environment roadmaps, and filtering for robot localization and environment mapping (SLAM). Prerequisites: MAE 8, MAE 108, and senior standing or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 8",
+      "MAE 108"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "code": "DSC 98",
+  "title": "Directed Group Study in Data Science",
+  "units": "2 or 4",
+  "dept": "DSC",
+  "anchor": "dsc98",
+  "description": "Students will investigate a topic in data science through directed reading, discussion, and project work under the supervision of a faculty member. May be taken for credit up to two times. Prerequisites:\u00a0MATH 20C or MATH 31BH and MATH 18 or MATH 31AH and DSC 20 and DSC 40A. Completion of thirty units at UC San Diego with a university GPA of 3.0. Special Studies form, consent of the instructor, and approval of the department required. Priority enrollment is given to data science majors DS25. Restricted to first-year and sophomore level students.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      "DSC 20",
+      "DSC 40A"
+    ]
+  }
+}

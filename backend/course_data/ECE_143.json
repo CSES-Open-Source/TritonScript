@@ -1,0 +1,12 @@
+{
+  "code": "ECE 143",
+  "title": "Programming for Data Analysis",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece143",
+  "description": "This course covers the fundamentals of using the Python language effectively for data analysis. Students learn the underlying mechanics and implementation specifics of Python and how to effectively utilize the many built-in data structures and algorithms. The course introduces key modules for data analysis such as Numpy, Pandas, and Matplotlib. Participants learn to leverage and navigate the vast Python ecosystem to find codes and communities of individual interest. Prerequisites: ECE 16.",
+  "prereqs": "ECE 16",
+  "successors": [
+    "MATH 157"
+  ]
+}

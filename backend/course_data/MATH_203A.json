@@ -1,0 +1,12 @@
+{
+  "code": "MATH 203A",
+  "title": "Algebraic Geometry I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math203a",
+  "description": "Introduction to algebraic geometry. Topics chosen from: varieties and their properties, sheaves and schemes and their properties. May be taken for credit up to three times. Prerequisites: MATH 200C. Students who have not taken MATH 200C may enroll with consent of instructor.",
+  "prereqs": "MATH 200C",
+  "successors": [
+    "MATH 203B"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "TDPR 6",
+  "title": "Theatre Practicum",
+  "units": "4\u20136",
+  "dept": "THEA",
+  "anchor": "tdpr6",
+  "description": "A production-oriented course that introduces the student to technical fundamentals of costumes, scenery, lighting, and sound for the theatre. Students will be assigned to participate on a crew for a fully mounted theatrical production supported by the department. Prerequisites: must have department stamp.",
+  "successors": [
+    "TDDE 141"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "USP 60",
+  "title": "The Practice of Planning Research",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp60",
+  "description": "A hands-on introduction to observational research and data analysis in urban studies and planning, emphasizing tools and techniques used to solve real-world planning problems. Special emphasis on statistics and quantitative reasoning, including discussion of their limits.",
+  "successors": [
+    "USP 186"
+  ]
+}

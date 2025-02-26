@@ -1,0 +1,12 @@
+{
+  "code": "SE 201A",
+  "title": "Advanced Structural Analysis",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se201a",
+  "description": "Application of advanced analytical concepts to structural engineering problems. Analysis of frame structures using matrix methods and introduction to\u00a0the finite element method. Displacement-based and force-based beam element formulations. Development of computer programs for structural analysis. Use of computer resources. Prerequisites: graduate standing.",
+  "successors": [
+    "SE 201B",
+    "SE 221"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "CSE 202",
+  "title": "Algorithm Design and Analysis",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse202",
+  "description": "The basic techniques for the design and analysis of algorithms. Divide-and-conquer, dynamic programming, data structures, graph search, algebraic problems, randomized algorithms, lower bounds, probabilistic analysis, parallel algorithms. Recommended preparation: Understanding of design and analysis of efficient algorithms with emphasis of nonnumerical algorithms such as sorting, searching, pattern matching, and graph and network algorithms. Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits.",
+  "successors": [
+    "CSE 203A",
+    "CSE 206A",
+    "CSE 207",
+    "CSE 208",
+    "CSE 280A"
+  ]
+}

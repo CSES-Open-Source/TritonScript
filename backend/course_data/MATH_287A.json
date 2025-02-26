@@ -1,0 +1,12 @@
+{
+  "code": "MATH 287A",
+  "title": "Time Series Analysis",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math287a",
+  "description": "Discussion of finite parameter schemes in the Gaussian and non-Gaussian context. Estimation for finite parameter schemes. Stationary processes and their spectral representation. Spectral estimation. Students who have not taken MATH 282A may enroll with consent of instructor. Prerequisites: MATH 282A or consent of instructor.",
+  "prereqs": "MATH 282A",
+  "successors": [
+    "MATH 287C"
+  ]
+}

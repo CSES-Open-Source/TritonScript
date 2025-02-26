@@ -1,0 +1,18 @@
+{
+  "code": "COMM 115J",
+  "title": "Journalistic Writing, Reporting, and Research",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm115j",
+  "description": "Introduction to the basics of journalistic writing, reporting, and research. Students will consider voice and bias and discuss the major issues facing journalists today. Opportunities to write and report in different modes and across a variety of media, may include podcasting, beat reporting, investigative journalism, multimedia features, and more. Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40"
+    ]
+  }
+}

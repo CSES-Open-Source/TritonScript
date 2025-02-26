@@ -1,0 +1,9 @@
+{
+  "code": "MATH 270C",
+  "title": "Numerical Ordinary Differential Equations",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math270c",
+  "description": "Initial value problems (IVP) and boundary value problems (BVP) in ordinary differential equations. Linear methods for IVP: one and multistep methods, local truncation error, stability, convergence, global error accumulation. Runge-Kutta (RK) Methods for IVP: RK methods, predictor-corrector methods, stiff systems, error indicators, adaptive time-stepping. Finite difference, finite volume, collocation, spectral, and finite element methods for BVP; a priori and a posteriori error analysis, stability, convergence, adaptivity. Prerequisites: MATH 270B or consent of instructor.",
+  "prereqs": "MATH 270B"
+}

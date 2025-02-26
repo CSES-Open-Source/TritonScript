@@ -1,0 +1,11 @@
+{
+  "code": "POLI 118",
+  "title": "Game Theory in Political Science",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli118",
+  "description": "This course introduces students to game theory and its uses in political science. Topics covered include the concepts of Nash equilibrium, dominant strategies, subgame perfection and backwards induction, and the applications of those concepts to the study of voting, electoral competition, public goods provision, legislatures, and collective action. An emphasis is placed on developing students\u2019 analytical reasoning and problem-solving skills through weekly problem sets and in-class exercises. Prerequisites: upper-division standing.",
+  "successors": [
+    "POLI 174"
+  ]
+}

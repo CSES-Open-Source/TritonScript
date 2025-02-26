@@ -1,0 +1,9 @@
+{
+  "code": "MATH 282B",
+  "title": "Applied Statistics II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math282b",
+  "description": "Diagnostics, outlier detection, robust regression. Variable selection, ridge regression, the lasso. Generalized linear models, including logistic regression. Data analysis using the statistical software R. Students who have not taken MATH 282A may enroll with consent of instructor. Prerequisites: MATH 282A or consent of instructor. (S/U grades permitted.)",
+  "prereqs": "MATH 282A"
+}

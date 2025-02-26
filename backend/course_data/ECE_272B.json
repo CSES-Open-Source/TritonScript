@@ -1,0 +1,9 @@
+{
+  "code": "ECE 272B",
+  "title": "Stochastic Processes in Dynamic Systems II",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece272b",
+  "description": "Continuous and discrete random processes, Markov models and hidden Markov models, Martingales, linear and nonlinear estimation. Applications in mathematical finance and real options. Prerequisites: ECE 272A; graduate standing.",
+  "prereqs": "ECE 272A"
+}

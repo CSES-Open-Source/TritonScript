@@ -1,0 +1,11 @@
+{
+  "code": "MATH 240A",
+  "title": "Real Analysis I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math240a",
+  "description": "First course in graduate real analysis. Abstract measure and integration theory, integration on product spaces. Lebesgue measure and integral, Lebesgue-Stieltjes integrals, functions of bounded variation, differentiation of measures. Locally compact Hausdorff spaces, Banach and Hilbert spaces, linear functionals. Lebesgue spaces and interpolation, elements of Fourier analysis and distribution theory. Prerequisites: graduate standing in MA75, MA76, MA77, MA80, MA81. All other students may enroll with consent of instructor.",
+  "successors": [
+    "MATH 240B"
+  ]
+}

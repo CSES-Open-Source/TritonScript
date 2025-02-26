@@ -1,0 +1,21 @@
+{
+  "code": "ECON 120C",
+  "title": "Econometrics C",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ120c",
+  "description": "Advanced econometric methods: estimation of linear regression models with endogeneity, economic methods designed for panel data sets, estimation of discrete choice models, time series analysis, and estimation in the presence of autocorrelated and heteroskedastic errors. Prerequisites: ECON 120B or MATH 181B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 120B",
+      "MATH 181B"
+    ]
+  },
+  "successors": [
+    "ECON 121",
+    "ECON 137",
+    "ECON 176",
+    "ECON 178"
+  ]
+}

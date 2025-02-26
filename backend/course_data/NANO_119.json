@@ -1,0 +1,9 @@
+{
+  "code": "NANO 119",
+  "title": "NanoEngineering System Design Seminar",
+  "units": "1",
+  "dept": "NANO",
+  "anchor": "nano119",
+  "description": "Seminar series focused on strategies in system design and solving engineering problems. Prerequisites: NANO 115L.",
+  "prereqs": "NANO 115L"
+}

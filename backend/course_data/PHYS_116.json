@@ -1,0 +1,15 @@
+{
+  "code": "PHYS 116",
+  "title": "Fluid Dynamics for Physicists",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys116",
+  "description": "This is a basic course in fluid dynamics for advanced students. The course consists of core fundamentals and modules on advanced applications to physical and biological phenomena. Core fundamentals include Euler and Navier-Stokes equations, potential and Stokesian flow, instabilities, boundary layers, turbulence, and shocks. Module topics include MHD, waves, and the physics of locomotion and olfaction. May be coscheduled with PHYS 216. Students with equivalent prerequisite knowledge may use the Enrollment Authorization System (EASy) to request approval to enroll. Prerequisites: PHYS 100B and 110B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 100B",
+      "PHYS 110B"
+    ]
+  }
+}

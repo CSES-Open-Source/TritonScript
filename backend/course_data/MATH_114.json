@@ -1,0 +1,9 @@
+{
+  "code": "MATH 114",
+  "title": "Introduction to Computational Stochastics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math114",
+  "description": "Topics include random number generators, variance reduction, Monte Carlo (including Markov Chain Monte Carlo) simulation, and numerical methods for stochastic differential equations.\u00a0Methods will be illustrated on applications in biology, physics, and finance. May be coscheduled with MATH 214. Recommended preparation: CSE 5A, CSE 8A, CSE 11, or ECE 15. Students should complete a computer programming course before enrolling in MATH 114. Prerequisites: MATH 180A. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": "MATH 180A"
+}

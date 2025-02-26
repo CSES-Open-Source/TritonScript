@@ -1,0 +1,20 @@
+{
+  "code": "PHYS 2DL",
+  "title": "Physics Laboratory\u2014Modern Physics",
+  "units": "2",
+  "dept": "PHYS",
+  "anchor": "phys2dl",
+  "description": "Experiments to be chosen from refraction, diffraction and interference of microwaves, Hall effect, thermal band gap, optical spectra, coherence of light, photoelectric effect, e/m ratio of particles, radioactive decays, and plasma physics. One hour lecture and three hours laboratory. Program or materials fees may apply. Prerequisites: PHYS 2BL or 2CL. Recommended preparation: prior or concurrent enrollment in PHYS 2D or 4E.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "PHYS 2BL",
+      "PHYS 2CL"
+    ]
+  },
+  "successors": [
+    "CHEM 100B",
+    "CHEM 105A",
+    "PHYS 133"
+  ]
+}

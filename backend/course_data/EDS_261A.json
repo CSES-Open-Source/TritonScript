@@ -1,0 +1,11 @@
+{
+  "code": "EDS 261A",
+  "title": "Advanced Research and Evaluation Methods",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds261a",
+  "description": "This course addresses more advanced topics in research design and methodology. Students hone the requisite research skills to conduct dissertation research. Students gain varied hands-on experiences in collecting and analyzing data relevant to schooling, as well as learn how to develop, manage, and analyze large data files. Students create a research agenda and develop skills needed in proposal writing: development, organization and coherence, conceptualization of research design, and attention to audience and writing style. This is the first of a three-course series. Prerequisites: admission into the EdD program or consent of instructor.",
+  "successors": [
+    "EDS 261B"
+  ]
+}

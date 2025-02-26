@@ -1,0 +1,28 @@
+{
+  "code": "ECON 107",
+  "title": "Economic Regulation and Antitrust Policy",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ107",
+  "description": "Detailed treatment of antitrust policy: Sherman Act, price fixing, collusive practices, predatory pricing, price discrimination, double marginalization, exclusive territories, resale price maintenance, refusal to deal, and foreclosure. Theory of regulation and regulatory experience in electrical utilities, oil, telecommunications, broadcasting, etc. Prerequisites: ECON 2 or 100B; and MATH 10C or 20C or 31BH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "ECON 2",
+          "ECON 100B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10C",
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  }
+}

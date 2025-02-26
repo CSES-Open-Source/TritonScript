@@ -1,0 +1,16 @@
+{
+  "code": "SE 152",
+  "title": "Seismic Design of Structures",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se152",
+  "description": "Seismic design philosophy. Ductility concepts. Lateral force resisting systems. Mechanisms of nonlinear deformation. Methods of analysis. Detailing of structural steel and reinforced concrete elements. Lessons learned from past earthquakes. Multistory building design project. Prerequisites: SE 130B, SE 150, and SE 151A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SE 130B",
+      "SE 150",
+      "SE 151A"
+    ]
+  }
+}

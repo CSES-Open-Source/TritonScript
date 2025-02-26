@@ -1,0 +1,12 @@
+{
+  "code": "EDS 254",
+  "title": "Introduction to Research Design and Quantitative Data Analysis",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds254",
+  "description": "Introduction to quantitative concepts, descriptive statistics, and fundamentals of statistical inference in social science. Emphasis on applying statistical concepts\u2014how to select the appropriate statistical techniques, execute those techniques, examine assumptions necessary for the techniques to work appropriately, interpret analytic results, and summarize findings in a professional manner. Hands-on computer-based practice of quantitative analyses will be an integral part of the course. Letter grades only. Prerequisites: doctoral students in education ED82 or MSED major ME75 or consent of instructor.",
+  "successors": [
+    "EDS 255",
+    "EDS 256"
+  ]
+}

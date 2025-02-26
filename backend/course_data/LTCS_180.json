@@ -1,0 +1,8 @@
+{
+  "code": "LTCS 180",
+  "title": "Programming for the Humanities",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltcs180",
+  "description": "Introduction to a script programming language (like Python + NLTK or R) and its usages in the processing of literary and historical digital corpora."
+}

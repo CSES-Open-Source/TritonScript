@@ -1,0 +1,8 @@
+{
+  "code": "ECE 254",
+  "title": "Detection Theory",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece254",
+  "description": "Hypothesis testing, detection of signals in white and colored Gaussian noise; estimation of signal parameters, maximum-likelihood detection; resolution of signals; detection and estimation of stochastic signals; applications to radar, sonar, and communications. Recommended preparation: ECE 153. Prerequisites: graduate standing."
+}

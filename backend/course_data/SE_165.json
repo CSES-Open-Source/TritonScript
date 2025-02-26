@@ -1,0 +1,15 @@
+{
+  "code": "SE 165",
+  "title": "Structural Health Monitoring",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se165",
+  "description": "A modern paradigm of structural health monitoring as it applies to structural and mechanical systems is presented. Concepts in data acquisition, feature extraction, data normalization, and statistical modeling will be introduced in an integrated context. MATLAB-based exercise. Term project. Use of computer resources. Prerequisites:\u00a0SE 101C or MAE 130C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SE 101C",
+      "MAE 130C"
+    ]
+  }
+}

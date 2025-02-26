@@ -1,0 +1,9 @@
+{
+  "code": "CENG 160",
+  "title": "Introduction to Biochemical Engineering",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng160",
+  "description": "Introduction to biochemical engineering. Topics include biological macromolecules, enzyme kinetics, cell metabolism, protein synthesis, recombinant DNA technology, bioreactor design, and bioproduct recovery. Prerequisites:\u00a0CENG 100.",
+  "prereqs": "CENG 100"
+}

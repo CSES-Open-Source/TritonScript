@@ -1,0 +1,20 @@
+{
+  "code": "PHB 244B",
+  "title": "Foundations in Biostatistics B",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "phb244b",
+  "description": "Continued overview of mathematical foundations in biostatistics. The second course in a two-course series. Maximum likelihood theory. Sufficiency, efficiency. Hypothesis testing and confidence intervals. Robustness and power. Large-sample properties of commonly-used estimators and tests. Renumbered from FMPH 244B. Students may not receive credit for PHB 244B and FMPH 244B. Must be taken for a letter grade if applied to biostatistics degree requirements. Prerequisites: FMPH 244A or PHB 244A, restricted to major code PB76.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "FMPH 244A",
+      "PHB 244A"
+    ]
+  },
+  "successors": [
+    "PHB 223",
+    "PHB 228",
+    "PHB 248"
+  ]
+}

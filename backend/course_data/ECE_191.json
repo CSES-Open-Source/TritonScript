@@ -1,0 +1,11 @@
+{
+  "code": "ECE 191",
+  "title": "Engineering Group Design Project",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece191",
+  "description": "Groups of students work to design, build, demonstrate, and document an engineering project. All students give weekly progress reports of their tasks and contribute a section to the final project report. Prerequisites: completion of all of the breadth courses and one depth course.",
+  "successors": [
+    "CSE 118"
+  ]
+}

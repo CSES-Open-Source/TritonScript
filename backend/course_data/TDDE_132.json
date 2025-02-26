@@ -1,0 +1,23 @@
+{
+  "code": "TDDE 132",
+  "title": "Undergraduate Main Stage Production: Design",
+  "units": "2\u20136",
+  "dept": "THEA",
+  "anchor": "tdde132",
+  "description": "A course that will guide a student in a design assignment on the undergraduate main stage production. Specialized topics dependent on the design requirements of the production. Students may repeat this course a maximum of six times or can receive up to twelve units, whichever is met first. A maximum of eight total units may be used towards major requirements. Prerequisites: TDDE 1 and TDDE 101 or TDDE 111 or TDDE 121 or TDDE 131, or consent of instructor. Instructor and department approval required.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "TDDE 1",
+      {
+        "type": "one",
+        "courses": [
+          "TDDE 101",
+          "TDDE 111",
+          "TDDE 121",
+          "TDDE 131"
+        ]
+      }
+    ]
+  }
+}

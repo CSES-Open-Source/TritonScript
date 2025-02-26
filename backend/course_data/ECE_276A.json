@@ -1,0 +1,11 @@
+{
+  "code": "ECE 276A",
+  "title": "Sensing and Estimation in Robotics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece276a",
+  "description": "This course covers the mathematical fundamentals of Bayesian filtering and their application to sensing and estimation in mobile robotics. Topics include maximum likelihood estimation (MLE), expectation maximization (EM), Gaussian and particle filters, simultaneous localization and mapping (SLAM), visual features and optical flow, and hidden Markov models (HMM). Recommended preparation: students should have knowledge equivalent to the following ECE courses: ECE 101 or ECE 171 and ECE 153 and ECE 174. Prerequisites: graduate standing.",
+  "successors": [
+    "ECE 276B"
+  ]
+}

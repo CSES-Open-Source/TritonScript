@@ -1,0 +1,8 @@
+{
+  "code": "COGS 209",
+  "title": "Statistical Machine Learning for Social Sciences",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs209",
+  "description": "Advanced methods and fundamental principles for learning from data. Emphasis is on foundational methods in supervised and unsupervised machine learning problems, covering trade-offs inherent in model design, training, evaluation, selection, and validation. Students will not receive credit for both COGS 209 and CSS 206. Recommended preparation: introductory statistics and familiarity with scientific programming and analysis software (MATLAB, Python, or R).Prerequisites: graduate standing."
+}

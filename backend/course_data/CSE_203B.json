@@ -1,0 +1,8 @@
+{
+  "code": "CSE 203B",
+  "title": "Convex Optimization Formulations and Algorithms",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse203b",
+  "description": "We study the formulations and algorithms solving convex optimization problems. The topics include convex sets, functions, optimality conditions, duality concepts, gradient descent, conjugate gradient, interior-point methods, and applications. The objective of the course is to provide students the background and techniques for scientific computing and system optimization. Students cannot receive credit for CSE 203B if they have taken either ECE 273 or MATH 245B. Recommended preparation: Linear algebra is recommended. Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits."
+}

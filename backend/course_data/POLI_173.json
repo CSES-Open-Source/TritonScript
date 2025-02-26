@@ -1,0 +1,8 @@
+{
+  "code": "POLI 173",
+  "title": "Social Network Analysis",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli173",
+  "description": "This class introduces tools for analyzing social networks including graph visualization, egocentric and sociocentric network measures, network simulation, and data management. Prerequisites: upper-division standing."
+}

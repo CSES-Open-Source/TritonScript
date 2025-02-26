@@ -1,0 +1,18 @@
+{
+  "code": "COMM 106D",
+  "title": "Data and AI Industries",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm106d",
+  "description": "Advances in AI and data science raise new and old issues about the role data plays in society. Students will learn how institutions (especially cultural industries) collect data, make predictions, and automate labor. Students will critically engage with data/AI practices and cultural representations of data/AI, discussing issues like privacy, power, bias, representation, regulation, and labor. Students will learn high-level tech concepts, but this class has no programming requirement. Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40"
+    ]
+  }
+}

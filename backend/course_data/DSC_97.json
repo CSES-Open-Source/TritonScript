@@ -1,0 +1,29 @@
+{
+  "code": "DSC 97",
+  "title": "Internship in Data Science",
+  "units": "2 or 4",
+  "dept": "DSC",
+  "anchor": "dsc97",
+  "description": "Individual research on a topic related to data science, by special arrangement with and under the direction of a UC San Diego faculty member, in connection with an internship at an organization.\u00a0It is the students\u2019 responsibility to find an internship related to data science prior to enrolling in this course. Internship work will inform but not necessarily define the research topic. The research topic is expected to promote the study of the principles and techniques involved in the internship work. May be taken for credit up to two times. Prerequisites:\u00a0MATH 20C or MATH 31BH and MATH 18 or MATH 31AH and DSC 20 and DSC 40A. Completion of thirty units at UC San Diego with a university GPA of 3.0. Special Studies form, consent of the instructor, and approval of the department required. Priority enrollment is given to data science majors DS25. Restricted to first-year and sophomore level students.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      "DSC 20",
+      "DSC 40A"
+    ]
+  }
+}

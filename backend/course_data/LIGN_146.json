@@ -1,0 +1,15 @@
+{
+  "code": "LIGN 146",
+  "title": "Sociolinguistics in Deaf Communities",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign146",
+  "description": "This course provides an examination of sociolinguistic research on Deaf communities throughout the world, including sociohistorical contexts for phonological, lexical, and syntactic variation, contact between languages, multilingualism, language policies, and planning, second language learning, language attitudes, and discourse analysis of specific social contexts. The course will be conducted entirely in ASL with no spoken English. Prerequisites: LISL 1C and LISL 1CX.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LISL 1C",
+      "LISL 1CX"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "code": "CAT 3",
+  "title": "Culture, Art, and Technology 3",
+  "units": "6",
+  "dept": "CAT",
+  "anchor": "cat3",
+  "description": "Lower-division writing- and research-intensive course focusing on collaboration, research, and art-making by speculating on how the relationships between culture, art, and technology will be transformed in the future. Prerequisites: Sixth College students only; CAT 2.",
+  "prereqs": "CAT 2",
+  "successors": [
+    "CAT 197",
+    "CAT 198",
+    "CAT 199",
+    "CSE 194",
+    "HITO 106",
+    "LTEN 30",
+    "LTWR 8A",
+    "LTWR 8B",
+    "LTWR 8C",
+    "PHIL 27",
+    "PHYS 30",
+    "POLI 27"
+  ]
+}

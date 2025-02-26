@@ -1,0 +1,12 @@
+{
+  "code": "MATH 202B",
+  "title": "Applied Algebra II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math202b",
+  "description": "Second course in algebra from a computational perspective. Groups, rings, linear algebra, rational and Jordan forms, unitary and Hermitian matrices, matrix decompositions, perturbation of eigenvalues, group representations, symmetric functions, fast Fourier transform, commutative algebra, Grobner basis, finite fields. Prerequisites: MATH 202A or consent of instructor.",
+  "prereqs": "MATH 202A",
+  "successors": [
+    "MATH 202C"
+  ]
+}

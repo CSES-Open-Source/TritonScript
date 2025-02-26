@@ -1,0 +1,9 @@
+{
+  "code": "CSE 136",
+  "title": "Enterprise-Class Web Applications",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse136",
+  "description": "Design and implementation of very large-scale, web-based applications. Topics covered typically include modeling organizational needs, design and revision management, J2EE or similar software platforms, web server and application server functionality, reuse of object-oriented components, model-view-controller and other design patterns, clustering, load-balancing, fault-tolerance, authentication, and usage accounting. Prerequisites: CSE 135.",
+  "prereqs": "CSE 135"
+}

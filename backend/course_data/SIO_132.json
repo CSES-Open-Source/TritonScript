@@ -1,0 +1,13 @@
+{
+  "code": "SIO 132",
+  "title": "Introduction to Marine Biology",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio132",
+  "description": "Overview of marine organisms and their adaptations to sea life. Selected examples of physiological, behavioral, and evolutionary adaptations in response to the unique challenges of a maritime environment. Prerequisites: BILD 3 or consent of instructor.",
+  "prereqs": "BILD 3",
+  "successors": [
+    "SIO 136",
+    "SIO 185"
+  ]
+}

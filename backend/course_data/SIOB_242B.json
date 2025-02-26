@@ -1,0 +1,18 @@
+{
+  "code": "SIOB 242B",
+  "title": "Marine Biotechnology II: Applications",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siob242b",
+  "description": "This course will explore the diverse biotechnological applications of marine science. Topics will include natural product drug discovery, biomaterials, nanotechnology, synthetic biology, aquaculture, and extremophiles. Students may not receive credit for SIO 242B and SIO 242. Prerequisites: SIOB 242A or SIO 242A or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIOB 242A",
+      "SIO 242A"
+    ]
+  },
+  "successors": [
+    "SIOB 242C"
+  ]
+}

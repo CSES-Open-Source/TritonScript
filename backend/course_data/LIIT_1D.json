@@ -1,0 +1,14 @@
+{
+  "code": "LIIT 1D",
+  "title": "Italian Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIIT 1DX. Successful completion of LIIT 1D and LIIT 1DX satisfies the requirement for language proficiency in Revelle and Eleanor Roosevelt Colleges. Prerequisites: LIIT 1C and LIIT 1CX, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIIT 1C",
+      "LIIT 1CX"
+    ]
+  }
+}

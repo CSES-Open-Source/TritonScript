@@ -1,0 +1,15 @@
+{
+  "code": "CHEM 155",
+  "title": "Synthesis of Complex Molecules",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem155",
+  "description": "This course discusses planning economic routes for the synthesis of complex organic molecules. The uses of specific reagents to control stereochemistry will be outlined and recent examples from the primary literature will be highlighted. (May not be offered every year.) May be coscheduled with CHEM 255. Prerequisites: CHEM 152 or 154.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 152",
+      "CHEM 154"
+    ]
+  }
+}

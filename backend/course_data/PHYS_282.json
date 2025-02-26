@@ -1,0 +1,8 @@
+{
+  "code": "PHYS 282",
+  "title": "Spatiotemporal Dynamics of Biological Systems",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys282",
+  "description": "The course will introduce basic concepts of dynamical systems, from low dimensional systems to spatially extended systems, including Fisher wave, Turing instability, and excitable systems, and apply them to the study of concrete biological systems taken from a spectrum of fields including ecology and developmental biology. Recommended preparation: basic knowledge of biology and partial differential equations. A first course in partial differential equations; some basic concepts of modern biology."
+}

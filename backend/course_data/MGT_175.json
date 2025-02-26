@@ -1,0 +1,11 @@
+{
+  "code": "MGT 175",
+  "title": "Supply Chain Management",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt175",
+  "description": "Supply chain management involves the flows of materials and information that contribute value to a product, from the source of raw materials to end customers. This course explains how supply chains work and describes the major challenges in managing an efficient supply chain. Covers various strategic and tactical supply chain issues such as distribution strategy, information sharing strategy, outsourcing, procurement (including e-markets), product design, virtual integration, and risk management. Credit is not allowed for both MGT 174 and MGT 175. Prerequisites: upper-division standing.",
+  "successors": [
+    "MGT 179"
+  ]
+}

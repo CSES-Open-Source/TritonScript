@@ -1,0 +1,16 @@
+{
+  "code": "VIS 150A",
+  "title": "Seminar in Film History and Theory",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis150a",
+  "description": "Research seminar in film history, theory, and/or criticism. Potential topics: film aesthetics, film criticism, film sound, and film in the digital era, with a focus on a specific period, theme, or context. Class will be devoted to discussion of readings in connection with a film or related art, fiction, or other media. Students will gain advanced knowledge of a specialized aspect of film history, theory, or criticism in a setting that promotes research, reports, and writing. Program or materials fees may apply. Prerequisites: VIS 83 or VIS 84 or VIS 85A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 83",
+      "VIS 84",
+      "VIS 85A"
+    ]
+  }
+}

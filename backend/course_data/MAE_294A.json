@@ -1,0 +1,13 @@
+{
+  "code": "MAE 294A",
+  "title": "Introduction to Applied Mathematics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae294a",
+  "description": "(Cross-listed with SIO 203A.) Review of exact methods for ordinary differential equations. Expansions about regular and irregular singular points. Introduction to asymptotic expansions. Approximate methods for nonlinear differential equations. Regular and singular perturbation theory. Additional topics depending upon the interests of the instructor.",
+  "successors": [
+    "MAE 294B",
+    "SIOC 203B",
+    "SIOG 235"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "GPCO 483",
+  "title": "Workshop on Policy Issues in the Pacific Rim",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpco483",
+  "description": "Capstone class: Students collaborate on long-term projects analyzing important political, economic, and business issues in the Pacific regions using the tools acquired through other courses at GPS. Renumbered from IRCO 483. Students may not receive credit for GPCO 483 and IRCO 483. Prerequisites: GPCO 481 and GPCO 482 or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "GPCO 481",
+      "GPCO 482"
+    ]
+  }
+}

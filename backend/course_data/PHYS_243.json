@@ -1,0 +1,8 @@
+{
+  "code": "PHYS 243",
+  "title": "Stochastic Methods",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys243",
+  "description": "Introduction to methods of stochastic modeling and simulation. Topics include random variables; stochastic processes; Markov processes; one-step processes; the Fokker-Planck equation and Brownian motion; the Langevin approach; Monte-Carlo methods; fluctuations and the Boltzmann equation; and stochastic differential equations."
+}
