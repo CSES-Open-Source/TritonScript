@@ -33,9 +33,11 @@ export default function Upload() {
       setFile(e.target.files[0]);
     }
   };
+
   function handleChange(e: any) {
     setFormData({ ...formData, [e.target.id]: e.target.value });
   }
+  
   async function handleSubmit(e: any) {
     e.preventDefault();
     const id = uuidv4();
