@@ -1,11 +1,11 @@
 body {
     display: grid;
-    place-items: center;
+    /* place-items: center; */
 }
 
 @media (max-width: 390px) {
     .upload-grid {
-      flex: 1 1 100%; /* full width for smaller screens */
+      flex: 1 1 100%;
     }
 }
 
@@ -15,15 +15,10 @@ body {
     flex-wrap: wrap; 
     gap: 2vw; 
     margin-top: 5vh;
-    /* margin-left:150px;
-    margin-right:150px; */
     width: 100%; 
     justify-content: center;
-    /* transform: scale(1.4);
-    transform-origin: center;  */
     overflow: visible;
     margin-top: 20vh;
-    /* max-width: 100%; */
 }
 
 .upload-box {
