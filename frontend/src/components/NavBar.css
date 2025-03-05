@@ -17,7 +17,7 @@
 /* Add padding to prevent content overlap */
 body {
   margin: 0; /* Reset default margins */
-  padding-top: 80px; /* Matches the height of the navbar */
+  margin-top: 80px; /* Matches the height of the navbar */
 }
 
 /* Logo stays on the left */
