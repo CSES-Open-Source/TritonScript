@@ -11,6 +11,7 @@ body, html {
   height: 100%;
   overflow-x: hidden; /* Prevent horizontal scrolling */
   font-family: 'Outfit', sans-serif;
+  padding-top: 80px;
 }
 
 /* Background */
