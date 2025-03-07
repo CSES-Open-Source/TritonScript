@@ -190,7 +190,7 @@ export default function Upload() {
                 ))}
               </select>
 
-              <select id="classInfo" className="field" value={selectedCourse} onChange={(e) => setSelectedCourse(e.target.value)}>
+              <select id="classInfo" className="field" value={selectedCourse} onChange={(e) => setSelectedCourse(e.target.value)}> // change onChange to call custom function that setSelectedCourse and get the instructors
                 <option value="">Select Course</option>
                 {courses.map((course) => (
                   <option key={course} value={course}>
