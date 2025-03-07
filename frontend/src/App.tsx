@@ -6,6 +6,7 @@ import About from "./pages/About";
 import SignIn from "./pages/SignIn";
 import SignUp from "./pages/SignUp";
 import Profile from "./pages/Profile";
+import Contact from "./pages/Contact";
 import Note from "./pages/Note";
 import Upload from "./pages/Upload";
 import Dashboard from "./pages/Dashboard";
@@ -31,6 +32,7 @@ function App() {
           <Route path="/signin" element={<SignIn />} />
           <Route path="/signup" element={<SignUp />} />
           <Route path="/about" element={<About />} />
+          <Route path="/contact-us" element={<Contact />} />
           <Route path="/" element={<Home />} />
           <Route element={<PrivateRoute />}>
             <Route path="/profile" element={<Profile />} />
