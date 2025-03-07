@@ -1,67 +1,49 @@
 import { useState, useEffect } from "react";
-import NoteBlock from "../components/NoteBlock";
-import ClassNote from "../components/ClassNotes/ClassNotes.tsx";
-
-import settings from "../utils/config";
 import filter from '../assets/filter-icon.png';
 import edit from '../assets/edit.png';
-import note from '../assets/note-placeholder.png';
+import noteImage from '../assets/note-placeholder.png'; // ✅ Renamed to avoid confusion
 import "../../src/pages/Dashboard.css";
 
-
 interface Note {
-  note_id: number;
+  _id: string; 
+  note_id: string;
   title: string;
-  content: string;
+  classInfo: string;
 }
 
 export default function Dashboard() {
-  const [notes, setNotes] = useState<Note[]>([]); // Explicitly type notes as an array of Note
+  const [notes, setNotes] = useState<Note[]>([]); 
+  const [groupedNotes, setGroupedNotes] = useState<{ [className: string]: Note[] }>({});
 
-  // 
-  // async function fetchNotes() {
-  //   try {
-  //     const response = await fetch(`${settings.domain}/api/note`, {
-  //       credentials: "include",
-  //       headers: {
-  //         "Content-Type": "application/json",
-  //       },
-  //     });
-  //     const data = await response.json();
-  //     setNotes(data); 
-  //   } catch (error) {
-  //     console.error("Error fetching notes:", error);
-  //   }
-  // }
-
-  // useEffect(() => {
-  //   fetchNotes();
-  // }, []);
-
-    useEffect(() => {
-      const mockNotes: Note[] = [
-        {
-          note_id: 1,
-          title: "Sample Note - Physics",
-          content: "This is a sample note to simulate functionality.",
+  // ✅ Fetch Notes from Backend
+  async function fetchNotes() {
+    try {
+      const response = await fetch("http://localhost:5004/api/notes", {
+        credentials: "include",
+        headers: {
+          "Content-Type": "application/json",
         },
-        {
-          note_id: 2,
-          title: "Sample Note 2 - CS",
-          content: "another simulated note.",
-        },{
-          note_id: 2,
-          title: "Sample Note 2 - Math",
-          content: "another simulated note.",
-        },
-      ];
-      setNotes(mockNotes); 
-    }, []);
+      });
+      const data = await response.json();
+      console.log("Fetched Notes:", data); 
+      setNotes(data);
 
-    const notes_placeholder = [
-      note,
-      note,
-    ];
+      // ✅ Group notes by class
+      const grouped = data.reduce((acc: { [key: string]: Note[] }, note: Note) => {
+        if (!acc[note.classInfo]) acc[note.classInfo] = [];
+        acc[note.classInfo].push(note);
+        return acc;
+      }, {});
+      setGroupedNotes(grouped);
+      
+    } catch (error) {
+      console.error("Error fetching notes:", error);
+    }
+  }
+
+  useEffect(() => {
+    fetchNotes();
+  }, []);
 
   return (
     <div>
@@ -69,7 +51,7 @@ export default function Dashboard() {
           <div className="search-features">
             <input className="search-input"
               type="text"
-              placeholder="Search..."
+              placeholder="Search"
             />
             <div className="filter">
               <img className="filter-logo" src={filter} alt="search filter icon" />
@@ -79,19 +61,20 @@ export default function Dashboard() {
             </div>
           </div>
           <div className="notes-grid">
+              {/* ✅ Recent Notes (Left Side) */}
               <div className="recent-notes">
                 <div className="recent-notes-text">
                   <p><b>RECENT NOTES</b></p>
                   <div className="note-container">
                     {notes.length > 0 ? (
                       notes.map((oneNote) => (
-                        <div key={oneNote.note_id}>
+                        <div key={oneNote._id} className="note-card">
                           <img 
                             className="placeholder-note-recent" 
-                            src={note} 
+                            src={noteImage} // ✅ Fix: Use the correct image
                             alt={oneNote.title || "placeholder note"} 
                           />
-                          <p className="note-title">{oneNote.title || "Untitled Note"}</p> {/* Title below image */}
+                          <p className="note-title">{oneNote.title || "Untitled Note"}</p>
                         </div>
                       ))
                     ) : (
@@ -100,10 +83,26 @@ export default function Dashboard() {
                   </div>
                 </div>
               </div>
-              <div className="class-notes">
-                <ClassNote classTitle={"CSE 30"} notes={notes_placeholder}/>
-                <ClassNote classTitle={"PHYS 2C"} notes={notes_placeholder}/>
-                <ClassNote classTitle={"ECE 65"} notes={notes_placeholder}/>
+
+              {/* ✅ Class Notes (Right Side) */}
+              <div className="class-notes-sidebar">
+                {Object.keys(groupedNotes).map((className) => (
+                  <div key={className} className="class-section">
+                    <p className="class-title">{className}</p>
+                    <div className="class-note-container">
+                      {groupedNotes[className].map((note) => (
+                        <div key={note._id} className="note-card">
+                          <img 
+                            className="placeholder-note-recent" 
+                            src={noteImage} // ✅ Fix: Uses the same image as recent notes
+                            alt={note.title || "placeholder note"} 
+                          />
+                          <p className="note-title">{note.title || "Untitled Note"}</p>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                ))}
               </div>
           </div>
         </div>
