@@ -14,6 +14,14 @@ const DATA_DIR = path.join(__dirname, '..', 'course_data');
 app.use(cors({ origin: "http://localhost:5173" }));
 app.use(express.json());
 
+let browser;
+
+async function launchBrowser() {
+    if (!browser) {
+        browser = await puppeteer.launch({ headless: true });
+    }
+    return browser;
+}
 
 async function scrapeTerms() {
     const browser = await puppeteer.launch({ headless: true });
@@ -41,47 +49,90 @@ async function scrapeTerms() {
 
 //click on "by code(s)" and put into text box the course code, search, and get profs
 async function scrapeInstructors(term, course) {
-    const browser = await puppeteer.launch({ headless: true });
-    const page = await browser.newPage();
+    // const browser = await puppeteer.launch({ headless: true });
+    // const page = await browser.newPage();
+    // const instructors = [];
+    const page = await (await launchBrowser()).newPage();
     const instructors = [];
-
-    try{
+    try {
+        // Navigate to the page
         await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
-        await page.select('#selectedTerm',term); 
-        console.log("test term");
 
+        // Select the term and course
+        await page.select('#selectedTerm', term);
         await page.waitForSelector('a[href="#tabs-crs"]', { visible: true });
-        await page.click('a[href="#tabs-crs"]'); 
-        console.log("tabs worked")
-       
-        await page.waitForSelector('#courses', { visible: true }); 
-        await page.type('#courses', course); 
-        console.log("type worked");
 
+        // Click on the "by code(s)" tab
+        await page.click('a[href="#tabs-crs"]');
+        await page.waitForSelector('#courses', { visible: true });
+
+        // Type the course code and submit the form
+        await page.type('#courses', course);
         await Promise.all([
-            page.click("#socFacSubmit"), 
-            page.waitForNavigation({ waitUntil: "domcontentloaded" }) 
+            page.click("#socFacSubmit"),
+            page.waitForNavigation({ waitUntil: "domcontentloaded" })
         ]);
-        console.log("submit successful");
 
-        const extractedInstructors = await page.evaluate(async () => {
-            await new Promise(resolve => setTimeout(resolve, 1000));
-            
-            const rows = document.querySelectorAll('.sectxt');  
+        // Extract instructors from the results
+        const extractedInstructors = await page.evaluate(() => {
+            const rows = document.querySelectorAll('.sectxt');
             const instructors = Array.from(rows)
-                .map(row => row.children[9]?.innerText.trim())
+                .map(row => row.children[9]?.innerText.trim())  // Extract instructor from the correct column
                 .filter(instructor => instructor);
-        
-            return [...new Set(instructors)];
+            return [...new Set(instructors)];  // Remove duplicates
         });
-
         console.log("Instructors found:", extractedInstructors);
-        instructors.push(...extractedInstructors);
+        // Push extracted instructors to the array
+        if (extractedInstructors.length === 0) {
+            instructors.push("No instructors found");
+        } else {
+            instructors.push(...extractedInstructors);
+        }
+
+    } catch (error) {
+        console.log("Error finding instructors:", error);
+    } finally {
+        await page.close(); // Ensure page is closed after scraping
     }
-    catch(error){
-        console.log("Error finding instructors");
-    }
+
     return instructors;
+    // try{
+    //     await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
+    //     await page.select('#selectedTerm',term); 
+    //     console.log("test term");
+
+    //     await page.waitForSelector('a[href="#tabs-crs"]', { visible: true });
+    //     await page.click('a[href="#tabs-crs"]'); 
+    //     console.log("tabs worked")
+       
+    //     await page.waitForSelector('#courses', { visible: true }); 
+    //     await page.type('#courses', course); 
+    //     console.log("type worked");
+
+    //     await Promise.all([
+    //         page.click("#socFacSubmit"), 
+    //         page.waitForNavigation({ waitUntil: "domcontentloaded" }) 
+    //     ]);
+    //     console.log("submit successful");
+
+    //     const extractedInstructors = await page.evaluate(async () => {
+    //         await new Promise(resolve => setTimeout(resolve, 1000));
+            
+    //         const rows = document.querySelectorAll('.sectxt');  
+    //         const instructors = Array.from(rows)
+    //             .map(row => row.children[9]?.innerText.trim())
+    //             .filter(instructor => instructor);
+        
+    //         return [...new Set(instructors)];
+    //     });
+
+    //     console.log("Instructors found:", extractedInstructors);
+    //     instructors.push(...extractedInstructors);
+    // }
+    // catch(error){
+    //     console.log("Error finding instructors");
+    // }
+    // return instructors;
 }
 
 app.get('/terms', async (req, res) => {
