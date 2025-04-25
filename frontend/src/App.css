@@ -16,7 +16,6 @@ body, html {
 
 /* Background */
 body {
-  background: linear-gradient(0deg, rgba(94, 80, 66, 1) 0%, rgba(1, 4, 63, 1) 100%);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -56,4 +55,11 @@ img {
   justify-content: center;
   gap: 20px;
   padding: 20px 0;
+  margin-bottom: 20vh;
 }
+
+/* @media (max-width: 900px) {
+  .search-input {
+    width: 10px;
+  }
+} */

@@ -14,11 +14,11 @@ body {
     display: flex;
     flex-wrap: wrap; 
     gap: 2vw; 
-    margin-top: 5vh;
     width: 100%; 
     justify-content: center;
     overflow: visible;
     margin-top: 20vh;
+    margin-bottom: 20vh;
 }
 
 .upload-box {

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Outfit:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playpen+Sans:wght@100..800&family=Playwrite+CU:wght@100..400&display=swap');
+
 .container {
     padding: 20px;
     min-height: calc(100vh - 80px); /* Adjust for fixed navbar height */
@@ -14,13 +16,15 @@
   .name {
     margin-top: 20px; /* Add spacing above the title */
     margin-bottom: 10px;
-    color: #e5e7eb;
+    color: #1E1E1E;
+    font-family: 'Outfit', sans-serif;
   }
   
   .title-small {
     margin: 0;
-    font-size: 1.25rem;
-    color: #e5e7eb;
+    color: #878787;
+    font-family: 'Outfit', sans-serif;
+
   }
   
   /* Welcome Section */
@@ -93,7 +97,8 @@
   }
   
   .feature-card {
-    background-color: rgba(0, 4, 62, 0.85); /* Subtle opacity for better contrast */
+    /* background-color: rgba(0, 4, 62, 0.85); Subtle opacity for better contrast */
+    background-color: #FFF6DE;
     padding: 20px;
     border-radius: 15px;
     width: 280px;
@@ -121,8 +126,15 @@
   .feature-text {
     font-size: 1.25rem;
     line-height: 1.8;
-    color: #e5e7eb;
+    color: #1E1E1E;
     text-align: center;
+  }
+
+  .features-container{
+    background-color: #F5F5F5;
+    padding-bottom: 20px;
+    margin: 30px 30px 30px 30px;
+    border-radius: 10px;
   }
   
   /* Responsive Design */
@@ -156,4 +168,6 @@
       padding: 30px 20px;
     }
   }
+
+
   
