@@ -4,7 +4,7 @@ const noteSchema = new mongoose.Schema(
   {
     note_id: {
       type: String,
-      required: true,
+      required: false,
       unique: true,
     },
     title: {

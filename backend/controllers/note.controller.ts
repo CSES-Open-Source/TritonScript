@@ -41,7 +41,7 @@ export async function createNote(req: Request, res: Response, next: NextFunction
     console.log(req.file)
 
     //const rest = await r2.url("cses", req.params.id);
-    const { note_id, title, classInfo, description, isPublic, uploader, file_id } = req.body;
+    const { note_id, title, classInfo, description, isPublic, uploader } = req.body;
     const newNote = await Note.create({
       note_id,
       title,
@@ -49,7 +49,6 @@ export async function createNote(req: Request, res: Response, next: NextFunction
       description,
       isPublic: true,
       uploader,
-      file_id
     });
     res.status(200).json({ success: true, data: newNote });
   } catch (error) {
