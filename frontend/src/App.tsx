@@ -12,6 +12,7 @@ import Upload from "./pages/Upload";
 import Dashboard from "./pages/Dashboard";
 import { useState } from "react";
 import NavBar from "./components/NavBar";
+import Footer from "./components/Footer";
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -41,6 +42,7 @@ function App() {
             <Route path="/dashboard" element={<Dashboard />} />
           </Route>
         </Routes>
+        <Footer/>
       </div>
     </BrowserRouter>
   );

@@ -32,7 +32,7 @@ function NavBar() {
       {/* Logo linking to Home */}
       <div className="navbar-logo">
         <Link to="/">
-          <img src="src/assets/cses-opensource.png" alt="CSES Logo" className="logo-image" />
+          <img src="src/assets/tritonscript.png" alt="TritonScript Logo" className="logo-image" />
         </Link>
       </div>
 
@@ -40,7 +40,7 @@ function NavBar() {
       <ul className="navbar-links">
         {!isLoggedIn ? (
           <>
-            <li>
+            {/* <li>
               <Link to="/faqs">FAQs</Link>
             </li>
             <li>
@@ -48,7 +48,7 @@ function NavBar() {
             </li>
             <li>
               <Link to="/contact-us">Contact Us</Link>
-            </li>
+            </li> */}
           </>
         ) : (
           <>
