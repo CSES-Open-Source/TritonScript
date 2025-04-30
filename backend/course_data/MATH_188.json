@@ -1,0 +1,44 @@
+{
+  "code": "MATH 188",
+  "title": "Algebraic Combinatorics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math188",
+  "description": "A rigorous introduction to algebraic combinatorics. Basic enumeration and generating functions. Enumeration involving group actions: Polya theory. Posets and Sperner property. q-analogs and unimodality. Partitions and tableaux. Credit not offered for MATH 188 if MATH 184 or MATH 184A previously taken. If MATH 184 and MATH 188 are concurrently taken, credit only offered for MATH 188. Prerequisites: MATH 31CH or MATH 109 and MATH 18 or MATH 31AH and MATH 100A or 103A. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 31CH",
+          "MATH 109"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 100A",
+          "MATH 103A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CSE 100",
+    "CSE 100R",
+    "CSE 101",
+    "CSE 103",
+    "CSE 105",
+    "CSE 106",
+    "CSE 107",
+    "CSE 127"
+  ]
+}

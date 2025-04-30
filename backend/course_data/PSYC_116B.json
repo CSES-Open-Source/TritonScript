@@ -1,0 +1,12 @@
+{
+  "code": "PSYC 116B",
+  "title": "Laboratory in Clinical Psychology Research II",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc116b",
+  "description": "This course, the second in a sequence of three courses, provides an advanced applied examination of theory, research design, and methods for clinical research to support an independent study in research at a clinical research lab. Prerequisites: PSYC 116A.",
+  "prereqs": "PSYC 116A",
+  "successors": [
+    "PSYC 116C"
+  ]
+}

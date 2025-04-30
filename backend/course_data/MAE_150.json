@@ -1,0 +1,39 @@
+{
+  "code": "MAE 150",
+  "title": "Computational Methods for Design",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae150",
+  "description": "Computer-aided analysis and design. Design methodology, tolerance analysis, Monte Carlo analysis, kinematics and computer-aided design of linkages, design of cams and cam dynamics, design optimization, finite element analysis fundamentals, design using commercially available CAD and analysis software. Prerequisites: MAE 30A or MAE 130A or SE 101A or BENG 110, MAE 107 or SE 121, MAE 3 or MAE 2, and senior standing in engineering major, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MAE 30A",
+          "MAE 130A",
+          "SE 101A",
+          "BENG 110"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MAE 107",
+          "SE 121"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MAE 3",
+          "MAE 2"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MAE 156A"
+  ]
+}

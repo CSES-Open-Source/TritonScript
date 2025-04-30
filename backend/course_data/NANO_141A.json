@@ -1,0 +1,18 @@
+{
+  "code": "NANO 141A",
+  "title": "Engineering Mechanics I: Analysis of Equilibrium",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano141a",
+  "description": "Newton\u2019s laws. Concepts of force and moment vector. Free body diagrams. Internal and external forces. Equilibrium of concurrent, coplanar, and three-dimensional system of forces. Equilibrium analysis of structural systems, including beams, trusses, and frames. Equilibrium problems with friction. Prerequisites:\u00a0MATH 20C and PHYS 2A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20C",
+      "PHYS 2A"
+    ]
+  },
+  "successors": [
+    "NANO 141B"
+  ]
+}

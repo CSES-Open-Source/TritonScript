@@ -1,0 +1,8 @@
+{
+  "code": "ECE 286",
+  "title": "State-of-the-Art Topics in Computational Statistics and Machine Learning",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece286",
+  "description": "Class discusses both fundamental and state-of-the-art research topics in computational statistics and machine learning. Topics vary based upon current research and have included nonparametric Bayesian models; sampling methods for inference in graphical models; Markov Chain Monte Carlo (MCMC) methods. Prerequisites: graduate standing."
+}

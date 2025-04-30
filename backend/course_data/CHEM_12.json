@@ -1,0 +1,9 @@
+{
+  "code": "CHEM 12",
+  "title": "Molecules and Reactions",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem12",
+  "description": "Introduction to molecular bonding and structure and chemical reactions, including organic molecules and synthetic polymers. Intended for nonscience majors. Cannot be taken for credit after any organic chemistry course. Prerequisites: CHEM 11 or good knowledge of high school chemistry.",
+  "prereqs": "CHEM 11"
+}

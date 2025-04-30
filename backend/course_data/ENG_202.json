@@ -1,0 +1,11 @@
+{
+  "code": "ENG 202",
+  "title": "Enterprise Dynamics",
+  "units": "4",
+  "dept": "ENG",
+  "anchor": "eng202",
+  "description": "Case studies of start-ups, strategic technology management, practice in use of industrial decision-making tools, and speakers from successful firms combined with experience in making management decisions dynamically in a competitive computer-simulated enterprise. Field study of ongoing processes in a local high technology company. Priority enrollment given to engineering majors.",
+  "successors": [
+    "ENG 207"
+  ]
+}

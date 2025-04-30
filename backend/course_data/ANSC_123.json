@@ -1,0 +1,11 @@
+{
+  "code": "ANSC 123",
+  "title": "Political Anthropology",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "ansc123",
+  "description": "Humans are goal seekers, some with public goals. Course considers ways goals are pursued, which are desirable, and how this pursuit is carried out at the local level with attention to the parts played by legitimacy and coercion. Prerequisites: upper-division standing. ",
+  "successors": [
+    "ANSC 155"
+  ]
+}

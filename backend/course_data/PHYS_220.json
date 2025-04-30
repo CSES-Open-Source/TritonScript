@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 220",
+  "title": "Group Theoretical Methods in Physics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys220",
+  "description": "Study of group theoretical methods with applications to problems in high energy, atomic, and condensed matter physics. Representation theory, tensor methods, Clebsh-Gordan series. Young tableaux. The course will cover discrete groups, Lie groups and Lie algebras, with emphasis on permutation, orthogonal, and unitary groups. Prerequisites: PHYS 212C.",
+  "prereqs": "PHYS 212C"
+}

@@ -1,0 +1,31 @@
+{
+  "code": "CSE 241A",
+  "title": "VLSI Integration of Computing Circuitry",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse241a",
+  "description": "VLSI integrated-circuit building blocks of computing systems, and their implementation. Computer-aided design and performance simulations, design exercises and projects. Devices, standard cells and interconnects, clocking, power/ground distribution, arithmetic modules, memories. Methodologies and tradeoffs in system implementation. Prerequisites: layout (CSE 165 or ECE 260A) and logic design (CSE 140 or ECE 111), or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CSE 165",
+          "ECE 260A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CSE 140",
+          "ECE 111"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CSE 245",
+    "CSE 248"
+  ]
+}

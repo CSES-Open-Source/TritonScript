@@ -1,0 +1,13 @@
+{
+  "code": "PSYC 111A",
+  "title": "Research Methods I",
+  "units": "6",
+  "dept": "PSYC",
+  "anchor": "psyc111a",
+  "description": "This course provides training in applying advanced statistical methods to experimental design. Emphasis will be placed on the developing skills in statistical problem-solving, using computer applications, and writing scientific reports. Must be taken for a letter grade for the Psychology Honors Program. Prerequisites: upper-division standing. Open to honors students or by consent of instructor. Instructor and department approval.",
+  "successors": [
+    "PSYC 111B",
+    "PSYC 194A",
+    "PSYC 194B"
+  ]
+}

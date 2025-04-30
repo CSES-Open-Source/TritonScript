@@ -1,0 +1,8 @@
+{
+  "code": "COGS 281",
+  "title": "Advanced Neural Signal Processing",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs281",
+  "description": "Mathematical foundations and applications of neural signal processing techniques used in electrophysiology and neuroimaging (including microscopy), covering spectral analysis, correlation, high-dimensional data, and spike-train analysis."
+}

@@ -1,0 +1,16 @@
+{
+  "code": "VIS 70N",
+  "title": "Introduction to Media",
+  "units": "6",
+  "dept": "VIS",
+  "anchor": "vis70n",
+  "description": "Operating as both a lecture and production course, this introductory class provides a technical foundation and theoretical context for all subsequent production-oriented film and video studies. In the laboratory, the student will learn the basic skills necessary to initiate video production. Completion of Visual Arts 70N is necessary to obtain a media card. Program or materials fees may apply. Prerequisites: none. Open to visual arts majors and minors.",
+  "successors": [
+    "COMM 101T",
+    "COMM 102M",
+    "COMM 102P",
+    "COMM 102T",
+    "VIS 147A",
+    "VIS 174"
+  ]
+}

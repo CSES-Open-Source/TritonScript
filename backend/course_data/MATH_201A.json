@@ -1,0 +1,9 @@
+{
+  "code": "MATH 201A",
+  "title": "Basic Topics in Algebra I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math201a",
+  "description": "Recommended for all students specializing in algebra. Basic topics include categorical algebra, commutative algebra, group representations, homological algebra, nonassociative algebra, ring theory. May be taken for credit six times with consent of adviser as topics vary. Prerequisites: MATH 200C. Students who have not taken MATH 200C may enroll with consent of instructor.",
+  "prereqs": "MATH 200C"
+}

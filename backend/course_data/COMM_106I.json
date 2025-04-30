@@ -1,0 +1,9 @@
+{
+  "code": "COMM 106I",
+  "title": "CI: Internet Industry",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm106i",
+  "description": "The political economy of the emergent internet industry, charted through analysis of its hardware, software, and services components. The course specifies leading trends and changing institutional outcomes by relating the internet industry to the adjoining media, telecommunications, and computer industries. Prerequisites: COMM 10.",
+  "prereqs": "COMM 10"
+}

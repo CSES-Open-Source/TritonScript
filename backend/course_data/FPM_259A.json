@@ -1,0 +1,11 @@
+{
+  "code": "FPM 259A",
+  "title": "Applied Epidemiology\u2014Scientific Analysis",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fpm259a",
+  "description": "Students will explore an epidemiologic research question by reviewing relevant published literature, and then design and conduct appropriate data analysis using a pre-existing dataset. May be taken for credit two times. Prerequisites: Joint Doctoral Program in Public Health graduate students.",
+  "successors": [
+    "FPM 259B"
+  ]
+}

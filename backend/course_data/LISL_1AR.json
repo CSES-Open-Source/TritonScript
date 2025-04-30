@@ -1,0 +1,12 @@
+{
+  "code": "LISL 1AR",
+  "title": "Introduction to ASL and American Deaf Culture",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lisl1ar",
+  "description": "Students learn ASL to communicate in everyday interactions by engaging in small group conversations. Covers key linguistic structures, including sentence types, movement, space, facial expressions, and fingerspelling. Students discover the American deaf culture, including deaf history, diversity within today\u2019s deaf community, iconic roots of signs, international signs used in the global deaf community, and techniques of ASL storytelling. Prerequisites: no prior study of ASL.",
+  "successors": [
+    "LISL 1B",
+    "LISL 1BX"
+  ]
+}

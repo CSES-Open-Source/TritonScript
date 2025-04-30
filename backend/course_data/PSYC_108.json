@@ -1,0 +1,13 @@
+{
+  "code": "PSYC 108",
+  "title": "Cognitive Neuroscience",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc108",
+  "description": "This course provides a comprehensive overview of neuroanatomy and major methods and results from neuroimaging and neuropsychological studies of behavior. Topics include attention, motor control, executive function, memory, learning, emotion, and language. Prerequisites: upper-division standing.",
+  "successors": [
+    "COGS 165",
+    "PSYC 113",
+    "PSYC 150"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": "MAE 288A",
+  "title": "Optimal Control",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae288a",
+  "description": "Deterministic methods: Pontryagin\u2019s Maximum Principle, dynamic programming, calculus of variations. Stochastic methods: Gauss-Markov processes, Linear Quadratic control, Markov chains. Linear Quadratic Gaussian Control and the Separation Principle. Prerequisites: graduate standing or consent of instructor."
+}

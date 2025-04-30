@@ -1,0 +1,12 @@
+{
+  "code": "BENG 230A",
+  "title": "Biochemistry",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng230a",
+  "description": "A graduate course in biochemistry especially tailored to the requirements and background of bioengineering graduate students. It will cover the important macro- and small molecules in cells that are the major constituents, or that function as signaling molecules or molecular machineries. The structures, pathways, interactions, methodologies, and molecular designs using recombinant DNA technology will be covered. Prerequisites: restricted to bioengineering graduate students with major code BE75. (F)",
+  "successors": [
+    "BENG 211",
+    "BENG 230B"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "code": "CHEM 164",
+  "title": "Structural Biology of Viruses",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem164",
+  "description": "An introduction to virus structures, how they are determined, and how they facilitate the various stages of the viral life cycle from host recognition and entry to replication, assembly, release, and transmission to uninfected host cells. (May not be offered every year.) May be coscheduled with CHEM 264. Prerequisites: BIBC 100 or CHEM 114A and BIBC 102 or CHEM 114B and BIMM 100 or CHEM 114C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BIBC 100",
+          "CHEM 114A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BIBC 102",
+          "CHEM 114B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BIMM 100",
+          "CHEM 114C"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "code": "ECE 225A",
+  "title": "Probability and Statistics for Data Science",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece225a",
+  "description": "The course reinforces students\u2019 intuitive, theoretical, and computational understanding of probability and statistics, and builds on these foundations to introduce more advanced concepts useful in both data science research and practice. The following topics will be covered: basics, convergence, estimation, and hypothesis testing. Python programs, examples, and visualizations will be used throughout the course. Prerequisites: graduate standing.",
+  "successors": [
+    "ECE 225B",
+    "ECE 229"
+  ]
+}

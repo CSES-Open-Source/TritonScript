@@ -1,0 +1,44 @@
+{
+  "code": "PHYS 100B",
+  "title": "Electromagnetism II",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys100b",
+  "description": "Magnetic fields and magnetostatics, magnetic materials, induction, AC circuits, displacement currents; development of Maxwell\u2019s equations. Prerequisites: PHYS 100A, MATH 20A, 20B, 20C or 31BH, 20D, 20E or 31CH, and 18 or 20F or 31AH. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 100A",
+      "MATH 20A",
+      "MATH 20B",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20E",
+          "MATH 31CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "PHYS 100C",
+    "PHYS 116",
+    "PHYS 130B"
+  ]
+}

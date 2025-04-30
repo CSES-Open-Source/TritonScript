@@ -1,0 +1,12 @@
+{
+  "code": "USP 187",
+  "title": "Senior Sequence Research Project",
+  "units": "6",
+  "dept": "USP",
+  "anchor": "usp187",
+  "description": "An intensive research, internship, and writing experience that culminates in an original senior research project. Students learn about the theoretical, ethical, and technical challenges of scholarly research and publication. Prerequisites: USP 186.\u00a0(Only offered winter quarter.)",
+  "prereqs": "USP 186",
+  "successors": [
+    "USP 190"
+  ]
+}

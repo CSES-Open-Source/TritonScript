@@ -1,0 +1,43 @@
+{
+  "code": "CHEM 6B",
+  "title": "General Chemistry II",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem6b",
+  "description": "Second quarter of a three-quarter sequence intended for science and engineering majors. Topics include gases, liquids, and solids, thermochemistry and thermodynamics, physical and chemical equilibria, solubility. May not be taken for credit after CHEM 6BH. Prerequisites: CHEM 6A or 6AH and MATH 10A or 20A. Recommended: concurrent or prior enrollment in MATH 10B or 20B.\u00a0(F, W, S)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6A",
+          "CHEM 6AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10A",
+          "MATH 20A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "BENG 120",
+    "BENG 130",
+    "BENG 140A",
+    "BIPN 106",
+    "CENG 100",
+    "CHEM 40A",
+    "CHEM 41A",
+    "CHEM 6C",
+    "CHEM 7L",
+    "CHEM 7LM",
+    "NANO 159",
+    "SIO 102",
+    "SIO 107",
+    "SIO 138"
+  ]
+}

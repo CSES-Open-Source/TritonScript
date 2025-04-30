@@ -1,0 +1,18 @@
+{
+  "code": "SE 278A",
+  "title": "Finite Elements for Fluid Mechanics",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se278a",
+  "description": "Development and application of advanced computational techniques for fluid flow. Stabilized and variational multiscale methods for finite element and related discretizations are stressed. Applications involve advection-diffusion equations and systems, and incompressible and compressible Navier-Stokes equations. Turbulence modeling will also be covered. Prerequisites: MAE 232A or SE 276A or consent of instructor, graduate standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 232A",
+      "SE 276A"
+    ]
+  },
+  "successors": [
+    "SE 278B"
+  ]
+}

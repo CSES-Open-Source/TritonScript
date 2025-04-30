@@ -1,0 +1,38 @@
+{
+  "code": "CSE 185",
+  "title": "Advanced Bioinformatics Laboratory",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse185",
+  "description": "This course emphasizes the hands-on application of bioinformatics to biological problems. Students will gain experience in the application of existing software, as well as in combining approaches to answer specific biological questions. Topics include sequence alignment, fast database search, comparative genomics, expression analysis, computational proteomics, genome-wide association studies, next-generation sequencing, genomics, and big data. Students may not receive credit for CSE 185 and BIMM 185. Restricted to CS27, BI34, BE28, and CH37 majors. Prerequisites: CSE 11 or CSE 8B and CSE 12 and MATH 20C or MATH 31BH and BILD 1 and BIEB 123 or BILD 4 or BIMM 101 or CHEM 109.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CSE 11",
+          "CSE 8B"
+        ]
+      },
+      "CSE 12",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      "BILD 1",
+      {
+        "type": "one",
+        "courses": [
+          "BIEB 123",
+          "BILD 4",
+          "BIMM 101",
+          "CHEM 109"
+        ]
+      }
+    ]
+  }
+}

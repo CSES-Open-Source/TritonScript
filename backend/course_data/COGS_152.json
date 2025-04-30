@@ -1,0 +1,18 @@
+{
+  "code": "COGS 152",
+  "title": "Cognitive Foundations of Mathematics",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs152",
+  "description": "How the human mind/brain creates mathematics: embodiment, innovation, and creativity. The emergence and power of abstract concepts, such as infinity, infinitesimals, imaginary numbers, or zero. Cognitive approaches that connect mathematics to human thought in general. Prerequisites: CHEM 96 or COGS 1 or MATH 95 or PHIL 1 or PSYC 1 or EDS (20S or 30 or 31).",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 96",
+      "COGS 1",
+      "MATH 95",
+      "PHIL 1",
+      "PSYC 1"
+    ]
+  }
+}

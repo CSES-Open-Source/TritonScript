@@ -1,0 +1,22 @@
+{
+  "code": "COMM 173",
+  "title": "Interaction with Technology",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm173",
+  "description": "In this class we will look closely at the everyday ways in which we interact with technology to discuss sociocultural character of objects, built environments; situated, distributed, and embodied character of knowledges; use of multimodal semiotic resources, talk, gesture, body orientation, and gaze in interaction with technology. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.\u00a0",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

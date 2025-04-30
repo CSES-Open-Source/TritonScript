@@ -1,0 +1,14 @@
+{
+  "code": "MGTF 402",
+  "title": "Investment Analysis",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgtf402",
+  "description": "Introduces quantitative methods for analyzing the pricing and return behavior of assets such as stocks, bonds, and derivatives; and develops methods for implementing modern portfolio theory in practice. The most influential financial models are derived; their practical applications are discussed. Letter grades only. Prerequisites: restricted to master of finance program or by consent of instructor and department stamp.",
+  "successors": [
+    "MGTF 406",
+    "MGTF 407",
+    "MGTF 408",
+    "MGTF 490"
+  ]
+}

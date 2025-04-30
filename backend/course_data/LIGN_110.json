@@ -1,0 +1,18 @@
+{
+  "code": "LIGN 110",
+  "title": "Phonetics",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign110",
+  "description": "The study of sounds that are used in human languages. How speech sounds are physically produced; acoustics of speech; speech perception; practical training in phonetic transcription and in interpreting visual representations of the acoustic signal. The class covers both English and its dialects and languages other than English. Prerequisites: LIGN 101, concurrent enrollment in LIGN 101, or consent of instructor.",
+  "prereqs": "LIGN 101",
+  "coreqs": "LIGN 101",
+  "successors": [
+    "LIGN 111",
+    "LIGN 112",
+    "LIGN 113",
+    "LIGN 139",
+    "LIGN 168",
+    "LIGN 240"
+  ]
+}

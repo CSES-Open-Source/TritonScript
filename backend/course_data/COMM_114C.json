@@ -1,0 +1,15 @@
+{
+  "code": "COMM 114C",
+  "title": "CSI: On Constitutions",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm114c",
+  "description": "Consider \u201cconstitutions\u201d as meaning-making, world-building mechanisms and practices. Explore how constitutions work: as interpretive instruments designed to frame, organize, guide human thought, action, and systems (according to certain rules or principles often represented as divine in origin and universal in effect) and; as ongoing, dynamic interpretative processes that nevertheless congeal in objects, bodies, and social arrangements and are thus considered binding or unalterable. Prerequisites: COMM 10 or COGN 20.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COGN 20"
+    ]
+  }
+}

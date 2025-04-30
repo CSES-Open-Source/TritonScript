@@ -1,0 +1,8 @@
+{
+  "code": "CHEM 290",
+  "title": "Mathematics for Physical Chemistry",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem290",
+  "description": "Focus on select topics from among numerous areas relevant to chemistry, including linear algebra, probability theory, group theory, complex variables, Laplace and Fourier transforms, partial differential equations, stochastic variables, random walks, and others. May be coscheduled with CHEM 190. Prerequisites: graduate standing."
+}

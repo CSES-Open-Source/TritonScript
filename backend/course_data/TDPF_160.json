@@ -1,0 +1,20 @@
+{
+  "code": "TDPF 160",
+  "title": "Studies in Performance\u2014Fall Production",
+  "units": "2\u20136",
+  "dept": "THEA",
+  "anchor": "tdpf160",
+  "description": "The in-depth study for a fully staged fall dance production directed and choreographed by faculty, graduate students, and/or guest artists in collaboration with student performers. Admission by audition only. May be taken for credit up to six times for a maximum of twelve units. Prerequisites: audition; department approval; concurrent enrollment in TDMV 110, 111, 112, 120, 122, 130, or 133.",
+  "coreqs": {
+    "type": "one",
+    "courses": [
+      "TDMV 110",
+      "TDMV 111",
+      "TDMV 112",
+      "TDMV 120",
+      "TDMV 122",
+      "TDMV 130",
+      "TDMV 133"
+    ]
+  }
+}

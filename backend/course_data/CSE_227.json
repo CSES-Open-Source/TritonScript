@@ -1,0 +1,9 @@
+{
+  "code": "CSE 227",
+  "title": "Computer Security",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse227",
+  "description": "Security and threat models, risk analysis, authentication and authorization, auditing, operating systems security, access control mechanisms, protection mechanisms, distributed systems/network security, security architecture, electronic commerce security mechanisms, security evaluation. Prerequisites: CSE 221 or consent of instructor.",
+  "prereqs": "CSE 221"
+}

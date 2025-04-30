@@ -1,0 +1,15 @@
+{
+  "code": "CSE 109",
+  "title": "Introduction to Programming Contests",
+  "units": "2",
+  "dept": "CSE",
+  "anchor": "cse109",
+  "description": "This course introduces the algorithms and concepts necessary to compete in programming contests like ACM International Collegiate Programming Contest (ICPC). The course requires weekly completion of short problem sets. Topics covered include standard library classes and data structures useful for programming contest problems, basic complexity analysis, dynamic programming, graph algorithms, number theory, combinatorics, computational geometry, combinatorial games, and contest strategy. Prerequisites: CSE 15L or CSE 29 or permission of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 15L",
+      "CSE 29"
+    ]
+  }
+}

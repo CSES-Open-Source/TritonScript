@@ -1,0 +1,11 @@
+{
+  "code": "ECE 5",
+  "title": "Introduction to Electrical and Computer Engineering",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece5",
+  "description": "An introduction to electrical and computer engineering. Topics include circuit theory, assembly, and testing, embedded systems programming and debugging, transducer mechanisms and interfacing transducers, signals and systems theory, digital signal processing, and modular design techniques.",
+  "successors": [
+    "ECE 196"
+  ]
+}

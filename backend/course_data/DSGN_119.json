@@ -1,0 +1,16 @@
+{
+  "code": "DSGN 119",
+  "title": "Design at Large",
+  "units": "2",
+  "dept": "DSGN",
+  "anchor": "dsgn119",
+  "description": "New societal challenges, cultural values, and technological opportunities are changing design\u2014and vice versa. The seminar explores this increased scale, real-world engagement, and disruptive impact. Invited speakers from UC San Diego and beyond share cutting-edge research on interaction, design, and learning. P/NP grades only. May be taken for credit up to four times. Prerequisites: COMM 124A or COGS 10 or DSGN 1.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 124A",
+      "COGS 10",
+      "DSGN 1"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "code": "SE 101C",
+  "title": "Mechanics III: Vibrations",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se101c",
+  "description": "Free and forced vibrations of damped 1-DOF systems; vibrations isolation, impact and packaging problems. Analysis of discrete MDOF systems using matrix representation; normal mode of frequencies and modal matrix formulation. Lagrange\u2019s equations. Modal superposition for analysis of continuous vibrating systems. Prerequisites: MATH 18 or MATH 31AH and SE 101B or MAE 130B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SE 101B",
+          "MAE 130B"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "SE 131B",
+    "SE 164",
+    "SE 165",
+    "SE 167",
+    "SE 168"
+  ]
+}

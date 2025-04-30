@@ -1,0 +1,11 @@
+{
+  "code": "MGTF 404",
+  "title": "Financial Econometrics and Empirical Methods",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgtf404",
+  "description": "Bridging the gap between theoretical financial models and the real world. Covering the major accomplishments of empirical finance. Empirical exercises and analysis of real financial data will help students to truly appreciate the content of the course. Letter grades only. Prerequisites: restricted to master of finance program or by consent of instructor and department stamp.",
+  "successors": [
+    "MGTF 490"
+  ]
+}

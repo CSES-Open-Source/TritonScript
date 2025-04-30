@@ -1,0 +1,11 @@
+{
+  "code": "PSYC 172",
+  "title": "Psychology of Human Sexuality",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc172",
+  "description": "This course provides an overview of human sexuality research including diversity of sexual behavior and identities, sex and gender development, intimate relationships, and sexual dysfunction. Recommended preparation: completion of PSYC 1, 2, or 106. Prerequisites: upper-division standing.",
+  "successors": [
+    "PSYC 127"
+  ]
+}

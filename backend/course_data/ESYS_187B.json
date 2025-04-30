@@ -1,0 +1,12 @@
+{
+  "code": "ESYS 187B",
+  "title": "Senior Internship Project II",
+  "units": "4",
+  "dept": "ESYS",
+  "anchor": "esys187b",
+  "description": "This is the second quarter of the three-quarter senior project sequence. In this course, the student continues work on their self-selected internship (off-campus, research project or on-campus project), focused around an interdisciplinary environmental problem or research topic. A final evaluation of their internship signed by the student, an internship supervisor, and a faculty mentor is required at the end of the course. Prerequisites: ESYS 187A.",
+  "prereqs": "ESYS 187A",
+  "successors": [
+    "ESYS 187C"
+  ]
+}

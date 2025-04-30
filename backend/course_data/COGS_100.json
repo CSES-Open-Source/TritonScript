@@ -1,0 +1,15 @@
+{
+  "code": "COGS 100",
+  "title": "Cyborgs Now and in the Future",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs100",
+  "description": "Covers the theories of situated, distributed, enactive, and embodied cognition. Explains how cyborgs are a natural consequence of our current understanding of embodied minds embedded in culturally shaped niches; how mental systems can be distributed over other people and things. Prerequisites: COGS 1 or COGS 10.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 1",
+      "COGS 10"
+    ]
+  }
+}

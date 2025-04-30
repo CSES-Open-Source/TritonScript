@@ -1,0 +1,8 @@
+{
+  "code": "SE 261",
+  "title": "Aerospace Engineering Design",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se261",
+  "description": "Advanced topics in the design of weight-critical aerospace structures. Topics include static, dynamic, and environmental load definitions; metallics and polymeric composite material selection; semimonocoque analysis techniques; and bolted/bonded connections. Design procedures for sizing the structural components of aircraft and spacecraft will be reviewed."
+}

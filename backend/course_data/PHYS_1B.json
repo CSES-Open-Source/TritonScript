@@ -1,0 +1,33 @@
+{
+  "code": "PHYS 1B",
+  "title": "Electricity and Magnetism",
+  "units": "3",
+  "dept": "PHYS",
+  "anchor": "phys1b",
+  "description": "Second quarter of a three-quarter introductory physics course geared toward life-science majors. Electric fields, magnetic fields, DC and AC circuitry. PHYS 1B and 1BL are designed to be taken concurrently but may be taken in separate terms; taking the lecture before the lab is the best alternative to enrolling in both. Prerequisites: PHYS 1A or 2A, and MATH 10B or 20B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1A",
+          "PHYS 2A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10B",
+          "MATH 20B"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "EDS 105",
+    "PHYS 170",
+    "PHYS 1C",
+    "PHYS 1CL"
+  ]
+}

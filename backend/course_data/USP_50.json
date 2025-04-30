@@ -1,0 +1,11 @@
+{
+  "code": "USP 50",
+  "title": "Real Estate and Development Colloquium",
+  "units": "2",
+  "dept": "USP",
+  "anchor": "usp50",
+  "description": "In this course, students will attend weekly seminars presented by leading researchers and practitioners in the field of real estate and development. Students will learn about best practices and innovative case studies from the field. Recommended for students interested in the real estate and development minor or major.",
+  "successors": [
+    "USP 185A"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "VIS 162",
+  "title": "Speculative Science and Design Invention",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis162",
+  "description": "The course seeks to introduce ways of thinking about and working across the scientific laboratory and the artist's and designer's studio. It explores intersections of research in art/design and science/technology. The course may focus on a specific laboratory method, innovation, or a longer-term enduring challenge. At the discretion of the professor, course may be conducted in direct collaborations with other campus laboratories and research units. Prerequisites: VIS 135.",
+  "prereqs": "VIS 135",
+  "successors": [
+    "VIS 190"
+  ]
+}

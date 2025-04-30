@@ -1,0 +1,11 @@
+{
+  "code": "MATH 202A",
+  "title": "Applied Algebra I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math202a",
+  "description": "Introduction to algebra from a computational perspective. Groups, rings, linear algebra, rational and Jordan forms, unitary and Hermitian matrices, matrix decompositions, perturbation of eigenvalues, group representations, symmetric functions, fast Fourier transform, commutative algebra, Grobner basis, finite fields. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "MATH 202B"
+  ]
+}

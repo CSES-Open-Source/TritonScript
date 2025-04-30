@@ -1,0 +1,12 @@
+{
+  "code": "BENG 230C",
+  "title": "Cardiovascular Physiology",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng230c",
+  "description": "Physical concepts of behavior of heart, large blood vessels, vascular beds in major organs and the microcirculation. Physical and physiological principles of blood flow, blood pressure, cardiac work, electrophysiology of the heart. Special vascular beds, including their biological and hemodynamic importance. Integration through nervous and humoral controls. Prerequisites: BENG 230B or consent of instructor.",
+  "prereqs": "BENG 230B",
+  "successors": [
+    "BENG 230D"
+  ]
+}

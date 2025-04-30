@@ -1,0 +1,9 @@
+{
+  "code": "CSE 237C",
+  "title": "Validation and Testing of Embedded Systems",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse237c",
+  "description": "Embedded system building blocks including IP cores. Cosimulation. Formal verification using model checking. Verification environments. Test challenges in core integration: compliance, feature, random, and collision testing. Core access and test integration. Interface-based verification and standards. Prerequisites: CSE 237A; or basic courses in algorithms and data structures, elementary calculus, discrete math, symbolic logic, computer architecture; or consent of instructor.",
+  "prereqs": "CSE 237A"
+}

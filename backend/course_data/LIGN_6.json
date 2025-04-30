@@ -1,0 +1,8 @@
+{
+  "code": "LIGN 6",
+  "title": "Computers and Language",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign6",
+  "description": "Computers and \u201cvirtual assistants\u201d are increasingly expected to understand, process, and interact with us using natural human language. This course will focus on the difficult computational and linguistic problems that working with natural language presents; and learn to implement some of the basic computational techniques used to model, process, and produce human language in Python."
+}

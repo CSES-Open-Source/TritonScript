@@ -1,0 +1,30 @@
+{
+  "code": "HDS 181",
+  "title": "Experimental Projects in Human Development Research",
+  "units": "6",
+  "dept": "HDS",
+  "anchor": "hds181",
+  "description": "This laboratory course in human developmental sciences is designed around a variety of intensive experimental projects. With lectures providing background information on research methods and life span development, each assignment will include data collection and/or analysis, and a written laboratory report. Renumbered from HDP 181. Students may not receive credit for HDP 181 and HDS 181. Prerequisites: HDS 1 and BIEB 100 or COGS 14B or ECON 120A or MATH 11 or POLI 30 or POLI 30D or PSYC 60. Department approval required. A minimum of three upper-division HDS major courses, at least one in each domain, is needed for enrollment approval. Must be a declared HDS major. (F,W,S)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "HDS 1",
+      {
+        "type": "one",
+        "courses": [
+          "BIEB 100",
+          "COGS 14B",
+          "ECON 120A",
+          "MATH 11",
+          "POLI 30",
+          "POLI 30D",
+          "PSYC 60"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "HDS 150",
+    "HDS 191"
+  ]
+}

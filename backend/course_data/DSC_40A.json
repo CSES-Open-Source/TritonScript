@@ -1,0 +1,36 @@
+{
+  "code": "DSC 40A",
+  "title": "Theoretical Foundations of Data Science I",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc40a",
+  "description": "The sequence DSC 40A-B introduces the theoretical foundations of data science. DSC 40A, the first course in the sequence, exposes students to the mathematical theory underlying fundamental topics in machine learning. Topics include empirical risk minimization, optimization, regression, classification, and discrete probability. Students practice creative problem-solving while learning how to rigorously justify and communicate mathematical ideas. Prerequisites: DSC 10, MATH 20C or MATH 31BH, and MATH 18 or MATH 20F or MATH 31AH. Restricted to students within the DS25 major. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 10",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "DSC 40B",
+    "DSC 80",
+    "DSC 97",
+    "DSC 98",
+    "DSC 99"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "TDGR 280C",
+  "title": "Stage Management 3",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdgr280c",
+  "description": "The final course in the three-part introductory stage management series focuses on the stage manager\u2019s role once a production has opened. The course will also address topics such as new plays, touring, dance, multimedia productions, and music. Prerequisites: TDGR 280A and TDGR 280B; admission to MFA theatre program or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "TDGR 280A",
+      "TDGR 280B"
+    ]
+  }
+}

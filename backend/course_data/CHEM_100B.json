@@ -1,0 +1,29 @@
+{
+  "code": "CHEM 100B",
+  "title": "Instrumental Chemistry Laboratory",
+  "units": "5",
+  "dept": "CHEM",
+  "anchor": "chem100b",
+  "description": "Hands-on laboratory course focuses on development of correct laboratory work habits and methodologies for the operation of modern analytical instrumentation. Gas chromatography, mass spectrometry, high performance liquid chromatography, ion chromatography, atomic absorption spectroscopy, fluorescence spectrometry, infrared spectrometry. Lecture focuses on fundamental theoretical principles, applications, and limitations of instrumentation used for qualitative and quantitative analysis. Program or materials fees may apply. Students may not receive credit for both CHEM 100B and 101. Prerequisites: CHEM 100A and PHYS 2C or 2D and PHYS 2BL or 2CL or 2DL.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 100A",
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2C",
+          "PHYS 2D"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2BL",
+          "PHYS 2CL",
+          "PHYS 2DL"
+        ]
+      }
+    ]
+  }
+}

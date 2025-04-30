@@ -1,0 +1,8 @@
+{
+  "code": "FMPH 431",
+  "title": "Public Health Informatics",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fmph431",
+  "description": "The course introduces students to informatics concepts, techniques, and systems used in public health practice. The course covers systems and data standards used in vital statistics, immunization tracking, disease surveillance, disease outbreak management, electronic laboratory reporting, and disease registries. The course provides students experience with real world clinical data sets, relational and NoSQL database systems, and geographic information systems for public health data analysis. Prerequisites: must be enrolled in MPH program (FM75) or program approval."
+}

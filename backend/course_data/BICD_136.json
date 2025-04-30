@@ -1,0 +1,15 @@
+{
+  "code": "BICD 136",
+  "title": "AIDS Science and Society",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bicd136",
+  "description": "An introduction to all aspects of the AIDS epidemic. Topics will include the epidemiology, biology, and clinical aspects of HIV infection, HIV testing, education and approaches to therapy, and the social, political, and legal impacts of AIDS on the individual and society. In order to count for their major, biology majors must take the upper-division course, BICD 136. Prerequisites: BILD 1, BILD 2 recommended.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 2"
+    ]
+  }
+}

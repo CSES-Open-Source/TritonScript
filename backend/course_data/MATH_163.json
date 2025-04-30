@@ -1,0 +1,9 @@
+{
+  "code": "MATH 163",
+  "title": "History of Mathematics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math163",
+  "description": "Topics will vary from year to year in areas of mathematics and their development. Topics may include the evolution of mathematics from the Babylonian period to the eighteenth century using original sources, a history of the foundations of mathematics and the development of modern mathematics. Prerequisites: MATH 20B or consent of instructor.",
+  "prereqs": "MATH 20B"
+}

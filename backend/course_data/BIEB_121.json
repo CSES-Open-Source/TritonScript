@@ -1,0 +1,22 @@
+{
+  "code": "BIEB 121",
+  "title": "Ecology Laboratory",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb121",
+  "description": "A laboratory course to familiarize students with ecological problem solving and methods. Students will perform outdoor fieldwork and use a computer for data exploration and analysis. Fieldwork can be expected in this course. Associated travel may be required, and students are responsible for their own transportation. Students may need to provide and use their own laptop. Program or materials fees may apply. Prerequisites: BIEB 100 or MATH 11 or SIO 187 and BILD 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BIEB 100",
+          "MATH 11",
+          "SIO 187"
+        ]
+      },
+      "BILD 3"
+    ]
+  }
+}

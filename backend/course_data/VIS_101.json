@@ -1,0 +1,11 @@
+{
+  "code": "VIS 101",
+  "title": "Introduction to Urban Ecologies",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis101",
+  "description": "This course introduces expanded meanings of the urban and the ecological into new conceptual zones for artistic practice and research. It introduces urbanization as a set of complex and transformative processes of interrelated cultural, socioeconomic, geopolitical, and environmental conditions whose material and informational flows generate the designs and meanings of cities as an ecological system. Prerequisites: upper-division standing.",
+  "successors": [
+    "VIS 101A"
+  ]
+}

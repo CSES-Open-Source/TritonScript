@@ -1,0 +1,8 @@
+{
+  "code": "COGS 9",
+  "title": "Introduction to Data Science",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs9",
+  "description": "Concepts of data and its role in science will be introduced, as well as the ideas behind data-mining, text-mining, machine learning, and graph theory, and how scientists and companies are leveraging those methods to uncover new insights into human cognition."
+}

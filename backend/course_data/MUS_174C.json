@@ -1,0 +1,15 @@
+{
+  "code": "MUS 174C",
+  "title": "Audio/MlDI Studio Techniques III",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus174c",
+  "description": "Third class in a yearlong sequence. Surveys hardware and software resources in an advanced analog/digital and media studio. Required course for use of the studio. Topics include: electronic and computer music, digital and analog audio signal mixing and manipulation, studio devices, interfacing, compositional applications, MIDI synchronization, performance and studio techniques, and student projects. 174C focuses on MIDI, synchronization, and sound-for-picture. Prerequisites: MUS 170, MUS 174B; restricted to music, ICAM-music, and ICAM-visual arts majors and minors, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MUS 170",
+      "MUS 174B"
+    ]
+  }
+}

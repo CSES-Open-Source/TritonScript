@@ -1,0 +1,9 @@
+{
+  "code": "SIO 160",
+  "title": "Introduction to Tectonics",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio160",
+  "description": "The theory of plate tectonics attempts to explain how forces within the Earth give rise to continents, ocean basins, mountain ranges, earthquake belts, and most volcanoes. In this course we will learn how plate tectonics works. Prerequisites: SIO 50 or consent of instructor.",
+  "prereqs": "SIO 50"
+}

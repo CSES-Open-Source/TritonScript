@@ -1,0 +1,19 @@
+{
+  "code": "MUS 137D",
+  "title": "Seminar in Jazz Studies I",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus137d",
+  "description": "Advanced individual projects for senior music majors pursuing honors in jazz and music of the African diaspora. Projects will be critically reviewed in seminar with fellow students and jazz faculty. First course of a yearlong sequence. Prerequisites: MUS 137A-B-C and admission into the Music Department Honors Program in jazz. Department approval required.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MUS 137A",
+      "MUS 137B",
+      "MUS 137C"
+    ]
+  },
+  "successors": [
+    "MUS 137E"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "code": "PSYC 171",
+  "title": "Neurobiology of Learning and Memory",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc171",
+  "description": "This course provides an overview of the neurobiology of learning and memory, from cognitive to molecular neuroscience, including human, animal, cellular, and molecular studies of memory. Topics include amnesia, intellectual disability, exceptional intelligence, aging, and Alzheimer\u2019s disease. Prerequisites: upper-division standing and BILD 12 or COGS 107B or COGS 17 or PSYC 106 or PSYC 181 or PSYC 181GS or PSYC 2.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BILD 12",
+      "COGS 107B",
+      "COGS 17",
+      "PSYC 106",
+      "PSYC 181",
+      "PSYC 181GS",
+      "PSYC 2"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "code": "LIGN 180",
+  "title": "Language Representation in the Brain",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign180",
+  "description": "The mind/body problem, modularity, basic neuroanatomy, cerebral lateralization, re-evaluation of classical language areas, aphasia, dyslexia, the KE family and FOXP2 gene, mirror neurons, sign language, brain development, cortical plasticity, and localization studies of language processing (electrical stimulation, MEG, fMRI, and PET). Students may not receive credit for both LIGN 172 and LIGN 180. Prerequisites: LIGN 101, or upper-division standing, or consent of instructor.",
+  "prereqs": "LIGN 101",
+  "successors": [
+    "LIGN 172"
+  ]
+}

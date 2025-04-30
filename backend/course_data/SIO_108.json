@@ -1,0 +1,16 @@
+{
+  "code": "SIO 108",
+  "title": "Paleoclimatology",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio108",
+  "description": "An introduction to basic principles and applications of paleoclimatology, the study of climate and climate changes that occurred prior to the period of instrumental records. A review of processes and archives of climate data will be investigated using examples from Earth history. Prerequisites: ESYS 102 or SIO 50 or SIO 12 or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ESYS 102",
+      "SIO 50",
+      "SIO 12"
+    ]
+  }
+}

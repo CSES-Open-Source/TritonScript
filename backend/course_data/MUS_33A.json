@@ -1,0 +1,12 @@
+{
+  "code": "MUS 33A",
+  "title": "Introduction to Composition I",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus33a",
+  "description": "First course in a sequence for music majors and nonmajors pursuing an emphasis in composition. The course examines \u201csound\u201d itself and various ways of building sounds into musical structures and develops skills in music notation. Students compose solo pieces in shorter forms. Students may not receive credit for both MUS 33 and 33A. Prerequisites: MUS 2C or consent of instructor.",
+  "prereqs": "MUS 2C",
+  "successors": [
+    "MUS 33B"
+  ]
+}

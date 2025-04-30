@@ -1,0 +1,11 @@
+{
+  "code": "SIO 12",
+  "title": "History of the Earth and Evolution",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio12",
+  "description": "Evolution of the Earth from its origin in the early solar system to formation of continents and ocean basins, and how the planet became habitable. It examines the geologic record of evolution, extinction, plate tectonics, and climate changes through time. Prerequisites: none.",
+  "successors": [
+    "SIO 108"
+  ]
+}

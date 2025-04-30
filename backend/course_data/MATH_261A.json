@@ -1,0 +1,11 @@
+{
+  "code": "MATH 261A",
+  "title": "Probabilistic Combinatorics and Algorithms",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math261a",
+  "description": "Introduction to the probabilistic method. Combinatorial applications of the linearity of expectation, second moment method, Markov, Chebyschev, and Azuma inequalities, and the local limit lemma. Introduction to the theory of random graphs. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "MATH 261B"
+  ]
+}

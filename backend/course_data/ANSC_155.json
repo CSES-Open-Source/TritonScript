@@ -1,0 +1,20 @@
+{
+  "code": "ANSC 155",
+  "title": "Humanitarian Aid: What Is It Good For?",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "ansc155",
+  "description": "This course examines the intended and unintended consequences of humanitarian aid. How do organizations negotiate principles of equality with the reality of limited resources? What role does medicine play in aid efforts? In spaces where multiple vulnerabilities coexist, how do we decide whom we should help first? While the need for aid, charity, and giving in the face of suffering is often taken as a commonsensical good, this course reveals the complexities underpinning humanitarian aid. Prerequisites: ANTH 101, ANSC 123, ANSC 148, and upper-division standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ANTH 101",
+      "ANSC 123",
+      "ANSC 148"
+    ]
+  },
+  "successors": [
+    "ANSC 190GS",
+    "ANSC 191GS"
+  ]
+}

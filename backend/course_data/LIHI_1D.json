@@ -1,0 +1,15 @@
+{
+  "code": "LIHI 1D",
+  "title": "Hindi Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lihi1d",
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIHI 1DX. Prerequisites: LIHI 1C with a grade of C\u2013 or better, or equivalent and LIHI 1CX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIHI 1C",
+      "LIHI 1CX"
+    ]
+  }
+}

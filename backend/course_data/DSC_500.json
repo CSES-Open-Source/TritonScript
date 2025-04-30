@@ -1,0 +1,12 @@
+{
+  "code": "DSC 500",
+  "title": "Teaching Assistantship",
+  "units": "2 or 4",
+  "dept": "DSC",
+  "anchor": "dsc500",
+  "description": "A course in which teaching assistants are aided in learning proper teaching methods by means of supervision of their work by the faculty: handling of discussions, preparation and grading of examinations and other written exercises, and student relations. Number of units for credit depends on number of hours devoted to class or section assistance. May be taken for credit up to seventy-two units. Prerequisites: DSC 500 is for selected teaching assistants only; therefore, consent of instructor is required.",
+  "prereqs": "DSC 500",
+  "successors": [
+    "DSC 500"
+  ]
+}

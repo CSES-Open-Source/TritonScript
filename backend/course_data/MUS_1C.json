@@ -1,0 +1,12 @@
+{
+  "code": "MUS 1C",
+  "title": "Fundamentals of Music C",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus1c",
+  "description": "This course, third in a three-quarter sequence, offers solid foundation in musical literacy through exercises such as harmonic and melodic dictation, sight singing exercises and rhythm in various meters. Topics include complex rhythm, harmony, and basic keyboard skills. Prerequisites: MUS 1B.",
+  "prereqs": "MUS 1B",
+  "successors": [
+    "MUS 120A"
+  ]
+}

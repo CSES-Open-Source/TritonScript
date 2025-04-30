@@ -1,0 +1,15 @@
+{
+  "code": "SIOB 285",
+  "title": "Physical-Biological Interactions",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siob285",
+  "description": "Physical and biological processes affecting growth and patchiness of plankton. Concepts and equations from physical oceanography will be presented and explored in a biological context. Ideas will be treated both theoretically and with examples from the literature. Prerequisites: SIOC 210 or SIO 210 or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIOC 210",
+      "SIO 210"
+    ]
+  }
+}

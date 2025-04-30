@@ -1,0 +1,9 @@
+{
+  "code": "SE 253C",
+  "title": "Mechanics of Laminated Anisotropy Plates and Shells",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se253c",
+  "description": "Static/dynamic/elastic stability of laminated anisotropic plates and cylindrical shells. Theories: thin-plate (classical lamination theory), first-and third- order shear-deformable (Reissner-Mindlin and Reddy) thick plates, and refined layer-wise theories. Solution methods: exact, approximate (Ritz, Galerkin) and finite element method. Additional topics: sandwich construction, elastic couplings, thermal response, shear factor determination, fiber/interlaminar stress recovery, strength/safety. Prerequisites: SE 253B; graduate standing or consent of instructor.",
+  "prereqs": "SE 253B"
+}

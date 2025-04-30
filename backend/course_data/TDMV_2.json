@@ -1,0 +1,11 @@
+{
+  "code": "TDMV 2",
+  "title": "Beginning Contemporary Dance",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdmv2",
+  "description": "Introduction to contemporary somatic approaches to dance, building fundamental technical skills, kinetic and perceptual awareness, efficiency, and artistic expression. Choreographic sequences are analyzed through time space coordination and dynamics. Movement exploration includes improvisation and composition. May be taken for credit six times. Prerequisites: none.",
+  "successors": [
+    "TDMV 120"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "SIO 144",
+  "title": "Introduction to Isotope Geochemistry",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siog252a",
+  "description": "Radioactive and stable isotope studies in geology and geochemistry, including geochronology, isotopes as tracers of magmatic processes, cosmic-ray produced isotopes as tracers in the crust and weathering cycle, isotopic evolution of the crust and mantle. Prerequisites: undergraduate: SIO 50, 102, and 120 or consent of instructor. Graduate: graduate-level standing or consent of instructor. Graduate level requires student presentation.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SIO 50",
+      "SIO 102",
+      "SIO 120"
+    ]
+  }
+}

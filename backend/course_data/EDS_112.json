@@ -1,0 +1,11 @@
+{
+  "code": "EDS 112",
+  "title": "Urban Education in the United States",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds112",
+  "description": "Students will read, discuss, and analyze past and present urban education demographics, resources, policies, practices, and outcomes to deepen their knowledge and critique of issues in urban education. Prerequisites: upper-division standing.",
+  "successors": [
+    "EDS 120"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "TDMV 3",
+  "title": "Beginning Jazz",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdmv3",
+  "description": "Introduction to the technique of jazz dance, while placing the art form in its historical context as an American vernacular form. Builds a beginning technical jazz vocabulary with a focus on rhythmic exercises, isolations, turns, and locomotor combinations. May be taken for credit six times. Prerequisites: none.",
+  "successors": [
+    "TDMV 130"
+  ]
+}

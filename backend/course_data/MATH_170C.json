@@ -1,0 +1,21 @@
+{
+  "code": "MATH 170C",
+  "title": "Introduction to Numerical Analysis: Ordinary Differential Equations",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math170c",
+  "description": "Numerical differentiation and integration. Ordinary differential equations and their numerical solution. Basic existence and stability theory. Difference equations. Boundary value problems. Prerequisites: MATH 20D or 21D and MATH 170B, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20D",
+          "MATH 21D"
+        ]
+      },
+      "MATH 170B"
+    ]
+  }
+}

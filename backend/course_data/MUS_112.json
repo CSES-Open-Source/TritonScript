@@ -1,0 +1,23 @@
+{
+  "code": "MUS 112",
+  "title": "Topics in European Music Before 1750",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus112",
+  "description": "This course will address topics in medieval, Renaissance, and Baroque music; topics will vary from year to year. May be taken for credit five times. Prerequisites: knowledge of music notation or consent of instructor; MUS 4, 8\u201310, or 120 recommended.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MUS 4",
+      {
+        "type": "all",
+        "courses": [
+          "MUS 8",
+          "MUS 9",
+          "MUS 10"
+        ]
+      },
+      "MUS 120"
+    ]
+  }
+}

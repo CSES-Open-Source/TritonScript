@@ -1,0 +1,15 @@
+{
+  "code": "PHYS 215C",
+  "title": "Quantum Fields III",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys215c",
+  "description": "Aspects of gauge theories. Introduction to non-Abelian global and approximate symmetries. Introduction to non-Abelian gauge theories, including canonical and path integral quantization, perturbative calculations, asymptotic freedom. Spontaneous symmetry breaking. Selected additional topics including e.g., effective field theory, anomalies, instantons, monopoles, large N methods, lattice gauge theory. Prerequisites: PHYS 215A-B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 215A",
+      "PHYS 215B"
+    ]
+  }
+}

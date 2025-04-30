@@ -1,0 +1,35 @@
+{
+  "code": "CSE 103",
+  "title": "A Practical Introduction to Probability and Statistics",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse103",
+  "description": "Distributions over the real line. Independence, expectation, conditional expectation, mean, variance. Hypothesis testing. Learning classifiers. Distributions over R^n, covariance matrix. Binomial, Poisson distributions. Chernoff bound. Entropy. Compression. Arithmetic coding. Maximal likelihood estimation. Bayesian estimation. CSE 103 is not duplicate credit for ECE 109, ECON 120A, or MATH 183. Prerequisites: MATH 20B and CSE 21 or MATH 154 or MATH 158 or MATH 184 or MATH 188; restricted to CS25, CS26, CS27, and CS28 majors. Other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20B",
+      {
+        "type": "one",
+        "courses": [
+          "CSE 21",
+          "MATH 154",
+          "MATH 158",
+          "MATH 184",
+          "MATH 188"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CSE 150A",
+    "CSE 150B",
+    "CSE 151A",
+    "CSE 151B",
+    "CSE 156",
+    "CSE 158",
+    "CSE 158R",
+    "DSC 148",
+    "MATH 189"
+  ]
+}

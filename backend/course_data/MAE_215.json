@@ -1,0 +1,8 @@
+{
+  "code": "MAE 215",
+  "title": "Multiphase Flow and Heat Transfer",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae215",
+  "description": "This course is designed to teach the fundamentals and some applications of multiphase systems. The first part of the course introduces the basics of thermodynamics and transport processes in generalized multiphase systems, along with the description of interfacial transport mechanisms. In the second part, the course focuses on the analyses of transport processes and interfacial instabilities in specific systems, including droplets, bubbles, and sprays."
+}

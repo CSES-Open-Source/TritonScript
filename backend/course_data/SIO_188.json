@@ -1,0 +1,12 @@
+{
+  "code": "SIO 188",
+  "title": "Biology of Fishes",
+  "units": "5",
+  "dept": "SIO",
+  "anchor": "sio188",
+  "description": "The comparative evolution, morphology, physiology, and ecology of fishes. Special emphasis on local, deep-sea, and pelagic forms in laboratory. Prerequisites: BILD 3 or consent of instructor.",
+  "prereqs": "BILD 3",
+  "successors": [
+    "SIO 131"
+  ]
+}

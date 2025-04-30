@@ -1,0 +1,11 @@
+{
+  "code": "EDS 293A",
+  "title": "Advanced Leadership Research Practicum",
+  "units": "2",
+  "dept": "EDS",
+  "anchor": "eds293a",
+  "description": "Students use their placements in local schools and educational settings to examine leadership research and practice topics raised in the Leadership core courses and Research and Evaluation Design/Methods courses. This is the first course in a three-course series. Prerequisites: Joint EdD in Educational Leadership student status or consent of instructor.",
+  "successors": [
+    "EDS 293B"
+  ]
+}

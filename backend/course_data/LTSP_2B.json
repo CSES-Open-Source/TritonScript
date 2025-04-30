@@ -1,0 +1,12 @@
+{
+  "code": "LTSP 2B",
+  "title": "Intermediate Spanish II: Readings and Composition",
+  "units": "5",
+  "dept": "LIT",
+  "anchor": "ltsp2b",
+  "description": "Review of major points of grammar with emphasis on critical reading and interpretation of Spanish texts through class discussions, vocabulary development, and written compositions. It is a continuation of LTSP 2A.  Prerequisites:  LTSP 2A or score of 4 on AP Spanish language or 3 on AP Spanish literature exams or consent of instructor.",
+  "prereqs": "LTSP 2A",
+  "successors": [
+    "LTSP 2C"
+  ]
+}

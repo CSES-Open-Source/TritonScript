@@ -1,0 +1,36 @@
+{
+  "code": "PHYS 2CL",
+  "title": "Physics Laboratory\u2014Electricity and Magnetism",
+  "units": "2",
+  "dept": "PHYS",
+  "anchor": "phys2cl",
+  "description": "Experiments on L-R-C circuits; oscillations, resonance and damping, measurement of magnetic fields. One hour lecture and three hours laboratory. Program or materials fee may apply. Prerequisites: PHYS 2A or 4A, and 2B or 4C. Recommended preparation: prior or concurrent enrollment in PHYS 2C or 4D.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 4A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2B",
+          "PHYS 4C"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CHEM 100B",
+    "CHEM 105A",
+    "MAE 170",
+    "PHYS 120",
+    "PHYS 133",
+    "PHYS 1CL",
+    "PHYS 2DL"
+  ]
+}

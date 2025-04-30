@@ -1,0 +1,8 @@
+{
+  "code": "ECE 244A",
+  "title": "Statistical Optics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece244a",
+  "description": "Introduction to statistical phenomena in optics including first order properties of light waves generated from various sources. Coherence of optical waves, high-order coherence. Partial coherence and its effects on imaging systems. Imaging in presence of randomly inhomogeneous medium. Limits in photoelectric detection of light. Recommended preparation: ECE 240A-B. Prerequisites: graduate standing."
+}

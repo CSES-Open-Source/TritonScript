@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-01-07T21:27",
+  "deptCount": 87,
+  "courseCount": 7196,
+  "withPrereqsCount": 2254,
+  "withCoreqsCount": 58,
+  "withSuccessorsCount": 1355,
+  "allStats": {
+    "departments": 87,
+    "courses": 7196,
+    "course_listings": 7239,
+    "sequence_listings": 61,
+    "code_match_failures": 6,
+    "ignored_crosslistings": 122,
+    "missing_units": 9,
+    "nonstandard_units": 567,
+    "missing_anchors": 56,
+    "missing_descriptions": 0,
+    "with_prerequisites": 2254,
+    "with_corequisites": 58,
+    "with_successors": 1355
+  }
+}

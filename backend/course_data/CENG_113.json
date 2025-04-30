@@ -1,0 +1,21 @@
+{
+  "code": "CENG 113",
+  "title": "Chemical Reaction Engineering",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng113",
+  "description": "Principles of chemical reactor analysis and design. Experimental determination of rate equations, design of batch and continuous reactors, optimization of selectivity in multiple reactions, consideration of thermal effects and residence time distribution. Introduction to multi-phase reactors. Prerequisites: CENG 15, CENG 100 and MATH 20D.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CENG 15",
+      "CENG 100",
+      "MATH 20D"
+    ]
+  },
+  "successors": [
+    "CENG 120",
+    "CENG 124A",
+    "CENG 176A"
+  ]
+}

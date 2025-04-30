@@ -1,0 +1,9 @@
+{
+  "code": "ECE 240C",
+  "title": "Optical Modulation and Detection",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece240c",
+  "description": "Propagation of waves and rays in anisotropic media. Electro-optical switching and modulation. Acousto-optical deflection and modulation. Detection theory. Heterodyne detection, incoherent and coherent detection. Recommended preparation: ECE 181, ECE 183, or equivalent. Prerequisites: ECE 240B; graduate standing.",
+  "prereqs": "ECE 240B"
+}

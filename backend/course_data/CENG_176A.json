@@ -1,0 +1,19 @@
+{
+  "code": "CENG 176A",
+  "title": "Chemical Engineering Process Laboratory I",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng176a",
+  "description": "Laboratory projects in the areas of applied chemical research and unit operations. Emphasis on applications of engineering concepts and fundamentals to solution of practical and research problems. Prerequisites: CENG 113, CENG 122, and MAE 170, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CENG 113",
+      "CENG 122",
+      "MAE 170"
+    ]
+  },
+  "successors": [
+    "CENG 176B"
+  ]
+}

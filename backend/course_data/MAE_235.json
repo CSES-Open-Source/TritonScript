@@ -1,0 +1,11 @@
+{
+  "code": "MAE 235",
+  "title": "Computational Techniques in Finite Elements",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae235",
+  "description": "(Cross-listed with SE 233.) Practical application of the finite element method to problems in solid mechanics. Elements of theory are presented as needed. Covered are static and dynamic heat transfer and stress analysis. Basic processing, solution methods, and postprocessing are practiced with commercial finite element software. Students may not receive credit for SE 233 and MAE 235. Prerequisites: graduate standing.",
+  "successors": [
+    "SE 285"
+  ]
+}

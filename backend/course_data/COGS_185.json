@@ -1,0 +1,9 @@
+{
+  "code": "COGS 185",
+  "title": "Advanced Machine Learning Methods",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs185",
+  "description": "This course is an advanced seminar and project course that follows the introduction to machine learning courses. Advanced and new machine learning methods will be discussed and used. Prerequisites: COGS 118A.",
+  "prereqs": "COGS 118A"
+}

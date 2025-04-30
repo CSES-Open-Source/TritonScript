@@ -1,0 +1,14 @@
+{
+  "code": "MAE 280A",
+  "title": "Linear Systems Theory",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae280a",
+  "description": "Linear algebra: inner products, outer products, vector norms, matrix norms, least squares problems, Jordan forms, coordinate transformations, positive definite matrices, etc. Properties of linear dynamic systems described by ODEs: observability, controllability, detectability, stabilizability, trackability, optimality. Control systems design: state estimation, pole assignment, linear quadratic control.",
+  "successors": [
+    "MAE 280B",
+    "MAE 281A",
+    "MAE 284",
+    "MAE 288B"
+  ]
+}

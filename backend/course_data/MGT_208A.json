@@ -1,0 +1,14 @@
+{
+  "code": "MGT 208A",
+  "title": "Introduction to Management Research A",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt208a",
+  "description": "This is the first course in a three-course sequence that introduces students to the various methodologies and research paradigms employed in management research. This course covers fundamentals of empirical research methods, including research design, reliability and validity of measurements, theory building and hypothesis testing, and some history of science. Prerequisites: admission to management PhD program or by consent of instructor.",
+  "successors": [
+    "MGT 208B",
+    "MGT 225",
+    "MGT 245",
+    "MGT 246"
+  ]
+}

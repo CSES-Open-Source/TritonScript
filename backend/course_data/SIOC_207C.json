@@ -1,0 +1,21 @@
+{
+  "code": "SIOC 207C",
+  "title": "Digital Signal Processing II",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc207c",
+  "description": "Adaptive filter theory, estimation errors for recursive least squares and gradient algorithms, convergence and tracking analysis of LMS, RLS, and Kalman filtering algorithms, comparative performance of Wiener and adaptive filters, transversal and lattice filter implementations, performance analysis for equalization, noise canceling, and linear prediction applications. Coscheduled with ECE 251B. (Recommended Prerequisites: ECE 251A or ECE 251AN.) Prerequisites: graduate standing ECE 251A (for ECE 251B); SIOC 207B or SIO 207B (for SIOC 207C).",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 251A",
+      {
+        "type": "one",
+        "courses": [
+          "SIOC 207B",
+          "SIO 207B"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "SIO 176",
+  "title": "Observational Physical Oceanography",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio176",
+  "description": "This course gives an introduction to the methods and measurements used by observational physical oceanographers. Topics covered include sensors such as conductivity-temperature-depth (CTD), acoustic Doppler current profiler (ADCP), platforms such as autonomous gliders and ships, and services such as satellite measurements. This course includes a research project. Prerequisites: SIO 171 or consent of instructor.",
+  "prereqs": "SIO 171"
+}

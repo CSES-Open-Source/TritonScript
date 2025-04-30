@@ -1,0 +1,20 @@
+{
+  "code": "POLI 170A",
+  "title": "Applied Data Analysis for Political Science",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli170a",
+  "description": "This course is an advanced introductory course for undergraduates. It will acquaint students with statistical methodology as it is used in the social sciences. It is assumed that the student has the mathematical background to progress through the materials a bit faster than in a true introductory course. Prerequisites: POLI 30 or POLI 30D or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "POLI 30",
+      "POLI 30D"
+    ]
+  },
+  "successors": [
+    "DSC 161",
+    "POLI 175",
+    "POLI 176"
+  ]
+}

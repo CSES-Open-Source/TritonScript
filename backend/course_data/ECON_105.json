@@ -1,0 +1,9 @@
+{
+  "code": "ECON 105",
+  "title": "Industrial Organization and Firm Strategy",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ105",
+  "description": "Theory of monopoly and oligopoly pricing, price discrimination, durable goods pricing, cartel behavior, price wars, strategic entry barriers, mergers, pro- and anticompetitive restraints on business. Prerequisites: ECON 100C.",
+  "prereqs": "ECON 100C"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "COGS 107C",
+  "title": "Cognitive Neuroscience",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs107c",
+  "description": "This course reviews research investigating the neural bases for human mental processes, including processing of affective, social, linguistic, and visuospatial information, as well as memory, attention, and executive functions. Also discussed are brain development and brain aging, and the nature of intelligence and creativity. Prerequisites: COGS 107B and its prerequisites.",
+  "prereqs": "COGS 107B",
+  "successors": [
+    "COGS 165",
+    "COGS 184",
+    "PSYC 113",
+    "PSYC 150"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "code": "SE 115",
+  "title": "Fluid Mechanics for Structural Engineering",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se115",
+  "description": "Fluid statics, hydrostatic forces; integral and differential forms of conservation equations for mass, momentum, and energy; Bernoulli equation; dimensional analysis; viscous pipe flow; external flow, boundary layers; open channel flow. Prerequisites: PHYS 2A or PHYS 2AR and MATH 20D, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 2AR"
+        ]
+      },
+      "MATH 20D"
+    ]
+  }
+}

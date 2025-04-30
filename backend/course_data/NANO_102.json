@@ -1,0 +1,17 @@
+{
+  "code": "NANO 102",
+  "title": "Foundations in NanoEngineering: Chemical Principles",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano102",
+  "description": "Chemical and biochemical principles tailored to nanotechnologies. Chemical interactions, classical and statistical thermodynamics of small systems, diffusion, carbon-based nanomaterials, supramolecular chemistry, colloid and polymer chemistry, lipid vesicles, surface functionalization, catalysis, biomolecular interactions, and signal pathways. Priority enrollment given to NanoEngineering majors. Prerequisites: CHEM 6C. Restricted to NanoEngineering majors or by department approval.",
+  "prereqs": "CHEM 6C",
+  "successors": [
+    "NANO 103",
+    "NANO 110",
+    "NANO 111",
+    "NANO 112",
+    "NANO 164",
+    "NANO 168"
+  ]
+}

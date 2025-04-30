@@ -1,0 +1,9 @@
+{
+  "code": "BIEB 126",
+  "title": "Plant Ecology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb126",
+  "description": "This course begins with an introduction to plant population biology including whole-plant growth and physiology. We then focus on three classes of ecological interactions: plant-plant competition, plant-herbivore coevolution, and plant reproductive ecology including animal pollination and seed dispersal. Prerequisites: BILD 3.",
+  "prereqs": "BILD 3"
+}

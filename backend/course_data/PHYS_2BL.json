@@ -1,0 +1,21 @@
+{
+  "code": "PHYS 2BL",
+  "title": "Physics Laboratory\u2014Mechanics",
+  "units": "2",
+  "dept": "PHYS",
+  "anchor": "phys2bl",
+  "description": "Experiments include gravitational force, linear and rotational motion, conservation of energy and momentum, collisions, oscillations and springs, gyroscopes. Data reduction and error analysis are required for written laboratory reports. One hour lecture and three hours laboratory. Prerequisites: PHYS 2A or 4A. Recommended preparation: prior or concurrent enrollment in PHYS 2B or 4C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "PHYS 2A",
+      "PHYS 4A"
+    ]
+  },
+  "successors": [
+    "CHEM 100B",
+    "CHEM 105A",
+    "PHYS 1BL",
+    "PHYS 2DL"
+  ]
+}

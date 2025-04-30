@@ -1,0 +1,18 @@
+{
+  "code": "ECON 210A",
+  "title": "Macroeconomics A",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ210a",
+  "description": "Dynamic optimization: Lagrangian methods and recursive methods. The neoclassical growth model: social planner, competitive equilibrium, first and second welfare theorems, steady state analysis, dynamic analysis, shocks, heterogeneity and aggregation, applications. Prerequisites: none. Enrollment limited to Economics PhD students (EN75); or consent of instructor.",
+  "successors": [
+    "ECON 210B",
+    "ECON 210D",
+    "ECON 211",
+    "ECON 213",
+    "ECON 214",
+    "ECON 215",
+    "ECON 216",
+    "ECON 217"
+  ]
+}

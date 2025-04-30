@@ -1,0 +1,8 @@
+{
+  "code": "SE 236",
+  "title": "Wave Propagation in Continuous Structural Elements",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se236",
+  "description": "Propagation of elastic waves in thin structural elements such as strings, rods, beams, membranes, plates, and shells. An approximate strength-of-materials approach is used to consider propagation of elastic waves in these elements and obtain the dynamic response to transient loads. Prerequisites: graduate standing or consent of instructor."
+}

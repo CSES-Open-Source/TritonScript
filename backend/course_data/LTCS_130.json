@@ -1,0 +1,11 @@
+{
+  "code": "LTCS 130",
+  "title": "Gender, Race/Ethnicity, Class, and Culture",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltcs130",
+  "description": "The course will focus on the representation of gender, ethnicity, and class in cultural production in view of various contemporary theories of race, sex, and class. May be taken for credit up to three times as topics vary.",
+  "successors": [
+    "EDS 120"
+  ]
+}

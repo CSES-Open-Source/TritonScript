@@ -1,0 +1,15 @@
+{
+  "code": "MGT 293D",
+  "title": "Original Research Presentation",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt293d",
+  "description": "In this course, the student will continue work on the original research problem and prepare a presentation that will prepare for candidacy. Prerequisites: MGT 292, MGT 293C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGT 292",
+      "MGT 293C"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "code": "COMM 158",
+  "title": "Representations of the Israeli/Palestinian Conflict",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm158",
+  "description": "The conflict between the state of Israel and the group of people known as Palestinians is arguably the most intractable conflict in the world today. This course is a critical engagement with debates about this conflict, and the different representations of these debates. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

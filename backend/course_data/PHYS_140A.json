@@ -1,0 +1,13 @@
+{
+  "code": "PHYS 140A",
+  "title": "Statistical and Thermal Physics I",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys140a",
+  "description": "Integrated treatment of thermodynamics and statistical mechanics; statistical treatment of entropy, review of elementary probability theory, canonical distribution, partition function, free energy, phase equilibrium, introduction to ideal quantum gases. Prerequisites: PHYS 130A. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only.",
+  "prereqs": "PHYS 130A",
+  "successors": [
+    "PHYS 140B",
+    "PHYS 176"
+  ]
+}

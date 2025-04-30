@@ -1,0 +1,21 @@
+{
+  "code": "COGS 188",
+  "title": "Artificial Intelligence Algorithms",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs188",
+  "description": "This class will cover a broad spectrum of machine learning algorithms. It builds on students\u2019 previous exposure to machine learning. It covers new artificial intelligence algorithms ranging from topic models as used in the text data analysis to genetic algorithms. Students will not receive credit for both COGS 188 and CSE 151A. Prerequisites: COGS 109 or COGS 118A or COGS 118B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 109",
+      "COGS 118A",
+      "COGS 118B"
+    ]
+  },
+  "successors": [
+    "COGS 118B",
+    "CSE 151B",
+    "DSC 180A"
+  ]
+}

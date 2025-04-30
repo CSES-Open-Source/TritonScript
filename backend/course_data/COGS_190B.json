@@ -1,0 +1,12 @@
+{
+  "code": "COGS 190B",
+  "title": "Honors Studies in Cognitive Science",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs190b",
+  "description": "This course will allow cognitive science honors students to explore advanced issues in the field of cognitive science research. It will also provide the opportunity to develop a thesis on the topic of their choice and begin work under faculty supervision. See \u201cCognitive Science Honors Program\u201d section for more information. Prerequisites: COGS 190A and formal admittance to the Cognitive Science Honors Program; department stamp.",
+  "prereqs": "COGS 190A",
+  "successors": [
+    "COGS 190C"
+  ]
+}

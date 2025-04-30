@@ -1,0 +1,15 @@
+{
+  "code": "SIO 161",
+  "title": "Seismology",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio161",
+  "description": "Introduction to observational and theoretical seismology: earth structure, source representation, ray theory, and seismic wave phenomena. Examines stress and strain, the wave equation, travel times, amplitude and phase, surface waves, and source theory, including magnitude, focal mechanism, moment tensors, and radiation patterns. Prerequisites: MATH 20D or SIO 103.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 20D",
+      "SIO 103"
+    ]
+  }
+}

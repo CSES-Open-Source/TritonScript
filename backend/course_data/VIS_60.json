@@ -1,0 +1,16 @@
+{
+  "code": "VIS 60",
+  "title": "Introduction to Digital Photography",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis60",
+  "description": "An in-depth exploration of the camera and image utilizing photographic digital technology. Emphasis is placed on developing fundamental control of the processes and materials through lectures, field, and lab experience. Basic discussion of image making included. Program or materials fees may apply. Prerequisites: none. Open to visual arts majors and minors.",
+  "successors": [
+    "VIS 158A",
+    "VIS 158D",
+    "VIS 164",
+    "VIS 165",
+    "VIS 165A",
+    "VIS 165B"
+  ]
+}

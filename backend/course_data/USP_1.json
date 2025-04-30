@@ -1,0 +1,11 @@
+{
+  "code": "USP 1",
+  "title": "History of US Urban Communities",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp1",
+  "description": "This course charts the development of urban communities across the United States both temporally and geographically. It examines the patterns of cleavage, conflict, convergence of interest, and consensus that have structured urban life. Social, cultural, and economic forces will be analyzed for the roles they have played in shaping the diverse communities of America\u2019s cities.",
+  "successors": [
+    "COMM 124A"
+  ]
+}

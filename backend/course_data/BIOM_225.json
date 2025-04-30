@@ -1,0 +1,11 @@
+{
+  "code": "BIOM 225",
+  "title": "Introduction to Anthropogeny",
+  "units": "2",
+  "dept": "BIOM",
+  "anchor": "biom225",
+  "description": "An overview of the current state of research into human origins with illustration of the spatial and temporal scales: from million-year-old phylogenies to millisecond physiological processes, and from human societies dispersed across continents to cells and molecules. Prerequisites: graduate standing required.",
+  "successors": [
+    "BIOM 229"
+  ]
+}

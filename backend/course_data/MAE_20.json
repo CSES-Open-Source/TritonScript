@@ -1,0 +1,31 @@
+{
+  "code": "MAE 20",
+  "title": "Elements of Materials Science",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae20",
+  "description": "The structure of materials: metals, ceramics, glasses, semiconductors, superconductors, and polymers to produce desired, useful properties. Atomic structures. Defects in materials, phase diagrams, microstructural control. Mechanical and electrical properties are discussed. Time temperature transformation diagrams. Diffusion. Prerequisites: PHYS 2A or 4A, CHEM 6A or CHEM 6AH, and MATH 20C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 4A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6A",
+          "CHEM 6AH"
+        ]
+      },
+      "MATH 20C"
+    ]
+  },
+  "successors": [
+    "MAE 160"
+  ]
+}

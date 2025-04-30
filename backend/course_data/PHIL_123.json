@@ -1,0 +1,9 @@
+{
+  "code": "PHIL 123",
+  "title": "Philosophy of Logic",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil123",
+  "description": "Philosophical issues underlying standard and nonstandard logics, the nature of logical knowledge, the relation between logic and mathematics, the revisability of logic, truth and logic, ontological commitment and ontological relativity, logical consequence, etc. May be repeated for credit with change in content and approval of instructor. Prerequisites: PHIL 120 or consent of instructor.",
+  "prereqs": "PHIL 120"
+}

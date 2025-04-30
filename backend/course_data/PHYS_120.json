@@ -1,0 +1,22 @@
+{
+  "code": "PHYS 120",
+  "title": "Circuits and Electronics",
+  "units": "5",
+  "dept": "PHYS",
+  "anchor": "phys120",
+  "description": "Laboratory and lecture course that covers principles of analog circuit theory and design, linear systems theory,\u00a0and practical aspects of\u00a0circuit realization, debugging, and characterization. Laboratory exercises include passive circuits, active filters and amplifiers with\u00a0discrete and monolithic devices, nonlinear circuits, interfaces to sensors and actuators, and the digitization of analog signals. PHYS 120 was formerly numbered PHYS 120A. Program or materials fees may apply.\u00a0Prerequisites: PHYS 4A-B-C, and 2CL. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only. Recommended preparation: PHYS 100A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 4A",
+      "PHYS 4B",
+      "PHYS 4C",
+      "PHYS 2CL"
+    ]
+  },
+  "successors": [
+    "PHYS 122",
+    "PHYS 124",
+    "PHYS 173"
+  ]
+}

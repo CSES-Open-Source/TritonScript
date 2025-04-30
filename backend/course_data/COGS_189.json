@@ -1,0 +1,20 @@
+{
+  "code": "COGS 189",
+  "title": "Brain Computer Interfaces",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs189",
+  "description": "This course will discuss signal processing, pattern recognition algorithms, and human-computer interaction issues in EEG-based brain-computer interfaces. Other types of brain-computer interfaces will also be discussed. Prerequisites: COGS 108 or COGS 109 or COGS 118A or COGS 118B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 108",
+      "COGS 109",
+      "COGS 118A",
+      "COGS 118B"
+    ]
+  },
+  "successors": [
+    "COGS 138"
+  ]
+}

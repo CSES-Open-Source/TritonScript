@@ -1,0 +1,13 @@
+{
+  "code": "VIS 147B",
+  "title": "Electronic Technologies for Art II",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis147b",
+  "description": "Continuation of the electronics curriculum. Design of programmable microcontroller systems for creating artworks that are able to respond to complex sets of input conditions, perform algorithmic and procedural processing, and generate real time output. Program or materials fees may apply. Purchase of components kit required. Two production-course limitation. Prerequisites: VIS 147A. Open to media, studio, ICAM, and speculative design majors.",
+  "prereqs": "VIS 147A",
+  "successors": [
+    "MUS 160A",
+    "VIS 160A"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "code": "NANO 107",
+  "title": "Electronic Devices and Circuits for NanoEngineers",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano107",
+  "description": "Overview of electrical devices and CMOS integrated circuits emphasizing fabrication processes, and scaling behavior. Design, and simulation of submicron CMOS circuits including amplifiers active filters digital logic, and memory circuits. Limitations of current technologies and possible impact of nanoelectronic technologies.\u00a0Prerequisites: NANO 15, NANO 11, MATH 20B or MATH 20D, and PHYS 2B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "NANO 15",
+      "NANO 11",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20B",
+          "MATH 20D"
+        ]
+      },
+      "PHYS 2B"
+    ]
+  }
+}

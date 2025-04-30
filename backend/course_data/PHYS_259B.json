@@ -1,0 +1,15 @@
+{
+  "code": "PHYS 259B",
+  "title": "Concepts and Methods in Quantitative Physiology",
+  "units": "2",
+  "dept": "PHYS",
+  "anchor": "phys259b",
+  "description": "This course will guide students to identify \u201cbig questions\u201d in multicellular physiology across organisms and organ systems. Through critical reading, peer discussion, and problem solving on specific systems selected by the instructors, students will learn how to identify challenges, design experiments that can quantitatively answer the big questions, and engineer approaches to achieve a deeper understanding of organismal biology. (S/U grades only.) May be taken for credit up to two times. Prerequisites: PHYS 259A or 256.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "PHYS 259A",
+      "PHYS 256"
+    ]
+  }
+}

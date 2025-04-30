@@ -1,0 +1,21 @@
+{
+  "code": "BILD 60GS",
+  "title": "Exploring Issues of Diversity, Equity, and Inclusion in Biological and Global Contexts",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bild60gs",
+  "description": "In an applied Global Seminars setting, this course will examine diversity, equity, and inclusion beginning with a biological framework. Focus will be on how underlying biological differences have been used to support bias and prejudice against particular groups such as women, African Americans, and Latinos. Students must apply and be accepted to the Global Seminar Program in order to enroll. Program or material fees may apply.  Prerequisites: BILD 1 and BILD 2 or BILD 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      {
+        "type": "one",
+        "courses": [
+          "BILD 2",
+          "BILD 3"
+        ]
+      }
+    ]
+  }
+}

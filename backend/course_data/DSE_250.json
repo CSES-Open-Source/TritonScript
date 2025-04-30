@@ -1,0 +1,8 @@
+{
+  "code": "DSE 250",
+  "title": "Beyond Relational Data Models",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "dse250",
+  "description": "The course covers data models, query languages, and models of computation beyond those employed in relational databases. It addresses new developments that have gained attention with the advent of the Web 2.0 and big data revolutions. The topics are presented in a unifying framework and include key-value pairs as data model, as used in Google\u2019s Bigtable; object-oriented data model, with its practical support in relational databases via the object-relational mapping (involves ODMG standards ODL and OQL, and recent systems such as Ruby on Rails); semi-structured databases (data organized as graph with labels on nodes and edges), query languages based on reachability constraints between nodes: conjunctive regular path queries); XML databases, as special case of semi-structured databases in which the graph is a tree (this involves associated standards such as XML Schema, XPath, and XQuery); RDF databases (with associated OWL and SPARQL standard."
+}

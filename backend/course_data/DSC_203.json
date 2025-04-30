@@ -1,0 +1,9 @@
+{
+  "code": "DSC 203",
+  "title": "Data Visualization and Scalable Visual Analytics",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc203",
+  "description": "Commonly used algorithms and techniques in data visualization. Interactive reasoning and exploratory analysis through visual interfaces. Application of data visualization in various domains including science, engineering, and medicine. Scalable interactive methods involving exploring big data and visualization methods. Techniques to evaluate effectivity and interpretability of analytical products for diverse users to obtain insights in support of assessment, planning, and decision making. Prerequisites: DSC 202. Restricted to students within the DS75 and DS76 major.",
+  "prereqs": "DSC 202"
+}

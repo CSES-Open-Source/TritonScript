@@ -1,0 +1,15 @@
+{
+  "code": "ECON 186",
+  "title": "Careers in Economics and Business",
+  "units": "2",
+  "dept": "ECON",
+  "anchor": "econ186",
+  "description": "Coverage of career paths in the business profession in various aspects to broaden students\u2019 knowledge of career opportunities. Review of the current business environment, financial markets, economy, unemployment, banking crises, market updates, and all related business topics. Class also provides students with key knowledge and practical skills used in the real world that complement traditional academics to maximize interview, communication, and presentation skills and strengthen r\u00e9sum\u00e9 building. Prerequisites: ECON 1 and ECON 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 1",
+      "ECON 3"
+    ]
+  }
+}

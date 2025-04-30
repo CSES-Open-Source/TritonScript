@@ -1,0 +1,8 @@
+{
+  "code": "NEUG 231",
+  "title": "Tools for Experimental Data Analysis",
+  "units": "4",
+  "dept": "NEU",
+  "anchor": "neug231",
+  "description": "This course will cover a set of general data analysis methods that are broadly applicable in many different subdisciplines of psychology/neuroscience. Topics include model fitting, information theory, Fourier analysis, and machine learning. NEUG 231 is renumbered from NEU 231. Students may only receive credit for one of the following: PSYC 231, NEUG 231, NEU 231. Recommended preparation: MATLAB, Python, C, Java, R, or any related language."
+}

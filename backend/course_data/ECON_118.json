@@ -1,0 +1,27 @@
+{
+  "code": "ECON 118",
+  "title": "Law and Economics: Torts, Property, and Crime",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ118",
+  "description": "Uses economic theory to evaluate the economic effects of US law in several legal fields, including tort law (accidents), products liability law, property law, criminal law (law enforcement), and litigation. Also considers risk bearing and why people buy insurance. Prerequisites: ECON 2 or 100A; and MATH 10A or 20A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "ECON 2",
+          "ECON 100A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10A",
+          "MATH 20A"
+        ]
+      }
+    ]
+  }
+}

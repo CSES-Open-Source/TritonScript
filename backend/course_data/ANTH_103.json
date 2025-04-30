@@ -1,0 +1,12 @@
+{
+  "code": "ANTH 103",
+  "title": "Sociocultural Anthropology",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "anth103",
+  "description": "A systematic analysis of social anthropology and of the concepts and constructs required for cross-cultural and comparative study of human societies. Required for all majors in anthropology. Prerequisites: upper-division standing.",
+  "successors": [
+    "ANSC 190GS",
+    "ANSC 191GS"
+  ]
+}

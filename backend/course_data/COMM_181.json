@@ -1,0 +1,22 @@
+{
+  "code": "COMM 181",
+  "title": "Citizen Consumers",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm181",
+  "description": "This course considers the idea of the citizen-consumer that organizes much of contemporary urban planning and processes of identity, class, race, and gender formation in cities globally. Focusing on contemporary service oriented economies, we will critically explore how consumption spaces, such as shopping malls, theme parks, plazas, markets, parks, beaches, and tourist resorts, are critical nodes to understand neoliberal patterns of land transformation, labor exploitation, and social change. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

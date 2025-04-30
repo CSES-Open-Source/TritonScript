@@ -1,0 +1,9 @@
+{
+  "code": "ECE 158B",
+  "title": "Data Networks II",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece158b",
+  "description": "Layered network architectures, data link control protocols and multiple-access systems, performance analysis. Flow control; prevention of deadlock and throughput degradation. Routing, centralized and decentralized schemes, static dynamic algorithms. Shortest path and minimum average delay algorithms. Comparisons. Prerequisites: ECE 158A with a grade of C\u2013 or better.",
+  "prereqs": "ECE 158A"
+}

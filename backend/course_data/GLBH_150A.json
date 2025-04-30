@@ -1,0 +1,11 @@
+{
+  "code": "GLBH 150A",
+  "title": "Global Health Horizons Honors Thesis Seminar I",
+  "units": "4",
+  "dept": "GLBH",
+  "anchor": "glbh150a",
+  "description": "This course will consist of intensive reading and discussion in fields related to each student\u2019s primary interest and building on their Global Health Field Experience that will culminate into an honors thesis. Prerequisites: department approval required.",
+  "successors": [
+    "GLBH 150B"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "MATH 160B",
+  "title": "Elementary Mathematical Logic II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math160b",
+  "description": "A continuation of recursion theory, set theory, proof theory, model theory. Turing machines. Undecidability of arithmetic and predicate logic. Proof by induction and definition by recursion. Cardinal and ordinal numbers. Completeness and compactness theorems for propositional and predicate calculi. Prerequisites: MATH 160A or consent of instructor.",
+  "prereqs": "MATH 160A"
+}

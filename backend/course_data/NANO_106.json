@@ -1,0 +1,15 @@
+{
+  "code": "NANO 106",
+  "title": "Crystallography of Materials",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano106",
+  "description": "Fundamentals of crystallography, and practice of methods to study material structure and symmetry. Curie symmetries. Tensors as mathematical description of material properties and symmetry restrictions. Introduction to diffraction methods, including X-ray, neutron, and electron diffraction. Close-packed and other common structures of real-world materials. Derivative and superlattice structures. Prerequisites: MATH 20F or MATH 18.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 20F",
+      "MATH 18"
+    ]
+  }
+}

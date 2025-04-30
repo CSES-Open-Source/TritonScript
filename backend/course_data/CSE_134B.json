@@ -1,0 +1,15 @@
+{
+  "code": "CSE 134B",
+  "title": "Web Client Languages",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse134b",
+  "description": "Design and implementation of interactive World Wide Web clients using helper applications and plug-ins.\u00a0The main language covered will be Java. Prerequisites: CSE 100 or CSE 100R; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 100",
+      "CSE 100R"
+    ]
+  }
+}

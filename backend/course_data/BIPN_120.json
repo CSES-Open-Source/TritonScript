@@ -1,0 +1,9 @@
+{
+  "code": "BIPN 120",
+  "title": "Endocrinology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn120",
+  "description": "Normal function and diseases of the major hormone systems of the body including the hypothalamus/pituitary axis, the thyroid gland, reproduction and sexual development, metabolism and the pancreas, bone and calcium metabolism, and the adrenal glands. Students may not receive credit for both BIPN 120 and BICD 150. Prerequisites: BIPN 100.",
+  "prereqs": "BIPN 100"
+}

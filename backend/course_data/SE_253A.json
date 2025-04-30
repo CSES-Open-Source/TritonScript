@@ -1,0 +1,12 @@
+{
+  "code": "SE 253A",
+  "title": "Mechanics and Design of Composite Structures",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se253a",
+  "description": "Graduate-level introduction to advanced composite materials and their applications. Fiber and matrix properties, 3D properties, stress-strain relationships, micromechanics, stiffness, ply-by-ply stress, classical laminated plate theory, hygrothermal/CTE behavior, and failure prediction. Lab activity will involve composite fabrication methods and design, analysis, build, and testing of composite structure. May be coscheduled with SE 142. Program or materials fees may apply. Prerequisites:\u00a0graduate standing.",
+  "successors": [
+    "SE 253B",
+    "SE 254"
+  ]
+}

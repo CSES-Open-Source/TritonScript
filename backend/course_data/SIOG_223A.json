@@ -1,0 +1,12 @@
+{
+  "code": "SIOG 223A",
+  "title": "Geophysical Data Analysis I",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio223ga",
+  "description": "Probability and statistics and their application to make inferences from geophysical data: point processes, distributions, maximum likelihood estimation, hypothesis testing and confidence intervals, least squares, density estimation, interpolation and smoothing. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "SIOG 223B",
+    "SIOG 235"
+  ]
+}

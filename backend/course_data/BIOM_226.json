@@ -1,0 +1,16 @@
+{
+  "code": "BIOM 226",
+  "title": "Hormone Action",
+  "units": "3",
+  "dept": "BIOM",
+  "anchor": "biom226",
+  "description": "The course covers recent advances in research into hormone action, molecular endocrinology, lipid, lipoprotein, and carbohydrate metabolism, and reproductive medicine. Prerequisites: BIOM 200A-B, 201. Limited to BMS graduate students except by consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BIOM 200A",
+      "BIOM 200B",
+      "BIOM 201"
+    ]
+  }
+}

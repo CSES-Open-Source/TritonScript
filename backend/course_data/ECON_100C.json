@@ -1,0 +1,22 @@
+{
+  "code": "ECON 100C",
+  "title": "Microeconomics C",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ100c",
+  "description": "Analysis of the effects of imperfect market structure, strategy, and imperfect information. Prerequisites: ECON 100B.",
+  "prereqs": "ECON 100B",
+  "successors": [
+    "ECON 104",
+    "ECON 105",
+    "ECON 109",
+    "ECON 113",
+    "ECON 137",
+    "ECON 141",
+    "ECON 143",
+    "ECON 150",
+    "ECON 151",
+    "ECON 152",
+    "ECON 182"
+  ]
+}

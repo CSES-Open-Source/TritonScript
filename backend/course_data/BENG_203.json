@@ -1,0 +1,15 @@
+{
+  "code": "BENG 203",
+  "title": "Genomics, Proteomics, and Network Biology",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng203",
+  "description": "Annotating genomes, characterizing functional genes, profiling, reconstructing pathways. Prerequisites: Pharm 201, BENG 202/CSE 282, or consent of instructor. (S)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BENG 202",
+      "CSE 282"
+    ]
+  }
+}

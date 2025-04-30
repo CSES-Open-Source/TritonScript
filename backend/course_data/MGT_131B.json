@@ -1,0 +1,19 @@
+{
+  "code": "MGT 131B",
+  "title": "Intermediate Accounting B",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt131b",
+  "description": "Preparation and interpretation of accounting information under both FASB and IASB guidelines pertaining to property plant and equipment, leases, intangible assets, investments, long-term debt, and stockholders\u2019 equity.\u00a0Prerequisites: MGT 131A.",
+  "prereqs": "MGT 131A",
+  "successors": [
+    "MGT 132",
+    "MGT 133",
+    "MGT 134",
+    "MGT 135",
+    "MGT 139",
+    "MGT 143",
+    "MGT 147",
+    "MGT 149"
+  ]
+}

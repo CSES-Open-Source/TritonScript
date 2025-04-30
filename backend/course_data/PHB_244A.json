@@ -1,0 +1,12 @@
+{
+  "code": "PHB 244A",
+  "title": "Foundations in Biostatistics A",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "phb244a",
+  "description": "This course will mainly focus on probability theory and mathematical statistics, which are essential building blocks for more advanced inference tools. Topics include probability theory, (multivariate) random variables, functions of random variables, expectations, variance and moments, common families of distributions, properties of a random sample, statistics and sampling distribution, convergence of a sequence of random variables. Renumbered from FMPH 244A. Students may not receive credit for PHB 244A and FMPH 244A. Must be taken for a letter grade to be applied to the biostatistics degree requirements. Restricted to major code PB76.",
+  "successors": [
+    "PHB 222",
+    "PHB 244B"
+  ]
+}

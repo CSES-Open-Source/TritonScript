@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 174",
+  "title": "Topics in Culture and Politics",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp174",
+  "description": "Study of the relationships between cultural production (literature, film, popular cultures), social change, and political conflict, covering topics such as colonialism, imperialism, modernization, social movements, dictatorship, revolution. May be taken for credit up to two times as topics vary.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

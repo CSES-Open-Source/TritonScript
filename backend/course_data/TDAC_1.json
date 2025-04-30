@@ -1,0 +1,13 @@
+{
+  "code": "TDAC 1",
+  "title": "Introduction to Acting",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdac1",
+  "description": "A beginning course in the fundamentals of acting: establishing a working vocabulary and acquiring the basic skills of the acting process. Through exercises, compositions, and improvisations, the student actor explores the imagination as the actor\u2019s primary resource, and the basic approach to text through action. Prerequisites: none.",
+  "successors": [
+    "TDAC 101",
+    "TDAC 107",
+    "TDAC 109"
+  ]
+}

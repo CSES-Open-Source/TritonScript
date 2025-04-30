@@ -1,0 +1,11 @@
+{
+  "code": "VIS 110M",
+  "title": "Studio Honors I",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis110m",
+  "description": "This is a course for the advanced studio major who is selected based on a proven record of engagement, productivity, and self-discipline as well as a clear trajectory of their work. The intent is to help refine and expand the student\u2019s studio practice toward a unified portfolio and artist\u2019s statement as well as develop experience in participation and organization of group and solo exhibitions. Prerequisites: consent of the instructor, department stamp required.",
+  "successors": [
+    "VIS 110N"
+  ]
+}

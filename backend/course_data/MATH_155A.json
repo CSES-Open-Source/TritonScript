@@ -1,0 +1,25 @@
+{
+  "code": "MATH 155A",
+  "title": "Geometric Computer Graphics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math155a",
+  "description": "Bezier curves and control lines, de Casteljau construction for subdivision, elevation of degree, control points of Hermite curves, barycentric coordinates, rational curves. Programming knowledge recommended. (Students may not receive credit for both MATH 155A and CSE 167 or CSE 167R.) Prerequisites: MATH 18 or MATH 20F or MATH 31AH, and MATH 20C. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      },
+      "MATH 20C"
+    ]
+  },
+  "successors": [
+    "MATH 155B"
+  ]
+}

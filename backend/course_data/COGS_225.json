@@ -1,0 +1,8 @@
+{
+  "code": "COGS 225",
+  "title": "Image Recognition",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs225",
+  "description": "This course is designed to open the doors for students who are interested in learning about the basic tools and technologies for image classification and recognition. We will focus on traditional computer vision techniques as well as graphics processing unit (GPU) powered deep learning techniques that are critical to modern image data analysis such as large-scale image recognition, object detection, and video analysis."
+}

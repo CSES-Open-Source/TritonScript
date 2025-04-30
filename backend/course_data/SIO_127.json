@@ -1,0 +1,21 @@
+{
+  "code": "SIO 127",
+  "title": "Marine Molecular Ecology",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio127",
+  "description": "This course will survey the application of molecular methods to address diverse questions concerning the ecology and evolutionary biology in marine organisms. Focus will be on genetic and genomic approaches that are providing new insights into how marine organisms adapt to their physical and biotic environments. Prerequisites: BILD 3 and BICD 100 or BICD 100R, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 3",
+      {
+        "type": "one",
+        "courses": [
+          "BICD 100",
+          "BICD 100R"
+        ]
+      }
+    ]
+  }
+}

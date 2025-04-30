@@ -1,0 +1,22 @@
+{
+  "code": "COMM 155",
+  "title": "Latinx Space, Place, and Culture",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm155",
+  "description": "Develop a critical understanding of the history, politics, and poetics of the Latino barrio as a distinct urban form. Course covers key concepts such as the production of space, landscapes of power, spatial apartheid, everyday urbanism, urban renewal, and gentrification. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

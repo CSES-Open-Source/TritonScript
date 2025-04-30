@@ -1,0 +1,8 @@
+{
+  "code": "CSE 256",
+  "title": "Statistical Natural Language Processing",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse256",
+  "description": "An introduction to modern statistical approaches to natural language processing: part of speech tagging, word sense disambiguation and parsing, using Markov models, hidden Markov models, and probabilistic context-free grammars. Recommended preparation: LIGN 165, LIGN 245, CSE 151, CSE 250A, or CSE 254. Prerequisites: graduate standing or consent of instructor."
+}

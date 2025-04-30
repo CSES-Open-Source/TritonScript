@@ -1,0 +1,15 @@
+{
+  "code": "PSYC 102",
+  "title": "Sensory Neuroscience",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc102",
+  "description": "This course provides a comprehensive overview of the neural mechanisms that support vision, audition, touch, olfaction, and taste. Prerequisites: upper-division standing.",
+  "successors": [
+    "BIPN 189",
+    "PSYC 113",
+    "PSYC 150",
+    "PSYC 159",
+    "PSYC 189"
+  ]
+}

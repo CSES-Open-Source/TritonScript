@@ -1,0 +1,19 @@
+{
+  "code": "LIPO 1C",
+  "title": "Portuguese Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lipo1c",
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Emphasis on the language and culture of Brazil. Must be taken in conjunction with LIPO 1CX. Prerequisites: LIPO 1B with a grade of C\u2013 or better or equivalent and LIPO 1BX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIPO 1B",
+      "LIPO 1BX"
+    ]
+  },
+  "successors": [
+    "LIPO 1D",
+    "LIPO 1DX"
+  ]
+}

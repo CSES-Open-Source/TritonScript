@@ -1,0 +1,8 @@
+{
+  "code": "CSS 201S",
+  "title": "Introduction to Computational Social Science",
+  "units": "8",
+  "dept": "CSS",
+  "anchor": "css201s",
+  "description": "Overview of causal and statistical inference, data types/structure, and modeling/analytical approaches to social science data. Topics include models of social phenomena at different scales (cognition, behavior, learning, communication, language, game theory, markets, etc.) and analysis of different types of social data (social networks, text, GIS, timeseries, etc.). Emphasis is placed on the understanding of analytical and modeling methods, their applications and limitations. Open to CT75 majors only."
+}

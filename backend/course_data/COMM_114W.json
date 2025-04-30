@@ -1,0 +1,15 @@
+{
+  "code": "COMM 114W",
+  "title": "CSI: Global Health Communication",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm114w",
+  "description": "Public health campaigns attempt to change behavior, slow the spread of disease, and improve the health of a population. This course takes a critical social science perspective on the production, dissemination, and impacts (intended and otherwise) of public health communication, including questions of coercion, autonomy, and perceptions of collective health and well-being. Prerequisites: COMM 10 or GLBH 20.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "GLBH 20"
+    ]
+  }
+}

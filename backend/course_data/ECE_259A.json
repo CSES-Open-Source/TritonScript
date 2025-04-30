@@ -1,0 +1,12 @@
+{
+  "code": "ECE 259A",
+  "title": "Algebraic Coding",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece259a",
+  "description": "Fundamentals of block codes, introduction to groups, rings and finite fields, nonbinary codes, cyclic codes such as BCH and RS codes, decoding algorithms, applications. Students who have taken ECE 259AN may not receive credit for ECE 259A. Prerequisites: graduate standing.",
+  "successors": [
+    "ECE 259B",
+    "ECE 259C"
+  ]
+}

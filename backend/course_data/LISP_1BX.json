@@ -1,0 +1,19 @@
+{
+  "code": "LISP 1BX",
+  "title": "Analysis of Spanish",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lisp1bx",
+  "description": "Presentation and practice of the basic grammatical structures needed for oral and written communication and for reading. The course is taught entirely in Spanish. Must be taken with LISP 1B. Prerequisites: LISP 1A with a grade of C\u2013 or better, or equivalent and LISP 1AX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LISP 1A",
+      "LISP 1AX"
+    ]
+  },
+  "successors": [
+    "LISP 1C",
+    "LISP 1CX"
+  ]
+}

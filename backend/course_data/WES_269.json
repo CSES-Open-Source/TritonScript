@@ -1,0 +1,8 @@
+{
+  "code": "WES 269",
+  "title": "Codesign of Hardware and Software",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "wes269",
+  "description": "Advanced projects in the codesign of software/hardware for a wireless embedded system. Students will design and simulate both hardware and software of a wireless embedded system, with special attention to the hardware/software interfaces. Specific case studies will include the design of a media access control layer in hardware/software. Advanced topics will include the cooptimization and covalidation of software and hardware for a general wireless embedded system."
+}

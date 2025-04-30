@@ -1,0 +1,9 @@
+{
+  "code": "BIEB 141",
+  "title": "Introduction to Quantitative Modeling for Biologists\u2019 Lab",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb141",
+  "description": "This lab course will be a hands-on introduction to quantitative modeling as a tool for understanding biological systems. Working closely with the instructor, students will learn new biology by practicing how to construct, analyze, and interpret simple mathematical models. The emphasis is not on the math itself but on the practical use of quantitative reasoning for gaining new biological insights. Students will need to provide and use their own laptop/technology. Prerequisites: BILD 1.",
+  "prereqs": "BILD 1"
+}

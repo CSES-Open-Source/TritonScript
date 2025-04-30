@@ -1,0 +1,34 @@
+{
+  "code": "PHB 226",
+  "title": "Statistical Methods for Observational Studies",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "phb226",
+  "description": "An introduction to inference and causal modeling for observational data, including propensity score adjustment, inverse probability weighting, instrumental variables, and sensitivity analysis. Data analysis and computation will be required. Must be taken for a letter grade to be applied to the biostatistics degree requirements. Renumbered from FMPH 226. Students may not receive credit for PHB 226 and FMPH 226. Prerequisites: successful completion of FMPH 221 or PHB 221, FMPH 222 or PHB 222, and FMPH 223 or PHB 223 or program approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 221",
+          "PHB 221"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 222",
+          "PHB 222"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 223",
+          "PHB 223"
+        ]
+      }
+    ]
+  }
+}

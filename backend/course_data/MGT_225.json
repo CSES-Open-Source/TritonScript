@@ -1,0 +1,19 @@
+{
+  "code": "MGT 225",
+  "title": "Behavioral Economics",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt225",
+  "description": "Introduction to formal and predictive approaches to incorporating behavioral regularities into economic theory. Covers developments in generalizing conventional economic models to allow patterns of behavior that appear to be common but are paradoxical for conventional models based on assumptions of rationality. Prerequisites: MGT 208A-B-C, ECON 200A-B-C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGT 208A",
+      "MGT 208B",
+      "MGT 208C",
+      "ECON 200A",
+      "ECON 200B",
+      "ECON 200C"
+    ]
+  }
+}

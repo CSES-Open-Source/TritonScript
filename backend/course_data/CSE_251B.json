@@ -1,0 +1,9 @@
+{
+  "code": "CSE 251B",
+  "title": "Deep Learning",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse251b",
+  "description": "(Formerly CSE 253.) This course covers the fundamentals of deep neural networks at the graduate level. We introduce multi-layer perceptrons, backpropagation, and automatic differentiation. We will also discuss convolutional neural networks, recurrent neural networks, transformers, and advanced topics in deep learning. The course will be a combination of lectures, presentations, and machine learning competitions. Renumbered from CSE 253. Students may not receive credit for CSE 251B and CSE 253. Course may be coscheduled with CSE 151B. Recommended preparation: knowledge of Python. Prerequisites: CSE 251A. Restricted to students within the CS75, CS76, CS78, CS88, and CS89 majors. All other students will be allowed as space permits.",
+  "prereqs": "CSE 251A"
+}

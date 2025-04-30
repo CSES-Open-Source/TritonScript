@@ -1,0 +1,15 @@
+{
+  "code": "MAE 225B",
+  "title": "Nanoscale and Microscale Heat Transfer for Energy Conversion Applications II",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae225b",
+  "description": "Energy conversion and coupled transport processes; electron and phonons, equilibrium and nonequilibrium energy transfer in nanostructures. Ballistic-diffusive treatment, thermal radiation issues in nanomaterials, near-field energy transfer, molecular dynamics, and experimental methods. Prerequisites: MAE 221A, MAE 225A, and graduate standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 221A",
+      "MAE 225A"
+    ]
+  }
+}

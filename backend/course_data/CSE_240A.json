@@ -1,0 +1,9 @@
+{
+  "code": "CSE 240A",
+  "title": "Principles of Computer Architecture",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse240a",
+  "description": "(Formerly CSE 240.) This course will cover fundamental concepts in computer architecture. Topics include instruction set architecture, pipelining, pipeline hazards, bypassing, dynamic scheduling, branch prediction, superscalar issue, memory-hierarchy design, advanced cache architectures, and multiprocessor architecture issues. Prerequisites: CSE 141 or consent of instructor.",
+  "prereqs": "CSE 141"
+}

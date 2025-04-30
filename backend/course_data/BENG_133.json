@@ -1,0 +1,19 @@
+{
+  "code": "BENG 133",
+  "title": "Numerical Analysis and Computational Engineering",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng133",
+  "description": "Principles of digital computing, including number representation and arithmetic operations. Accuracy, stability, and convergence. Algorithms for solving linear systems of equations, interpolation, numerical differentiation, and integration and ordinary differential equations. Prerequisites: MATH 20D and 18 or consent of department. (S)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20D",
+      "MATH 18"
+    ]
+  },
+  "successors": [
+    "BENG 135",
+    "BENG 189"
+  ]
+}

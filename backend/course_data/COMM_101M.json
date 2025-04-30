@@ -1,0 +1,9 @@
+{
+  "code": "COMM 101M",
+  "title": "MPL: Communication and Computers",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm101m",
+  "description": "This course introduces students to computers as media of communication. Each quarter, students participate in a variety of networking activities designed to show the interactive potential of the medium. Fieldwork designed to teach basic methods is combined with readings designed to build a deeper theoretical understanding of computer-based communication. Prerequisites: COMM 10.",
+  "prereqs": "COMM 10"
+}

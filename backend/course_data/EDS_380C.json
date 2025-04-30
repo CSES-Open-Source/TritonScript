@@ -1,0 +1,15 @@
+{
+  "code": "EDS 380C",
+  "title": "Single Subject (Secondary) Internship Seminar III",
+  "units": "2",
+  "dept": "EDS",
+  "anchor": "eds380c",
+  "description": "Third course in the series. Seminar topics include engaging and supporting all students in learning; creating and maintaining effective environments for student learning; understanding and organizing subject matter for student learning; planning instruction and learning experiences for all students; assessing student learning; and developing as a professional educator. Prerequisites: EDS 380A-B. ED78 Single Subject major only. EDS 379C must be taken as a corequisite.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "EDS 380A",
+      "EDS 380B"
+    ]
+  }
+}

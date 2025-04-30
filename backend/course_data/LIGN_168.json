@@ -1,0 +1,9 @@
+{
+  "code": "LIGN 168",
+  "title": "Computational Speech Processing",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign168",
+  "description": "An upper-division course focused on understanding some of the many approaches, algorithms, and processes used in the computational processing of speech, both by linguists and in industrial and engineering applications. We will consider topics like pitch and formant extraction, automatic speech recognition, and text-to-speech and voice transmission codecs. We\u2019ll discuss the limitations of current approaches, and consider ongoing areas of growth and development in the field. Prerequisites: LIGN 110.",
+  "prereqs": "LIGN 110"
+}

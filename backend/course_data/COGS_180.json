@@ -1,0 +1,36 @@
+{
+  "code": "COGS 180",
+  "title": "Decision Making in the Brain",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs180",
+  "description": "This course covers recent advances in the understanding of neural mechanisms and computational principles underlying the brain\u2019s ability to make decisions. The role of various factors, as well as their neural encoding, will be considered, e.g., observation noise, reward, risk, internal uncertainty, emotional state, external incentives. Prerequisites: BILD 12 or COGS 17 and COGS 108 or COGS 109 or CSE 150A and MATH 18 or MATH 20B or MATH 31AH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BILD 12",
+          "COGS 17"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "COGS 108",
+          "COGS 109",
+          "CSE 150A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20B",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  }
+}

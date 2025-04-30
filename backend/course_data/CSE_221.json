@@ -1,0 +1,19 @@
+{
+  "code": "CSE 221",
+  "title": "Operating Systems",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse221",
+  "description": "Operating system structures, concurrent computation models, scheduling, synchronization mechanisms, address spaces, memory management protection and security, buffering, streams, data-copying reduction techniques, file systems, naming, caching, disk organization, mapped files, remote file systems, case studies of major operating systems. Prerequisites: CSE 120 and 121, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CSE 120",
+      "CSE 121"
+    ]
+  },
+  "successors": [
+    "CSE 223B",
+    "CSE 227"
+  ]
+}

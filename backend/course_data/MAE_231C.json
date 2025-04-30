@@ -1,0 +1,30 @@
+{
+  "code": "MAE 231C",
+  "title": "Inelasticity",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae231c",
+  "description": "(Cross-listed with SE 273.) Overview of inelastic behavior of materials. Models of plasticity, viscoplasticity, viscoelasticity. Micromechanics and modeling of damage. Fatigue phenomena. Fracture mechanics. Processes and models of the failure of materials. Students may not receive credit for both SE 273 and MAE 231C. Prerequisites: graduate standing and MAE 231A and 231B, or SE 271 and 272, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      {
+        "type": "all",
+        "courses": [
+          "MAE 231A",
+          "MAE 231B"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "SE 271",
+          "SE 272"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MAE 233B"
+  ]
+}

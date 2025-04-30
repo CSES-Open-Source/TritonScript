@@ -1,0 +1,16 @@
+{
+  "code": "MATH 112B",
+  "title": "Introduction to Mathematical Biology II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math112b",
+  "description": "Part two of an introduction to the use of mathematical theory and techniques in analyzing biological problems. Topics include partial differential equations and stochastic processes applied to a selection of biological problems, especially those involving spatial movement, such as molecular diffusion, bacterial chemotaxis, tumor growth, and biological patterns. May be coscheduled with MATH 212B. Recommended preparation: MATH 180B. Prerequisites: MATH 112A and MATH 110 and MATH 180A. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 112A",
+      "MATH 110",
+      "MATH 180A"
+    ]
+  }
+}

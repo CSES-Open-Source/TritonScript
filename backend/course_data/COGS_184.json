@@ -1,0 +1,21 @@
+{
+  "code": "COGS 184",
+  "title": "Modeling the Evolution of Cognition",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs184",
+  "description": "This interdisciplinary course integrates data on evolutionary theory, hominid prehistory, primate behavior, comparative neuroanatomy, cognitive development, and collaboration. After lectures, readings, and discussion of the literature, students generate a detailed timeline of five million years of human cognitive evolution. Students may not receive credit for COGS 184 and COGS 184GS. Prerequisites: COGS 17 or COGS 107A or COGS 107B or COGS 107C or BILD 12.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 17",
+      "COGS 107A",
+      "COGS 107B",
+      "COGS 107C",
+      "BILD 12"
+    ]
+  },
+  "successors": [
+    "CSE 118"
+  ]
+}

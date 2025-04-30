@@ -1,0 +1,16 @@
+{
+  "code": "MUS 32VM",
+  "title": "Vocal Master Class",
+  "units": "1",
+  "dept": "MUS",
+  "anchor": "mus32vm",
+  "description": "All students enrolled in voice lessons (32V, 132V, or 132C) perform for one another and their instructors. Students critique in-class performances, with emphasis on presentation, diction, dramatic effect, vocal quality, and musicality. Prerequisites: concurrent enrollment in MUS 32V, 132V, or 132C.",
+  "coreqs": {
+    "type": "one",
+    "courses": [
+      "MUS 32V",
+      "MUS 132V",
+      "MUS 132C"
+    ]
+  }
+}

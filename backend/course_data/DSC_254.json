@@ -1,0 +1,21 @@
+{
+  "code": "DSC 254",
+  "title": "Statistical Signal and Image Analysis",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc254",
+  "description": "A graduate level course on signal and image analysis spanning three main themes. Statistical signal processing: random processes, stochasticity, stationarity, Wiener filter, Kalman filter, matched filter; signal processing: time-frequency representations, wavelets, signal processing with sparse representation (dictionary learning); image processing: registration, image degradation and restoration: noise models + denoising, image pyramids, random fields. Prerequisites: DSC 210 or ECE 269 and DSC 212. Need to verify background in signal processing from undergraduate or other graduate courses. Restricted to DS75 and DS76 students.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "DSC 210",
+          "ECE 269"
+        ]
+      },
+      "DSC 212"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "code": "COGS 126",
+  "title": "Thinking with Computers",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs126",
+  "description": "This course surveys the field of human-computer interaction and the ideas and technologies that have shaped its development. Prerequisites: COGS 120 or COGS 121 or CSE 170.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 120",
+      "COGS 121",
+      "CSE 170"
+    ]
+  }
+}

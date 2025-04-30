@@ -1,0 +1,22 @@
+{
+  "code": "COMM 129",
+  "title": "Race, Nation, and Violence in Multicultural California",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm129",
+  "description": "How does media representation of race, nation, and violence work? Taking multicultural California as our site, we will explore how social power is embedded in a variety of visual texts, and how media not only represents but also reproduces conflict. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

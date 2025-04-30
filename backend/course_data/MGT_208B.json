@@ -1,0 +1,15 @@
+{
+  "code": "MGT 208B",
+  "title": "Introduction to Management Research B",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt208b",
+  "description": "Sequence introduces students to various management research and methodological paradigms, and discusses theory development, building, and validation approaches. Students with additional need for mathematical/analytical training may be asked to take additional courses that prepare for the rigors of the program. Prerequisites: MGT 208A.",
+  "prereqs": "MGT 208A",
+  "successors": [
+    "MGT 208C",
+    "MGT 225",
+    "MGT 245",
+    "MGT 246"
+  ]
+}

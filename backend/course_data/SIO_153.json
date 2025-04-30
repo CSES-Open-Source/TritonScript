@@ -1,0 +1,9 @@
+{
+  "code": "SIO 153",
+  "title": "Geomorphology",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio153",
+  "description": "Geomorphology is the study of the dynamic interface across which the atmosphere, water, biota, and tectonics interact to transform rock into landscapes with distinctive features crucial to the function and existence of water resources, natural hazards, climate, biogeochemical cycles, and life. In this class, we will study many of the Earth surface processes that operate on spatial scales from atomic particles to continents and over time scales of nanoseconds to millions of years. Prerequisites: SIO 50 or consent of instructor.",
+  "prereqs": "SIO 50"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "BENG 280A",
+  "title": "Principles of Biomedical Imaging",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng280a",
+  "description": "Fundamentals of Fourier transform and linear systems theory including convolution, sampling, noise, filtering, image reconstruction and visualization with an emphasis on applications to biomedical imaging. Examples from optical imaging, CT, MR, ultrasound, nuclear, PET, and radiography. Prerequisites: graduate standing. (F)",
+  "successors": [
+    "BENG 278",
+    "ECE 217"
+  ]
+}

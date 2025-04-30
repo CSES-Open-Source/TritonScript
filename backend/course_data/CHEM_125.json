@@ -1,0 +1,15 @@
+{
+  "code": "CHEM 125",
+  "title": "Bioinorganic Chemistry",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem125",
+  "description": "The roles of metal ions in biological systems, with emphasis on transition metal ions in enzymes that transfer electrons, bind oxygen, and fix nitrogen. Also included are metal complexes in medicine, toxicity, and metal ion storage and transport. May be coscheduled with CHEM 225. Prerequisites: CHEM 114A and 120A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 114A",
+      "CHEM 120A"
+    ]
+  }
+}

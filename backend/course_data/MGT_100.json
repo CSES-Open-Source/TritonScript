@@ -1,0 +1,21 @@
+{
+  "code": "MGT 100",
+  "title": "Customer Analytics",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt100",
+  "description": "Marketers use empirical models to determine, support, and evaluate a wide range of business decisions. This course covers models and estimation techniques commonly used for understanding segmentation, targeting, and positioning; product diffusion; advertising response, among other topics. Prerequisites: ECON 120B or MATH 181B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 120B",
+      "MATH 181B"
+    ]
+  },
+  "successors": [
+    "MGT 105",
+    "MGT 106",
+    "MGT 109",
+    "MGT 112"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "code": "PHYS 210A",
+  "title": "Equilibrium Statistical Mechanics",
+  "units": "5",
+  "dept": "PHYS",
+  "anchor": "phys210a",
+  "description": "Statistical ensembles: microcanonical, canonical, and grand canonical formulations; principle of maximum entropy. Thermodynamics: thermodynamic potentials, phase equilibria, entropy of mixing. Quantum statistics: photon statistics; ideal Bose and Fermi gases. Interacting systems: Ising model, liquids and plasmas. Phase transitions: van der Waals system, mean field theory, Landau theory, global symmetries, fluctuations. Prerequisites: PHYS 200A, 212A-B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 200A",
+      "PHYS 212A",
+      "PHYS 212B"
+    ]
+  },
+  "successors": [
+    "PHYS 210B",
+    "PHYS 211B",
+    "PHYS 217"
+  ]
+}

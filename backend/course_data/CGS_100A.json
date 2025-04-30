@@ -1,0 +1,15 @@
+{
+  "code": "CGS 100A",
+  "title": "Conceptualizing Gender: Theoretical Approaches",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs100a",
+  "description": "This course explores the significance of gender as a category of analysis by examining diverse theoretical frameworks from the field of critical gender studies. Particular attention is given to gender in relation to race, class, sexuality, nation, (dis)ability, and religion. Students will not receive credit for both CGS 100 and 100A. Prerequisites: CGS 2A-B or at least one CGS upper-division course.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B"
+    ]
+  }
+}

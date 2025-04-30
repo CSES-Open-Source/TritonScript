@@ -1,0 +1,9 @@
+{
+  "code": "FMPH 415",
+  "title": "Advanced Epidemiologic Methods",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fmph415",
+  "description": "This course will provide an in-depth overview of modern epidemiologic concepts, including fundamentals of causal inference; quantitative measures of occurrence, association, and effect; epidemiologic study design; epidemiologic data analysis; sources of bias in epidemiologic studies; and design and analytic strategies for the evaluation and mitigation of bias in epidemiologic studies.\u00a0Prerequisites: must be enrolled in MPH program (FM75) or program approval and successfully completed FMPH 401.",
+  "prereqs": "FMPH 401"
+}

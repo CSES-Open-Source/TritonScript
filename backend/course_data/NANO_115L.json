@@ -1,0 +1,12 @@
+{
+  "code": "NANO 115L",
+  "title": "Nanoengineering Laboratory",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano115l",
+  "description": "Laboratory experiments in the design, production, and integration of nanoscale components. Emphasis will be on solution phase synthesis, microfabrication tools, analytical characterization, and nanodevice fabrication.\u00a0Program or materials fees may apply.\u00a0Prerequisites: NANO 111.",
+  "prereqs": "NANO 111",
+  "successors": [
+    "NANO 119"
+  ]
+}

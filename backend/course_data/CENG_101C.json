@@ -1,0 +1,14 @@
+{
+  "code": "CENG 101C",
+  "title": "Mass Transfer",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng101c",
+  "description": "Diffusive and convective mass transfer in solids, liquids, and gases; steady and unsteady state; mass transfer coefficients; applications to chemical engineering and bioengineering. Prerequisites: admission to the major and grade of C\u2013 or better in CENG 101A.",
+  "prereqs": "CENG 101A",
+  "successors": [
+    "CENG 122",
+    "CENG 157",
+    "MAE 113"
+  ]
+}

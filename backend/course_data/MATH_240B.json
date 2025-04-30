@@ -1,0 +1,12 @@
+{
+  "code": "MATH 240B",
+  "title": "Real Analysis II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math240b",
+  "description": "Second course in graduate real analysis. Abstract measure and integration theory, integration on product spaces. Lebesgue measure and integral, Lebesgue-Stieltjes integrals, functions of bounded variation, differentiation of measures. Locally compact Hausdorff spaces, Banach and Hilbert spaces, linear functionals. Lebesgue spaces and interpolation, elements of Fourier analysis and distribution theory. Prerequisites: MATH 240A. Students who have not completed MATH 240A may enroll with consent of instructor.",
+  "prereqs": "MATH 240A",
+  "successors": [
+    "MATH 240C"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "ECE 182",
+  "title": "Electromagnetic Optics, Guided-Wave, and Fiber Optics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece182",
+  "description": "Polarization optics: crystal optics, birefringence. Guided-wave optics: modes, losses, dispersion, coupling, switching. Fiber optics: step and graded index, single and multimode operation, attenuation, dispersion, fiber optic communications. Resonator optics. (Course materials and/or program fees may apply.) Prerequisites: ECE 103 and 107 with grades of C\u2013 or better.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 103",
+      "ECE 107"
+    ]
+  },
+  "successors": [
+    "ECE 184"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "SIOB 276L",
+  "title": "Quantitative Ecology Project Lab",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siob276l",
+  "description": "A laboratory complement to SIOB 276, to apply quantitative tools to conceptual issues underlying the study of the dynamics and structure of ecological systems. Prerequisites: graduate standing, SIOB 276 or SIO 276 and consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIOB 276",
+      "SIO 276"
+    ]
+  }
+}

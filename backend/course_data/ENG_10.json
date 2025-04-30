@@ -1,0 +1,8 @@
+{
+  "code": "ENG 10",
+  "title": "Fundamentals of Engineering Applications",
+  "units": "2",
+  "dept": "ENG",
+  "anchor": "eng10",
+  "description": "Application-oriented, hands-on introduction to engineering mathematics and design processes. Key mathematical concepts as they apply to engineering, including solving systems of equations and least-squares regression. In-class activities using Python and Arduino will complement the lectures and provide students hands-on experience with solving real-world engineering problems related to design, manufacturing and prototyping, electronics, and data analysis."
+}

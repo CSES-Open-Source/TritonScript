@@ -1,0 +1,20 @@
+{
+  "code": "VIS 176",
+  "title": "16mm Filmmaking",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis176",
+  "description": "A technical foundation and creative theoretical context for film production will be provided. Students will produce a short film with post-synchronized sounds and final mixed-track. Two production-course limitation. Prerequisites: VIS 174. Open to media majors and film production minors.",
+  "prereqs": "VIS 174",
+  "successors": [
+    "VIS 180A",
+    "VIS 180B",
+    "VIS 181",
+    "VIS 182",
+    "VIS 182A",
+    "VIS 183A",
+    "VIS 183B",
+    "VIS 184",
+    "VIS 185"
+  ]
+}

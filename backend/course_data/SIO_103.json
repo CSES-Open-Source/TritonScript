@@ -1,0 +1,26 @@
+{
+  "code": "SIO 103",
+  "title": "Introduction to Geophysics",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio103",
+  "description": "An introduction to the structure and composition of the solid earth. Topics include seismology, the gravity and magnetic fields, high-pressure geophysics, and concepts in geodynamics. Emphasis is on global geophysics, i.e., on the structure and evolution of the planet. Prerequisites: MATH 20C or MATH 31BH, and PHYS 2C, and SIO 50, or consent of instructor. SIO 160 recommended.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      "PHYS 2C",
+      "SIO 50"
+    ]
+  },
+  "successors": [
+    "SIO 112",
+    "SIO 161"
+  ]
+}

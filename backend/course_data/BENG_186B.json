@@ -1,0 +1,27 @@
+{
+  "code": "BENG 186B",
+  "title": "Principles of Bioinstrumentation Design",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng186b",
+  "description": "Biophysical phenomena, transducers, and electronics as related to the design of biomedical instrumentation. Potentiometric and amperometric signals and amplifiers. Biopotentials, membrane potentials, chemical sensors. Electrical safety. Mechanical transducers for displacement, force, and pressure. Temperature sensors. Flow sensors. Light-based instrumentation. Prerequisites: ECE 35 or MAE 140; ECE 45 or MAE 170; or consent of department. (W)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "ECE 35",
+          "MAE 140"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "ECE 45",
+          "MAE 170"
+        ]
+      }
+    ]
+  }
+}

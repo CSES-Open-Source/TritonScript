@@ -1,0 +1,26 @@
+{
+  "code": "CHIN 169B",
+  "title": "Medical Chinese II",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "",
+  "description": "Advanced Mandarin Chinese language course that focuses on conversational medical Chinese for students interested in medicine and health care. Designed to prepare students to speak, listen, and read effectively in a Chinese medical environment and build necessary medical vocabulary.\u00a0Prerequisites: any one of the following or department approval through placement interview: CHIN 165A-B-C, CHIN 169A, CHIN 182A-B-C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHIN 165A",
+      "CHIN 165B",
+      "CHIN 165C",
+      "CHIN 169A",
+      "CHIN 182A",
+      "CHIN 182B",
+      "CHIN 182C"
+    ]
+  },
+  "successors": [
+    "CHIN 169A",
+    "CHIN 182A",
+    "CHIN 182B",
+    "CHIN 182C"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "code": "CSE 151B",
+  "title": "Deep Learning",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse151b",
+  "description": "This course covers the fundamentals of deep neural networks at the undergraduate level. We introduce linear regression, multi-layer perceptrons, backpropagation, and automatic differentiation. We will also discuss convolutional neural networks, recurrent neural networks, and transformers. The course will be a combination of lectures, presentations, and machine learning competitions. Renumbered from CSE 154. Students may receive credit for one of the following: CSE 151B, CSE 154, or COGS 181. May be coscheduled with CSE 251B. Recommended preparation: knowledge of Python. Prerequisites: MATH 20C or MATH 31BH and BENG 134 or COGS 118D or CSE 103 or ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 181A or MATH 183 or MATH 186 or SE 125 and COGS 118A or COGS 118B or COGS 188 or CSE 151A or ECE 175A; restricted to students within the CS25, CS26, CS27, CS28, EC26, and DS25 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BENG 134",
+          "COGS 118D",
+          "CSE 103",
+          "ECE 109",
+          "ECON 120A",
+          "MAE 108",
+          "MATH 180A",
+          "MATH 180B",
+          "MATH 181A",
+          "MATH 183",
+          "MATH 186",
+          "SE 125"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "COGS 118A",
+          "COGS 118B",
+          "COGS 188",
+          "CSE 151A",
+          "ECE 175A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "COGS 182"
+  ]
+}

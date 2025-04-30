@@ -1,0 +1,22 @@
+{
+  "code": "COMM 120I",
+  "title": "AMP: Social Issues in Media Production",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm120i",
+  "description": "Analyze forms of social issue media production, photography, audio/radio, arts, crafts, web, print zines, political documentary. Students work with several forms of media making: video, audio, web design, and a project in their chosen format. Prerequisites: COMM 10 and two of COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "two",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

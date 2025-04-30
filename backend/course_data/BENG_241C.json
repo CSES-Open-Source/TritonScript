@@ -1,0 +1,9 @@
+{
+  "code": "BENG 241C",
+  "title": "Tissue Engineering and Regenerative Medicine: Development and Growth",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng241c",
+  "description": "Development, morphogenesis, growth, and remodeling of tissues and organs in health and disease. Integrative metabolism and biomechanics of cells and extracellular matrix at tissue, organ, and organism scales. Bioengineering restoration of tissues and organs. Industry applications and regulations. Prerequisites: BENG 241A, graduate standing, or consent of instructor.",
+  "prereqs": "BENG 241A"
+}

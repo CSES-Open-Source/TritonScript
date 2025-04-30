@@ -1,0 +1,19 @@
+{
+  "code": "BILD 4",
+  "title": "Introductory Biology Lab",
+  "units": "2",
+  "dept": "BIOL",
+  "anchor": "bild4",
+  "description": "Students gain hands-on experience and learn the theoretical basis of lab techniques common to a variety of biological disciplines such as biochemistry, molecular biology, cell biology, and bioinformatics. Students will work in groups, learning how to collect, analyze, and present data while using the scientific method to conduct inquiry-based laboratory experiments. Material lab fees will apply.",
+  "successors": [
+    "BIMM 100",
+    "BIMM 143",
+    "BIMM 143R",
+    "BIMM 174",
+    "BIPN 145",
+    "CSE 180",
+    "CSE 180R",
+    "CSE 185",
+    "SIO 186"
+  ]
+}

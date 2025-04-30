@@ -1,0 +1,11 @@
+{
+  "code": "SOCI 139",
+  "title": "Social Inequality: Class, Race, and Gender",
+  "units": "4",
+  "dept": "SOC",
+  "anchor": "soci139",
+  "description": "Massive inequality in wealth, power, and prestige is ever present in industrial societies. In this course, causes and consequences of class, gender, racial, and ethnic inequality (\u201cstratification\u201d) will be considered through examination of classical and modern social science theory and research. Prerequisites: upper-division standing. Will not receive credit for SOCI 139 and SOCC 139.",
+  "successors": [
+    "EDS 120"
+  ]
+}

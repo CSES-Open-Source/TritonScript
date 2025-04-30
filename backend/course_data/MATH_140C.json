@@ -1,0 +1,12 @@
+{
+  "code": "MATH 140C",
+  "title": "Foundations of Real Analysis III",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math140c",
+  "description": "Third course in a rigorous three-quarter sequence on real analysis. Topics include differentiation of functions of several real variables, the implicit and inverse function theorems, the Lebesgue integral, infinite-dimensional normed spaces. Prerequisites: MATH 140B or consent of instructor.",
+  "prereqs": "MATH 140B",
+  "successors": [
+    "MATH 290A-B-C"
+  ]
+}

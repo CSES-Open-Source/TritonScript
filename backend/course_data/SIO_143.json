@@ -1,0 +1,27 @@
+{
+  "code": "SIO 143",
+  "title": "Ocean Acidification",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio143",
+  "description": "This course covers the fundamentals of ocean acidification, including the chemical background; past and future changes in ocean chemistry; biological and biogeochemical consequences, including organism and ecosystem function; biodiversity; biomineralization; carbonate dissolution; and the cycling of carbon and nitrogen in the oceans. May be coscheduled with SIOG 264.\u00a0Prerequisites:\u00a0PHYS 1C or PHYS 2C and CHEM 6C or CHEM 6CH, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1C",
+          "PHYS 2C"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6C",
+          "CHEM 6CH"
+        ]
+      }
+    ]
+  }
+}

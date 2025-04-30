@@ -1,0 +1,8 @@
+{
+  "code": "LIGN 165",
+  "title": "Computational Linguistics",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign165",
+  "description": "An introduction to the fundamental concepts of computational linguistics, in which we study natural language syntax and semantics from an interpretation perspective, describe methods for programming computer systems to perform such interpretation, and survey applications of computational linguistics technology. Prerequisites: none."
+}

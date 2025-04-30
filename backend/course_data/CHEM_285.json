@@ -1,0 +1,8 @@
+{
+  "code": "CHEM 285",
+  "title": "Quantum Chemistry Lab",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem285",
+  "description": "Course in computational methods, with focus on quantum chemistry. The course content is built on a background in mathematics and physical chemistry, and provides an introduction to computational theory, ab initio methods, and semiempirical methods. The emphasis is on applications and reliability. May be coscheduled with CHEM 185. Prerequisites: graduate student standing."
+}

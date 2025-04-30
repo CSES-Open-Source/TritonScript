@@ -1,0 +1,11 @@
+{
+  "code": "BENG 280B",
+  "title": "Comparative Biomedical Imaging",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng280b",
+  "description": "Application of biomedical imaging to the measurement of structure, function, and dynamics of organ systems from the microscopic to the organ level. Emphasis on detailed evaluation and comparison of specific imaging modalities. Prerequisites: consent of instructor. (W,S)",
+  "successors": [
+    "ECE 217"
+  ]
+}

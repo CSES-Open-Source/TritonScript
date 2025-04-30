@@ -1,0 +1,15 @@
+{
+  "code": "CSE 283",
+  "title": "Bioinformatics III: Functional Genomics",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse283",
+  "description": "Annotating genomes, characterizing functional genes, profiling, reconstructing pathways. Prerequisites: Pharm 201, BENG 202/CSE 282, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BENG 202",
+      "CSE 282"
+    ]
+  }
+}

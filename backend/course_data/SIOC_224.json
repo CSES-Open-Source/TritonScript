@@ -1,0 +1,8 @@
+{
+  "code": "SIOC 224",
+  "title": "Numerical Modeling of the Climate System",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc224",
+  "description": "Introduction to the methods used in numerical models of the ocean and atmosphere; survey of numerical methods, introduced in the context of a series of example problems; overview of the equations represented in general circulation models (GCMs) of the atmosphere and ocean, and additional numerical methods used in these models; adjoint methods for state estimation, analysis of GCM output, and other related topics. Prerequisites: graduate standing or consent of instructor."
+}

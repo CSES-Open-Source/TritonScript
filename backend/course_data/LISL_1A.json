@@ -1,0 +1,12 @@
+{
+  "code": "LISL 1A",
+  "title": "American Sign Language Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lisl1a",
+  "description": "Small tutorial meetings with a signer of American Sign Language (ASL). Conversational practice organized around common everyday communicative situations. Must be taken with LISL 1AX. Prerequisites: no prior study of ASL.",
+  "successors": [
+    "LISL 1B",
+    "LISL 1BX"
+  ]
+}

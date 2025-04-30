@@ -1,0 +1,12 @@
+{
+  "code": "POLI 10",
+  "title": "or 10D. Introduction to Political Science: American Politics",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli10d",
+  "description": "This course surveys the processes and institutions of American politics. Among the topics discussed are individual political attitudes and values, political participation, voting, parties, interest groups, Congress, presidency, Supreme Court, the federal bureaucracy, and domestic and foreign policy making. POLI 10 is Lecture only, and POLI 10D is Lecture plus Discussion section. These courses are equivalents of each other in regard to major requirements, and students may not receive credit for both 10 and 10D.\u00a0",
+  "successors": [
+    "COMM 124A",
+    "POLI 160AA"
+  ]
+}

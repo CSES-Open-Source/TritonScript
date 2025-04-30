@@ -1,0 +1,17 @@
+{
+  "code": "ECE 271A",
+  "title": "Statistical Learning I",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece271a",
+  "description": "Bayesian decision theory; parameter estimation; maximum likelihood; the bias-variance trade-off; Bayesian estimation; the predictive distribution; conjugate and noninformative priors; dimensionality and dimensionality reduction; principal component analysis; Fisher\u2019s linear discriminant analysis; density estimation; parametric vs. kernel-based methods; expectation-maximization; applications. Recommended preparation: ECE 109. Prerequisites: graduate standing.",
+  "successors": [
+    "BENG 285",
+    "BNFO 285",
+    "ECE 204",
+    "ECE 209",
+    "ECE 226",
+    "ECE 271B",
+    "ECE 271C"
+  ]
+}

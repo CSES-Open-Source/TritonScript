@@ -1,0 +1,16 @@
+{
+  "code": "HDS 133",
+  "title": "Cross-Cultural Perspectives on Developmental Science",
+  "units": "4",
+  "dept": "HDS",
+  "anchor": "hds133",
+  "description": "This course examines how human development varies cross-culturally across the life span. It explores human developmental science as a bio-social-cultural process, in which development is not simply a product of biology and genetics, but shaped by the particular cultural traditions and patterns of social interactions into which an individual is born. Renumbered from HDP 133. Students may not receive credit for HDP 133 and HDS 133. Prerequisites: HDP 1 or HDS 1 or PSYC 1.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "HDP 1",
+      "HDS 1",
+      "PSYC 1"
+    ]
+  }
+}

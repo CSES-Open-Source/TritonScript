@@ -1,0 +1,9 @@
+{
+  "code": "ECON 260",
+  "title": "Industrial Organization: Firms",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ260",
+  "description": "This course covers theory and empirical applications in the following areas of industrial organization: dynamic pricing, price discrimination, collusion, market power, discrete choice demand modeling, entry, asymmetric information, and search. Prerequisites: ECON 220C. Enrollment by completion of prerequisites or by consent of instructor.",
+  "prereqs": "ECON 220C"
+}

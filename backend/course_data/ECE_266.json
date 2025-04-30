@@ -1,0 +1,27 @@
+{
+  "code": "ECE 266",
+  "title": "CMOS Circuit Lab",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece266",
+  "description": "Physical design of CMOS circuits through the tapeout and measurement life cycle. Layout techniques covering process variation, parasitics, ESD, and pad ring assembly. Students will learn the entire tapeout tool flow including DRC, LVS, and RCX. Discussion of packaging and PCB design along with how to measure and characterize the performance of CMOS circuits. Prerequisites: ECE 264A-B or ECE 265A-B; graduate standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      {
+        "type": "all",
+        "courses": [
+          "ECE 264A",
+          "ECE 264B"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "ECE 265A",
+          "ECE 265B"
+        ]
+      }
+    ]
+  }
+}

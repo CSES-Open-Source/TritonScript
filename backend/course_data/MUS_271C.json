@@ -1,0 +1,9 @@
+{
+  "code": "MUS 271C",
+  "title": "Survey of Electronic Music Techniques III",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus271c",
+  "description": "A continuation of 271A and B, with emphasis on compositional techniques (e.g., computer-aided composition, production, spatialization). Prerequisites: MUS 271B and graduate standing in music.",
+  "prereqs": "MUS 271B"
+}

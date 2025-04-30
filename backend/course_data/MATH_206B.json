@@ -1,0 +1,9 @@
+{
+  "code": "MATH 206B",
+  "title": "Further Topics in Algebraic Geometry",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math206b",
+  "description": "Continued development of a topic in algebraic geometry. Topics will be drawn from current research and may include Hodge theory, higher dimensional geometry, moduli of vector bundles, abelian varieties, deformation theory, intersection theory. May be taken for credit three times with consent of adviser as topics vary. Prerequisites: MATH 206A. Students who have not completed MATH 206A may enroll with consent of instructor.",
+  "prereqs": "MATH 206A"
+}

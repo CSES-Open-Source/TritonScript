@@ -1,0 +1,18 @@
+{
+  "code": "MGT 183",
+  "title": "Financial Investments",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt183",
+  "description": "Examines financial theory and empirical evidence useful for making investment decisions. Portfolio theory, equilibrium models, and market efficiency are examined for stock securities and fixed income instruments. Risk adjusted ROIs for capital investments\u2019 impact on stock prices and free options will also be studied. Prerequisites: ECON 173B or MGT 180 or MGT 180R or MGT 181 or MGT 187.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 173B",
+      "MGT 180",
+      "MGT 180R",
+      "MGT 181",
+      "MGT 187"
+    ]
+  }
+}

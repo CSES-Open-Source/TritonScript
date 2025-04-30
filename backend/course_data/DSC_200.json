@@ -1,0 +1,8 @@
+{
+  "code": "DSC 200",
+  "title": "Data Science Programming",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc200",
+  "description": "Computing structures and programming concepts such as object orientation, data structures such as queues, heaps, lists, search trees, and hash tables. Laboratory skills include Jupyter notebooks, RESTful interfaces, and various software development kits (SDKs). Prerequisites: none. Restricted to students within the DS75 and DS76 major."
+}

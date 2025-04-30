@@ -1,0 +1,17 @@
+{
+  "code": "GPEC 464",
+  "title": "Designing Field Experiments",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpec464",
+  "description": "This course covers the applied practice of quantitative impact evaluation. The benchmark methodology will be randomized controlled trials. The broader set of nonexperimental tools will be understood through the ways they differ from random assignment. Practical issues in research and survey design will be discussed. Renumbered from IRGN 464. Students may not receive credit for GPEC 464 and IRGN 464. Prerequisites: GPCO 453, 454, 468, and GPEC 446, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "GPCO 453",
+      "GPCO 454",
+      "GPCO 468",
+      "GPEC 446"
+    ]
+  }
+}

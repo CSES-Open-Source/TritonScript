@@ -1,0 +1,11 @@
+{
+  "code": "MATH 270A",
+  "title": "Numerical Linear Algebra",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math270a",
+  "description": "Error analysis of the numerical solution of linear equations and least squares problems for the full rank and rank deficient cases. Error analysis of numerical methods for eigenvalue problems and singular value problems. Iterative methods for large sparse systems of linear equations. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "MATH 270B"
+  ]
+}

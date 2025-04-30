@@ -1,0 +1,20 @@
+{
+  "code": "PSYC 194B",
+  "title": "Honors Thesis II",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc194b",
+  "description": "This course provides the opportunity for students to continue to carry out their research projects. Must be taken for a letter grade for the Psychology Honors Program. Prerequisites: PSYC 110, PSYC 111A-B,\u00a0PSYC 194A, department approval, psychology majors only, acceptance to the Honors program.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PSYC 110",
+      "PSYC 111A",
+      "PSYC 111B",
+      "PSYC 194A"
+    ]
+  },
+  "successors": [
+    "PSYC 194C"
+  ]
+}

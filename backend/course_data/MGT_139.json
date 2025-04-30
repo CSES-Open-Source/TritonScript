@@ -1,0 +1,9 @@
+{
+  "code": "MGT 139",
+  "title": "Accounting Information Systems",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt139",
+  "description": "Develop an understanding of transaction cycles (e.g., sales order and purchase order processing) with a focus on processing steps, internal controls, and data used. Gain hands-on experience developing flowcharts, processing transactions in a manual accounting information system, and analyzing transaction data using Microsoft Excel and other tools. Prerequisites: MGT 131B and upper-division standing.",
+  "prereqs": "MGT 131B"
+}

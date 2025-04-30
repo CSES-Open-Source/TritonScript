@@ -1,0 +1,15 @@
+{
+  "code": "CGS 135",
+  "title": "Feminist Science and Technology Studies",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs135",
+  "description": "Interweaving insights from history and philosophy of science, sociology of scientific institutions and knowledge, and anthropology, science studies views sciences and technologies as crucially enmeshed in human culture and politics. This course explores modern western and/or American science with a particular focus on the dynamics of race, ethnicity, gender, colonialism, and their intersections in scientific knowledge production and technological development. Prerequisites: CGS 2A or 2B or at least one CGS upper-division course.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "MAE 126B",
+  "title": "Environmental Engineering Design",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae126b",
+  "description": "Fundamental principles of environmental design. Building a working prototype or computer model for an environmental engineering application. Work in teams to propose and design experiments and components, obtain data, complete engineering analysis, and write a report. Engineering ethics and professionalism. Prerequisites: MAE 126A.",
+  "prereqs": "MAE 126A"
+}

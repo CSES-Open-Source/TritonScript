@@ -1,0 +1,15 @@
+{
+  "code": "BISP 170",
+  "title": "Bioscholars Seminar: From Bench to Bedside and Beyond",
+  "units": "2",
+  "dept": "BIOL",
+  "anchor": "bisp170",
+  "description": "Course will examine different aspects of a current topic in biology and will include several speakers. Each speaker will introduce the scientific foundation of the chosen theme (\u201cbench\u201d), describe practical applications of their subject (\u201cbedside\u201d), and consider social and ethical implications of the topic (\u201cbeyond\u201d). The theme of the course will vary from year to year, and speakers will come from a variety of disciplines relevant to the theme. May be taken for credit three times. Prerequisites: BILD 1 and BILD 2.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 2"
+    ]
+  }
+}

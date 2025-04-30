@@ -1,0 +1,16 @@
+{
+  "code": "LTWR 129",
+  "title": "Distributing Literature Workshop",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr129",
+  "description": "Workshop designed to critique and engage the means of distributing literature within culture. Publishing from \u201czine\u201d through mainstream publication; web publishings; readings and \u201cslams\u201d; publicity and funding; colloquia with writers; politics and literature; and the uses of performance and media. May be taken for credit up to three times. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department.  Prerequisites:  LTWR 100, LTWR 102, or LTWR 120.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTWR 100",
+      "LTWR 102",
+      "LTWR 120"
+    ]
+  }
+}

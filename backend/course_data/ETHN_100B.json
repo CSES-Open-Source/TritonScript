@@ -1,0 +1,15 @@
+{
+  "code": "ETHN 100B",
+  "title": "Interdisciplinary Methodologies",
+  "units": "4",
+  "dept": "ETHN",
+  "anchor": "ethn100b",
+  "description": "An introduction to interdisciplinary research methodologies in critical ethnic studies. By developing a critical analysis of the politics of knowledge production, students will learn to identify different methodological approaches in the field and to evaluate their use in practical application. Prerequisites: ETHN 100A, ethnic studies major or minor, or consent of instructor.",
+  "prereqs": "ETHN 100A",
+  "successors": [
+    "ETHN 100C",
+    "ETHN 100H",
+    "ETHN 100M",
+    "ETHN 196H"
+  ]
+}

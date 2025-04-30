@@ -1,0 +1,12 @@
+{
+  "code": "POLI 104B",
+  "title": "Civil Liberties\u2014Fundamental Rights",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli104b",
+  "description": "This course will examine issues of civil liberties from both legal and political perspectives. Topics will include the First Amendment rights of speech, press, assembly, and religion; other \u201cfundamental\u201d rights, such as the right to privacy; and some issues in equal protection. Conflicts between governmental powers and individual rights will be examined.",
+  "successors": [
+    "POLI 104F",
+    "POLI 104J"
+  ]
+}

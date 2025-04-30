@@ -1,0 +1,9 @@
+{
+  "code": "MAE 114",
+  "title": "Space Propulsion",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae114",
+  "description": "This course covers the fundamentals of rocket propulsion and discusses advanced concepts in space propulsion. Topics include liquid and solid propellant rocket engines, electrical rocket propulsion, nuclear propulsion devices, solar-powered vehicles, and current challenges and opportunities in launch vehicle technologies. Prerequisites: MAE 113.",
+  "prereqs": "MAE 113"
+}

@@ -1,0 +1,28 @@
+{
+  "code": "PSYC 81",
+  "title": "Laboratory in Brain, Behavior, and Evolution",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc81",
+  "description": "This course provides students the opportunity to learn about the intricate relationship that exists between brain and behavior, as well as the evolutionary forces that shape this interaction. Lectures for this course aim to introduce students to some of the best examples in the literature that highlight these issues, while a parallel component of the course aims to introduce students to performing research on the topic.\u00a0Open to the following Department of Psychology majors only: PC26, PC28, PC29, PC30, PC31, PC32, PC33.\u00a0Prerequisites: upper-division standing,\u00a0COGS 14B or PSYC 60 or MATH 11 and PSYC 70 or COGS 14A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "COGS 14B",
+          "PSYC 60",
+          "MATH 11"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PSYC 70",
+          "COGS 14A"
+        ]
+      }
+    ]
+  }
+}

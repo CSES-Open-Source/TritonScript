@@ -1,0 +1,11 @@
+{
+  "code": "MATH 206A",
+  "title": "Topics in Algebraic Geometry",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math206a",
+  "description": "Introduction to varied topics in algebraic geometry. Topics will be drawn from current research and may include Hodge theory, higher dimensional geometry, moduli of vector bundles, abelian varieties, deformation theory, intersection theory. Nongraduate students may enroll with consent of instructor. May be taken for credit six times with consent of adviser as topics vary. Prerequisites: graduate standing.",
+  "successors": [
+    "MATH 206B"
+  ]
+}

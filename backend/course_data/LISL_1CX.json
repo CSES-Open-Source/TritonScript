@@ -1,0 +1,22 @@
+{
+  "code": "LISL 1CX",
+  "title": "Analysis of American Sign Language",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lisl1cx",
+  "description": "Study of American Sign Language (ASL) and analysis of its syntactic, morphological, and phonological features. Readings and discussions of cultural information. The course is taught entirely in ASL. Must be taken with LISL 1C. Prerequisites: LISL 1B with a grade of C\u2013 or better, or equivalent and LISL 1BX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LISL 1B",
+      "LISL 1BX"
+    ]
+  },
+  "successors": [
+    "LIGN 144",
+    "LIGN 146",
+    "LIGN 148",
+    "LISL 1D",
+    "LISL 1DX"
+  ]
+}

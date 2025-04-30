@@ -1,0 +1,8 @@
+{
+  "code": "MAE 248",
+  "title": "Safety for Autonomous Systems",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae248",
+  "description": "This project-based course covers the mathematical foundations of dynamical system safety analysis and modern algorithmic approaches to decision-making in safety critical contexts. The focus is on safety analysis and safe learning for robots and other systems, paying special attention to uncertainty and the reality gap between mathematical models and the physical world. Class meetings combine whiteboard-style lecture, seminar-style discussion, and guest lectures from experts in the field. Prerequisites: graduate standing."
+}

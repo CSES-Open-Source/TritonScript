@@ -1,0 +1,12 @@
+{
+  "code": "EDS 146",
+  "title": "Mindfulness and Education",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds146",
+  "description": "This course introduces students to mindfulness and yoga in schools as it relates to social and emotional learning (SEL), executive functioning, and academic success. Through a combination of readings, lectures/discussions, assignments, and field experiences, students will learn about the impact of contemplative practices on academic functioning and SEL, while also addressing current educational and socio-emotional challenges that P\u201312 students, teachers, and parents face. Prerequisites: department approval required, EDS 139 must be taken as a corequisite.",
+  "prereqs": "EDS 139",
+  "successors": [
+    "EDS 140"
+  ]
+}

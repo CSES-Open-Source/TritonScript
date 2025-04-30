@@ -1,0 +1,9 @@
+{
+  "code": "NANO 120B",
+  "title": "NanoEngineering System Design II",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano120b",
+  "description": "Principles of product quality assurance in design and production. Professional ethics. Safety and design for the environment. Culmination of team design projects initiated in NANO 120A with a working prototype designed for a real engineering application. Prerequisites: NANO 120A.",
+  "prereqs": "NANO 120A"
+}

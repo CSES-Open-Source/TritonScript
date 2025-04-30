@@ -1,0 +1,18 @@
+{
+  "code": "BENG 183",
+  "title": "Applied Genomic Technologies",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng183",
+  "description": "Principles and technologies for using genomic information for biomedical applications. Technologies will be introduced progressively, from DNA to RNA to protein to whole cell systems. The integration of biology, chemistry, engineering, and computation will be stressed. Topics include technology for the genome, DNA chips, RNA technologies, proteomic technologies, aphysiomic and phenomic technologies, and analysis of cell function. Prerequisites: BIMM 100 or CHEM 114C, or consent of department. (F)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BIMM 100",
+      "CHEM 114C"
+    ]
+  },
+  "successors": [
+    "BIMM 185"
+  ]
+}

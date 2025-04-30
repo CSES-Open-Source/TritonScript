@@ -1,0 +1,15 @@
+{
+  "code": "MATH 146",
+  "title": "Analysis of Ordinary Differential Equations",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math146",
+  "description": "A rigorous introduction to systems of ordinary differential equations. Topics include linear systems, matrix diagonalization and canonical forms, matrix exponentials, nonlinear systems, existence and uniqueness of solutions, linearization, and stability. Prerequisites: MATH 140B or MATH 142B. Students who have not completed listed prerequisite(s) may enroll with the consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 140B",
+      "MATH 142B"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "PSYC 156",
+  "title": "Cognitive Development in Infancy",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc156",
+  "description": "This course provides an overview of infant development. Students will critically evaluate scientific theories regarding infant cognitive, linguistic, and social behavior. Recommended preparation: PSYC 60. Prerequisites: upper-division standing; PSYC 101 or HDS 1.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "PSYC 101",
+      "HDS 1"
+    ]
+  }
+}

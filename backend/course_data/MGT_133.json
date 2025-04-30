@@ -1,0 +1,9 @@
+{
+  "code": "MGT 133",
+  "title": "Advanced Cost Accounting",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt133",
+  "description": "Covers cost accumulation and analysis, for both manufacturing cost components and service activities, budgeting and cost projections, cost variance analysis, relevant costs, and capital investment analysis. Prerequisites: MGT 131B.",
+  "prereqs": "MGT 131B"
+}

@@ -1,0 +1,8 @@
+{
+  "code": "MAE 243",
+  "title": "Electric Power Systems Modeling",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae243",
+  "description": "Formulate and solve canonical constrained optimization problems in electric power systems planning and operation, with applications to current and future low-carbon grids. Techno-economic assessment, implementations in a modern algebraic modeling language, and techniques to enhance computational tractability will be covered."
+}

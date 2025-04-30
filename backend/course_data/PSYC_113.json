@@ -1,0 +1,40 @@
+{
+  "code": "PSYC 113",
+  "title": "Electroencephalogram (EEG) Lab",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc113",
+  "description": "This course provides training in the design, execution, and analysis of electroencephalogram (EEG) experiments to study perception and cognition. The course will provide basic background on the EEG methodology: what and how neural signals are measured with EEG, how to interpret them, and how to design experiments. It will also provide hands-on training on conducting an EEG study: we will design and run experiments together in the laboratory, analyze the data, and discuss the results. Prerequisites: PSYC 60 or COGS 14B or MATH 11, and PSYC 70 or COGS 14A, and COGS 101A or COGS 107A or COGS 107B or COGS 107C or PSYC 102 or PSYC 106 or PSYC 108. Department approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PSYC 60",
+          "COGS 14B",
+          "MATH 11"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PSYC 70",
+          "COGS 14A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "COGS 101A",
+          "COGS 107A",
+          "COGS 107B",
+          "COGS 107C",
+          "PSYC 102",
+          "PSYC 106",
+          "PSYC 108"
+        ]
+      }
+    ]
+  }
+}

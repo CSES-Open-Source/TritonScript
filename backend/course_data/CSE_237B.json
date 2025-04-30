@@ -1,0 +1,9 @@
+{
+  "code": "CSE 237B",
+  "title": "Software for Embedded Systems",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse237b",
+  "description": "Embedded computing elements, device interfaces, time-critical IO handling. Embedded software design under size, performance, and reliability constraints. Software timing and functional validation. Programming methods and compilation for embeddable software. Embedded runtime systems. Case studies of real-time software systems. Prerequisites: CSE 237A; or basic courses in programming, algorithms and data structures, elementary calculus, discrete math, computer architecture; or consent of instructor.",
+  "prereqs": "CSE 237A"
+}

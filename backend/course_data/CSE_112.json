@@ -1,0 +1,9 @@
+{
+  "code": "CSE 112",
+  "title": "Advanced Software Engineering",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse112",
+  "description": "This course will cover software engineering topics associated with large systems development such as requirements and specifications, testing and maintenance, and design. Specific attention will be given to development tools and automated support environments. Prerequisites: CSE 110; restricted to students within the CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": "CSE 110"
+}

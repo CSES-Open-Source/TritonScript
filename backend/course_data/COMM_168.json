@@ -1,0 +1,22 @@
+{
+  "code": "COMM 168",
+  "title": "Bilingual Communication",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm168",
+  "description": "This course is designed to introduce students to multiple settings where bilingualism is the mode of communication. Examination of how such settings are socially constructed and culturally based. Language policy, bilingual education, and linguistic minorities, as well as field activities included. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

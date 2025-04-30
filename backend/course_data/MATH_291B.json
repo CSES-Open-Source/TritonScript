@@ -1,0 +1,9 @@
+{
+  "code": "MATH 291B",
+  "title": "Further Topics in Topology",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math291b",
+  "description": "Continued development of a topic in topology. Topics include generalized cohomology theory, spectral sequences, K-theory, homotophy theory. May be taken for credit three times with consent of adviser as topics vary. Prerequisites: MATH 291A. Students who have not completed MATH 291A may enroll with consent of instructor.",
+  "prereqs": "MATH 291A"
+}

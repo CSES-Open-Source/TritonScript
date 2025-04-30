@@ -1,0 +1,16 @@
+{
+  "code": "SIO 121",
+  "title": "Biology of the Cryosphere",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio121",
+  "description": "The cryosphere comprises sea ice, glaciers, snow, and other frozen environments. Changing rapidly in the face of global climate change, these environments host unique and highly adapted ecosystems that play an important role in the global earth system. In this course we will explore the physiology and ecology of organisms in the cryosphere and peripheral habitats. A special emphasis will be placed on sea ice as a habitat archetype, but glacier, snow, and permafrost will also be covered. Prerequisites: BILD 1, BILD 2, BILD 3, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 2",
+      "BILD 3"
+    ]
+  }
+}

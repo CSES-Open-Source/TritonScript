@@ -1,0 +1,9 @@
+{
+  "code": "ASTR 104",
+  "title": "Thermal Astrophysics",
+  "units": "4",
+  "dept": "ASTR",
+  "anchor": "astr104",
+  "description": "Thermal physics developed from kinetics with an emphasis on astrophysical applications. Topics include kinetics, phase space and distribution, moment quantities, entropy, collisions and Boltzmann equation; H-theorem, fluid equations, and applications to radiation; canonical, microcanonical and grand canonical ensembles; distributions and relations to thermodynamic quantities, Bose-Einstein and Fermi-Dirac statistics, statistical mechanics with gravity, and applications to compact objects. Prerequisites: ASTR 101.",
+  "prereqs": "ASTR 101"
+}

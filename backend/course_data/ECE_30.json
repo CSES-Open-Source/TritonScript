@@ -1,0 +1,21 @@
+{
+  "code": "ECE 30",
+  "title": "Introduction to Computer Engineering",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece30",
+  "description": "The fundamentals of both the hardware and software in a computer system. Topics include representation of information, computer organization and design, assembly and microprogramming, current technology in logic design. Prerequisites: ECE 15 and 25 with grades of C\u2013 or better.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 15",
+      "ECE 25"
+    ]
+  },
+  "successors": [
+    "CSE 122",
+    "ECE 108",
+    "ECE 118",
+    "ECE 141A"
+  ]
+}

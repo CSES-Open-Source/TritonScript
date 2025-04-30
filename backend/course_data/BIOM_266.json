@@ -1,0 +1,15 @@
+{
+  "code": "BIOM 266",
+  "title": "Environmental and Molecular Toxicology",
+  "units": "4",
+  "dept": "BIOM",
+  "anchor": "biom266",
+  "description": "Molecular and cellular mechanisms underlie the actions of environmental toxicants. This course will investigate approaches to study the impact of environmental toxicants on human health. Other modern approaches that are being implemented to detect and remediate environmental toxicants will also be examined. BGGN 256, BIOM 266 and Chem 266 students will be required to complete an additional paper and/or exam beyond that expected of students in Chem 166 and BIMM 166. Prerequisites: Chem 114A and 114B required for Chem 166 and BIBC 100 and BIBC 102 required for BIMM 166. (S)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BIBC 100",
+      "BIBC 102"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "code": "BIEB 123",
+  "title": "Molecular Methods in Evolution and Ecology Lab",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb123",
+  "description": "Theory and practice of molecular biology techniques used in evolutionary and ecological research. Includes isolation and genotyping of DNA, PCR, and its applications. Phylogenetics, biodiversity, bioinformatics, and evolutionary and ecological analysis of molecular data. Material lab fees will apply. Attendance at the first lecture/lab is required. Nonattendance may result in the student being dropped from the course roster. Prerequisites: BILD 1 and BILD 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 3"
+    ]
+  },
+  "successors": [
+    "BIMM 143",
+    "BIMM 143R",
+    "CSE 185"
+  ]
+}

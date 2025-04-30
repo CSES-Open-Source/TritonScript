@@ -1,0 +1,29 @@
+{
+  "code": "CHIN 182B",
+  "title": "Classical Chinese II",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "",
+  "description": "Advanced Mandarin Chinese language course that focuses on building familiarity with classical Chinese. Selections from Kongzi, Mengzi, and work of other philosophers will be taught. Focus is on structures, function words, and overall comprehension of a text.\u00a0Prerequisites: any one of the following or department approval through placement interview: CHIN 165A-B-C, CHIN 169A-B, CHIN 182A, CHIN 182C, CHIN 185A-B-C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHIN 165A",
+      "CHIN 165B",
+      "CHIN 165C",
+      "CHIN 169A",
+      "CHIN 169B",
+      "CHIN 182A",
+      "CHIN 182C",
+      "CHIN 185A",
+      "CHIN 185B",
+      "CHIN 185C"
+    ]
+  },
+  "successors": [
+    "CHIN 169A",
+    "CHIN 169B",
+    "CHIN 182A",
+    "CHIN 182C"
+  ]
+}

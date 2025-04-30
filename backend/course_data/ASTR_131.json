@@ -1,0 +1,49 @@
+{
+  "code": "ASTR 131",
+  "title": "From the Stars to Earth: Using Nuclear Energy",
+  "units": "4",
+  "dept": "ASTR",
+  "anchor": "astr131",
+  "description": "Exploration of how to obtain energy from the nucleus by fission and fusion and explores the science and technology of nuclear energy and its various applications. Students will learn how stars and nuclear reactors work and be introduced to the development of controlled fusion. Topics include fundamentals of nuclei and nuclear physics, energetics of fission and fusion, basics of nuclear reactor design and technology, and elements of the physics of controlled fusion. Prerequisites: PHYS 2A or PHYS 2AR or PHYS 4A and PHYS 2B or PHYS 4B and PHYS 2C or PHYS 4C and PHYS 2D or PHYS 4D and PHYS 2D or PHYS 4E.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 2AR",
+          "PHYS 4A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2B",
+          "PHYS 4B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2C",
+          "PHYS 4C"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2D",
+          "PHYS 4D"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2D",
+          "PHYS 4E"
+        ]
+      }
+    ]
+  }
+}

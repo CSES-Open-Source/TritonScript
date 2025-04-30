@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 235",
+  "title": "Nonlinear Plasma Theory",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys235",
+  "description": "This course deals with nonlinear phenomena in plasmas. Topics include orbit perturbation theory, stochasticity, Arnold diffusion, nonlinear wave-particle and wave-wave interaction, resonance broadening, basics of fluid and plasma turbulence, closure methods, models of coherent structures. Prerequisites: PHYS 218C.",
+  "prereqs": "PHYS 218C"
+}

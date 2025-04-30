@@ -1,0 +1,16 @@
+{
+  "code": "LTGK 104",
+  "title": "Greek Prose",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltgk104",
+  "description": "Readings in Greek from ancient Greek prose. May be taken for credit up to four times as topics vary.  Prerequisites:  LTGK 1, 2, and 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LTGK 1",
+      "LTGK 2",
+      "LTGK 3"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "code": "SE 142",
+  "title": "Design of Composite Structures",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se142",
+  "description": "Introduction to advanced composite materials and their applications. Fiber and matrix properties, micromechanics, stiffness, ply-by-ply stress, hygrothermal behavior, and failure prediction. Lab activity will involve design, analysis, fabrication, and testing of composite structure. Program or materials fees may apply. Prerequisites: SE 110A or MAE 131A and SE 110B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SE 110A",
+          "MAE 131A"
+        ]
+      },
+      "SE 110B"
+    ]
+  },
+  "successors": [
+    "SE 143A"
+  ]
+}

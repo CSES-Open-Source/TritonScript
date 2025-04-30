@@ -1,0 +1,12 @@
+{
+  "code": "GPCO 468",
+  "title": "Evaluating Technological Innovation",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpco468",
+  "description": "This capstone is intended as a culminating intellectual experience for students, particularly those in economics-oriented tracks. Students will learn to analyze \u201cwhat works,\u201d integrating a technical understanding of innovation with rigorous statistical analysis. The first half of the course focuses on building a set of science/engineering tools, and the second half on building statistical tools of analysis. Renumbered from IRCO 468. Students may not receive credit for GPCO 468 and IRCO 468. Prerequisites: GPEC 446 or consent of instructor.",
+  "prereqs": "GPEC 446",
+  "successors": [
+    "GPEC 464"
+  ]
+}

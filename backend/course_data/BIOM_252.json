@@ -1,0 +1,22 @@
+{
+  "code": "BIOM 252",
+  "title": "Genetics and Genomics",
+  "units": "3",
+  "dept": "BIOM",
+  "anchor": "biom252",
+  "description": "This course will examine the basic principles of genetics and genomics. We will focus on classic discoveries and examples of approaches to current experimental problems. Emphasis areas will vary but general topics include Mendelian inheritance, imprinting, cytogenetics, genome structure, genetic variation, linkage and recombination, complex traits, statistical genetics, population genetics, genomic tools and methodology, medical genetics, model organisms. Prerequisites: BIOM 200A-B, 201. Limited to BMS graduate students except by consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BIOM 200A",
+      "BIOM 200B",
+      "BIOM 201"
+    ]
+  },
+  "successors": [
+    "BGGN 237",
+    "BIOM 262",
+    "BNFO 262",
+    "BNFO 286"
+  ]
+}

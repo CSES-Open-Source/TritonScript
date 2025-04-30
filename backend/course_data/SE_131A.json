@@ -1,0 +1,27 @@
+{
+  "code": "SE 131A",
+  "title": "Finite Element Analysis",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se131a",
+  "description": "Development of finite element models based upon the Galerkin method. Application to static and dynamic heat conduction and stress analysis. Formulation of initial boundary value problem models, development of finite element formulas, solution methods, and error analysis and interpretation of results. Renumbered from SE 131. Students may not receive credit for SE 131A and SE 131. Corequisite: SE 130B. Prerequisites: MATH 20E, SE 3, and SE 110B or MAE 131B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20E",
+      "SE 3",
+      {
+        "type": "one",
+        "courses": [
+          "SE 110B",
+          "MAE 131B"
+        ]
+      }
+    ]
+  },
+  "coreqs": "SE 130B",
+  "successors": [
+    "SE 131B",
+    "SE 168"
+  ]
+}

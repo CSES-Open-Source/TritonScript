@@ -1,0 +1,12 @@
+{
+  "code": "ECE 259B",
+  "title": "Probabilistic Coding",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece259b",
+  "description": "Convolutional codes, maximum-likelihood (ML) decoding, maximum a-posteriori (MAP) decoding, parallel and serial concatenation architectures, turbo codes, repeat-accumulate (RA) codes, the turbo principle, turbo decoding, graph-based codes, message-passing decoding, low-density parity check codes, threshold analysis, applications. Recommended preparation: ECE 155, Digital Communications Theory, and ECE 159, Data Processing and Information Theory. Prerequisites: ECE 259A; graduate standing.",
+  "prereqs": "ECE 259A",
+  "successors": [
+    "ECE 259C"
+  ]
+}

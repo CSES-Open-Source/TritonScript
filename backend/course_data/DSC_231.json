@@ -1,0 +1,8 @@
+{
+  "code": "DSC 231",
+  "title": "Embedded Sensing, IOT Data Models, and Methods",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc231",
+  "description": "Sensory data and control is mediated by devices near the edge of sensor networks, referred to as IOT (Internet of Things) devices. Components of IOT platforms: signal processing, communications/networking, control, real-time operating systems. Interfaces to cloud computing stack, publish-subscribe protocols such as MQTT, embedded software/middleware components, metadata schema, metadata normalization methods, applications in selected CPS (cyber-physical system) applications. Prerequisites: none. The class is designed for electronic enthusiasts who are quick learners on new embedded, sensor network devices. Restricted to students within the DS75 and DS76 major."
+}

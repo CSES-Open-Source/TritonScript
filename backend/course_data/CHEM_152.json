@@ -1,0 +1,19 @@
+{
+  "code": "CHEM 152",
+  "title": "Synthetic Methods in Organic Chemistry",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem152",
+  "description": "A survey of reactions of particular utility in the organic laboratory. Emphasis is on methods of preparation of carbon-carbon bonds and oxidation reduction sequences. May be coscheduled with CHEM 252. Prerequisites: CHEM 40C, 40CH, or 41C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 40C",
+      "CHEM 40CH",
+      "CHEM 41C"
+    ]
+  },
+  "successors": [
+    "CHEM 155"
+  ]
+}

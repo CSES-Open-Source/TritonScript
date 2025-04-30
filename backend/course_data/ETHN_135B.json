@@ -1,0 +1,16 @@
+{
+  "code": "ETHN 135B",
+  "title": "Contemporary Latino/a-Chicano/a Cultural Production: 1960 to Present",
+  "units": "4",
+  "dept": "ETHN",
+  "anchor": "ethn135b",
+  "description": "(Cross-listed with LTSP 150B.) Cross-disciplinary study of late twentieth-century Latino/a-Chicano/a literature, the visual and performing arts, film, or other cultural practices. Specific periods covered will fall between the Kennedy years to the era of neoliberalism and the creation of \u201cHispanic\u201d or Latino/a identities. May be taken for credit two times. Prerequisites: LTSP 50A or LTSP 50B or LTSP 50C, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 50A",
+      "LTSP 50B",
+      "LTSP 50C"
+    ]
+  }
+}

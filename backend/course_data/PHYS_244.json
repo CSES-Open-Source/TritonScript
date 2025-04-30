@@ -1,0 +1,8 @@
+{
+  "code": "PHYS 244",
+  "title": "Parallel Computing in Science and Engineering",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys244",
+  "description": "Introduction to basic techniques of parallel computing, the design of parallel algorithms, and their scientific and engineering applications. Topics include parallel computing platforms; message-passing model and software; design and application of parallel software packages; parallel visualization; parallel applications."
+}

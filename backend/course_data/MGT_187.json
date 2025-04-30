@@ -1,0 +1,16 @@
+{
+  "code": "MGT 187",
+  "title": "New Venture Finance",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt187",
+  "description": "Taking a global perspective, this course examines how innovation is funded and the financial tools necessary over the life cycle of a new venture\u2014development, growth, maturity, and exit. Students will learn to perform financial analysis to determine the feasibility of financing new, transformed, and growing ventures, whether foreign or domestic. The course will also cover term sheets, valuation methods, and the role of private equity investors\u2014angels, VCs, and vendors. Prerequisites: upper-division standing.",
+  "successors": [
+    "MGT 112",
+    "MGT 121B",
+    "MGT 183",
+    "MGT 184",
+    "MGT 185",
+    "MGT 189"
+  ]
+}

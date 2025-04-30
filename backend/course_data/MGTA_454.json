@@ -1,0 +1,16 @@
+{
+  "code": "MGTA 454",
+  "title": "Business Analytics Capstone Project",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgta454",
+  "description": "Students will pursue their capstone experience as part of a team to solve practical business problems faced by companies. Each team will work as external consultants on a project to create value for a client company. Student may not receive credit for both MGTA 454 and MGTA 454A or MGTA 454B. Prerequisites: MGTA 451, MGTA 452, MGTA 453, and restricted to MS in business analytics program or with department and instructor approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGTA 451",
+      "MGTA 452",
+      "MGTA 453"
+    ]
+  }
+}

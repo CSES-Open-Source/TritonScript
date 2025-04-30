@@ -1,0 +1,16 @@
+{
+  "code": "ETHN 135A",
+  "title": "Early Latino/a-Chicano/a Cultural Production: 1848 to 1960",
+  "units": "4",
+  "dept": "ETHN",
+  "anchor": "ethn135a",
+  "description": "(Cross-listed with LTSP 150A.) Cross-disciplinary study of nineteenth- and early twentieth-century Latino/a-Chicano/a literature, folklore, music, testimonio, or other cultural practices. Specific periods covered will fall between the immediate aftermath of the Treaty of Guadalupe Hidalgo to the Cuban revolution. May be taken for credit two times. Prerequisites: LTSP 50A or LTSP 50B or LTSP 50C, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 50A",
+      "LTSP 50B",
+      "LTSP 50C"
+    ]
+  }
+}

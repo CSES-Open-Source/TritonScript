@@ -1,0 +1,15 @@
+{
+  "code": "CHEM 165",
+  "title": "3-D Cryo-Electron Microscopy of Macromolecules and Cells",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem165",
+  "description": "The resolution revolution in cryo-electron microscopy has made this a key technology for the high-resolution determination of structures of macromolecular complexes, organelles, and cells. The basic principles of transmission electron microscopy, modern cryo-electron microscopy, image acquisition, and 3-D reconstruction will be discussed. Examples from the research literature using this state-of-the-art technology will also be discussed. Prerequisites: CHEM 114A or BIBC 100.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 114A",
+      "BIBC 100"
+    ]
+  }
+}

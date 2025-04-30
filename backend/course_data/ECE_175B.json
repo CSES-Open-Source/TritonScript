@@ -1,0 +1,9 @@
+{
+  "code": "ECE 175B",
+  "title": "Elements of Machine Intelligence: Probabilistic Reasoning and Graphical Models",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece175b",
+  "description": "Bayes\u2019 rule as a probabilistic reasoning engine; graphical models as knowledge encoders; conditional independence and D-Separation; Markov random fields; inference in graphical models; sampling methods and Markov Chain Monte Carlo (MCMC); sequential data and the Viterbi and BCJR algorithms; The Baum-Welsh algorithm for Markov Chain parameter estimation. Prerequisites: ECE 175A.",
+  "prereqs": "ECE 175A"
+}

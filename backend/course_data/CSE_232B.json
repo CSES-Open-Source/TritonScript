@@ -1,0 +1,9 @@
+{
+  "code": "CSE 232B",
+  "title": "Database System Implementation",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse232b",
+  "description": "A hands-on approach to the principles of databases implementation. Algebraic rewriters/optimizers, query processors, triggers. Beyond centralized relational databases. Prerequisites: CSE 232.",
+  "prereqs": "CSE 232"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "LIPO 1AX",
+  "title": "Analysis of Portuguese",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lipo1ax",
+  "description": "Presentation and practice of the basic grammatical structures needed for oral and written communication and reading. The course is taught entirely in Portuguese. Must be taken in conjunction with LIPO 1A. Prerequisites: no prior study of Portuguese.",
+  "successors": [
+    "LIPO 1B",
+    "LIPO 1BX"
+  ]
+}

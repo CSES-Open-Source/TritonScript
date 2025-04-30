@@ -1,0 +1,12 @@
+{
+  "code": "ECE 222B",
+  "title": "Applied Electromagnetic Theory\u2014Electromagnetics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece222b",
+  "description": "Graduate-level introductory course on electromagnetic theory with applications. Topics covered include Maxwell\u2019s equations, plane waves in free space and in the presence of interfaces, polarization, fields in metallic and dielectric waveguides including surface waves; fields in metallic cavities, Green\u2019s functions, electromagnetic field radiation and scattering. Prerequisites: ECE 222A; graduate standing.",
+  "prereqs": "ECE 222A",
+  "successors": [
+    "ECE 222C"
+  ]
+}

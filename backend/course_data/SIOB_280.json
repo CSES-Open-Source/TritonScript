@@ -1,0 +1,11 @@
+{
+  "code": "SIOB 280",
+  "title": "Biological Oceanography",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siob280",
+  "description": "The biology and ecology of marine plankton, nekton, and benthos. Emphasis will be on processes regulating species, community, and ecosystem patterns and changes, including productivity, trophic relationships and species interactions with the physical, chemical, and geological environment. One or more field trips. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "SIOB 270"
+  ]
+}

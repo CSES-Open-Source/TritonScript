@@ -1,0 +1,9 @@
+{
+  "code": "SE 201B",
+  "title": "Nonlinear Structural Analysis",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se201b",
+  "description": "The course emphasizes the principles behind modern nonlinear structural analysis software. It deals with the theory, computer implementation, and applications of methods of material and geometric nonlinear analysis. Emphasis is on 2D and 3D frame structures modeled using 1D (beam-column) elements. Use of computer resources. Prerequisites: SE 201A or equivalent, or consent of instructor.",
+  "prereqs": "SE 201A"
+}

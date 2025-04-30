@@ -1,0 +1,16 @@
+{
+  "code": "MGTA 458",
+  "title": "Experiments in Business Analytics",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgta458",
+  "description": "Students will learn to design and run experiments to guide policy and business decisions. They will learn to distinguish between a correlation and a causal effect and also to critically evaluate causal claims based on nonexperimental data. Letter grade only. Prerequisites: MGTA 451, MGTA 452, and MGTA 453. Restricted to MS in business analytics program or with department and instructor approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGTA 451",
+      "MGTA 452",
+      "MGTA 453"
+    ]
+  }
+}

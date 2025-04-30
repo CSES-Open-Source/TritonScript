@@ -1,0 +1,22 @@
+{
+  "code": "COMM 138",
+  "title": "Black Women, Feminism, and Media",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm138",
+  "description": "This course examines the challenges that arise in using feminist theory to understand black women\u2019s experience in Africa and the United States. It also looks at the mass media and popular culture as arenas of black feminist struggle. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

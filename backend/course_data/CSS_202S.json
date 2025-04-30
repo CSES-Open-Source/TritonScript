@@ -1,0 +1,8 @@
+{
+  "code": "CSS 202S",
+  "title": "Computational Social Science Technical Boot Camp",
+  "units": "8",
+  "dept": "CSS",
+  "anchor": "css202s",
+  "description": "This course provides practical experience with the technical skills underpinning computational social science. Topics may include calculus, linear algebra, probability, Unix/Linux, working in the terminal, file encoding, file system organization, Python, numpy, pandas, scikit, notebooks, matplotlib, code style, scraping, data storage, SQL, JSON, CSV/TSV, version control, git, spreadsheets, algorithms, basic data visualization, and machine learning basics. Open to CT75 majors only."
+}

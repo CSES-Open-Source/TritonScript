@@ -1,0 +1,16 @@
+{
+  "code": "VIS 155",
+  "title": "Media Artists at Work",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis155",
+  "description": "Examines the work of a single creative individual, team, or group working in any area of media. May focus on a director, an editor, a photographer, a cameraperson, a set designer, a sound producer, or other category, considering the aesthetic, social, political, and/or historical aspects of the body of work and, if relevant, a broader sphere of creative production. Topics to be covered will vary by instructor. May be taken up to two times for credit. Materials fees required. Prerequisites: VIS 83 or VIS 84 or VIS 85A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 83",
+      "VIS 84",
+      "VIS 85A"
+    ]
+  }
+}

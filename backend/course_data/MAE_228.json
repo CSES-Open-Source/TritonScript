@@ -1,0 +1,16 @@
+{
+  "code": "MAE 228",
+  "title": "Selected Topics in Plasma Physics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae228",
+  "description": "Collisionless magnetic reconnection, interactions of relativistic laser field with plasma, plasma in astrophysics, computational plasma physics. Prerequisites: MAE 217A-B-C or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 217A",
+      "MAE 217B",
+      "MAE 217C"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "code": "MGT 432",
+  "title": "Knowledge Management for Strategic Advantage",
+  "units": "2",
+  "dept": "MGT",
+  "anchor": "mgt432",
+  "description": "Learn to compete through knowledge by analyzing strategy and differing bases of competitive advantage, and discovering how to mobilize the most powerful knowledge in the most appropriate manner. More than money, knowledge is the most important asset in an organization. The organization that learns to harness its knowledge strategically can gain and maintain competitive advantage on that basis. Prerequisites: MGT 403 and MGT 413; MBA student or by instructor approval or by department approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGT 403",
+      "MGT 413"
+    ]
+  },
+  "successors": [
+    "MGTP 433"
+  ]
+}

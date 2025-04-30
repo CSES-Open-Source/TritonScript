@@ -1,0 +1,15 @@
+{
+  "code": "GPEC 406",
+  "title": "Finance and Development",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpec406",
+  "description": "This course analyzes the roles of money and financial institutions in the economy. The first part of the course focuses on microeconomics and the financial system. The topics include money, financial markets, financial intermediaries, banking regulations, and bank runs. The second part of the course focuses on the microeconomics aspects of financial institutions. The topics include financial development, financial liberalization, and their effects on the economy, especially economic growth and development. Renumbered from IRGN 406. Students may not receive credit for GPEC 406 and IRGN 406. Prerequisites: GPCO 403 and GPCO 415 or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "GPCO 403",
+      "GPCO 415"
+    ]
+  }
+}

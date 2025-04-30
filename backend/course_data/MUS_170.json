@@ -1,0 +1,25 @@
+{
+  "code": "MUS 170",
+  "title": "Art of Sound",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus170",
+  "description": "Survey of applications of audio technology to music and related art forms. Physical and perceptual properties of sound and its artistic uses. Prerequisites: MUS 1A, 2A, 5, 6, or 7, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MUS 1A",
+      "MUS 2A",
+      "MUS 5",
+      "MUS 6",
+      "MUS 7"
+    ]
+  },
+  "successors": [
+    "MUS 171",
+    "MUS 174A",
+    "MUS 174B",
+    "MUS 174C",
+    "MUS 175"
+  ]
+}

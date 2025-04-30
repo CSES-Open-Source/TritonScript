@@ -1,0 +1,15 @@
+{
+  "code": "MATH 175",
+  "title": "Numerical Methods for Partial Differential Equations",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math175",
+  "description": "(Conjoined with MATH 275.) Mathematical background for working with partial differential equations. Survey of finite difference, finite element, and other numerical methods for the solution of elliptic, parabolic, and hyperbolic partial differential equations. (Formerly MATH 172. Students may not receive credit for MATH 175/275 and MATH 172.) Graduate students do an extra paper, project, or presentation, per instructor. Prerequisites: MATH 174 or MATH 274, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 174",
+      "MATH 274"
+    ]
+  }
+}

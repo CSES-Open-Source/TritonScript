@@ -1,0 +1,46 @@
+{
+  "code": "MATH 183",
+  "title": "Statistical Methods",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math183",
+  "description": "Introduction to probability. Discrete and continuous random variables\u2013binomial, Poisson and Gaussian distributions. Central limit theorem. Data analysis and inferential statistics: graphical techniques, confidence intervals, hypothesis tests, curve fitting. (Credit not offered for MATH 183 if ECON 120A, ECE 109, MAE 108, MATH 181A, or MATH 186 previously or concurrently taken. Two units of credit offered for MATH 183 if MATH 180A taken previously or concurrently.) Prerequisites: MATH 20C or MATH 31BH, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 20C",
+      "MATH 31BH"
+    ]
+  },
+  "successors": [
+    "COGS 118B",
+    "CSE 150A",
+    "CSE 150B",
+    "CSE 151A",
+    "CSE 151B",
+    "CSE 156",
+    "CSE 158",
+    "CSE 158R",
+    "DSC 140A",
+    "DSC 140B",
+    "DSC 148",
+    "ECE 155",
+    "ECE 157A",
+    "ECON 120B",
+    "ECON 129",
+    "ECON 171",
+    "ECON 172A",
+    "ECON 190",
+    "MAE 146",
+    "MATH 112A",
+    "MATH 181D",
+    "MATH 181F",
+    "MATH 189",
+    "MATH 193A",
+    "MGT 151R",
+    "MGT 153",
+    "MGT 160",
+    "MGT 180",
+    "MGT 180R"
+  ]
+}

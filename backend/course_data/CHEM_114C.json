@@ -1,0 +1,25 @@
+{
+  "code": "CHEM 114C",
+  "title": "Biosynthesis of Macromolecules",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem114c",
+  "description": "Mechanisms of biosynthesis of macromolecules\u2014particularly proteins and nucleic acids. Emphasis is on how these processes are controlled and integrated with metabolism of the cell. Students may not receive credit for both CHEM 114C and BIMM 100. Prerequisites: CHEM 114A or BIBC 100.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 114A",
+      "BIBC 100"
+    ]
+  },
+  "successors": [
+    "BENG 181",
+    "BENG 183",
+    "BIMM 181",
+    "CHEM 114D",
+    "CHEM 115",
+    "CHEM 119",
+    "CHEM 164",
+    "CSE 181"
+  ]
+}

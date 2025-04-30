@@ -1,0 +1,33 @@
+{
+  "code": "ECON 173A",
+  "title": "Financial Markets",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ173a",
+  "description": "Financial market functions, institutions and instruments: stocks, bonds, cash instruments, derivatives (options), etc. Discussion of no-arbitrage arguments, as well as investors\u2019 portfolio decisions and the basic risk-return trade-off established in market equilibrium. Prerequisites: ECON 100A and ECON 120B or MATH 181B; and MATH 18 or 31AH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 100A",
+      {
+        "type": "one",
+        "courses": [
+          "ECON 120B",
+          "MATH 181B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "ECON 103",
+    "ECON 173B",
+    "ECON 174"
+  ]
+}

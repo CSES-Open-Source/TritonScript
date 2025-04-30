@@ -1,0 +1,20 @@
+{
+  "code": "BENG 130",
+  "title": "Biotechnology Thermodynamics and Kinetics",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng130",
+  "description": "An\u00a0introduction to physical principles that govern biological matter and processes, with engineering examples. Thermodynamic principles, structural basis of life, molecular reactions and kinetics, and models to illustrate biological phenomena. Prerequisites: CHEM 6B, MATH 20A, 20B, 20D, PHYS 2A, 2B, 2C; majors only or consent of department. (W)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 6B",
+      "MATH 20A",
+      "MATH 20B",
+      "MATH 20D",
+      "PHYS 2A",
+      "PHYS 2B",
+      "PHYS 2C"
+    ]
+  }
+}

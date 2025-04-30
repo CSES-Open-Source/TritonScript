@@ -1,0 +1,18 @@
+{
+  "code": "COMM 106N",
+  "title": "Journalism and the News Industry",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm106n",
+  "description": "History and structure of the American news media. Surveys the development of journalism as a profession and news media as an industry and social institution. Introduces how to understand the production of news, the forces that shape social representations in the news, access to the public sphere, and approaches to the analysis of news media content. Debates about ethical issues in journalism, \u201cobjectivity\u201d and the politics of news, and the sustainability of journalism as an institution. Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40"
+    ]
+  }
+}

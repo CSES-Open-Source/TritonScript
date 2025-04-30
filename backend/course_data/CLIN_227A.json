@@ -1,0 +1,11 @@
+{
+  "code": "CLIN 227A",
+  "title": "Mind, Brain & Behavior",
+  "units": "6",
+  "dept": "CLIN",
+  "anchor": "clin227a",
+  "description": "This five-week course will cover neuroanatomy, neurophysiology, neuropharmacology, principles of neurological function, and human growth and development. S/U grades only.",
+  "successors": [
+    "CLIN 227B"
+  ]
+}

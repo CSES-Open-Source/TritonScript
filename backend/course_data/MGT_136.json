@@ -1,0 +1,9 @@
+{
+  "code": "MGT 136",
+  "title": "Advanced Accounting",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt136",
+  "description": "Covers accounting topics related to consolidated financial statements, variable interest entities, foreign currency translation, segment reporting, and business combinations. Prerequisites: MGT 132.",
+  "prereqs": "MGT 132"
+}

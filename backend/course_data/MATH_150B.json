@@ -1,0 +1,9 @@
+{
+  "code": "MATH 150B",
+  "title": "Calculus on Manifolds",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math150b",
+  "description": "Calculus of functions of several variables, inverse function theorem. Further topics may include exterior differential forms, Stokes\u2019 theorem, manifolds, Sard\u2019s theorem, elements of differential topology, singularities of maps, catastrophes, further topics in differential geometry, topics in geometry of physics. Prerequisites: MATH 150A or consent of instructor.",
+  "prereqs": "MATH 150A"
+}

@@ -1,0 +1,9 @@
+{
+  "code": "ECE 140B",
+  "title": "The Art of Product Engineering II",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece140b",
+  "description": "Building on a solid foundation of electrical and computer engineer skills, this course strives to broaden student skills in software, full-stack engineering, and concrete understanding of methods related to the realistic development of a commercial product. Students will research, design, and develop an IOT device to serve an emerging market. Prerequisites: ECE 140A.",
+  "prereqs": "ECE 140A"
+}

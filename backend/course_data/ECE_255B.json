@@ -1,0 +1,12 @@
+{
+  "code": "ECE 255B",
+  "title": "Source Coding",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece255b",
+  "description": "Theory and practice of lossy source coding, vector quantization, predictive and differential encoding, universal coding, source-channel coding, asymptotic theory, speech and image applications. Students that have taken 255BN cannot take 255B for credit. Recommended preparation: ECE 250, and 259A or 259AN. Prerequisites: ECE 255A; graduate standing.",
+  "prereqs": "ECE 255A",
+  "successors": [
+    "ECE 255C"
+  ]
+}

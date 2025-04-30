@@ -1,0 +1,38 @@
+{
+  "code": "BIPN 164",
+  "title": "Computational Models and Theories in Neuroscience",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn164",
+  "description": "This course covers mathematical models of neurons, synapses, and neural networks. We will introduce theoretical frameworks of brain activity and function to understand neural computation and control of behavior. We will discuss network dynamics, synaptic plasticity, learning and memory. Students will apply modeling approaches to address scientific questions and make predictions for experiments. Prerequisites: MATH 10A or MATH 20A and MATH 10B or MATH 20B and MATH 11 and BILD 62 or BIPN 162 or COGS 18 or CSE 6R or CSE 8A. Students will use their own technology (e.g., laptops).",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10A",
+          "MATH 20A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10B",
+          "MATH 20B"
+        ]
+      },
+      "MATH 11",
+      {
+        "type": "one",
+        "courses": [
+          "BILD 62",
+          "BIPN 162",
+          "COGS 18",
+          "CSE 6R",
+          "CSE 8A"
+        ]
+      }
+    ]
+  }
+}

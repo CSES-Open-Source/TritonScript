@@ -1,0 +1,25 @@
+{
+  "code": "ECE 141A",
+  "title": "Software Foundations I",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece141a",
+  "description": "Software analysis, design, and development. Data structures, algorithms, and design and development idioms in C++. Students will gain broad experience using object-oriented methods and design patterns. Through increasingly difficult challenges, students will gain valuable real-world experience building, testing, and debugging software, and develop a robust mental model of modern software design and architecture. Prerequisites: ECE 17 and CSE 30 or ECE 30.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 17",
+      {
+        "type": "one",
+        "courses": [
+          "CSE 30",
+          "ECE 30"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CSE 122",
+    "ECE 141B"
+  ]
+}

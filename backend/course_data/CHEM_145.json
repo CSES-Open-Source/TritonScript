@@ -1,0 +1,18 @@
+{
+  "code": "CHEM 145",
+  "title": "Biofuels and Renewable Materials",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem145",
+  "description": "Fundamentals of the chemistry and biochemistry of biofuel and renewable materials technologies. This course explores chemical identity and properties, metabolic pathways and engineering, refining processes, formulation, and analytical techniques related to current and future renewable products. Prerequisites: CHEM 40B, 40BH, 41B, 140B, or 140BH.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 40B",
+      "CHEM 40BH",
+      "CHEM 41B",
+      "CHEM 140B",
+      "CHEM 140BH"
+    ]
+  }
+}

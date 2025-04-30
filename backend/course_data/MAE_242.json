@@ -1,0 +1,8 @@
+{
+  "code": "MAE 242",
+  "title": "Robot Motion Planning",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae242",
+  "description": "Modeling, solving, and analyzing planning problems for single robots or agents. Configuration space for motion planning, sampling-based motion planning, combinatorial motion planning, feedback motion planning, differential models, and nonholonomic constraints. Basic decision-theory and dynamic programming, sensor, and information spaces."
+}

@@ -1,0 +1,19 @@
+{
+  "code": "MUS 101A",
+  "title": "Music Theory and Practice I",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus101a",
+  "description": "Study of modal counterpart in the style of the sixteenth century. Two-voice species counterpoint studies. Analysis of music of the period. Musicianship studies: sight-singing, dictation, and keyboard skills. Prerequisites: MUS 2C and 2CK.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MUS 2C",
+      "MUS 2CK"
+    ]
+  },
+  "successors": [
+    "MUS 105",
+    "MUS 128"
+  ]
+}

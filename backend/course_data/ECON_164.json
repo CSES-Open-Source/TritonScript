@@ -1,0 +1,15 @@
+{
+  "code": "ECON 164",
+  "title": "The Indian Economy",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ164",
+  "description": "Survey of the Indian economy. Historical overview and perspective; political economy; democracy and development; economic growth; land, labor, and credit markets; poverty and inequality; health, education, and human development; technology and development; institutions and state capacity; contemporary policy issues and debates. Prerequisites: ECON 1 and 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 1",
+      "ECON 3"
+    ]
+  }
+}

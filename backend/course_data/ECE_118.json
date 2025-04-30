@@ -1,0 +1,26 @@
+{
+  "code": "ECE 118",
+  "title": "Computer Interfacing",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece118",
+  "description": "Interfacing computers and embedded controllers to the real world: busses, interrupts, DMA, memory mapping, concurrency, digital I/O, standards for serial and parallel communications, A/D, D/A, sensors, signal conditioning, video, and closed loop control. Students design and construct an interfacing project. (Course materials and/or program fees may apply.) Prerequisites: ECE 30 or CSE 30 and ECE 35, 45, 65.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "ECE 30",
+          "CSE 30"
+        ]
+      },
+      "ECE 35",
+      "ECE 45",
+      "ECE 65"
+    ]
+  },
+  "successors": [
+    "CSE 118"
+  ]
+}

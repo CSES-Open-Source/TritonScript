@@ -1,0 +1,11 @@
+{
+  "code": "LIGN 210",
+  "title": "Phonetics",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign210",
+  "description": "This is an introduction to articulatory, acoustic, and auditory phonetics. Major phonetic theories in these areas, and the relationship between phonetics and phonology are discussed. The course also covers experimental design and methodology and provides hands-on experience with laboratory equipment. Prerequisites: none.",
+  "successors": [
+    "LIGN 214"
+  ]
+}

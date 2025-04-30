@@ -1,0 +1,12 @@
+{
+  "code": "ECE 240B",
+  "title": "Optical Information Processing",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece240b",
+  "description": "Space-bandwidth product, superresolution, space-variant optical system, partial coherence, image processing with coherent and incoherent light, processing with feedback, real-time light modulators for hybrid processing, nonlinear processing. Optical computing and other applications. Recommended preparation: ECE 182 or equivalent. Prerequisites: ECE 240A; graduate standing.",
+  "prereqs": "ECE 240A",
+  "successors": [
+    "ECE 240C"
+  ]
+}

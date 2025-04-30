@@ -1,0 +1,12 @@
+{
+  "code": "TDGR 280B",
+  "title": "Stage Management 2",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdgr280b",
+  "description": "The second of the three-part introductory stage management series, this course further explores the stage manager\u2019s process, focusing on the technical rehearsal period through the opening of a production. Prerequisites: TDGR 280A; admission to MFA theatre program or consent of instructor.",
+  "prereqs": "TDGR 280A",
+  "successors": [
+    "TDGR 280C"
+  ]
+}

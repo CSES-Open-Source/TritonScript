@@ -1,0 +1,12 @@
+{
+  "code": "COMM 196B",
+  "title": "Honors Seminar in Communication II: Research",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm196b",
+  "description": "Preparation of an honors thesis, which can be either a research paper or a media production project. Open to students who have been admitted to the honors program. Grades will be awarded upon completion of the two-quarter sequence. Prerequisites: minimum grade of B+ in COMM 196A.",
+  "prereqs": "COMM 196A",
+  "successors": [
+    "COMM 199H"
+  ]
+}

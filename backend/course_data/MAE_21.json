@@ -1,0 +1,32 @@
+{
+  "code": "MAE 21",
+  "title": "Aerospace Materials Science",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae21",
+  "description": "Atomic structure and physical properties of engineering materials including metals, ceramics, glasses, polymers, and composite materials. Defects and phase diagram of materials. Material testing and processing. Program or materials fees may apply. Prerequisites: PHYS 2A or 4A, CHEM 6A or CHEM 6AH, and MATH 20B. Enrollment restricted to MC 25 and MC 35\u201337 majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 4A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6A",
+          "CHEM 6AH"
+        ]
+      },
+      "MATH 20B"
+    ]
+  },
+  "successors": [
+    "MAE 155A",
+    "SE 160A"
+  ]
+}

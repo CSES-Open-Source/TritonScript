@@ -1,0 +1,15 @@
+{
+  "code": "GPCO 466",
+  "title": "Real World Projects in Energy and the Environment",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpco466",
+  "description": "The course will emphasize real world application of theories and methods of policy analysis to projects with real clients in the area of energy and the environment. The class will include case studies and seminar-style discussions of topics such as project finance and management of regulatory risk. Most of the class will be devoted to work in small teams with clients seeking strategic guidance. Students are expected to produce final projects suitable for senior management and governing boards. Prerequisites: GPCO 400 and GPPS 428 or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "GPCO 400",
+      "GPPS 428"
+    ]
+  }
+}

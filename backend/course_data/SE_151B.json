@@ -1,0 +1,12 @@
+{
+  "code": "SE 151B",
+  "title": "Design of Prestressed Concrete",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se151b",
+  "description": "Time-dependent and independent properties of concrete and reinforcing material. Concept and application of prestressed concrete. Service and ultimate limit state analysis and design of prestressed concrete structures and components. Detailing of components. Calculation of deflection and prestress losses. Prerequisites: SE 151A.",
+  "prereqs": "SE 151A",
+  "successors": [
+    "SE 214"
+  ]
+}

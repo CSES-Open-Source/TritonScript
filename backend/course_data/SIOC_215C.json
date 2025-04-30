@@ -1,0 +1,27 @@
+{
+  "code": "SIOC 215C",
+  "title": "Applied Mathematics for Oceanographers III",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc215c",
+  "description": "An introduction to Perturbation theory, including regular and singular expansions, Poincare\u2019s method, two-scale method, the WKB approximation and boundary layer theory. Prerequisites: graduate standing and SIOC 215A or SIO 215A and SIOC 215B or SIO 215B or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SIOC 215A",
+          "SIO 215A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SIOC 215B",
+          "SIO 215B"
+        ]
+      }
+    ]
+  }
+}

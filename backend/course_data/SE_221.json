@@ -1,0 +1,19 @@
+{
+  "code": "SE 221",
+  "title": "Earthquake Engineering",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se221",
+  "description": "Introduction to plate tectonics and seismology. Rupture mechanism, measures of magnitude and intensity, earthquake occurrence and relation to geologic, tectonic processes. Probabilistic seismic hazard analysis. Strong earthquake ground motion; site effects on ground motion; structural response; soil-structure interaction; design criteria; code requirements. Use of computer resources. Prerequisites: SE 201A or SE 203 or SE 203A, graduate standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SE 201A",
+      "SE 203",
+      "SE 203A"
+    ]
+  },
+  "successors": [
+    "SE 220"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "code": "VIS 135",
+  "title": "Design Research Methods",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis135",
+  "description": "This course introduces students to studio-based project methodologies, including qualitative and quantitative design research, data visualization, production and exhibition methodologies, and complex collaborative project management. Prerequisites: VIS 30 and 41.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "VIS 30",
+      "VIS 41"
+    ]
+  },
+  "successors": [
+    "VIS 161",
+    "VIS 162",
+    "VIS 190"
+  ]
+}

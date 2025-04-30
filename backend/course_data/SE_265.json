@@ -1,0 +1,8 @@
+{
+  "code": "SE 265",
+  "title": "Structural Health Monitoring",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se265",
+  "description": "A modern paradigm of structural health monitoring as it applies to structural and mechanical systems is presented. Concepts in data acquisition, feature extraction, data normalization, and statistical modeling will be introduced in an integrated context. MATLAB-based exercises. Term project. Prerequisites: graduate student, undergraduate vibrations or structural dynamics course."
+}

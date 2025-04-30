@@ -1,0 +1,9 @@
+{
+  "code": "MATH 261C",
+  "title": "Probabilistic Combinatorics and Algorithms III",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math261c",
+  "description": "Advanced topics in the probabilistic combinatorics and probabilistic algorithms. Random graphs. Spectral Methods. Network algorithms and optimization. Statistical learning. MATH 261B must be taken before MATH 261C. Prerequisites: MATH 261B.",
+  "prereqs": "MATH 261B"
+}

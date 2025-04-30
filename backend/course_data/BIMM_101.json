@@ -1,0 +1,16 @@
+{
+  "code": "BIMM 101",
+  "title": "Recombinant DNA Techniques",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm101",
+  "description": "Theory and practice of recombinant DNA and molecular biology techniques. Includes CRISPR-Cas9 editing, DNA sequencing, PCR, and basic bioinformatics. Nonattendance may result in the student\u2019s being dropped from the course roster. Note: Students may not enroll in or receive credit for both BIMM 101 and CHEM 109. Material lab fees will apply. Prerequisites: BILD 1.",
+  "prereqs": "BILD 1",
+  "successors": [
+    "BIMM 100",
+    "BIMM 143",
+    "BIMM 143R",
+    "BIMM 174",
+    "CSE 185"
+  ]
+}

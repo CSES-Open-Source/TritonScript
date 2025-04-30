@@ -1,0 +1,19 @@
+{
+  "code": "DSC 10",
+  "title": "Principles of Data Science",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc10",
+  "description": "This first course in data science introduces students to data exploration, statistical inference, and prediction. It introduces the Python programming language as a tool for tabular data manipulation, visualization, and simulation. Through homework assignments and projects, students are given an opportunity to develop their analytical skills while working with real-world datasets from a variety of domains. Prerequisites: none.",
+  "successors": [
+    "ASTR 150",
+    "ASTR 154",
+    "ASTR 155",
+    "COGS 108",
+    "DSC 20",
+    "DSC 40A",
+    "DSC 90",
+    "DSC 95",
+    "MATH 157"
+  ]
+}

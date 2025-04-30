@@ -1,0 +1,9 @@
+{
+  "code": "CSE 163",
+  "title": "Advanced Computer Graphics",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse163",
+  "description": "Topics include an overview of many aspects of computer graphics, including the four main computer graphics areas of animation, modeling, rendering, and imaging. Programming projects in image and signal processing, geometric modeling, and real-time rendering. Prerequisites: CSE 167; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": "CSE 167"
+}

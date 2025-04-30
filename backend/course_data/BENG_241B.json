@@ -1,0 +1,9 @@
+{
+  "code": "BENG 241B",
+  "title": "Tissue Engineering and Regenerative Medicine: Cell Microenvironment",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng241b",
+  "description": "The role of the cellular microenvironment in directing cell behavior and function in health and disease. Cell adherence and deformation and cell-mediated matrix remodeling. Bioengineering of the microenvironment in tissue engineering and regenerative medicine. Prerequisites: BENG 241A, graduate standing, or consent of instructor.",
+  "prereqs": "BENG 241A"
+}

@@ -1,0 +1,11 @@
+{
+  "code": "LTRU 1A",
+  "title": "First-Year Russian",
+  "units": "5",
+  "dept": "LIT",
+  "anchor": "ltru1a",
+  "description": "First-year Russian, with attention to reading, writing, and speaking.",
+  "successors": [
+    "LTRU 1B"
+  ]
+}

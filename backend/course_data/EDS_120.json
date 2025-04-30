@@ -1,0 +1,43 @@
+{
+  "code": "EDS 120",
+  "title": "Introduction to Design-Based Educational Research: A Field Experience for Improving San Diego Schools",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds120",
+  "description": "The course engages students in field research aimed at supporting education reform efforts in local schools. Students are introduced to a design-based, applied orientation to educational research on equity and diversity. In collaboration with local school leaders, students conduct qualitative research projects on a range of issues that impact youth in schools. Students will examine research on educational equity, theories of education reform, and qualitative research principles and methods. Students are required to travel to school sites. Prerequisites: upper-division standing and HIUS 180 or HIUS 136 or HITO 156 or HITO 136 or EDS 126 or EDS 136 or USP 129 or SOCI 139 or SOCI 127 or SOCI 126 or POLI 108 or POLI 100Q or POLI 100O or POLI 100H or LTCS 130 or HILD 7C or HILD 7B or HILD 7A or ETHN 3 or ETHN 2 or ANTH 131 or ANTH 21 or ANTH 23 or DOC 1 or DOC 100D or EDS 112 or EDS 113 or EDS 117 or SOCI 117 or EDS 125.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "HIUS 180",
+      "HIUS 136",
+      "HITO 156",
+      "HITO 136",
+      "EDS 126",
+      "EDS 136",
+      "USP 129",
+      "SOCI 139",
+      "SOCI 127",
+      "SOCI 126",
+      "POLI 108",
+      "POLI 100Q",
+      "POLI 100O",
+      "POLI 100H",
+      "LTCS 130",
+      "HILD 7C",
+      "HILD 7B",
+      "HILD 7A",
+      "ETHN 3",
+      "ETHN 2",
+      "ANTH 131",
+      "ANTH 21",
+      "ANTH 23",
+      "DOC 1",
+      "DOC 100D",
+      "EDS 112",
+      "EDS 113",
+      "EDS 117",
+      "SOCI 117",
+      "EDS 125"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "code": "CSE 266",
+  "title": "Virtualization and Cloud Computing",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse266",
+  "description": "This course is about virtualization and cloud computing. Topics covered include classical CPU/memory/storage virtualization, modern forms of virtualization such as containers, basic cloud computing concepts, and internals of clouds such as the usages of virtualization techniques in public clouds. Prerequisites: none."
+}

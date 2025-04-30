@@ -1,0 +1,22 @@
+{
+  "code": "TDMV 112",
+  "title": "Advanced Ballet for Contemporary Dance",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdmv112",
+  "description": "Designed for students with advanced training in contemporary modern dance and intermediate to advanced training in ballet. Emphasis is on increasing composition and performance skills in ballet through contemporary modern dance aesthetics. May be taken for credit six times. Prerequisites: twelve units of THDA 101A-B-C or TDMV 111 or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      {
+        "type": "all",
+        "courses": [
+          "THDA 101A",
+          "THDA 101B",
+          "THDA 101C"
+        ]
+      },
+      "TDMV 111"
+    ]
+  }
+}

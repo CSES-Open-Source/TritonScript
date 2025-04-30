@@ -1,0 +1,20 @@
+{
+  "code": "TDDE 141",
+  "title": "Theatre Process\u2014Sound Design",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdde141",
+  "description": "A hands-on course on the process of sound design from conception to planning and implementation. The course will concentrate equally on the technical and artistic aspects of the sound design process and will include a survey of modern audio technologies. Prerequisites: TDPR 5 or TDPR 6 or TDDE 1 or MUS 173 or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "TDPR 5",
+      "TDPR 6",
+      "TDDE 1",
+      "MUS 173"
+    ]
+  },
+  "successors": [
+    "TDDE 142"
+  ]
+}

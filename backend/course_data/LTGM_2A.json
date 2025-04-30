@@ -1,0 +1,18 @@
+{
+  "code": "LTGM 2A",
+  "title": "Intermediate German I",
+  "units": "5",
+  "dept": "LIT",
+  "anchor": "ltgm2a",
+  "description": "LTGM 2A follows the basic language sequence of the Department of Linguistics and emphasizes the development of reading ability, listening comprehension, and conversational and writing skills. The course includes grammar review and class discussion of reading and audiovisual materials. Specifically, the course prepares students for LIGM 2B and 2C.  Prerequisites:  LTGM 1C/1CX or its equivalent or score of 3 on AP German language exam or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTGM 1C",
+      "LTGM 1CX"
+    ]
+  },
+  "successors": [
+    "LTGM 2B"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "CGS 121",
+  "title": "Selected Topics in Critical Gender Studies",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs121",
+  "description": "An interdisciplinary course focusing on one of a variety of topics in gender studies, such as gender and science, the body, reproductive technologies, and public policy. May be taken for credit three times when topics vary. Prerequisites: CGS 2A-B, at least one CGS upper-division course, or permission of the instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "ECE 161C",
+  "title": "Applications of Digital Signal Processing",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ECE161C",
+  "description": "This course discusses several applications of DSP. Topics covered will include speech analysis and coding; image and video compression and processing. A class project is required, algorithms simulated by MATLAB. Prerequisites: ECE 161A.",
+  "prereqs": "ECE 161A"
+}

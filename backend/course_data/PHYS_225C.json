@@ -1,0 +1,15 @@
+{
+  "code": "PHYS 225C",
+  "title": "General Relativity",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys225c",
+  "description": "Advanced topics in general relativity based on the interests of the instructor. Possible topics include black hole formation, perturbations of the Schwarzschild solution, black hole quasinormal modes and ringdown, Hawking radiation, black hole thermodynamics and entropy, Hawking-Penrose singularity theorems.\u00a0Prerequisites: PHYS 225A-B. Recommended preparation: PHYS 212A-B-C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 225A",
+      "PHYS 225B"
+    ]
+  }
+}

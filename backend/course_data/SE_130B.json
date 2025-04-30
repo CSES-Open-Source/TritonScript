@@ -1,0 +1,25 @@
+{
+  "code": "SE 130B",
+  "title": "Structural Analysis II",
+  "units": "4",
+  "dept": "SE",
+  "description": "Classical methods of analysis for statically indeterminate structures. Analysis of civil, mechanical, and aerospace structures from the matrix formulation of the classical structural theory, through the direct stiffness formulation, to production-type structural analysis programs. Prerequisites: MATH 18 or MATH 31AH and SE 130A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      "SE 130A"
+    ]
+  },
+  "successors": [
+    "SE 131B",
+    "SE 140A",
+    "SE 152"
+  ]
+}

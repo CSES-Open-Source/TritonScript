@@ -1,0 +1,13 @@
+{
+  "code": "BENG 112B",
+  "title": "Fluid and Cell Biomechanics",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng112b",
+  "description": "Fluid hydrostatics and flow dynamics. Flow kinematics and conservation laws applied to the circulation. Viscous biofluids. Biopolymers, cell mechanics, and mechanobiology. Problem solving and design in biofluid and cell mechanics. Prerequisites: BENG 112A or consent of department. (S)",
+  "prereqs": "BENG 112A",
+  "successors": [
+    "BENG 166A",
+    "BENG 186A"
+  ]
+}

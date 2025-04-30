@@ -1,0 +1,28 @@
+{
+  "code": "MGT 148",
+  "title": "Mergers and Acquisitions",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt148",
+  "description": "This course helps students understand the complexities involved in international deals. Examines current financial reporting practices for business entities engaged in international activities. Focuses on policy issues such as foreign currency translation, global inflation, transfer pricing, complying with reporting requirements, taxation, and international accounting and auditing standards. Prerequisites: MGT 45 or MGT 5 and ECON 4 or MGT 4 or MGT 45.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MGT 45",
+          "MGT 5"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "ECON 4",
+          "MGT 4",
+          "MGT 45"
+        ]
+      }
+    ]
+  }
+}

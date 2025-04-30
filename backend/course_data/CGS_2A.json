@@ -1,0 +1,27 @@
+{
+  "code": "CGS 2A",
+  "title": "Introduction to Critical Gender Studies: Key Terms and Concepts",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs2a",
+  "description": "This course will be a general introduction to the key terms, issues, and concepts in the fields of gender and sexuality studies.",
+  "successors": [
+    "CGS 100A",
+    "CGS 100B",
+    "CGS 121",
+    "CGS 122",
+    "CGS 123",
+    "CGS 124",
+    "CGS 125",
+    "CGS 126",
+    "CGS 127",
+    "CGS 128",
+    "CGS 130",
+    "CGS 135",
+    "CGS 137",
+    "CGS 147",
+    "CGS 150",
+    "CGS 165",
+    "CGS 187"
+  ]
+}

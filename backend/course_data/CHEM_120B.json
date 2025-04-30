@@ -1,0 +1,12 @@
+{
+  "code": "CHEM 120B",
+  "title": "Inorganic Chemistry II",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem120b",
+  "description": "A continuation of the discussion of structure, bonding, and reactivity with emphasis on transition metals and other elements using filled d orbitals to form bonds. Coordination chemistry in terms of valence bond, crystal field, and molecular orbital theory. The properties and reactivities of transition metal complexes including organometallic compounds. Prerequisites: CHEM 120A.",
+  "prereqs": "CHEM 120A",
+  "successors": [
+    "CHEM 123"
+  ]
+}

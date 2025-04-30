@@ -1,0 +1,11 @@
+{
+  "code": "CHEM 217",
+  "title": "RNA Structure, Function, and Biology",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem217",
+  "description": "Selected topics in RNA structure and function, such as the ribosome, ribozyme, antibiotics, splicing and RNA interference, as they relate to the RNA role in gene expression and regulation. Emphasis on techniques to study the dynamics of macromolecular complexes and the mechanism of RNA catalysis. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "CHEM 218"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "ANTH 196C",
+  "title": "Honors Studies in Anthropology",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "anth196c",
+  "description": "A weekly research seminar where students share, read, and discuss in-depth research findings resulting from ANTH 196A and 196B along with selected background literature used in each individual thesis. Students are also taught how to turn their theses into brief presentations for both specialized and broader audiences. Students will be offered opportunities to present their findings at campus events and outreach events during the quarter. Prerequisites: ANTH 196A-B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ANTH 196A",
+      "ANTH 196B"
+    ]
+  }
+}

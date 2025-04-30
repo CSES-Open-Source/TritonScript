@@ -1,0 +1,9 @@
+{
+  "code": "MATH 216C",
+  "title": "Mathematical Methods in Data Science III",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math216c",
+  "description": "This is the third course in the sequence for mathematical methods in data science. Topics include non-linear signal processing, compressed sensing and its extensions, phase retrieval, blind deconvolution, neural networks, non-convex optimization, and optimal transport distances. Some scientific programming experience is recommended. Prerequisites: MATH 216B. Students who have not completed MATH 216B may enroll with consent of instructor.",
+  "prereqs": "MATH 216B"
+}

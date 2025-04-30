@@ -1,0 +1,8 @@
+{
+  "code": "CSE 255",
+  "title": "Data Mining and Predictive Analytics",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse255",
+  "description": "Learning methods for applications. Content may include data preparation, regression and classification algorithms, support vector machines, random forests, class imbalance, overfitting, decision theory, recommender systems and collaborative filtering, text mining, analyzing social networks and social media, protecting privacy, A/B testing. Recommended preparation: CSE 103 or similar. Prerequisites: graduate standing or consent of instructor."
+}

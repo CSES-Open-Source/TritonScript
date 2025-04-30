@@ -1,0 +1,9 @@
+{
+  "code": "ECON 141",
+  "title": "Economics of Health Consumers",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ141",
+  "description": "Demand for health care and health insurance, employer provision of health insurance and impact on wages and job changes. Cross-country comparisons of health systems. Prerequisites: ECON 100C.",
+  "prereqs": "ECON 100C"
+}

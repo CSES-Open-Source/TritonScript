@@ -1,0 +1,11 @@
+{
+  "code": "SOCI 2",
+  "title": "The Study of Society",
+  "units": "4",
+  "dept": "SOC",
+  "anchor": "soci2",
+  "description": "A continuation of Sociology/L 1A. The focus here is on socialization processes, culture, social reproduction and social control, and collective action. As in 1A, materials include both theoretical statements and case studies. While 1B may be taken as an independent course, it is recommended that students take 1A and 1B in sequence, as the latter builds on the former. Will not receive credit for SOCI 2 and SOCL 1B.",
+  "successors": [
+    "SOCG 227"
+  ]
+}

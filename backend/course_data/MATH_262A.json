@@ -1,0 +1,11 @@
+{
+  "code": "MATH 262A",
+  "title": "Topics in Combinatorial Mathematics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math262a",
+  "description": "Introduction to varied topics in combinatorial mathematics. In recent years topics have included problems of enumeration, existence, construction, and optimization with regard to finite sets. Recommended preparation: some familiarity with computer programming desirable but not required. May be taken for credit six times with consent of adviser as topics vary.  Prerequisites: graduate standing. Nongraduate students may enroll with consent of instructor.",
+  "successors": [
+    "MATH 262B"
+  ]
+}

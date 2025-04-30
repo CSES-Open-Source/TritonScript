@@ -1,0 +1,12 @@
+{
+  "code": "LIGN 181",
+  "title": "Language Processing in the Brain",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign181",
+  "description": "Modularity and models of language processing, basic neurophysiology, EEG/MEG, linguistic event-related brain potentials (ERPs), crosslinguistic functional significance of ERP components and their MEG correlates: N400, N400-700, lexical processing negativity, slow anterior negative potentials, (early) left anterior negativity, and late positivity. Prerequisites: LIGN 101, or upper-division standing, or consent of instructor.",
+  "prereqs": "LIGN 101",
+  "successors": [
+    "LIGN 172"
+  ]
+}

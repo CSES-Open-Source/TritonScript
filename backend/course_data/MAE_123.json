@@ -1,0 +1,9 @@
+{
+  "code": "MAE 123",
+  "title": "Introduction to Transport in Porous Media",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae123",
+  "description": "Introduction to groundwater flow. Pollution transport through the water table. Fundamentals of flow. Single- and multi-phase flow. Darcy law. Well hydraulics. Diffusion and dispersion. Gravity currents and plumes in porous media. Chemistry of fluid-solid interactions. Fundamentals of adsorption and surface reactions. Prerequisites:\u00a0MAE 105, or consent of instructor.",
+  "prereqs": "MAE 105"
+}

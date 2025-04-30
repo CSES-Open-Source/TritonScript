@@ -1,0 +1,9 @@
+{
+  "code": "ECE 264C",
+  "title": "CMOS Analog Integrated Circuits and Systems III",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece264c",
+  "description": "Integrated CMOS analog/digital systems: Analog to digital and digital to analog converters, Nyquist versus oversampling, linearity, jitter, randomization, calibration, speed versus resolution, pipeline, folding, interpolation, averaging. Recommended preparation: ECE 163 and 164. Prerequisites: ECE 264B; graduate standing.",
+  "prereqs": "ECE 264B"
+}

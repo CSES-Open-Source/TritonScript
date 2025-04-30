@@ -1,0 +1,15 @@
+{
+  "code": "ECON 261",
+  "title": "Industrial Organization: Markets",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ261",
+  "description": "This course covers theory and empirical applications in the following areas of industrial organization: mergers, vertical integration, and innovation. Optional topics include network effects, technology adoption, and regulation. Prerequisites: ECON 200C and 220C. Enrollment by completion of prerequisites or by consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 200C",
+      "ECON 220C"
+    ]
+  }
+}

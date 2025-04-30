@@ -1,0 +1,9 @@
+{
+  "code": "MATH 191",
+  "title": "Topics in Topology",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math191",
+  "description": "Topics to be chosen by the instructor from the fields of differential algebraic, geometric, and general topology. Prerequisites: MATH 190A or consent of instructor.",
+  "prereqs": "MATH 190A"
+}

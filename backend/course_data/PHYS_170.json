@@ -1,0 +1,29 @@
+{
+  "code": "PHYS 170",
+  "title": "Medical Instruments: Principles and Practice",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys170",
+  "description": "The principles and clinical applications of medical diagnostic instruments, including electromagnetic measurements, spectroscopy, microscopy; ultrasounds, X-rays, MRI, tomography, lasers in surgery, fiber optics in diagnostics. Prerequisites: PHYS 1B or 2B or 4C, and 1C or 2C or 4B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1B",
+          "PHYS 2B",
+          "PHYS 4C"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1C",
+          "PHYS 2C",
+          "PHYS 4B"
+        ]
+      }
+    ]
+  }
+}

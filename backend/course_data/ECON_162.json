@@ -1,0 +1,15 @@
+{
+  "code": "ECON 162",
+  "title": "Economics of Mexico",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ162",
+  "description": "Survey of the Mexican economy. Topics such as economic growth, business cycles, saving-investment balance, financial markets, fiscal and monetary policy, labor markets, industrial structure, international trade, and agricultural policy. Prerequisites: ECON 1 and 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 1",
+      "ECON 3"
+    ]
+  }
+}

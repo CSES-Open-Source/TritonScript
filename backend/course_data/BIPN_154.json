@@ -1,0 +1,9 @@
+{
+  "code": "BIPN 154",
+  "title": "Neurobiology of Stress and Mental Disorders",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn154",
+  "description": "This course will focus on the neurobiological mechanisms that mediate stress-induced behavioral change in animal models and in humans. Topics will range from the effects of stress hormones on brain function, to modern techniques for examining and treating stress-induced, long-lasting mental disorders such as depression and anxiety. Prerequisites: BIPN 140.",
+  "prereqs": "BIPN 140"
+}

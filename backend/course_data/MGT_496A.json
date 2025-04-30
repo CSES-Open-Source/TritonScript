@@ -1,0 +1,11 @@
+{
+  "code": "MGT 496A",
+  "title": "Venture Capital Management I",
+  "units": "2",
+  "dept": "MGT",
+  "anchor": "mgt496a",
+  "description": "Hands-on experience in venture investing. Direct involvement in all stages of managing Rady Venture Fund, including applicant sourcing, initial analysis, due diligence, investment negotiation, portfolio monitoring. IP grade awarded at end of quarter. Final grade assigned upon completion of MGT 496B. Students may not earn credit for both MGT 496A and MGT 289A. S/U grades only. Prerequisites: MBA student or consent of instructor and department stamp.",
+  "successors": [
+    "MGT 496B"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "BICD 101",
+  "title": "Eukaryotic Genetics Laboratory",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bicd101",
+  "description": "Course implements key concepts in genetics and genomics such as performing and interpreting results of genetic crosses, analyzing mutations and their phenotypic consequences, analyzing the genetic basis of quantitative traits, and analyzing genome sequences in relation to phenotypic variation. Attendance at the first lecture/lab is required. Nonattendance may result in the student being dropped from the course roster. Recommended preparation: BICD 100. Prerequisites: BILD 1.",
+  "prereqs": "BILD 1"
+}

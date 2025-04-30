@@ -1,0 +1,16 @@
+{
+  "code": "ECE 101",
+  "title": "Linear Systems Fundamentals",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece101",
+  "description": "Complex variables. Singularities and residues. Signal and system analysis in continuous and discrete time. Fourier series and transforms. Laplace and z-transforms. Linear Time Invariant Systems. Impulse response, frequency response, and transfer functions. Poles and zeros. Stability. Convolution. Sampling. Aliasing. Prerequisites: ECE 45.\u00a0Open to EC26, EC27, EC28, EC37, and CS25 major codes only.",
+  "prereqs": "ECE 45",
+  "successors": [
+    "ECE 155",
+    "ECE 161A",
+    "ECE 163",
+    "ECE 172A",
+    "ECE 187"
+  ]
+}

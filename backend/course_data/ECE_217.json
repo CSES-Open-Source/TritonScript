@@ -1,0 +1,21 @@
+{
+  "code": "ECE 217",
+  "title": "Principles of Molecular Imaging",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece217",
+  "description": "This course covers advanced acquisition, reconstruction, and analysis methods with a focus on single-photon computed tomography (SPECT) and positron-emission tomography (PET). Additionally, radioactive, optical, and paramagnetic contrast agents will be presented. Recommended preparation: introduction-level biology course. Prerequisites: BENG 280A or ECE 207A and BENG 280B; graduate standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BENG 280A",
+          "ECE 207A"
+        ]
+      },
+      "BENG 280B"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "VIS 158B",
+  "title": "Photography after 1960",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis158b",
+  "description": "A survey course on the history of photography from 1960 until the present. Students will examine the political and aesthetic stakes of the medium\u2014its conceptual trends and postwar globalization\u2014in the wake of World War II and independence movements in the Global South. Special emphasis will be placed on theoretical and cultural positions which address photography as a medium of multitudes, appropriation, criticality, and identity. Prerequisites: VIS 22 or VIS 83.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 22",
+      "VIS 83"
+    ]
+  }
+}

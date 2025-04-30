@@ -1,0 +1,13 @@
+{
+  "code": "BIPN 102",
+  "title": "Human Physiology II",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn102",
+  "description": "Course completes a survey of organ systems begun in BIPN 100 by considering the respiratory and gastrointestinal systems. Consideration is given to interactions of these systems in weight and temperature regulation, exercise physiology, stress, and pregnancy and reproduction. Note: Students may not receive credit for both BIPN 102 and BENG 140B. Prerequisites: BIPN 100.",
+  "prereqs": "BIPN 100",
+  "successors": [
+    "BENG 193",
+    "BENG 230D"
+  ]
+}

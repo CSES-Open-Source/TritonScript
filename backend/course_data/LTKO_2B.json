@@ -1,0 +1,12 @@
+{
+  "code": "LTKO 2B",
+  "title": "Intermediate Korean: Second Year II",
+  "units": "5",
+  "dept": "LIT",
+  "anchor": "ltko2b",
+  "description": "This course will help students develop intermediate-level skills in the Korean language. Upon completion of this course, students are expected to have a good command of Korean in various daily conversational situations.  Prerequisites:  LTKO 2A or placement test and consent of instructor.",
+  "prereqs": "LTKO 2A",
+  "successors": [
+    "LTKO 2C"
+  ]
+}

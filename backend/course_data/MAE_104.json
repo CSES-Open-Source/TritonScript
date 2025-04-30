@@ -1,0 +1,19 @@
+{
+  "code": "MAE 104",
+  "title": "Aerodynamics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae104",
+  "description": "Basic relations describing flow field around wings and bodies at subsonic and supersonic speed. Thin-wing theory. Slender-body theory. Formulation of theories for evaluating forces and moments on airplane geometries. Application to the design of high-speed aircraft. Prerequisites: MAE 101A and 101B, or consent of instructor. Enrollment restricted to MC 25, MC 27, MC 29,\u00a0MC 30\u201334, MC 35\u201337, and SE 27 majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 101A",
+      "MAE 101B"
+    ]
+  },
+  "successors": [
+    "MAE 142",
+    "MAE 155A"
+  ]
+}

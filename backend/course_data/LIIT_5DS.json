@@ -1,0 +1,20 @@
+{
+  "code": "LIIT 5DS",
+  "title": "Fundamentals of Italian IV",
+  "units": "5",
+  "dept": "LING",
+  "description": "A course to increase the proficiency level of students who have completed LIIT 1C/1CX, 5CS or who are at an equivalent level. Attention to listening comprehension, conversation, reading, writing, grammar analysis, and culture. Equivalent to LIIT1D/1DX. Prerequisites: LIIT 1C/1CX, 5CS or equivalent or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "LIIT 1C",
+          "LIIT 1CX"
+        ]
+      },
+      "LIIT 5CS"
+    ]
+  }
+}

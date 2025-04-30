@@ -1,0 +1,9 @@
+{
+  "code": "MAE 224B",
+  "title": "Environmental Fluid Dynamics II",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae224b",
+  "description": "Plumes and thermals. Application to building ventilation. Basics of rotating flows. Geostrophic flow. Thermal wind balance. Ekman boundary layer. Shallow water equations. Normal modes of a stratified fluid. Potential vorticity. Waves in a rotating fluid. Recommended preparation: MAE 210A. Prerequisites: MAE 224A or consent of instructor.",
+  "prereqs": "MAE 224A"
+}

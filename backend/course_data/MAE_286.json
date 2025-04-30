@@ -1,0 +1,9 @@
+{
+  "code": "MAE 286",
+  "title": "Hybrid Systems",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae286",
+  "description": "Definition of hybrid system. Examples in mechanics, vision, and multi-agent systems. Trajectories of hybrid systems. Chattering, Zeno phenomena. Stability analysis. Arbitrary switching: common Lyapunov functions. Slow switching: dwell time. State-dependent switching: multiple Lyapunov functions, Invariance Principle. Hybrid control design. Applications. Prerequisites: MAE 281A or consent of instructor.",
+  "prereqs": "MAE 281A"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "EDS 240C",
+  "title": "Research in ASL-English Bilingual Education",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds240c",
+  "description": "A three-course sequence in which participants conduct an overview of research and design and conduct a study related to bilingual, bicultural education for deaf children. Prerequisites: EDS 240A/EDS 240B, and ED76 major: Teaching and Learning Bilingual Education (ASL-English) or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "EDS 240A",
+      "EDS 240B"
+    ]
+  }
+}

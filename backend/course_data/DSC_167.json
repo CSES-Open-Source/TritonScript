@@ -1,0 +1,9 @@
+{
+  "code": "DSC 167",
+  "title": "Fairness and Algorithmic Decision-Making",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc167",
+  "description": "This course examines the greater context under which the practice of data science exists and explores concrete ways these issues surface in technical work. Students learn frameworks for understanding how individuals relate to social institutions, how to use them to identify how issues of fairness arise in the \u201clife of a data scientist,\u201d and use them to propose and critique potential solutions. Prerequisites: DSC 80.",
+  "prereqs": "DSC 80"
+}

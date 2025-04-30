@@ -1,0 +1,9 @@
+{
+  "code": "CSE 203A",
+  "title": "Advanced Algorithms",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse203a",
+  "description": "Modern advances in design and analysis of algorithms. Exact syllabus varies. Topics include approximation, randomized algorithms, probabilistic analysis, heuristics, online algorithms, competitive analysis, models of memory hierarchy, parallel algorithms, number-theoretic algorithms, cryptanalysis, computational geometry, computational biology, network algorithms, VLSI CAD algorithms. Prerequisites: CSE 202.",
+  "prereqs": "CSE 202"
+}

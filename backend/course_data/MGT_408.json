@@ -1,0 +1,11 @@
+{
+  "code": "MGT 408",
+  "title": "Finance",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt408",
+  "description": "Through lecture and online delivery, this course will focus on basic business financial concepts with particular attention to challenges of finance in start-up and small- and medium-sized enterprises. Letter grades only. Students may not receive credit for both MGT 408 and MGT 408R. Prerequisites: MBA student or instructor approval or department approval.",
+  "successors": [
+    "MGT 491"
+  ]
+}

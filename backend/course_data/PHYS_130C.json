@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 130C",
+  "title": "Quantum Physics III",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys130C",
+  "description": "Quantized electromagnetic fields and introductory quantum optics. Symmetry and conservation laws. Introductory many-body physics. Density matrix, quantum coherence and dissipation. The relativistic electron. Three-hour lecture, one-hour discussion session. Prerequisites: PHYS 130B.",
+  "prereqs": "PHYS 130B"
+}

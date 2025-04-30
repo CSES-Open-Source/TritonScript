@@ -1,0 +1,21 @@
+{
+  "code": "ECE 102",
+  "title": "Introduction to Active Circuit Design",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece102",
+  "description": "Nonlinear active circuits design. Nonlinear device models for diodes, bipolar and field-effect transistors. Linearization of device models and small-signal equivalent circuits. Circuit designs will be simulated by computer and tested in the laboratory. Prerequisites: ECE 65 and ECE 100. ECE 100 can be taken concurrently.\u00a0",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 65",
+      "ECE 100"
+    ]
+  },
+  "successors": [
+    "ECE 163",
+    "ECE 164",
+    "ECE 165",
+    "ECE 166"
+  ]
+}

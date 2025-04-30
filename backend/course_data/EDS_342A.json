@@ -1,0 +1,12 @@
+{
+  "code": "EDS 342A",
+  "title": "ASL-English Bilingual Education Practices",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds342a",
+  "description": "Students will examine the history, current theory, philosophy, legislation, and trends in deaf education. Methods of first- and second-language development, communication, and literacy skills for deaf and hard-of-hearing children will be introduced. Prerequisites: must be an ED76 major. (F)",
+  "successors": [
+    "EDS 342B",
+    "EDS 342C"
+  ]
+}

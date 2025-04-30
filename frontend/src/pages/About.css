@@ -1,0 +1,85 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    font-family: 'Outfit', sans-serif;
+    color: #333;
+    text-align: center;
+  }
+  
+  .heading {
+    color: white;
+    border-bottom: 2px solid whitesmoke;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    font-size: 2rem;
+  }
+  
+  .subheading {
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .paragraph {
+    font-size: 1.25rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    color: #e5e7eb;
+  }
+  
+  .link {
+    display: inline-block;
+    background-color: #f4b400;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .link:hover {
+    background-color: #fbdc85;
+  }
+  
+  .team-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  .team-member {
+    background-color: #e5e7eb;
+    padding: 10px 15px;
+    border-radius: 8px;
+    width: 70%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .member-name {
+    margin: 5px 0;
+    color: rgba(1, 4, 63, 1);
+  }
+  
+  .role {
+    margin: 0;
+    font-weight: normal;
+    color: #666;
+  }
+
+  .card{
+    background-color: rgba(6, 6, 8, 0.25); /* Subtle opacity for better contrast */
+    padding: 20px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    color: #ffffff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin-bottom:25px;
+  }
+  

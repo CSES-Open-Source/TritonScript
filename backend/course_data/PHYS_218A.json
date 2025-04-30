@@ -1,0 +1,11 @@
+{
+  "code": "PHYS 218A",
+  "title": "Plasma Physics I",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys218a",
+  "description": "The basic physics of plasmas is discussed for the simple case of an unmagnetized plasma. Topics include thermal equilibrium statistical properties, fluid and Landau theory of electron and ion plasma waves, velocity space instabilities, quasi-linear theory, fluctuations, scattering or radiation, Fokker-Planck equation.",
+  "successors": [
+    "PHYS 218B"
+  ]
+}

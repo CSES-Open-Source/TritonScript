@@ -1,0 +1,9 @@
+{
+  "code": "DSC 180B",
+  "title": "Data Science Project II",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc180b",
+  "description": "In this two-course sequence students will investigate a topic and design a system to produce statistically informed output. The investigation will span the entire lifecycle, including assessing the problem, learning domain knowledge, collecting/cleaning data, creating a model, addressing ethical issues, designing the system, analyzing the output, and presenting the results. 180B will consist of implementing the project while studying the best practices for evaluation. Prerequisites: DSC 180A. Students are only cleared to enroll into the discussion section associated with their DSC 180A discussion section. Restricted to students with upper-division standing. Restricted to students within the DS25 major.",
+  "prereqs": "DSC 180A"
+}

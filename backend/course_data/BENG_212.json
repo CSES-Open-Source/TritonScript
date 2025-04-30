@@ -1,0 +1,11 @@
+{
+  "code": "BENG 212",
+  "title": "Systems Biology and Bioengineering II: Large-Scale Data Analysis",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng212",
+  "description": "Analysis of biological data can be performed at four levels: 1) statistical analysis, 2) integration of knowledge, 3) integration of networks, and 4) integration of biophysical laws. This course teaches the first two levels. The first level consists of specialized topics in statistical analysis of large-scale data sets and machine learning. The second level consists of leveraging prior knowledge for the analysis of diverse, multi-omic datasets and network reconstruction. Prerequisites: graduate standing. (W)",
+  "successors": [
+    "BENG 213"
+  ]
+}

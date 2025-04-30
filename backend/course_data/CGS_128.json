@@ -1,0 +1,15 @@
+{
+  "code": "CGS 128",
+  "title": "Transnational Feminisms",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs128",
+  "description": "This course will examine key works in transnational feminist theory. Students will engage with transnational and third world feminisms to trace and ask questions of Eurocentrism, global capitalism, gendered and racialized forms of labor exploitation, and practices of antiracist feminist solidarity. Prerequisites: CGS 2A or 2B or at least one CGS upper-division course.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B"
+    ]
+  }
+}

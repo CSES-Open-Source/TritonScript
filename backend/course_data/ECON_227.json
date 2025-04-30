@@ -1,0 +1,18 @@
+{
+  "code": "ECON 227",
+  "title": "Nonparametric and Semiparametric Models",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ227",
+  "description": "Topics include neural networks, kernels, series, splines, estimation of densities and spectra, smoothing parameter selection, semiparametric models, efficiency and adaptation, forecasting with nonlinear models, over-fit, computation, and interpretation. Prerequisites: graduate standing and ECON 220A, 220B, 220C, 220D, and 220E or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 220A",
+      "ECON 220B",
+      "ECON 220C",
+      "ECON 220D",
+      "ECON 220E"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "code": "MUS 150",
+  "title": "Jazz and the Music of the African Diaspora: Special Topics Seminar",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus150",
+  "description": "An in-depth writing and listening intensive investigation into a jazz or diaspora-related music history topic. Topics vary from year to year. May be taken for credit twice. Prerequisites: MUS 126/ETHN 178, or MUS 127/ETHN 179, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MUS 126",
+      "ETHN 178",
+      "MUS 127",
+      "ETHN 179"
+    ]
+  }
+}

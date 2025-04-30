@@ -1,0 +1,12 @@
+{
+  "code": "VIS 101A",
+  "title": "Designing Urban Ecologies",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis101a",
+  "description": "This course will explore and develop designs and strategies that use multi-scalar urban and ecological systems as materials for artistic intervention and design speculation on structures including shifting geopolitical boundaries, sociocultural territories, and urban infrastructures and landscapes. Through hands-on research and design projects, we explore the city and its multiple sites of investigation to develop new ecologies of social and cultural productions. Prerequisites: VIS 101.",
+  "prereqs": "VIS 101",
+  "successors": [
+    "VIS 190"
+  ]
+}

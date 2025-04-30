@@ -1,0 +1,9 @@
+{
+  "code": "MUS 132C",
+  "title": "Vocal Coaching",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus132c",
+  "description": "Individual instruction in advanced vocal coaching. Emphasis placed on diction and musical issues. For declared music majors and minors. Students must be simultaneously enrolled in the Vocal Master Class, MUS 32VM. May be taken for credit six times. Prerequisites: at least one quarter of MUS 132V and consent of instructor. Department approval required.",
+  "prereqs": "MUS 132V"
+}

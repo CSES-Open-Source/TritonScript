@@ -1,0 +1,8 @@
+{
+  "code": "DSC 242",
+  "title": "High-Dimensional Probability and Statistics",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc242",
+  "description": "Concentration inequalities, Markov processes and ergodicity, martingale inequalities, empirical processes, sparse linear models in high dimensions, principal component analysis in high dimensions, estimation of large covariance matrices. Prerequisites: none. Restricted to DS75 and DS76 students."
+}

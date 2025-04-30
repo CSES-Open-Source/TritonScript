@@ -1,0 +1,11 @@
+{
+  "code": "MUS 9",
+  "title": "Symphony",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus9",
+  "description": "This course will consist of lectures and listening sessions devoted to a detailed discussion of a selection of representative orchestral works (e.g., Mozart, Beethoven, Berlioz, Stravinsky, Ligeti, etc.). Prerequisites: none. (Offered in selected years.)",
+  "successors": [
+    "MUS 112"
+  ]
+}

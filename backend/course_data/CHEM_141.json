@@ -1,0 +1,18 @@
+{
+  "code": "CHEM 141",
+  "title": "Organic Nanomaterials",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem141",
+  "description": "This course will provide an introduction to the physics and chemistry of soft matter, followed by a literature-based critical examination of several ubiquitous classes of organic nanomaterials and their technological applications. Topics include self-assembled monolayers, block copolymers, liquid crystals, photoresists, organic electronic materials, micelles and vesicles, soft lithography, organic colloids, organic nanocomposites, and applications in biomedicine and food science. Prerequisites: CHEM 40A, 40AH, 41A, 140A, or 140AH.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 40A",
+      "CHEM 40AH",
+      "CHEM 41A",
+      "CHEM 140A",
+      "CHEM 140AH"
+    ]
+  }
+}

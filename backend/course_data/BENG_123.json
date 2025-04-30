@@ -1,0 +1,23 @@
+{
+  "code": "BENG 123",
+  "title": "Dynamic Simulation in Bioengineering",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng123",
+  "description": "Dynamic simulation of biochemical reaction networks, including reconstruction of networks, mathematical description of kinetics of biochemical reactions, dynamic simulation of systems of biochemical reactions, and use of simulators for data interpretation and prediction in biology. Emphasis on a design project. Prerequisites: MATH 18 or MATH 31AH, MATH 20D, BENG 120, or CHEM 40B; majors only or consent of department. (W)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 18",
+      "MATH 31AH",
+      "MATH 20D",
+      "BENG 120",
+      "CHEM 40B"
+    ]
+  },
+  "successors": [
+    "BENG 125",
+    "BENG 161A",
+    "BENG 186A"
+  ]
+}

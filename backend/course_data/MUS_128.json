@@ -1,0 +1,19 @@
+{
+  "code": "MUS 128",
+  "title": "Principles and Practice of Conducting",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus128",
+  "description": "The theory and practice of instrumental and/or choral conducting as they have to do with basic baton techniques, score reading, interpretation, orchestration, program building, and functional analysis. Members of the class will be expected to demonstrate their knowledge in the conducting of a small ensemble performing literature from the eighteenth, nineteenth, and twentieth centuries. Prerequisites: MUS 2A-B-C and 101A-B-C. Department approval required.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MUS 2A",
+      "MUS 2B",
+      "MUS 2C",
+      "MUS 101A",
+      "MUS 101B",
+      "MUS 101C"
+    ]
+  }
+}

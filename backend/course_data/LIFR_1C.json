@@ -1,0 +1,20 @@
+{
+  "code": "LIFR 1C",
+  "title": "French Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "lifr1c",
+  "description": "Small conversation sections taught entirely in the target language. Emphasis on listening comprehension, speaking, vocabulary building, reading, and culture. Must be taken in conjunction with LIFR 1CX. Prerequisites: LIFR 1B with a grade of C\u2013 or better, or equivalent and LIFR 1BX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIFR 1B",
+      "LIFR 1BX"
+    ]
+  },
+  "successors": [
+    "LIFR 1D",
+    "LIFR 1DX",
+    "LTFR 2A"
+  ]
+}

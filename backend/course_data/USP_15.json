@@ -1,0 +1,11 @@
+{
+  "code": "USP 15",
+  "title": "Applied Urban Economics for Planning and Development",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp15",
+  "description": "This course explores how economics contributes to understanding and solving urban problems using a \u201clearn by doing\u201d approach. Economic analysis will be applied to important issues that planners and developers must deal with, such as land markets, housing, and zoning.",
+  "successors": [
+    "USP 152A"
+  ]
+}

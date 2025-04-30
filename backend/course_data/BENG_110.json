@@ -1,0 +1,33 @@
+{
+  "code": "BENG 110",
+  "title": "Musculoskeletal Biomechanics",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng110",
+  "description": "Statics, dynamics, and solid mechanics of hard and soft musculoskeletal tissues. Forces, moments, static equilibrium, kinematics, kinetics applied to human mechanics, and movement. Stress, strain, and material properties of musculoskeletal tissues. Problem solving and design in biomechanics. Prerequisites: MATH 20D, MATH 20E or MATH 31CH, MATH 18 or MATH 31AH; PHYS 2C, or consent of department. (F)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20E",
+          "MATH 31CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      "PHYS 2C"
+    ]
+  },
+  "successors": [
+    "BENG 112A",
+    "MAE 150"
+  ]
+}

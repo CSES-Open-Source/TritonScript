@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 124",
+  "title": "Laboratory Projects",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys124",
+  "description": "A laboratory-lecture-project course featuring creation of an experimental apparatus in teams of about two. Emphasis is on electronic\u00a0sensing of the physical environment and actuating physical responses. The course will use a computer interface such as the Arduino. PHYS 124 was formerly numbered PHYS 120B. Program or materials fees may apply.\u00a0Prerequisites: PHYS 120.",
+  "prereqs": "PHYS 120"
+}

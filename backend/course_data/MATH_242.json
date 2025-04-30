@@ -1,0 +1,9 @@
+{
+  "code": "MATH 242",
+  "title": "Topics in Fourier Analysis",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math242",
+  "description": "In recent years, topics have included Fourier analysis in Euclidean spaces, groups, and symmetric spaces. May be repeated for credit with consent of adviser as topics vary. Prerequisites: MATH 240C, students who have not completed MATH 240C may enroll with consent of instructor.",
+  "prereqs": "MATH 240C"
+}

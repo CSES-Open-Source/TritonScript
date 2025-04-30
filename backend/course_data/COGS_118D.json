@@ -1,0 +1,37 @@
+{
+  "code": "COGS 118D",
+  "title": "Mathematical Statistics for Behavioral Data Analysis",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs118d",
+  "description": "Statistical methods for analyzing behavioral data. A mathematically sophisticated course covering both classical and Bayesian statistical methods for estimation, hypothesis testing, regression, and model comparison. Emphasis on both mathematical understanding of statistical methods as well as common applications. Prerequisites: MATH 18 or MATH 31AH and MATH 180A and COGS 108 or COGS 109, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      "MATH 180A",
+      {
+        "type": "one",
+        "courses": [
+          "COGS 108",
+          "COGS 109"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CSE 150A",
+    "CSE 150B",
+    "CSE 151A",
+    "CSE 151B",
+    "CSE 156",
+    "CSE 158",
+    "CSE 158R"
+  ]
+}

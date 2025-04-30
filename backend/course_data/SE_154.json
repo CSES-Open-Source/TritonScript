@@ -1,0 +1,15 @@
+{
+  "code": "SE 154",
+  "title": "Design of Timber Structures",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se154",
+  "description": "Properties of wood and lumber grades. Beam design. Design of axially loaded members. Design of beam-column. Properties of plywood and structural-use panels. Design of horizontal diaphragms. Design of shear walls. Design of nailed and bolted connections. Prerequisites: SE 103 and SE 130A. Enrollment restricted to SE27 majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SE 103",
+      "SE 130A"
+    ]
+  }
+}

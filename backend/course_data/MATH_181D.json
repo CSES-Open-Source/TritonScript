@@ -1,0 +1,20 @@
+{
+  "code": "MATH 181D",
+  "title": "Statistical Learning",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math181d",
+  "description": "Statistical learning refers to a set of tools for modeling and understanding complex data sets. It uses developments in optimization, computer science, and in particular machine learning. This encompasses many methods such as dimensionality reduction, sparse representations, variable selection, classification, boosting, bagging, support vector machines, and machine learning. Prerequisites: ECE 109 or ECON 120A or MAE 108 or MATH 181A or MATH 183 or MATH 186 or MATH 189. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECE 109",
+      "ECON 120A",
+      "MAE 108",
+      "MATH 181A",
+      "MATH 183",
+      "MATH 186",
+      "MATH 189"
+    ]
+  }
+}

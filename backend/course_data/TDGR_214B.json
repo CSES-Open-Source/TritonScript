@@ -1,0 +1,12 @@
+{
+  "code": "TDGR 214B",
+  "title": "Voice for Theatre II\u2014Part I",
+  "units": "3",
+  "dept": "THEA",
+  "anchor": "tdgr214b",
+  "description": "Voice exercises designed to \u201cfree the voice\u201d with emphasis on diaphragmatic breathing, articulation exercises, and singing exercises. Course designed to broaden pitch, range, projection, and to expand the full range of potential characterizations. Second course in a three-course sequence. Prerequisites: TDGR 214A and admission to the MFA program or consent of instructor.",
+  "prereqs": "TDGR 214A",
+  "successors": [
+    "TDGR 214C"
+  ]
+}

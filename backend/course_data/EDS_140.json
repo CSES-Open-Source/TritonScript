@@ -1,0 +1,24 @@
+{
+  "code": "EDS 140",
+  "title": "Introduction to Action Research in P\u201312 Schools",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds140",
+  "description": "Using a service-learning model, the course provides students with the opportunity to serve as mentors and tutors at local underserved P\u201312 public schools and/or community centers while building the foundations of their own action research projects. Students will be introduced to qualitative research in education and taught the importance of conducting ethical and responsible research. Structured as a seminar, the course serves as a venue for students to develop their action research proposal. Prerequisites: EDS 130 or EDS 131 or EDS 133 or EDS 135 or EDS 136 or EDS 137 or EDS 145 or EDS 146, department approval. Students will need to fill out a placement form prior to getting approval to enroll in EDS 140. This form provides the course instructor with information regarding student\u2019s prior experiences with PAL, areas/topics of interest; EDS 139 must be taken as a corequisite. If students wish to continue their service-learning practicum at their host school, they can take EDS 139.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "EDS 130",
+      "EDS 131",
+      "EDS 133",
+      "EDS 135",
+      "EDS 136",
+      "EDS 137",
+      "EDS 145",
+      "EDS 146"
+    ]
+  },
+  "successors": [
+    "EDS 141"
+  ]
+}

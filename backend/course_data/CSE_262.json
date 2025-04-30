@@ -1,0 +1,8 @@
+{
+  "code": "CSE 262",
+  "title": "System Support for Applications of Parallel Computation",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse262",
+  "description": "This course will explore design of software support for applications of parallel computation. Topics include programming languages, run time support, portability, and load balancing. The course will terminate in a project. Prerequisites: consent of instructor."
+}

@@ -1,0 +1,15 @@
+{
+  "code": "BIEB 158",
+  "title": "Microbiomes: The Ecology and Evolution of Microbes",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb158",
+  "description": "Microbes, the most numerous organisms on the planet, are often the most maligned. Most do not cause disease, but instead are useful: producing oxygen, promoting plant growth, or helping us digest. This course explores the microbial communities that regulate Earth\u2019s biological and chemical processes. Students will learn theory, methods, and applications of microbial ecology and evolution relevant to contemporary world issues including human health, conservation of biodiversity, and climate change. Prerequisites: BILD 1 and BILD 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 3"
+    ]
+  }
+}

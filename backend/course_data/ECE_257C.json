@@ -1,0 +1,9 @@
+{
+  "code": "ECE 257C",
+  "title": "Stochastic Wireless Networks Models",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece257c",
+  "description": "Elements of spatial point processes. Spatial stochastic models of wireless networks. Topological structure, interference, stochastic dependencies. Elements of network information theory/statistical physics models of information flow. Role of signal propagation/random fading models. Decentralized operation, route discovery, architectural principles. Energy limitations/random failures. Recommended preparation: previous exposure to stochastic processes and information theory. Prerequisites: ECE 257B; graduate standing.",
+  "prereqs": "ECE 257B"
+}

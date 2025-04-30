@@ -1,0 +1,9 @@
+{
+  "code": "MATH 284",
+  "title": "Lifetime Data Analysis",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math284",
+  "description": "Survival analysis is an important tool in many areas of applications including biomedicine, economics, engineering. It deals with the analysis of time to events data with censoring. This course discusses the concepts and theories associated with survival data and censoring, comparing survival distributions, proportional hazards regression, nonparametric tests, competing risk models, and frailty models. The emphasis is on semiparametric inference, and material is drawn from recent literature. Students who have not completed listed prerequisites may enroll with consent of instructor. Prerequisites: MATH 282A. Students who have not completed listed prerequisite may enroll with consent of instructor.",
+  "prereqs": "MATH 282A"
+}

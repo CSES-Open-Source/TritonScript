@@ -1,0 +1,15 @@
+{
+  "code": "ECON 125",
+  "title": "Demographic Analysis and Forecasting",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ125",
+  "description": "Interaction between economic forces and demographic changes are considered, as are demographic composition and analysis; fertility, mortality, and migration processes and trends. Course emphasizes the creation, evaluation, and interpretation of forecasts for states, regions, and subcounty areas. ECON 178 is recommended. Prerequisites: ECON 120B or MATH 181B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 120B",
+      "MATH 181B"
+    ]
+  }
+}

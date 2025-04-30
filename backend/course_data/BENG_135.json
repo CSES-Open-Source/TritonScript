@@ -1,0 +1,18 @@
+{
+  "code": "BENG 135",
+  "title": "Biomedical Signals and Systems",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng135",
+  "description": "Discrete systems: linearity, convolution, impulse, and step responses. Linear systems properties. Difference equations. Fourier Series. Continuous FS. Discrete FS. Periodic signals, filtering, and FT. Discrete FT examples. Frequency response of linear systems. Sampling. Relationship between FT, DFT. Laplace Transform. LT and inverse LT. Prerequisites: ECE 45 and BENG 133 or consent of department. (F) Not offered until fall 2016.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 45",
+      "BENG 133"
+    ]
+  },
+  "successors": [
+    "BENG 189"
+  ]
+}

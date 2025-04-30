@@ -1,0 +1,19 @@
+{
+  "code": "MAE 171A",
+  "title": "Mechanical Engineering Laboratory I",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae171a",
+  "description": "Design and analysis of experiments in fluid mechanics, solid mechanics, and control engineering. Experiments in wind tunnel, water tunnel, vibration table and material testing machines, and refined electromechanical systems. Laboratory report writing; error analysis; engineering ethics. Prerequisites: MAE 101A,\u00a0MAE 143B,\u00a0and MAE 170. Enrollment restricted to MC 27 and MC 30\u201334 majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 101A",
+      "MAE 143B",
+      "MAE 170"
+    ]
+  },
+  "successors": [
+    "MAE 171B"
+  ]
+}

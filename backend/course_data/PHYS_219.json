@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 219",
+  "title": "Condensed Matter/Materials Science Laboratory",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys219",
+  "description": "A project-oriented laboratory course utilizing state-of-the-art experimental techniques in materials science. The course prepares students for research in a modern condensed matter-materials science laboratory. Under supervision, the students develop their own experimental ideas after investigating current research literature. With the use of sophisticated state-of-the-art instrumentation students conduct research, write a research paper, and make verbal presentations. Prerequisites: PHYS 211A.",
+  "prereqs": "PHYS 211A"
+}

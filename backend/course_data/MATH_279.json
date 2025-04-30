@@ -1,0 +1,15 @@
+{
+  "code": "MATH 279",
+  "title": "Projects in Computational and Applied Mathematics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math279",
+  "description": "(Conjoined with MATH 179.) Mathematical models of physical systems arising in science and engineering, good models and well-posedness, numerical and other approximation techniques, solution algorithms for linear and nonlinear approximation problems, scientific visualizations, scientific software design and engineering, project-oriented. Graduate students will do an extra paper, project, or presentation per instructor. Prerequisites: MATH 174, or MATH 274, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 174",
+      "MATH 274"
+    ]
+  }
+}

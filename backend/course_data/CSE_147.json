@@ -1,0 +1,9 @@
+{
+  "code": "CSE 147",
+  "title": "Introduction to Embedded Systems",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse147",
+  "description": "This course introduces the breadth of embedded systems, including hardware, software and modeling techniques. Embedded hardware topics include various types of processors and accelerators, memory, system and communication interfaces, sensors, and actuators. Embedded software includes timing, real-time and distributed scheduling, operating systems. The class will have design projects using off the shelf hardware and software components. Recommended preparation: Basic understanding of operating systems and computer architecture is strongly recommended. Prerequisites: CSE 30.",
+  "prereqs": "CSE 30"
+}

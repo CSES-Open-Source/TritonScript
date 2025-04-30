@@ -1,0 +1,15 @@
+{
+  "code": "COGS 186",
+  "title": "Genetic Algorithms",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs186",
+  "description": "This course will teach in detail some of the key biology-inspired AI algorithms. It will cover genetic algorithms (GA), particle swarm optimization algorithms (PSO), and other optimization algorithms like simulated annealing and gradient descent. Prerequisites: COGS 108 or COGS 109.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 108",
+      "COGS 109"
+    ]
+  }
+}

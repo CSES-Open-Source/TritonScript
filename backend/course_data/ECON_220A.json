@@ -1,0 +1,22 @@
+{
+  "code": "ECON 220A",
+  "title": "Econometrics A",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ220a",
+  "description": "An introduction to probability and statistics for graduate students in economics. Topics include random variables, sampling distributions, the law of large numbers, the central limit theorem, maximum likelihood estimation, hypothesis testing. Knowledge of multivariable calculus and linear algebra is assumed. Prerequisites: graduate standing; enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.",
+  "successors": [
+    "ECON 220B",
+    "ECON 221",
+    "ECON 225",
+    "ECON 226",
+    "ECON 227",
+    "ECON 228",
+    "ECON 230",
+    "ECON 231",
+    "ECON 232",
+    "ECON 233",
+    "MGT 260",
+    "MGT 285"
+  ]
+}

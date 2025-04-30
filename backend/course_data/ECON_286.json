@@ -1,0 +1,9 @@
+{
+  "code": "ECON 286",
+  "title": "Graduate Research Presentation Workshop",
+  "units": "3",
+  "dept": "ECON",
+  "anchor": "econ286",
+  "description": "The aim of the course is to train students to present their research effectively to a broad audience. Students are required to prepare a formal presentation, and then to provide feedback on the presentations made by other students. Depending on student demand, meetings may be divided into multiple sections, based on field interests. Prerequisites: graduate standing, ECON 285.",
+  "prereqs": "ECON 285"
+}

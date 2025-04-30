@@ -1,0 +1,16 @@
+{
+  "code": "SIOC 261",
+  "title": "Nearshore Physical Oceanography",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc261",
+  "description": "This course will cover the basic physics of the nearshore region spanning the surf zone to the inner shelf. Topics covered will include wave shoaling, shoaling and breaking, radiation stress and vortex force formalisms, wave setup, wave driven currents in the surf zone and inner shelf, undertow, infragravity waves, basics of sediment transport, and transport and mixing. Prerequisites: SIOC 202A or SIOC 211A or SIOC 214A or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIOC 202A",
+      "SIOC 211A",
+      "SIOC 214A"
+    ]
+  }
+}

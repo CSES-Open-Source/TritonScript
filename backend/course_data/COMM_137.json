@@ -1,0 +1,22 @@
+{
+  "code": "COMM 137",
+  "title": "Black Women Filmmakers",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm137",
+  "description": "Students examine film and video media produced by black women filmmakers worldwide. This course will use readings from the writings of the filmmakers themselves as well as from film studies, women\u2019s studies, literature, sociology, and history. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

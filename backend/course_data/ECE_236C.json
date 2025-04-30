@@ -1,0 +1,9 @@
+{
+  "code": "ECE 236C",
+  "title": "Heterojunction Field-Effect Transistors",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece236c",
+  "description": "The physics and circuit applications of heterojunction field-effect transistors (HFETs) and heterojunction bipolar transistors (HBTs). Operating principles of FETs and BJTs are reviewed, and opportunities for improving their performance with suitable material choices and bandgap engineering are highlighted. SiGe and III-V HBTs, III-V FETs, and current research areas are covered. Microwave characteristics, models and representative circuit applications. Students who have already completed ECE 236C and/or D should not enroll in this course. Recommended preparation: ECE 230B or equivalent course with emphasis on physics of solid-state electronic devices. Prerequisites: ECE 236B; graduate standing.",
+  "prereqs": "ECE 236B"
+}

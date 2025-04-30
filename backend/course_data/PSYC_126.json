@@ -1,0 +1,15 @@
+{
+  "code": "PSYC 126",
+  "title": "Practicum in Community Mental Health Care",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc126",
+  "description": "This course provides experience with clients in a community mental health care setting, under professional supervision. Seminar-based instruction also provides a framework for understanding theoretical, practical, and ethical issues related to client care. Prerequisites: PSYC 100 and PSYC 124 and department approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PSYC 100",
+      "PSYC 124"
+    ]
+  }
+}

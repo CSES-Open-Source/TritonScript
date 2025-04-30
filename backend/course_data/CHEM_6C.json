@@ -1,0 +1,46 @@
+{
+  "code": "CHEM 6C",
+  "title": "General Chemistry III",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem6c",
+  "description": "Third quarter of a three-quarter sequence intended for science and engineering majors. Topics include kinetics, acid-base equilibria, electrochemistry, coordination chemistry, and an introduction to nuclear chemistry. May not be taken for credit after CHEM 6CH. Prerequisites: CHEM 6B or 6BH. Recommended: completion of MATH 10B or 20B.\u00a0(F, W, S)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 6B",
+      "CHEM 6BH"
+    ]
+  },
+  "successors": [
+    "BIPN 106",
+    "CENG 102",
+    "CENG 134",
+    "CHEM 100A",
+    "CHEM 111",
+    "CHEM 120A",
+    "CHEM 126A",
+    "CHEM 130",
+    "CHEM 131",
+    "CHEM 134",
+    "CHEM 171",
+    "CHEM 172",
+    "CHEM 173",
+    "CHEM 174",
+    "CHEM 187",
+    "CHEM 188",
+    "CHEM 40AH",
+    "NANO 102",
+    "NANO 103",
+    "NANO 134",
+    "NANO 159",
+    "SIO 102",
+    "SIO 106",
+    "SIO 119",
+    "SIO 124",
+    "SIO 141",
+    "SIO 143",
+    "SIO 174",
+    "SIO 189"
+  ]
+}

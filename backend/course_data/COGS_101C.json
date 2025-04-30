@@ -1,0 +1,18 @@
+{
+  "code": "COGS 101C",
+  "title": "Language",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs101c",
+  "description": "An introduction to structure of natural language, and to the cognitive processes that underline its acquisition, comprehension, and production. This course covers findings from linguistics, computer science, psychology, and cognitive neuroscience to provide an integrated perspective on human language abilities. Prerequisites: COGS 1 and 14A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COGS 1",
+      "COGS 14A"
+    ]
+  },
+  "successors": [
+    "COGS 157"
+  ]
+}

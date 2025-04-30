@@ -1,0 +1,19 @@
+{
+  "code": "SYN 2R",
+  "title": "Inquiring about a Changing Planet",
+  "units": "4",
+  "dept": "SYN",
+  "anchor": "syn2r",
+  "description": "Synthesis 2 builds upon the skills developed in Synthesis 1. In the first half of the quarter, students learn the links between climate change and racial justice. Using an antiracist framework, students work in a small group to research an aspect of the climate crisis. In the second half of the quarter, students are introduced to project design and learn how to draft a proposal. Students learn how to determine the scope of a project based on such criteria as time, money, and potential impact. Prerequisites: Seventh College students only, SYN 1/1R, must be taken for a letter grade to count toward Seventh College general-education requirements. Duplicate credit with SYN 2.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SYN 1",
+      "SYN 1R"
+    ]
+  },
+  "successors": [
+    "PHIL 27",
+    "SYN 100"
+  ]
+}

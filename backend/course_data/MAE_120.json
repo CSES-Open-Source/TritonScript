@@ -1,0 +1,15 @@
+{
+  "code": "MAE 120",
+  "title": "Introduction to Nuclear Energy",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae120",
+  "description": "Overview of basic fission and fusion processes. Elementary fission reactor physics and engineering; environmental and waste disposal issues. Survey of fusion technology issues and perspectives. May not receive credit for both MAE 118C and MAE 120. Prerequisites: MAE 101A or CENG 101A, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 101A",
+      "CENG 101A"
+    ]
+  }
+}

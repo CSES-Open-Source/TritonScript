@@ -1,0 +1,18 @@
+{
+  "code": "DSC 210",
+  "title": "Numerical Linear Algebra",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc210",
+  "description": "Linear algebraic systems, least squares problems and regularization, orthogonalization methods, ill-conditioned problems, eigenvalue and singular value decomposition, principal component analysis, structured matrix factorization and fast algorithms, randomized linear algebra, JL lemma, sparse approximations. Prerequisites: none. Restricted to students within the DS75 and DS76 major.",
+  "successors": [
+    "DSC 205",
+    "DSC 211",
+    "DSC 213",
+    "DSC 240",
+    "DSC 241",
+    "DSC 244",
+    "DSC 254",
+    "DSC 261"
+  ]
+}

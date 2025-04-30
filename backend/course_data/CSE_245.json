@@ -1,0 +1,9 @@
+{
+  "code": "CSE 245",
+  "title": "Computer Aided Circuit Simulation and Verification",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse245",
+  "description": "This course is about the computer algorithms, techniques, and theory used in the simulation and verification of electrical circuits. Prerequisites: CSE 241A or consent of instructor.",
+  "prereqs": "CSE 241A"
+}

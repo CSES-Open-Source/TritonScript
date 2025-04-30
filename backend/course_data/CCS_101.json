@@ -1,0 +1,12 @@
+{
+  "code": "CCS 101",
+  "title": "Carbon Neutrality Initiative at University of California",
+  "units": "2",
+  "dept": "CCS",
+  "anchor": "ccs101",
+  "description": "The University of California-wide goals of the Carbon Neutrality Initiative are introduced through a series of modules where students learn basic principles of carbon neutrality, participate in seminars with campus operations staff, and tour relevant campus infrastructure including the UC San Diego microgrid, Leadership in Energy and Environmental Design (LEED) certified buildings, and sustainable transportation efforts. Prerequisites: upper-division standing.\u00a0",
+  "successors": [
+    "CCS 197",
+    "CCS 199"
+  ]
+}

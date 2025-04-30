@@ -1,0 +1,23 @@
+{
+  "code": "ETHN 100A",
+  "title": "Ethnic Studies: Theoretical Approaches",
+  "units": "4",
+  "dept": "ETHN",
+  "anchor": "ethn100a",
+  "description": "An advanced survey of key issues, themes, and debates in the field of critical ethnic studies focusing on the connection between race and social structures. Students will use diverse theoretical frameworks to identify and interpret contemporary and historical social problems. Prerequisites: ETHN 1 or ETHN 2 or ETHN 3, ethnic studies majors or minors, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ETHN 1",
+      "ETHN 2",
+      "ETHN 3"
+    ]
+  },
+  "successors": [
+    "ETHN 100B",
+    "ETHN 100C",
+    "ETHN 100H",
+    "ETHN 100M",
+    "ETHN 196H"
+  ]
+}

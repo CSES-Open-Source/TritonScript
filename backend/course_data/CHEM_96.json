@@ -1,0 +1,12 @@
+{
+  "code": "CHEM 96",
+  "title": "Introduction to Teaching Science",
+  "units": "2",
+  "dept": "CHEM",
+  "anchor": "chem96",
+  "description": "(Cross-listed with EDS 31.) Explores routine challenges and exceptional difficulties students often have in learning science. Prepares students to make meaningful observations of how K\u201312 teachers deal with difficulties. Explores strategies that teachers may use to pose problems that stimulate students\u2019 intellectual curiosity.",
+  "successors": [
+    "CHEM 187",
+    "COGS 152"
+  ]
+}

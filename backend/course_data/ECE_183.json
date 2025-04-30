@@ -1,0 +1,18 @@
+{
+  "code": "ECE 183",
+  "title": "Optical Electronics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece183",
+  "description": "Quantum electronics, interaction of light and matter in atomic systems, semiconductors. Laser amplifiers and laser systems. Photodetection. Electro-optics and acousto-optics, photonic switching. Fiber optic communication systems. Labs: semiconductor lasers, semiconductor photodetectors. (Course materials and/or program fees may apply.) Prerequisites: ECE 103 and 107 with grades of C\u2013 or better.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 103",
+      "ECE 107"
+    ]
+  },
+  "successors": [
+    "ECE 185"
+  ]
+}

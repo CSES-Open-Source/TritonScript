@@ -1,0 +1,15 @@
+{
+  "code": "CSE 248",
+  "title": "Algorithmic and Optimization Foundations for VLSI CAD",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse248",
+  "description": "Algorithmic techniques and optimization frameworks for large-scale, difficult optimizations. Primal-dual multicommodity flow approximations, approximations for geometric and graph Steiner formulations, continuous placement optimization, heuristics for Boolean satisfiability, multilevel methods, semidefinite programming, and application to other formulations (e.g., scheduling). Prerequisites: CSE 241A or CSE 242A, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 241A",
+      "CSE 242A"
+    ]
+  }
+}

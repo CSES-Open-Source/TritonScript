@@ -1,0 +1,11 @@
+{
+  "code": "MATH 272A",
+  "title": "Numerical Partial Differential Equations I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math272a",
+  "description": "Survey of discretization techniques for elliptic partial differential equations, including finite difference, finite element and finite volume methods. Lax-Milgram Theorem and LBB stability. A priori error estimates. Mixed methods. Convection-diffusion equations. Systems of elliptic PDEs. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "MATH 272B"
+  ]
+}

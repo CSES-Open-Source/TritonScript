@@ -1,0 +1,26 @@
+{
+  "code": "SE 105",
+  "title": "Structural Materials",
+  "units": "5",
+  "dept": "SE",
+  "anchor": "se105",
+  "description": "Lectures and labs on structural properties of engineering materials. Stress and strain. Stain measurement. Stiffness, strength, toughness, fatigue resistance, and creep. Cement and concrete, wood, aluminum alloys, steel, engineering plastics, and composite materials. Corequisite: SE 110A or MAE 131A.\u00a0Prerequisites: SE 1 and SE 101A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SE 1",
+      "SE 101A"
+    ]
+  },
+  "coreqs": {
+    "type": "one",
+    "courses": [
+      "SE 110A",
+      "MAE 131A"
+    ]
+  },
+  "successors": [
+    "SE 103",
+    "SE 160A"
+  ]
+}

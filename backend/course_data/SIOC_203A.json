@@ -1,0 +1,19 @@
+{
+  "code": "SIOC 203A",
+  "title": "Introduction to Applied Mathematics I",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc203a",
+  "description": "Review of exact methods for ordinary differential equations. Expansions about regular and irregular singular points. Introduction to asymptotic expansions. Approximate methods for nonlinear differential equations. Regular and singular perturbation theory. Additional topics depending upon the interests of the instructor. Coscheduled with MAE 294BA. Prerequisites: MATH 110, MATH 120A, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 110",
+      "MATH 120A"
+    ]
+  },
+  "successors": [
+    "SIOC 203B",
+    "SIOG 235"
+  ]
+}

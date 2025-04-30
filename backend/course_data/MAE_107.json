@@ -1,0 +1,32 @@
+{
+  "code": "MAE 107",
+  "title": "Computational Methods in Engineering",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae107",
+  "description": "Introduction to scientific computing and algorithms; iterative methods, systems of linear equations with applications; nonlinear algebraic equations; function interpolation and differentiation and optimal procedures; data fitting and least-squares; numerical solution of ordinary differential equations. Prerequisites: MAE 8 or 9, and MATH 18 or 20F or 31AH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MAE 8",
+          "MAE 9"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MAE 150",
+    "MAE 185"
+  ]
+}

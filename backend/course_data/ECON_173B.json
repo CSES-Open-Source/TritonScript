@@ -1,0 +1,26 @@
+{
+  "code": "ECON 173B",
+  "title": "Corporate Finance",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ173b",
+  "description": "Introduces the firm\u2019s capital budgeting decision, including methods for evaluation and ranking of investment projects, the firm\u2019s choice of capital structure, dividend policy decisions, corporate taxes, mergers and acquisitions. Prerequisites: ECON 4 or MGT 4; and ECON 173A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "ECON 4",
+          "MGT 4"
+        ]
+      },
+      "ECON 173A"
+    ]
+  },
+  "successors": [
+    "MGT 183",
+    "MGT 184",
+    "MGT 185"
+  ]
+}

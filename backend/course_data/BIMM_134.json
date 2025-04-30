@@ -1,0 +1,9 @@
+{
+  "code": "BIMM 134",
+  "title": "Biology of Cancer",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm134",
+  "description": "This course explores the molecular and cellular pathways that become dysregulated during carcinogenesis. We will synthesize principles from genetics and molecular, cellular, and developmental biology to investigate how normal cells evolve into tumors. We will examine how tissues distinct from the tumor itself can participate in both facilitating and fighting tumor growth and explore historical and current approaches employed to inhibit tumorigenesis. Prerequisites: BILD 1, upper-division standing.",
+  "prereqs": "BILD 1"
+}

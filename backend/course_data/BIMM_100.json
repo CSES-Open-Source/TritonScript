@@ -1,0 +1,60 @@
+{
+  "code": "BIMM 100",
+  "title": "Molecular Biology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm100",
+  "description": "Molecular mechanisms and applications of the central dogma. Genome structure and function. Transcription and translation. Regulation of gene expression. Use of DNA technology in basic and applied biology. Note: Students will not receive credit for both BIMM 100 and CHEM 114C. Prerequisites: BILD 1 and BIBC 103 or BILD 4 or BILD 70 or BIMM 101 and BENG 120 or CHEM 40A or CHEM 40AH or CHEM 41A and BENG 120 or CHEM 40B or CHEM 40BH or CHEM 41B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      {
+        "type": "one",
+        "courses": [
+          "BIBC 103",
+          "BILD 4",
+          "BILD 70",
+          "BIMM 101"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BENG 120",
+          "CHEM 40A",
+          "CHEM 40AH",
+          "CHEM 41A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BENG 120",
+          "CHEM 40B",
+          "CHEM 40BH",
+          "CHEM 41B"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "BENG 181",
+    "BENG 183",
+    "BENG 211",
+    "BICD 112",
+    "BICD 140",
+    "BICD 145",
+    "BIMM 110",
+    "BIMM 112",
+    "BIMM 114",
+    "BIMM 120",
+    "BIMM 122",
+    "BIMM 172",
+    "BIMM 181",
+    "BIMM 194",
+    "CHEM 119",
+    "CHEM 164",
+    "CSE 181"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "code": "VIS 180B",
+  "title": "Fiction and Allegory in Current Media Practices",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis180b",
+  "description": "Course that theoretically and technically parses out how we create meaning through storytelling. How is history implicated in our experience of watching fiction? How does this affect the way that we create as artists? Students will examine the connection between the contrived and the real and language\u2019s place in this cycle. There are both group-based and individual projects produced in this class around these issues. Two production-course limitation. Prerequisites: VIS 174 and two from VIS 164, 165, 165A, 165B, 171, 172, 175, 176, 177, 178, 179. Open to media majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "VIS 174",
+      {
+        "type": "two",
+        "courses": [
+          "VIS 164",
+          "VIS 165",
+          "VIS 165A",
+          "VIS 165B",
+          "VIS 171",
+          "VIS 172",
+          "VIS 175",
+          "VIS 176",
+          "VIS 177",
+          "VIS 178",
+          "VIS 179"
+        ]
+      }
+    ]
+  }
+}

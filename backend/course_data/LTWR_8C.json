@@ -1,0 +1,78 @@
+{
+  "code": "LTWR 8C",
+  "title": "Writing Nonfiction",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr8c",
+  "description": "Study of nonfictional prose in terms of genre and craft. Techniques of composition (journalism, essay, letters, reviews) will be studied through written examples of the genre.  Prerequisites:  CAT 2 and 3 or DOC 2 and 3 or HUM 1 and 2 or MCWP 40 and 50 or MMW 12 and 13 or WARR 11A-B or WCWP 10A-B or SYN 1 and 2. Completion of college writing requirement.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      {
+        "type": "all",
+        "courses": [
+          "CAT 2",
+          "CAT 3"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "DOC 2",
+          "DOC 3"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "HUM 1",
+          "HUM 2"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "MCWP 40",
+          "MCWP 50"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "MMW 12",
+          "MMW 13"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "WARR 11A",
+          "WARR 11B"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "WCWP 10A",
+          "WCWP 10B"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "SYN 1",
+          "SYN 2"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "LTWR 113",
+    "LTWR 114",
+    "LTWR 115",
+    "LTWR 120",
+    "LTWR 121",
+    "LTWR 124",
+    "LTWR 126"
+  ]
+}

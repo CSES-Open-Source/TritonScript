@@ -1,0 +1,16 @@
+{
+  "code": "MAE 144",
+  "title": "Embedded Control and Robotics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae144",
+  "description": "Each student builds, models, programs, and controls an unstable robotic system built around a small Linux computer. Review/synthesis of: A) modern physical and electrical CAD. B) dynamics, signals and systems, linear circuits; PWMs, H-bridges, quadrature encoders. C) embedded Linux, C, graphical programming; multithreaded applications; bus communication to supporting ICs. D) classical control theory in both continuous-time (CT) and discrete-time (DT); interconnection of CT and DT elements. Program or materials fees may apply. Prerequisites: upper-division standing or graduate student, and MAE 143B or BENG 122A or ECE 171A, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 143B",
+      "BENG 122A",
+      "ECE 171A"
+    ]
+  }
+}

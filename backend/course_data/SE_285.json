@@ -1,0 +1,17 @@
+{
+  "code": "SE 285",
+  "title": "Structural Optimization",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se285",
+  "description": "Construction of structural design as an optimization problem; mathematical programming for sizing, shape, and topology; linear and nonlinear programming; continuous and discrete optimization methods; Lagrangian function and KKT optimality condition; MATLAB. Use of computer resources. Prerequisites: graduate standing, SE 276A or MAE 232A or SE 233 or MAE 235.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SE 276A",
+      "MAE 232A",
+      "SE 233",
+      "MAE 235"
+    ]
+  }
+}

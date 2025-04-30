@@ -1,0 +1,16 @@
+{
+  "code": "MUS 2AK-BK-CK",
+  "title": "Basic Keyboard",
+  "units": "2-2-2",
+  "dept": "MUS",
+  "anchor": "mus2ck",
+  "description": "Scales, chords, harmonic progressions, transposition, and simple pieces. Prerequisites: concurrent enrollment in MUS 2A, B, C.",
+  "coreqs": {
+    "type": "all",
+    "courses": [
+      "MUS 2A",
+      "MUS 2B",
+      "MUS 2C"
+    ]
+  }
+}

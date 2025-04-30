@@ -1,0 +1,11 @@
+{
+  "code": "TDMV 144",
+  "title": "Asian Dance",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdmv144",
+  "description": "To develop an appreciation and understanding of the dances from various Asian cultures. Emphasis on learning the basic forms and movement vocabularies, their historical context, and the use of each dance as a means of cultural and artistic expression. May be taken for credit three times. Prerequisites: upper-division standing.",
+  "successors": [
+    "TDMV 141"
+  ]
+}

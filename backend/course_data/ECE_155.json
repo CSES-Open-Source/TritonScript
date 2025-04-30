@@ -1,0 +1,33 @@
+{
+  "code": "ECE 155",
+  "title": "Digital Communications Theory",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece155",
+  "description": "Design and performance analysis of digital modulation techniques, including probability of error results for PSK, DPSK, and FSK. Introduction to effects of intersymbol interference and fading. Detection and estimation theory, including optimal receiver design and maximum-likelihood parameter estimation. Renumbered from ECE 154B. Students may not receive credit for ECE 155 and ECE 154B. Prerequisites: ECE 101 or BENG 122A, ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 183 or MATH 186, and ECE 153.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "ECE 101",
+          "BENG 122A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "ECE 109",
+          "ECON 120A",
+          "MAE 108",
+          "MATH 180A",
+          "MATH 180B",
+          "MATH 183",
+          "MATH 186"
+        ]
+      },
+      "ECE 153"
+    ]
+  }
+}

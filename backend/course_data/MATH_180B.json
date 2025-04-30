@@ -1,0 +1,45 @@
+{
+  "code": "MATH 180B",
+  "title": "Introduction to Stochastic Processes I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math180b",
+  "description": "Random vectors, multivariate densities, covariance matrix, multivariate normal distribution. Random walk, Poisson process. Other topics if time permits. Prerequisites: MATH 20D and either MATH 18 or MATH 20F or MATH 31AH, and MATH 109 or MATH 31CH, and MATH 180A. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 109",
+          "MATH 31CH"
+        ]
+      },
+      "MATH 180A"
+    ]
+  },
+  "successors": [
+    "CSE 150A",
+    "CSE 150B",
+    "CSE 151A",
+    "CSE 151B",
+    "CSE 156",
+    "CSE 158",
+    "CSE 158R",
+    "DSC 148",
+    "ECE 155",
+    "ECE 157A",
+    "ECON 171",
+    "MATH 180C",
+    "MGT 151R"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "COMM 112C",
+  "title": "IM: The Idea of Childhood",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm112c",
+  "description": "Our understanding of childhood as a stage of innocence is a modern idea. The idea of childhood has not been constant; different cultures, communities, and classes have shaped the integration of children according to their own standards. We examine the different ways that attitudes toward children have changed, how these attitudes have been connected to an understanding of the human being, and how the desires of society and parents are manifested in what they think the child should be. Prerequisites: COMM 10 or HDP 1.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "HDP 1"
+    ]
+  }
+}

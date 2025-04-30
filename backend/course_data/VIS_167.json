@@ -1,0 +1,15 @@
+{
+  "code": "VIS 167",
+  "title": "Social Engagement and Photography",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis167",
+  "description": "This course will explore the use of photography as a tool to both understand and represent the social world. Students will look critically at the historical claims of photography as evidence and as a tool of empirical knowledge and engage with the ethics of care and responsibility bound to visual representation. Students will develop a photo-based project that engages the social in a creative and critical way. Program or materials fees may apply. Two production-course limitation. Prerequisites: VIS 164 or VIS 165. Open to media, studio, and ICAM majors and photography minors.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 164",
+      "VIS 165"
+    ]
+  }
+}

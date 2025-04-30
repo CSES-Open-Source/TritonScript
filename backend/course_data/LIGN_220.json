@@ -1,0 +1,11 @@
+{
+  "code": "LIGN 220",
+  "title": "Morphology",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign220",
+  "description": "Theories of word structure are examined and confronted with data from a variety of languages: derivational and inflectional morphology, the morphology/phonology, and morphology/syntax interfaces.",
+  "successors": [
+    "LIGN 248"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "PHYS 212C",
+  "title": "Quantum Mechanics III",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys212c",
+  "description": "Topics may include basics of many-body quantum mechanics, second quantization; basics of quantum information theory; path integrals, topological phases, and Aharonov-Bohm effect; stability of matter; atomic and molecular structure. Prerequisites: PHYS 212A-B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 212A",
+      "PHYS 212B"
+    ]
+  },
+  "successors": [
+    "PHYS 215A",
+    "PHYS 220"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "TDGR 220B",
+  "title": "Process II: Classical Text II",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdgr220b",
+  "description": "An intensive studio examination of problems and potentials associated with the theatrical realization of the classical text. This course is a continuation of TDGR 220A. Prerequisites: TDGR 220A and admission to the MFA theatre program or consent of instructor.",
+  "prereqs": "TDGR 220A",
+  "successors": [
+    "TDGR 220C"
+  ]
+}

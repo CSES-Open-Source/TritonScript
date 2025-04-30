@@ -1,0 +1,8 @@
+{
+  "code": "BGGN 201",
+  "title": "Methods in Computational Neuroscience",
+  "units": "3",
+  "dept": "BIOL",
+  "anchor": "bggn201",
+  "description": "Introduction to the computational methods most frequently used in neuroscience research. Aimed at first-year graduate students in neuroscience and related disciplines. Minimal quantitative background will be assumed. Topics include Poisson processes, Markov Chains, auto- and cross-correlation analysis, Fourier/Spectral analysis, principal components/linear algebra, signal detection theory, information theory, Bayes Theorem, hypothesis testing. Nongraduate students may enroll with consent of instructor."
+}

@@ -1,0 +1,16 @@
+{
+  "code": "BNFO 285",
+  "title": "Statistical Learning in Bioinformatics",
+  "units": "4",
+  "dept": "BIOI",
+  "anchor": "bnfo285",
+  "description": "(Cross-listed with ECE 204 and BENG 285.) A hallmark of bioinformatics is the computational analysis of complex data. The combination of statistics and algorithms produce statistical learning methods that automate the analysis of complex data. Such machine learning methods are widely used in systems biology and bioinformatics. This course provides an introduction to statistical learning and assumes familiarity with key statistical methods. Letter grades only.\u00a0Students may not receive credit for BNFO 285 and ECE 204 and BENG 285.\u00a0Prerequisites: MATH 283 or ECE 271A or ECE 271B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 283",
+      "ECE 271A",
+      "ECE 271B"
+    ]
+  }
+}

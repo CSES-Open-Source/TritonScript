@@ -1,0 +1,18 @@
+{
+  "code": "ECON 221",
+  "title": "Advanced Econometrics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ221",
+  "description": "Advanced topics in econometrics. Topics may vary from year to year, covering areas such as cross section, time series, panel, limited dependent variables, conditional quantile estimation, bootstrapping, and large- and small-sample distribution theory. Prerequisites: graduate standing and ECON 220A, 220B, 220C, 220D, and 220E or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 220A",
+      "ECON 220B",
+      "ECON 220C",
+      "ECON 220D",
+      "ECON 220E"
+    ]
+  }
+}

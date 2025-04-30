@@ -1,0 +1,8 @@
+{
+  "code": "CSE 260",
+  "title": "Parallel Computation",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse260",
+  "description": "(Formerly CSE 274A.) This course provides an overview of parallel hardware, algorithms, models, and software. Topics include Flynn\u2019s taxonomy, interconnection networks, memory organization, a survey of commercially available multiprocessors, parallel algorithm paradigms and complexity criteria, parallel programming environments and tools for parallel debugging, language specification, mapping, performance, etc. Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits."
+}

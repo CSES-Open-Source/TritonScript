@@ -1,0 +1,18 @@
+{
+  "code": "MATH 104A",
+  "title": "Number Theory I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math104a",
+  "description": "Elementary number theory with applications. Topics include unique factorization, irrational numbers, residue systems, congruences, primitive roots, reciprocity laws, quadratic forms, arithmetic functions, partitions, Diophantine equations, distribution of primes. Applications include fast Fourier transform, signal processing, codes, cryptography. Prerequisites: MATH 100B or MATH 103B. Students who have not completed the listed prerequisite(s) may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 100B",
+      "MATH 103B"
+    ]
+  },
+  "successors": [
+    "MATH 104B"
+  ]
+}

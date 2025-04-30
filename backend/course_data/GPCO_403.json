@@ -1,0 +1,15 @@
+{
+  "code": "GPCO 403",
+  "title": "International Economics",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpco403",
+  "description": "The theory and mechanics of international economics. Included will be such topics as real trade theory, international movements of capital, the effects of trade and capital flows on domestic economies, and policies toward trade and foreign investment. Renumbered from IRCO 403. Students may not receive credit for GPCO 403 and IRCO 403. Prerequisites: GPS students only or consent of instructor.",
+  "successors": [
+    "GPEC 406",
+    "GPEC 409",
+    "GPEC 451",
+    "GPEC 462",
+    "GPEC 471"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "ECON 169",
+  "title": "Economics of Korea",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ169",
+  "description": "This course covers long-run economic development and current economic issues of South Korea. Topics include examination of major policy changes (e.g., shifts toward export promotion, heavy and chemical industries promotion); Korea\u2019s industrial structure, including the role of large enterprises (chaebol); role of government; and links between Korea and other countries. Prerequisites: ECON 3 and 100A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 3",
+      "ECON 100A"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "code": "LIIT 5CS",
+  "title": "Fundamentals of Italian III",
+  "units": "5",
+  "dept": "LING",
+  "description": "A course to increase the proficiency level of students who have completed LIIT 1B/1BX, 5BS or who are at an equivalent level. Attention to listening comprehension, conversation, reading, writing, grammar analysis, and culture. Equivalent to LIIT 1C/1CX. Prerequisites: LIIT 1B/1BX, 5BS or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "LIIT 1B",
+          "LIIT 1BX"
+        ]
+      },
+      "LIIT 5BS"
+    ]
+  },
+  "successors": [
+    "LIIT 5DS"
+  ]
+}

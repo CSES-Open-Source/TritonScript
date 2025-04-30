@@ -1,0 +1,15 @@
+{
+  "code": "MATH 106",
+  "title": "Introduction to Algebraic Geometry",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math106",
+  "description": "Plane curves, Bezout\u2019s theorem, singularities of plane curves. Affine and projective spaces, affine and projective varieties. Examples of all the above. Instructor may choose to include some commutative algebra or some computational examples. Prerequisites: MATH 100B or MATH 103B. Students who have not completed the listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 100B",
+      "MATH 103B"
+    ]
+  }
+}

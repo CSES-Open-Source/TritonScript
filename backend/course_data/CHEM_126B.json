@@ -1,0 +1,21 @@
+{
+  "code": "CHEM 126B",
+  "title": "Physical Biochemistry II: Quantum and Statistical Mechanics of Biomolecules",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem126b",
+  "description": "Renumbered from CHEM 126. This course covers quantum and statistical mechanics of biomolecules. Topics include quantum mechanics, molecular structure, spectroscopy fundamentals and applications to biomolecules, optical spectroscopy, NMR, and statistical approaches to protein folding. Students may not receive credit for CHEM 126B and either CHEM 126 or CHEM 130. Prerequisites: CHEM 126A or 127.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 126A",
+      "CHEM 127"
+    ]
+  },
+  "successors": [
+    "CHEM 105A",
+    "CHEM 135",
+    "CHEM 185",
+    "CHEM 186"
+  ]
+}

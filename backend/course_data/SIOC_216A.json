@@ -1,0 +1,11 @@
+{
+  "code": "SIOC 216A",
+  "title": "Introduction to the Physics of Complex Systems",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc216a",
+  "description": "Emergent complex behavior in nonlinear, dissipative, open dynamical systems will be investigated by studying fundamental properties and their manifestation in examples drawn from the physical and biological sciences. Topics to include fractals, chaos, self-organization, artificial life, and neural networks. Prerequisites: graduate standing or consent of instructor. (S/U grades permitted.)",
+  "successors": [
+    "SIOC 216B"
+  ]
+}

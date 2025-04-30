@@ -1,0 +1,11 @@
+{
+  "code": "HILD 14",
+  "title": "Film and History in Latin America",
+  "units": "4",
+  "dept": "HIST",
+  "anchor": "hild14",
+  "description": "Students watch films on Latin America and compare them to historical research on similar episodes or issues. Films will vary each year but will focus on the social and psychological consequences of colonialism, forced labor, religious beliefs, and \u201cModernization.\u201d",
+  "successors": [
+    "HITO 106"
+  ]
+}

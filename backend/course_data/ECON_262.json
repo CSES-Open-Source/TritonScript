@@ -1,0 +1,16 @@
+{
+  "code": "ECON 262",
+  "title": "Behavioral Game Theory",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ262",
+  "description": "This course is intended to give students an introduction to the study of strategic interaction through a behavioral lens. We will review game theory experiments and analyze which theoretical predictions are validated and which are violated in practice. We will characterize the systematic violations of the theory that come from experiments and study how these behavioral regularities can be incorporated into new equilibrium concepts. Prerequisites: graduate standing and ECON 200A-B-C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 200A",
+      "ECON 200B",
+      "ECON 200C"
+    ]
+  }
+}

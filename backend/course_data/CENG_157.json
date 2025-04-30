@@ -1,0 +1,16 @@
+{
+  "code": "CENG 157",
+  "title": "Process Technology in the Semiconductor Industry",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng157",
+  "description": "Brief introduction to solid-state materials and devices. Crystal growth and purification. Thin film technology. Application of chemical processing to the manufacture of semiconductor devices. Topics to be covered: physics of solids, unit operations of solid state materials (bulk crystal growth, oxidation, vacuum science, chemical and physical vapor deposition, epitaxy, doping, etching).\u00a0Prerequisites:\u00a0CENG\u00a0101A, CENG\u00a0101B, and CENG 101C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CENG 101A",
+      "CENG 101B",
+      "CENG 101C"
+    ]
+  }
+}

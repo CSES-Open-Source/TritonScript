@@ -1,0 +1,28 @@
+{
+  "code": "CENG 120",
+  "title": "Chemical Process Dynamics and Control",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng120",
+  "description": "Examination of dynamic linear and linearized models of chemical processes. Stability analysis. Design of PID controllers. Selection of control and manipulated variables. Root locus, Bode, and Nyquist plots. Cascade, feed-forward and ratio controls. Prerequisites: admission to the major; CENG 15 or MAE 8 or NANO 15, and\u00a0CENG 100, CENG 101B, CENG\u00a0113, and MATH 20D.\u00a0Restricted to majors CE 25, NA 25, MC 25, MC 27, MC 28, MC 29.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CENG 15",
+          "MAE 8",
+          "NANO 15"
+        ]
+      },
+      "CENG 100",
+      "CENG 101B",
+      "CENG 113",
+      "MATH 20D"
+    ]
+  },
+  "successors": [
+    "MAE 175A"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "EDS 260B",
+  "title": "Educational Research and Evaluation Design",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds260b",
+  "description": "This course integrates a variety of social and behavioral science perspectives and research methodologies in examining topics of central relevance to education. Students have opportunities to design and apply to educational-research questions a variety of methodologies, including survey, interview, ethnographic, case study, video data analysis, and discourse analysis methods. This is the second of a three-course series. Prerequisites: EDS 260A, and admission into the EdD program or consent of instructor.",
+  "prereqs": "EDS 260A",
+  "successors": [
+    "EDS 260C"
+  ]
+}

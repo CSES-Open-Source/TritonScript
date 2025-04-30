@@ -1,0 +1,8 @@
+{
+  "code": "CSE 257",
+  "title": "Search and Optimization",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse257",
+  "description": "The course will cover core algorithms for sequential decision-making problems in autonomous systems. Topics include heuristic search, Monte Carlo search, deep reinforcement learning, nonlinear optimization, mixed-integer optimization, and stochastic optimization. Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits."
+}

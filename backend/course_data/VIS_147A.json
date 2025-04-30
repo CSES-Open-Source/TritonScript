@@ -1,0 +1,19 @@
+{
+  "code": "VIS 147A",
+  "title": "Electronic Technologies for Art I",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis147a",
+  "description": "Develop artworks and installations that utilize digital electronics. Techniques in digital electronic construction and computer interfacing for interactive control of sound, lighting, and electromechanics. Construction of devices that responsively adapt artworks to conditions involving viewer participation, space activation, machine intelligence. Recommended preparation: CSE 8A strongly recommended. Program or materials fees may apply. Purchase of components kit required. Two production-course limitation. Prerequisites: VIS 41 or VIS 70N or VIS 80. Open to media, studio, ICAM, and speculative design majors and computing and the arts and speculative design minors.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 41",
+      "VIS 70N",
+      "VIS 80"
+    ]
+  },
+  "successors": [
+    "VIS 147B"
+  ]
+}

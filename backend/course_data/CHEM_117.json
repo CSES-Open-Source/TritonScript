@@ -1,0 +1,16 @@
+{
+  "code": "CHEM 117",
+  "title": "Biomedical Research in Health Disparities",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem117",
+  "description": "A survey of the historical perspective of health disparities including a review of research studies that harmed disadvantaged populations and discussion of race and ethnicity as an independent contributor to health outcomes. This course covers the scientific basis of health disparities including genomics and other biologic factors. The most recent research studies and technologies, including personalized medicine, to reduce health disparities will be addressed. Prerequisites: CHEM 40B, 40CH, or 41C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 40B",
+      "CHEM 40CH",
+      "CHEM 41C"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "code": "PSYC 70",
+  "title": "Research Methods in Psychology",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc70",
+  "description": "This course provides an overview of how to choose appropriate research methods for experimental and nonexperimental studies. Topics may include classic experimental design and counterbalancing, statistical power, and causal inference in experimental and nonexperimental settings. Prerequisites: PSYC 60 or equivalent.",
+  "prereqs": "PSYC 60",
+  "successors": [
+    "PSYC 113",
+    "PSYC 114",
+    "PSYC 116A",
+    "PSYC 117",
+    "PSYC 118",
+    "PSYC 120",
+    "PSYC 121",
+    "PSYC 127",
+    "PSYC 140",
+    "PSYC 175",
+    "PSYC 193L",
+    "PSYC 71",
+    "PSYC 81"
+  ]
+}

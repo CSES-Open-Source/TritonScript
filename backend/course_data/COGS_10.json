@@ -1,0 +1,17 @@
+{
+  "code": "COGS 10",
+  "title": "Cognitive Consequences of Technology",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs10",
+  "description": "This course examines the interrelationships of cognition and technology from the perspective of cognitive science. We address questions of importance for our increasingly technological society: How does technology shape our minds? How should what we know about our minds shape technology?",
+  "successors": [
+    "COGS 100",
+    "COGS 102A",
+    "COGS 120",
+    "COGS 128",
+    "COGS 187A",
+    "CSE 170",
+    "DSGN 119"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "SE 125",
+  "title": "Statistics, Probability and Reliability",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se125",
+  "description": "Probability theory. Statistics, data analysis and inferential statistics, distributions, confidence intervals. Introduction to structural reliability and random phenomena. Applications to components and systems. Students will not receive credit for both SE 125 and MAE 108. Prerequisites: MATH 18 or MATH 31AH and MATH 20D. Enrollment restricted to SE27 majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      "MATH 20D"
+    ]
+  },
+  "successors": [
+    "CSE 151B",
+    "MAE 146",
+    "MATH 189",
+    "SE 132"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "FMPH 419",
+  "title": "Biostatistics II",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fmph419",
+  "description": "Students will understand and conduct advanced bio-statistical analyses, including multiple linear and logistic regression, survival analysis, Cox and extended Cox regression, and longitudinal data analysis. Students will analyze data using these techniques and learn to program using a statistical software package (e.g., R). Issues such as confounding, missing data, and causal inference will be discussed. Prerequisites: must be enrolled in MPH program (FM75) or program approval and successfully completed FMPH 400.",
+  "prereqs": "FMPH 400"
+}

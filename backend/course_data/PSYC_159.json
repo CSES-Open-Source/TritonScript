@@ -1,0 +1,15 @@
+{
+  "code": "PSYC 159",
+  "title": "Physiological Basis of Perception",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc159",
+  "description": "This course provides a survey of sensory and perceptual phenomena with an emphasis on their underlying physiological mechanisms. Prerequisites: upper-division standing; PSYC 102 or COGS 101A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "PSYC 102",
+      "COGS 101A"
+    ]
+  }
+}

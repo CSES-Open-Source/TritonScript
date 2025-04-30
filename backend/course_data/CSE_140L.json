@@ -1,0 +1,28 @@
+{
+  "code": "CSE 140L",
+  "title": "Digital Systems Laboratory",
+  "units": "2",
+  "dept": "CSE",
+  "anchor": "cse140l",
+  "description": "Implementation with computer-aided design tools for combinational logic minimization and state machine synthesis. Hardware construction of a small digital system. Prerequisites: CSE 20 or MATH 109 or MATH 15A or MATH 31CH and CSE 30; CSE 140 must be taken concurrently; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CSE 20",
+          "MATH 109",
+          "MATH 15A",
+          "MATH 31CH"
+        ]
+      },
+      "CSE 30"
+    ]
+  },
+  "coreqs": "CSE 140",
+  "successors": [
+    "CSE 141",
+    "CSE 141L"
+  ]
+}

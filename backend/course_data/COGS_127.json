@@ -1,0 +1,33 @@
+{
+  "code": "COGS 127",
+  "title": "Data-Driven UX/Product Design",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs127",
+  "description": "Create a UX/product design case study for your portfolio; team project with user research, data science, prototyping, and user testing. Prerequisites: COGS 18 or CSE 11 or CSE 8B or DSC 30 and COGS 1 or COGS 187A or DSGN 1.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "COGS 18",
+          "CSE 11",
+          "CSE 8B",
+          "DSC 30"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "COGS 1",
+          "COGS 187A",
+          "DSGN 1"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "COGS 124"
+  ]
+}

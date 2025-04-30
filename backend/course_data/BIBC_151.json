@@ -1,0 +1,17 @@
+{
+  "code": "BIBC 151",
+  "title": "Chemistry of Biological Interactions",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bibc151",
+  "description": "Nearly all interactions between organisms, including host-pathogen interactions and mate attraction, have a chemical basis. Plants and microorganisms are the dominant life forms on earth and remain a major source of pharmaceutical leads. Students in this course will utilize biochemical methods to extract, fractionate, and analyze plant and microbial compounds of medicinal and ecological significance including antibiotics, growth regulators, toxins, and signaling molecules. Students use own laptops. Course requires field studies. Transportation not provided by the university. Students must comply with all risk management policies and procedures. Course materials fees will be applied. Prerequisites: BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BIBC 100",
+      "BIBC 102",
+      "CHEM 114A",
+      "CHEM 114B"
+    ]
+  }
+}

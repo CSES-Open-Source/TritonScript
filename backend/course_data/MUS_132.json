@@ -1,0 +1,11 @@
+{
+  "code": "MUS 132",
+  "title": "Proseminar in Music Performance",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus132",
+  "description": "Individual or master class instruction in advanced instrumental performance. For declared music majors and minors. Students must be simultaneously enrolled in a performance ensemble or nonperformance music course. May be taken for credit six times. Prerequisites: audition and department approval.",
+  "successors": [
+    "MUS 132R"
+  ]
+}

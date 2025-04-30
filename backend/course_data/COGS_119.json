@@ -1,0 +1,22 @@
+{
+  "code": "COGS 119",
+  "title": "Programming for Experimental Research",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs119",
+  "description": "This course will help students in the behavioral sciences (cognitive science, psychology, linguistics, neuroscience, and related fields) learn how to program experiments and analyze and present data. Prerequisites: COGS 14B and MATH 18 or MATH 31AH and MAE 8.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COGS 14B",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      "MAE 8"
+    ]
+  }
+}

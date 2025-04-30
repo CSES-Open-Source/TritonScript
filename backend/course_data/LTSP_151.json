@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 151",
+  "title": "Topics in Chicano/a-Latino/a Cultures",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp151",
+  "description": "Cross-disciplinary study of late twentieth-century Chicano/a-Latino/a literature, the visual and performing arts, film, or other cultural practices. Representative areas of study are social movements, revolution, immigration, globalization, gender and sexuality, cultures of the US-Mexican border, and Chicano/a-Mexicano/a literary relations. May be taken up to two times for credit as topics vary.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

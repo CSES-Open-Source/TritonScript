@@ -1,0 +1,18 @@
+{
+  "code": "ECE 100",
+  "title": "Linear Electronic Systems",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece100",
+  "description": "Linear active circuit and system design. Topics include frequency response; use of Laplace transforms; design and stability of filters using operational amplifiers. Integrated lab and lecture involves analysis, design, simulation, and testing of circuits and systems. Program or materials fees may apply. Prerequisites: ECE 45 and ECE 65. ECE 65 may be taken concurrently.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 45",
+      "ECE 65"
+    ]
+  },
+  "successors": [
+    "ECE 102"
+  ]
+}

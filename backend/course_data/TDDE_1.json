@@ -1,0 +1,20 @@
+{
+  "code": "TDDE 1",
+  "title": "Introduction to Design for the Theatre",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdde1",
+  "description": "A survey of contemporary and historical concepts and practices in the visual arts of the theatre; studies in text analysis, studio processes and technical production; elementary work in design criticism, scale model making, and costume design. A course serving as an introduction to theatre design and production.",
+  "successors": [
+    "TDDE 101",
+    "TDDE 102",
+    "TDDE 111",
+    "TDDE 112",
+    "TDDE 121",
+    "TDDE 130",
+    "TDDE 131",
+    "TDDE 132",
+    "TDDE 141",
+    "TDDE 142"
+  ]
+}

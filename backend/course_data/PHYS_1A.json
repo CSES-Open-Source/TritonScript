@@ -1,0 +1,21 @@
+{
+  "code": "PHYS 1A",
+  "title": "Mechanics",
+  "units": "3",
+  "dept": "PHYS",
+  "anchor": "phys1a",
+  "description": "First quarter of a three-quarter introductory physics course, geared toward life-science majors. Equilibrium and motion of particles in one and two dimensions in the framework of Newtonian mechanics, force laws (including gravity), energy, momentum, rotational motion, conservation laws, and fluids. Examples will be drawn from astronomy, biology, sports, and current events. PHYS 1A and 1AL are designed to be taken concurrently but may be taken in separate terms; taking the lecture before the lab is the best alternative to enrolling in both. Students continuing to PHYS 1B/1BL will also need MATH 10B or 20B. Prerequisites: MATH 10A or 20A. Recommended preparation: concurrent or prior enrollment in MATH 10B or 20B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 10A",
+      "MATH 20A"
+    ]
+  },
+  "successors": [
+    "EDS 105",
+    "ESYS 102",
+    "PHYS 1B",
+    "PHYS 1BL"
+  ]
+}

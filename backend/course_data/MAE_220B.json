@@ -1,0 +1,9 @@
+{
+  "code": "MAE 220B",
+  "title": "Physical Gas Dynamics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae220b",
+  "description": "Velocity distribution functions, the Boltzmann equation, moment equations and the Navier-Stokes equations. The dynamics of molecular collisions. The Chapman-Enskog expansion and transport coefficients: shear and bulk viscosity, heat conduction, molecular and thermal diffusion. Linearizations about equilibrium: applications to acoustics and supersonic flows with relaxation. Prerequisites: MAE 220A and graduate standing.",
+  "prereqs": "MAE 220A"
+}

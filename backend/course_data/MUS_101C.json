@@ -1,0 +1,12 @@
+{
+  "code": "MUS 101C",
+  "title": "Music Theory and Practice III",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus101c",
+  "description": "Tonal harmony and counterpoint. Analysis of larger classical forms: Sonata, Variation, Minuet and Trio, Rondo. Musicianship studies: sight-singing, dictation, and keyboard skills. Prerequisites: MUS 101B.",
+  "prereqs": "MUS 101B",
+  "successors": [
+    "MUS 128"
+  ]
+}

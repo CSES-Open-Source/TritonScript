@@ -1,0 +1,47 @@
+{
+  "code": "PHYS 110B",
+  "title": "Mechanics II",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys110b",
+  "description": "Noninertial reference systems, dynamics of rigid bodies, Hamilton\u2019s equations, Liouville\u2019s theorem, chaos, continuum mechanics, special relativity. Prerequisites: PHYS 110A, MATH 20A-B-C or 31BH, 20D, 20E or 31CH, and 18 or 20F or 31AH. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 110A",
+      {
+        "type": "one",
+        "courses": [
+          {
+            "type": "all",
+            "courses": [
+              "MATH 20A",
+              "MATH 20B",
+              "MATH 20C"
+            ]
+          },
+          "MATH 31BH"
+        ]
+      },
+      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20E",
+          "MATH 31CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "PHYS 116"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "VIS 84",
+  "title": "Film History",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis84",
+  "description": "A survey of the history and the art of the cinema. The course will cover a range of national and international cinemas from the origins of cinema and the contributions of the earliest filmmakers to film movements and styles of the late twentieth century. Program or materials fees may apply. Prerequisites: none.",
+  "successors": [
+    "VIS 150A",
+    "VIS 151",
+    "VIS 151A",
+    "VIS 152",
+    "VIS 155",
+    "VIS 156",
+    "VIS 194S"
+  ]
+}

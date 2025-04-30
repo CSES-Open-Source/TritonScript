@@ -1,0 +1,9 @@
+{
+  "code": "MAE 121",
+  "title": "Air Pollution Transport and Dispersion Modeling",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae121",
+  "description": "Overview of air pollution and wastes and their impact. Characteristics of air pollutants. Air pollution transport. Atmospheric stability. Plume rise and dispersion. Meteorological data. Selecting the appropriate air quality model and case studies. Modeling complex terrain situations. Current air quality modeling issues. Laws and regulations to control air pollution. Prerequisites: MAE 122.",
+  "prereqs": "MAE 122"
+}

@@ -1,0 +1,27 @@
+{
+  "code": "ECON 122",
+  "title": "Econometric Theory",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ122",
+  "description": "Detailed study of the small sample and asymptotic properties of estimators commonly used in applied econometric work: multiple linear regression, instrumental variables, generalized method of moments, and maximum likelihood. Econometric computation using MATLAB. Recommended preparation: ECON 120C. Prerequisites: ECON 120B or MATH 181B and MATH 18 or MATH 31AH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "ECON 120B",
+          "MATH 181B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  }
+}

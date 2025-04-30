@@ -1,0 +1,32 @@
+{
+  "code": "MATH 111A",
+  "title": "Mathematical Modeling I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math111a",
+  "description": "An introduction to mathematical modeling in the physical and social sciences. Topics vary, but have included mathematical models for epidemics, chemical reactions, political organizations, magnets, economic mobility, and geographical distributions of species. May be taken for credit two times when topics change. Prerequisites: MATH 20D, MATH 18 or MATH 20F or MATH 31AH, and MATH 109 or MATH 31CH. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 109",
+          "MATH 31CH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MATH 111B"
+  ]
+}

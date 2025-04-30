@@ -1,0 +1,13 @@
+{
+  "code": "ECE 25",
+  "title": "Introduction to Digital Design",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece25",
+  "description": "This course emphasizes digital electronics. Principles introduced in lectures are used in laboratory assignments, which also serve to introduce experimental and design methods. Topics include Boolean algebra, combination and sequential logic, gates and their implementation in digital circuits. (Course materials and/or program fees may apply.) Prerequisites: none.",
+  "successors": [
+    "ECE 108",
+    "ECE 111",
+    "ECE 30"
+  ]
+}

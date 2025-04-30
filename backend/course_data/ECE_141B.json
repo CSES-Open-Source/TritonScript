@@ -1,0 +1,12 @@
+{
+  "code": "ECE 141B",
+  "title": "Software Foundations II",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece141b",
+  "description": "ECE 141B builds upon the solid C++ foundation of ECE 141A. Students will model and build a working database management solution in C++. Topics include STL, design patterns, parsing, searching and sorting, algorithmic thinking, and design partitioning. The course will continue to explore best practices in software development, debugging, and testing. Prerequisites: ECE 141A.",
+  "prereqs": "ECE 141A",
+  "successors": [
+    "CSE 122"
+  ]
+}

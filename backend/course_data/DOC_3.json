@@ -1,0 +1,21 @@
+{
+  "code": "DOC 3",
+  "title": "Dimensions of Culture: Imagination",
+  "units": "6",
+  "dept": "DOC",
+  "anchor": "doc3",
+  "description": "This course examines the relevance of sociocultural diversity and the nature of justice in explicitly local and contemporary contexts. Students are asked to imagine and propose rigorously researched and interdisciplinary solutions to issues relevant to their own lived experiences. The course offers intensive instruction in writing university-level expository prose, with special emphasis on developing a research process. Restrictions: Marshall College students only, must be taken for a letter grade. Prerequisites: DOC 2. (S)",
+  "prereqs": "DOC 2",
+  "successors": [
+    "CSE 194",
+    "HITO 106",
+    "LTEN 30",
+    "LTWR 8A",
+    "LTWR 8B",
+    "LTWR 8C",
+    "PHIL 27",
+    "PHYS 30",
+    "POLI 27",
+    "TMC 198"
+  ]
+}

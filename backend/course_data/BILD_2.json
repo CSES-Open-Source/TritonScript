@@ -1,0 +1,31 @@
+{
+  "code": "BILD 2",
+  "title": "Multicellular Life",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bild2",
+  "description": "An introduction to the development and the physiological processes of plants and animals. Included are treatments of reproduction, nutrition, respiration, transport systems, regulation of the internal environment, the nervous system, and behavior. Prerequisites: BILD 1.",
+  "prereqs": "BILD 1",
+  "successors": [
+    "BICD 104",
+    "BICD 136",
+    "BILD 60",
+    "BILD 60GS",
+    "BIMM 149",
+    "BIPN 100",
+    "BIPN 106",
+    "BIPN 140",
+    "BIPN 145",
+    "BIPN 146",
+    "BIPN 147",
+    "BIPN 160",
+    "BIPN 189",
+    "BISP 170",
+    "ESYS 101",
+    "PSYC 189",
+    "SIO 121",
+    "SIO 128",
+    "SIO 131",
+    "SIO 146"
+  ]
+}

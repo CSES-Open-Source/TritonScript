@@ -1,0 +1,21 @@
+{
+  "code": "SIO 125",
+  "title": "Biomechanics of Marine Life",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio125",
+  "description": "An introduction to the physical basis of the biological world. This course explores how the physical principles of solids and fluids underlay the functional morphology, ecology, and adaptations of all living things, with emphasis on marine organisms. Prerequisites: BILD 3 and PHYS 1C or PHYS 2C, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 3",
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1C",
+          "PHYS 2C"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "LIGN 271",
+  "title": "Advanced Topics in Psycholinguistics",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign271",
+  "description": "Advanced material covering topics in the experimental study of language comprehension, relating to different theoretical analyses of syntax, semantics, and pragmatics; models of linguistic architecture; methodological and statistical issues; cross-linguistic psycholinguistics; and interfaces with broader cognition. May be taken for credit up to two times. Prerequisites: LIGN 270.",
+  "prereqs": "LIGN 270"
+}

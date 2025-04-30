@@ -1,0 +1,12 @@
+{
+  "code": "LTKO 1B",
+  "title": "Beginning Korean: First Year II",
+  "units": "5",
+  "dept": "LIT",
+  "anchor": "ltko1b",
+  "description": "Students develop beginning-level skills in the Korean language, with an introduction to the writing and sound system. The remainder of the course will focus on basic sentence structures and expressions.  Prerequisites:  LTKO 1A or placement test and consent of instructor.",
+  "prereqs": "LTKO 1A",
+  "successors": [
+    "LTKO 1C"
+  ]
+}

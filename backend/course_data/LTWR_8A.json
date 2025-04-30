@@ -1,0 +1,81 @@
+{
+  "code": "LTWR 8A",
+  "title": "Writing Fiction",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr8a",
+  "description": "Study of fiction in both theory and practice. Narrative technique studied in terms of subjectivity and atmosphere, description, dialogue, and the editing process will be introduced through readings from the history of the novel and short story. Students are required to attend at least three New Writing Series readings during the quarter.  Prerequisites:  CAT 2 and 3 or DOC 2 and 3 or HUM 1 and 2 or MCWP 40 and 50 or MMW 12 and 13 or WARR 11A-B or WCWP 10A-B or SYN 1 and 2.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      {
+        "type": "all",
+        "courses": [
+          "CAT 2",
+          "CAT 3"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "DOC 2",
+          "DOC 3"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "HUM 1",
+          "HUM 2"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "MCWP 40",
+          "MCWP 50"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "MMW 12",
+          "MMW 13"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "WARR 11A",
+          "WARR 11B"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "WCWP 10A",
+          "WCWP 10B"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "SYN 1",
+          "SYN 2"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "LTWR 100",
+    "LTWR 101",
+    "LTWR 106",
+    "LTWR 109",
+    "LTWR 113",
+    "LTWR 114",
+    "LTWR 115",
+    "LTWR 119",
+    "LTWR 120",
+    "LTWR 124"
+  ]
+}

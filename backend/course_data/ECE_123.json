@@ -1,0 +1,9 @@
+{
+  "code": "ECE 123",
+  "title": "Antenna Systems Engineering",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece123",
+  "description": "The electromagnetic and systems engineering of radio antennas for terrestrial wireless and satellite communications. Antenna impedance, beam pattern, gain, and polarization. Dipoles, monopoles, paraboloids, phased arrays. Power and noise budgets for communication links. Atmospheric propagation and multipath. Prerequisites: ECE 107 with a grade of C\u2013 or better.",
+  "prereqs": "ECE 107"
+}

@@ -1,0 +1,9 @@
+{
+  "code": "NANO 204",
+  "title": "Nanoscale Physics and Modeling",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano204",
+  "description": "This course will introduce students to analytical and numerical methods such as statistical mechanisms, molecular simulations, and finite differences and finite element modeling through their application to NanoEngineering problems involving polymer and colloid self-assembly, absorption, phase separation, and diffusion. Cross-listed with CENG 214. Students may not receive credit for both NANO 204 and CENG 214. Prerequisites: NANO 202 or consent of\u00a0instructor.",
+  "prereqs": "NANO 202"
+}

@@ -1,0 +1,23 @@
+{
+  "code": "CHEM 40B",
+  "title": "Organic Chemistry for Life Sciences II",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem40b",
+  "description": "This is the second quarter of a two-quarter organic chemistry sequence intended for biological sciences majors and other interested students. The course is a continuation of CHEM 40A and provides an in-depth study of the molecular structure and reactivity of organic molecules with emphasis on biological applications. Topics covered include carbonyl reactivity, enzymatic catalysis, electrophilic substitutions and additions, and the molecular basis of drug action. Students may receive credit for one of the following: CHEM 40B or 40BH. Prerequisites: CHEM 40A.",
+  "prereqs": "CHEM 40A",
+  "successors": [
+    "BENG 123",
+    "BIBC 100",
+    "BIBC 102",
+    "BIMM 100",
+    "CHEM 114B",
+    "CHEM 117",
+    "CHEM 142",
+    "CHEM 143B",
+    "CHEM 143C",
+    "CHEM 145",
+    "CHEM 40C",
+    "CHEM 40CH"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "ECON 183",
+  "title": "Topics in Macroeconomics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ183",
+  "description": "May be taken for credit up to three times. Prerequisites: ECON 110B.",
+  "prereqs": "ECON 110B"
+}

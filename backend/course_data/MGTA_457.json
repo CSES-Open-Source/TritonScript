@@ -1,0 +1,16 @@
+{
+  "code": "MGTA 457",
+  "title": "Business Intelligence Systems",
+  "units": "2",
+  "dept": "MGT",
+  "anchor": "mgta457",
+  "description": "A decision support system consists of decision model, data, and user interface. This course covers the R and Shiny programming and design skills to develop a DSS that addresses a manager\u2019s decision-making needs. Prerequisites: MGTA 451, MGTA 452, MGTA 453, and restricted to MS in business analytics program or with department and instructor approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGTA 451",
+      "MGTA 452",
+      "MGTA 453"
+    ]
+  }
+}

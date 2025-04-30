@@ -1,0 +1,12 @@
+{
+  "code": "BGGN 223",
+  "title": "Graduate Genetics",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bggn223",
+  "description": "Advanced coverage of classical and cutting-edge genetic technologies in a wide variety of organisms\u2014bacteria, plants, insects, worms, fish, and mammals. The power of genetic approaches to provide fundamental insights into important questions in development, physiology, behavior, medicine, and evolution. Course format centered on discussion of research papers with genetic analysis at their core. Emphasis on exploring essential genetic concepts, principles, and mechanisms throughout biology. Letter grades only.",
+  "successors": [
+    "BIOM 262",
+    "BNFO 286"
+  ]
+}

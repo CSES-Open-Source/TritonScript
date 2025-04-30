@@ -1,0 +1,15 @@
+{
+  "code": "ECON 250C",
+  "title": "Advanced Topics in Labor Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ250c",
+  "description": "Topics typically include labor supply, education and training, human capital, discrimination, intergenerational mobility, inequality, wage setting. Prerequisites: ECON 250A and ECON 250B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 250A",
+      "ECON 250B"
+    ]
+  }
+}

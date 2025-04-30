@@ -1,0 +1,15 @@
+{
+  "code": "CGS 122",
+  "title": "Advanced Topics in Comparative Perspectives",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs122",
+  "description": "Focuses on the relationship between gender and culture from a multiplicity of perspectives. Possible topics could include gender and ethnicity, gender across class, and other topics to be examined in a cross-cultural framework. May be taken for credit two times when topics vary. Prerequisites: CGS 2A-B, at least one CGS upper-division course, or permission of the instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B"
+    ]
+  }
+}

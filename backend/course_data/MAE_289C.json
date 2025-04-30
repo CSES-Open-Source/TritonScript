@@ -1,0 +1,9 @@
+{
+  "code": "MAE 289C",
+  "title": "Functional Analysis and Applications",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae289c",
+  "description": "Topics in functional analysis, with the emphasis on those of use in applications. May include function spaces, linear functionals, dual spaces, reflexivity, linear operators, strong and weak convergence, Hahn-Banach Theorem, nonlinear functionals, differential calculus of variations, Pontryagin Maximum Principle. Students cannot obtain credit for MAE 289C if they have taken MAE 289. Prerequisites: MAE 289B, graduate standing, or consent of instructor.",
+  "prereqs": "MAE 289B"
+}

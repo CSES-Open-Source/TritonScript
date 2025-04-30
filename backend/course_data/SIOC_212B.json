@@ -1,0 +1,30 @@
+{
+  "code": "SIOC 212B",
+  "title": "Geophysical Fluid Dynamics II",
+  "units": "5",
+  "dept": "SIO",
+  "anchor": "sioc212b",
+  "description": "The equations of motion for rotating stratified flow and their application to the atmospheric and oceanic dynamics; Ekman layer dynamics, potential vorticity dynamics, the quasigeostrophic approximation, theories of the wind-driven oceanic circulation, theories of the atmospheric Hadley circulation, geostrophic adjustment, and baroclinic instability. Prerequisites: graduate standing and SIOC 212A or SIO 212A and SIOC 214A or SIO 214A or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SIOC 212A",
+          "SIO 212A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SIOC 214A",
+          "SIO 214A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "SIOC 235"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": "DSE 260",
+  "title": "Data Science Capstone Design Project",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "dse260",
+  "description": "A team design project in the final two quarters of the program culminates in a final report and an oral presentation of the capstone project. In addition, there might be a demonstration of the working prototype. The project will start by identifying a domain of interest and the available data sources that will be used to study the domain. From this starting point there will be two parallel and interdependent lines of work: data extraction, Transformation and Loading (ETL), and statistical analysis and model building. The ultimate goal will be to present a processing pipeline which transforms the raw data into more usable forms and models which separates between the predictable and the unpredictable aspects of the underlying system. Examples of previous capstone projects can be found\u00a0here."
+}

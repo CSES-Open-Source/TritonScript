@@ -1,0 +1,15 @@
+{
+  "code": "COGS 170",
+  "title": "Brain Waves across Scales",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs170",
+  "description": "This course will provide an interactive and hands-on introduction to rhythms and large-scale electrical potentials of the brain. Topics will include the resonance properties of neurons, rhythmic interactions between neurons, the coordination of activity across large populations of neurons that is measurable in the local field potential (LFP) and electroencephalogram (EEG), the advantages of temporally coordinated neural activity, and relevant insights about the brain and cognitive disorders. Prerequisites: COGS 17 or BILD 12.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 17",
+      "BILD 12"
+    ]
+  }
+}

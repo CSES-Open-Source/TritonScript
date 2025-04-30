@@ -1,0 +1,11 @@
+{
+  "code": "MATH 260A",
+  "title": "Mathematical Logic I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math260a",
+  "description": "Propositional calculus and first-order logic. Theorem proving, Model theory, soundness, completeness, and compactness, Herbrand\u2019s theorem, Skolem-Lowenheim theorems, Craig interpolation. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "MATH 260B"
+  ]
+}

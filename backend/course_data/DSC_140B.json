@@ -1,0 +1,25 @@
+{
+  "code": "DSC 140B",
+  "title": "Representation Learning",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc140b",
+  "description": "This course is an introduction to machine learning which explores techniques for learning suitable representations from data. Topics include clustering, dimensionality reduction, manifold learning, principal component analysis, spectral embeddings, multilayer perceptrons, autoencoders, convolutional and recurrent neural networks, and other aspects of deep learning. The course focuses on the underlying mathematical principles, but some attention is also given to implementation. Prerequisites:\u00a0DSC 80, ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 183 or MATH 186. Restricted to students within the DS25 major. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 80",
+      {
+        "type": "one",
+        "courses": [
+          "ECE 109",
+          "ECON 120A",
+          "MAE 108",
+          "MATH 180A",
+          "MATH 183",
+          "MATH 186"
+        ]
+      }
+    ]
+  }
+}

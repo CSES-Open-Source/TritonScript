@@ -1,0 +1,12 @@
+{
+  "code": "LIGN 240",
+  "title": "Field Methods",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign240",
+  "description": "Techniques of discovering the structure of a language through elicitation of data from native speaker consultants. Phonemic, morphemic, and syntactic analysis. Prerequisites: LIGN 110 or equivalent.",
+  "prereqs": "LIGN 110",
+  "successors": [
+    "LIGN 241"
+  ]
+}

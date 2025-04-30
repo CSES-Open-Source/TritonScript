@@ -1,0 +1,18 @@
+{
+  "code": "SIOC 221B",
+  "title": "Analysis of Physical Oceanographic Data (B)",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc221b",
+  "description": "Techniques for analysis of physical oceanographic data involving many simultaneous processes, including probability densities, sampling errors, spectral analysis, empirical orthogonal functions, correlation, linear estimation, objective mapping. Prerequisites: SIOC 221A or SIO 221A or consent of instructor. (S/U grades permitted.)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIOC 221A",
+      "SIO 221A"
+    ]
+  },
+  "successors": [
+    "SIOC 221C"
+  ]
+}

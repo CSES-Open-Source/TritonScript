@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 150A",
+  "title": "Early Latino/a-Chicano/a Cultural Production: 1848 to 1960",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp150a",
+  "description": "Cross-disciplinary study of nineteenth- and early twentieth-century Latino/a-Chicano/a literature, folklore, music, testimonio, or other cultural practices. Specific periods covered will fall between the immediate aftermath of the Treaty of Guadalupe Hidalgo to the Cuban revolution. May be taken for credit up to two times as topics vary.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

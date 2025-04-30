@@ -1,0 +1,15 @@
+{
+  "code": "MATH 148",
+  "title": "Analysis of Partial Differential Equations",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math148",
+  "description": "A rigorous introduction to partial differential equations. Topics include initial and boundary value problems; first order linear and quasilinear equations, method of characteristics; wave and heat equations on the line, half-line, and in space; separation of variables for heat and wave equations on an interval and for Laplace\u2019s equation on rectangles and discs; eigenfunctions of the Laplacian and heat, wave, Poisson\u2019s equations on bounded domains; and Green\u2019s functions and distributions. Prerequisites: MATH 140B or MATH 142B. Students who have not completed listed prerequisite(s) may enroll with the consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 140B",
+      "MATH 142B"
+    ]
+  }
+}

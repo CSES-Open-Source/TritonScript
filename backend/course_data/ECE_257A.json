@@ -1,0 +1,8 @@
+{
+  "code": "ECE 257A",
+  "title": "Modern Communication Networks",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece257a",
+  "description": "This course focuses on modern local area networks (Wi-Fi, Ethernet, etc.) and wide area networks (LTE, 5G, etc.). Topics to be covered include end-to-end network architecture, physical layer packet processing, medium access control protocols, mobility management and mobile IP, TCP over wireless, mobile applications (e.g., mobile web, real-time video streaming, and telephony). Recommended preparation: ECE 158A. Prerequisites: graduate standing or consent of instructor."
+}

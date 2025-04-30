@@ -1,0 +1,12 @@
+{
+  "code": "ASTR 102",
+  "title": "Electrodynamics and Optics for Astrophysicists",
+  "units": "4",
+  "dept": "ASTR",
+  "anchor": "astr102",
+  "description": "Electrodynamics and optics with an emphasis on astrophysical applications. Topics include Maxwell\u2019s equations in vacuum and media, applications; electromagnetic waves, Poynting theorem, waves in media; waveguides, resonators, solution of PDEs by separation; Fermat\u2019s principle, geometrical optics, lenses with introduction to gravitational lensing; physical optics, diffraction (Fresnel and Fraunhofer), and interference. Prerequisites: ASTR 101.",
+  "prereqs": "ASTR 101",
+  "successors": [
+    "ASTR 103"
+  ]
+}

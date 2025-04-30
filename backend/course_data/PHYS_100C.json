@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 100C",
+  "title": "Electromagnetism III",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys100c",
+  "description": "Electromagnetic waves, radiation theory; application to optics; motion of charged particles in electromagnetic fields; relation of electromagnetism to relativistic concepts. Prerequisites: PHYS 100B. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only.",
+  "prereqs": "PHYS 100B"
+}

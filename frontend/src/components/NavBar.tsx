@@ -1,18 +1,29 @@
 import { Link, useNavigate } from "react-router-dom";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import "./NavBar.css";
 
 function NavBar() {
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
+  // get login state from localStorage
+  const [isLoggedIn, setIsLoggedIn] = useState(() => {
+    return localStorage.getItem("isLoggedIn") === "true";
+  });
+
   const navigate = useNavigate();
+
+  // update localStorage when login state changes
+  useEffect(() => {
+    localStorage.setItem("isLoggedIn", isLoggedIn.toString());
+  }, [isLoggedIn]);
 
   const handleAuthClick = () => {
     if (isLoggedIn) {
       setIsLoggedIn(false);
+      localStorage.removeItem("isLoggedIn");
       navigate("/");
     } else {
-      navigate("/dashboard");
       setIsLoggedIn(true);
+      localStorage.setItem("isLoggedIn", "true");
+      navigate("/dashboard");
     }
   };
 
@@ -21,7 +32,7 @@ function NavBar() {
       {/* Logo linking to Home */}
       <div className="navbar-logo">
         <Link to="/">
-          <img src="src/assets/cses-opensource.png" alt="CSES Logo" className="logo-image" />
+          <img src="src/assets/tritonscript.png" alt="TritonScript Logo" className="logo-image" />
         </Link>
       </div>
 
@@ -29,7 +40,7 @@ function NavBar() {
       <ul className="navbar-links">
         {!isLoggedIn ? (
           <>
-            <li>
+            {/* <li>
               <Link to="/faqs">FAQs</Link>
             </li>
             <li>
@@ -37,7 +48,7 @@ function NavBar() {
             </li>
             <li>
               <Link to="/contact-us">Contact Us</Link>
-            </li>
+            </li> */}
           </>
         ) : (
           <>

@@ -1,0 +1,11 @@
+{
+  "code": "SOCG 208A",
+  "title": "Graduate Student Seminar",
+  "units": "1",
+  "dept": "SOC",
+  "anchor": "socg208a",
+  "description": "Introduction to the sociology graduate program and faculty. Course includes themes to connect student with the sociological community, a variety of departmental scholarly research, and focus on practical tools for student success. Students may not receive credit for SOCG 208A and SOCG 208. Prerequisites: graduate standing in sociology.",
+  "successors": [
+    "SOCG 208B"
+  ]
+}

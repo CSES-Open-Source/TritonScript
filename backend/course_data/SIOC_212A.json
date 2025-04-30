@@ -1,0 +1,13 @@
+{
+  "code": "SIOC 212A",
+  "title": "Geophysical Fluid Dynamics I",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc212a",
+  "description": "The equations of motions for rotating stratified flow and their application to the atmospheric and oceanic dynamics; Ekman layer dynamics, potential vorticity dynamics, the quasigeostrophic approximation, theories of the wind-driven oceanic circulation, theories of the atmospheric Hadley circulation, geostrophic adjustment, and baroclinic instability. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "SIOC 212B",
+    "SIOC 235",
+    "SIOC 250"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "CHEM 118",
+  "title": "Pharmacology and Toxicology",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem118",
+  "description": "A survey of the biochemical action of drugs and toxins as well as their absorption and excretion. Prerequisites: CHEM 114A.",
+  "prereqs": "CHEM 114A"
+}

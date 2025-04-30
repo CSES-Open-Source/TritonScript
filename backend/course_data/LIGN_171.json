@@ -1,0 +1,12 @@
+{
+  "code": "LIGN 171",
+  "title": "Child Language Acquisition",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign171",
+  "description": "A central cognitive, developmental mystery is how children learn their first language. Overview of research in the learning of sound systems, word forms and word meanings, and word combinations. Exploration of the relation between cognitive and language development. Prerequisites: LIGN 101, or upper-division standing, or consent of instructor.",
+  "prereqs": "LIGN 101",
+  "successors": [
+    "LIGN 172"
+  ]
+}

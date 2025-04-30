@@ -1,0 +1,9 @@
+{
+  "code": "DSC 95",
+  "title": "Tutor Apprenticeship in Data Science",
+  "units": "2",
+  "dept": "DSC",
+  "anchor": "dsc95",
+  "description": "Students will receive training in skills and techniques necessary to be effective tutors for data science courses. Students will also gain practical experience in tutoring students on data science topics. Prerequisites:\u00a0DSC 10. Students must have applied for and been accepted as a tutor for a DSC course for the first time; enrollment in DSC 95 is required for these students.",
+  "prereqs": "DSC 10"
+}
