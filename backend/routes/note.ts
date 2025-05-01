@@ -2,8 +2,8 @@ import express from "express";
 import { createNote } from "../controllers/note.controller";
 // import { notes } from "../controllers/note.controller";
 import { getNotes } from "../controllers/note.controller";
-import multer from 'multer';
-
+//import multer from 'multer';
+import {uploadFile} from "../controllers/file.controller"
 //const storage = multer.memoryStorage();  // Store files in memory for now
 //const upload = multer({ storage });
 const router = express.Router();
@@ -14,7 +14,9 @@ router.get("/", getNotes);
 // // get all notes containing a given search string
 // router.get("/search/:name", searchForNoteByName);
 //console.log(upload); 
-//router.post('/',  upload.single('file'), createNote)
+router.post('/upload-file',  uploadFile)
+
+router.post('/',  createNote)
 
 
 export default router;
