@@ -1,0 +1,58 @@
+.note-card {
+    width: 200px;
+    background: #D9D9D9;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: Arial, sans-serif;
+    margin-right: 0px;
+    margin-left:20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .note-textarea {
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    border: none;
+    resize: none;
+    height: 180px;
+    /* width: 150px; */
+    padding: 10px;
+    font-size: 14px;
+    line-height: 1.5;
+    outline: none;
+  }
+  
+  .note-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 15px;
+  }
+  
+  .note-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .note-title {
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .note-meta,
+  .note-professor {
+    margin: 2px 0;
+    font-size: 14px;
+  }
+  
+  .note-dots {
+    font-size: 24px;
+    color: black;
+  }
+  
