@@ -37,30 +37,24 @@ function NavBar() {
       </div>
 
       {/* Centered Navbar Links */}
-      <ul className="navbar-links">
-        {!isLoggedIn ? (
-          <>
-            {/* <li>
-              <Link to="/faqs">FAQs</Link>
-            </li>
-            <li>
-              <Link to="/about">About Us</Link>
-            </li>
-            <li>
-              <Link to="/contact-us">Contact Us</Link>
-            </li> */}
-          </>
-        ) : (
-          <>
-            <li>
-              <Link to="/dashboard">Dashboard</Link>
-            </li>
-            <li>
-              <Link to="/upload">Upload Notes</Link>
-            </li>
-          </>
-        )}
-      </ul>
+      <div className="navbar-center">
+        <ul className="navbar-links">
+          {!isLoggedIn ? (
+            <>
+              {/* Add links here if needed */}
+            </>
+          ) : (
+            <>
+              <li>
+                <Link to="/dashboard">Dashboard</Link>
+              </li>
+              <li>
+                <Link to="/upload">My Notes</Link>
+              </li>
+            </>
+          )}
+        </ul>
+      </div>
 
       {/* Login/Logout Button */}
       <div className="auth-button">

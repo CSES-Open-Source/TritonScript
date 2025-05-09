@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import NoteBlock from "../components/NoteBlock";
 import ClassNote from "../components/ClassNotes/ClassNotes.tsx";
+import Note from "../components/Note.tsx";
 
 import settings from "../utils/config";
 import filter from '../assets/filter-icon.png';
@@ -82,7 +83,7 @@ export default function Dashboard() {
           <div className="folders-container">
             <div className="folder-text-and-add">
               <h3 className="folder-text">Folders</h3>
-              <img className ="add-folder" src="src/assets/plus-solid.svg"/>
+              <img className ="add-folder" src="src/assets/plus-solid-dark.svg"/>
             </div>
             <div className="folders">
             <div className="folder">Math</div>
@@ -93,9 +94,30 @@ export default function Dashboard() {
           <div className="recent-view-container">
             <h3 className="recent-view-text">Recently Viewed</h3>
               <div className="recent-view">
-              <div className="note">Math</div>
-              <div className="note">Physics</div>
-              <div className="note">CS</div>
+              <div className="note">
+              <Note
+                  title="Lecture 1"
+                  className="CSE120"
+                  quarter="SP25"
+                  professor="Ousterhoust"
+                />
+              </div>
+              <div className="note">
+              <Note
+                  title="Lecture 5"
+                  className="CSE30"
+                  quarter="SP24"
+                  professor="Muller"
+                />
+              </div>
+              <div className="note">
+              <Note
+                  title="Dijktras"
+                  className="CSE101"
+                  quarter="FA24"
+                  professor="Jones"
+                />
+              </div>
               </div>
           </div>
         </div>

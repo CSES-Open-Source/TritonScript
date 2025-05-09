@@ -14,6 +14,12 @@
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+.navbar-center {
+  position: absolute; /* Position the links absolutely within the navbar */
+  left: 50%; /* Move to the horizontal center */
+  transform: translateX(-50%); /* Adjust for the width of the content */
+}
+
 /* Add padding to prevent content overlap */
 body {
   margin: 0; /* Reset default margins */
@@ -24,6 +30,8 @@ body {
 .navbar-logo {
   display: flex;
   align-items: center;
+  flex: 0 0 auto;
+  margin-top: 10px;
 }
 
 .navbar-logo a {
@@ -45,6 +53,7 @@ body {
   flex: 1;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
 /* Common link styling */
@@ -63,6 +72,7 @@ body {
 /* Auth Button (Login/Logout) on the right */
 .auth-button {
   margin-left: auto;
+  flex: 0 0 auto;
 }
 
 .auth-button button {
