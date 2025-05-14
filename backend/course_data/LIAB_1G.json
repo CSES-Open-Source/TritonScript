@@ -1,0 +1,9 @@
+{
+  "code": "LIAB 1G",
+  "title": "Advanced Arabic",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "liab1g",
+  "description": "A course to increase the proficiency level of students who have completed LIAB 1F or who are at an equivalent level. Attention to listening comprehension, conversation, vocabulary building, reading, grammar analysis, and culture. Prerequisites: LIAB 1F or equivalent.",
+  "prereqs": "LIAB 1F"
+}

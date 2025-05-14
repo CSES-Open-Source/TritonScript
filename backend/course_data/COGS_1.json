@@ -1,0 +1,23 @@
+{
+  "code": "COGS 1",
+  "title": "Introduction to Cognitive Science",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs1",
+  "description": "A team-taught course highlighting development of the field and the broad range of topics covered in the major. Example topics include addiction, analogy, animal cognition, human-computer interaction, language, neuroimaging, neural networks, reasoning, robots, and real-world applications.",
+  "successors": [
+    "COGS 100",
+    "COGS 101A",
+    "COGS 101B",
+    "COGS 101C",
+    "COGS 102A",
+    "COGS 110",
+    "COGS 120",
+    "COGS 127",
+    "COGS 152",
+    "COGS 169",
+    "COMM 124A",
+    "CSE 170",
+    "HDS 121"
+  ]
+}

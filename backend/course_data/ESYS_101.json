@@ -1,0 +1,16 @@
+{
+  "code": "ESYS 101",
+  "title": "Environmental Biology",
+  "units": "4",
+  "dept": "ESYS",
+  "anchor": "esys101",
+  "description": "This course surveys biochemical and physiological processes governing the relationship between organisms and their environments, such as those involved in element cycling and cellular homeostasis. The course introduces biological perspectives on human activities ranging from antibiotic use to genetic engineering. Prerequisites: BILD 1 or 2 or 3 or equivalent, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BILD 1",
+      "BILD 2",
+      "BILD 3"
+    ]
+  }
+}

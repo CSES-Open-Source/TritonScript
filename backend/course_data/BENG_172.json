@@ -1,0 +1,9 @@
+{
+  "code": "BENG 172",
+  "title": "Bioengineering Laboratory",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng172",
+  "description": "A laboratory course demonstrating basic concepts of biomechanics, bioengineering design, and experimental procedures involving animal tissue. Sources of error and experimental limitations. Computer data acquisition, modeling, statistical analysis. Experiments on artery, muscle and heart mechanics, action potentials, viscoelasticity, electrocardiography, hemorheology. Course materials fees may apply. Prerequisites: MAE 170; junior or senior standing in the major or consent of instructor. (S)",
+  "prereqs": "MAE 170"
+}

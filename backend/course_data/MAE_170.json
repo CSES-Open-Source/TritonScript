@@ -1,0 +1,40 @@
+{
+  "code": "MAE 170",
+  "title": "Experimental Techniques",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae170",
+  "description": "Principles and practice of measurement and control and the design and conduct of experiments. Technical report writing. Lectures relate to dimensional analysis, error analysis, signal-to-noise problems, filtering, data acquisition and data reduction, as well as background of experiments and statistical analysis. Experiments relate to the use of electronic devices and sensors. Prerequisites: PHYS 2C or PHYS 4B and PHYS 2CL or MAE 140 or MAE 40. Enrollment restricted to MC 25, MC 27, MC 29, MC 30\u201334, MC 35\u201337, BE 25, BE 27.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2C",
+          "PHYS 4B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2CL",
+          "MAE 140",
+          "MAE 40"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "BENG 160",
+    "BENG 162",
+    "BENG 172",
+    "BENG 186B",
+    "CENG 176A",
+    "MAE 126A",
+    "MAE 155B",
+    "MAE 156A",
+    "MAE 171A",
+    "MAE 175A"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "NANO 158",
+  "title": "Phase Transformations and Kinetics",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano158",
+  "description": "Materials and microstructures changes. Understanding of diffusion to enable changes in the chemical distribution and microstructure of materials, rates of diffusion. Phase transformations, effects of temperature and driving force on transformations and microstructure. Prerequisites: NANO 108 and NANO 148.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "NANO 108",
+      "NANO 148"
+    ]
+  },
+  "successors": [
+    "NANO 158L"
+  ]
+}

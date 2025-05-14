@@ -1,0 +1,8 @@
+{
+  "code": "ECE 275B",
+  "title": "Parameter Estimation II",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece275b",
+  "description": "The Bayesian statistical framework; Parameter and state estimation of Hidden Markov Models, including Kalman Filtering and the Viterbi and Baum-Welsh algorithms. A solid foundation is provided for follow-up courses in Bayesian machine learning theory. Recommended preparation: ECE 153. Prerequisites: graduate standing."
+}

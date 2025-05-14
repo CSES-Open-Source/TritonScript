@@ -1,0 +1,16 @@
+{
+  "code": "CHEM 115",
+  "title": "Genome, Epigenome, and Transcriptome Editing",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem115",
+  "description": "A discussion of current topics involving nucleic acid modification, including systems derived from zinc fingers, TALEs, and CRISPR-Cas9. Topics of particular emphasis include delivery of genome editing agents, gene drives, and high-throughput genetic screens. May be coscheduled with CHEM 215. Prerequisites: CHEM 114A and 114C. Corequisite: CHEM 109.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 114A",
+      "CHEM 114C"
+    ]
+  },
+  "coreqs": "CHEM 109"
+}

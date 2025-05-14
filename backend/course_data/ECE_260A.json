@@ -1,0 +1,12 @@
+{
+  "code": "ECE 260A",
+  "title": "VLSI Digital System Algorithms and Architectures",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece260a",
+  "description": "Custom and semicustom VLSI design from both the circuit and system designer\u2019s perspective. MOS transistor theory, circuit characterization, and performance estimation. CMOS logic design will be emphasized. Computer-aided design (CAD) tools for transistor level simulation, layout and verification will be introduced. Includes two hours of laboratory hours per week. Recommended preparation: undergraduate-level semiconductor electronics and digital system design, ECE 108 or ECE 165 or equivalent. Prerequisites: graduate standing.",
+  "successors": [
+    "CSE 241A",
+    "ECE 260B"
+  ]
+}

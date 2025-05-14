@@ -1,0 +1,12 @@
+{
+  "code": "MATH 200A",
+  "title": "Algebra I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math200a",
+  "description": "First course in graduate algebra. Topics may include group actions, Sylow theorems, solvable and nilpotent groups, free groups and presentations, semidirect products, polynomial rings, unique factorization, chain conditions, modules over principal ideal domains, rational and Jordan canonical forms, tensor products, projective and flat modules, Galois theory, solvability by radicals, localization, primary decomposition, Hilbert Nullstellensatz, integral extensions, Dedekind domains, Krull dimension. Prerequisites: graduate standing in MA75, MA76, MA77, MA80, MA81. All other students may enroll with consent of instructor.",
+  "successors": [
+    "MATH 200B",
+    "MATH 221A"
+  ]
+}

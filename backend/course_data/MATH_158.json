@@ -1,0 +1,25 @@
+{
+  "code": "MATH 158",
+  "title": "Extremal Combinatorics and Graph Theory",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math158",
+  "description": "Extremal combinatorics is the study of how large or small a finite set can be under combinatorial restrictions. We will give an introduction to graph theory, connectivity, coloring, factors, and matchings, extremal graph theory, Ramsey theory, extremal set theory, and an introduction to probabilistic combinatorics. Topics include Turan\u2019s theorem, Ramsey\u2019s theorem, Dilworth\u2019s theorem, and Sperner\u2019s theorem. Credit not offered for MATH 158 if MATH 154 was previously taken. If MATH 154 and MATH 158 are concurrently taken, credit is only offered for MATH 158. A strong performance in MATH 109 or MATH 31CH is recommended. Prerequisites: MATH 31CH or MATH 109. Students who have not completed the listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 31CH",
+      "MATH 109"
+    ]
+  },
+  "successors": [
+    "CSE 100",
+    "CSE 100R",
+    "CSE 101",
+    "CSE 103",
+    "CSE 105",
+    "CSE 106",
+    "CSE 107",
+    "CSE 127"
+  ]
+}

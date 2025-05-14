@@ -1,0 +1,11 @@
+{
+  "code": "MGT 121A",
+  "title": "Innovation to Market A",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt121a",
+  "description": "Consider new project concepts. Discern market needs, competitive environment, and determine \u201cgo to market\u201d strategy. Research potential markets, customers, partners, and competitors. Consider price versus attributes, alternative distribution channels, gaining unfair advantage. Examine the need and structure of a start-up team. Prerequisites: upper-division standing.",
+  "successors": [
+    "MGT 121B"
+  ]
+}

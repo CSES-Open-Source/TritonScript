@@ -1,0 +1,66 @@
+{
+  "code": "COGS 118B",
+  "title": "Introduction to Machine Learning",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs118b",
+  "description": "This course, with COGS 118A, forms a rigorous introduction to machine learning. Topics in 118B include maximum likelihood estimation, Bayesian parameter estimation, clustering, principal component analysis, and some application areas. COGS 118A-B may be taken in either order. Prerequisites: BILD 62 or COGS 18 or CSE 11 or CSE 8B or CSE 11 and MATH 18 or MATH 31AH and MATH 20E and ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 183 or MATH 186 and COGS 108 or COGS 109 or COGS 118A or COGS 188 or CSE 150A or CSE 151A or CSE 158 or CSE 158R or DSC 148 or ECE 174 or ECE 175A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BILD 62",
+          "COGS 18",
+          "CSE 11",
+          "CSE 8B",
+          "CSE 11"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      "MATH 20E",
+      {
+        "type": "one",
+        "courses": [
+          "ECE 109",
+          "ECON 120A",
+          "MAE 108",
+          "MATH 180A",
+          "MATH 183",
+          "MATH 186"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "COGS 108",
+          "COGS 109",
+          "COGS 118A",
+          "COGS 188",
+          "CSE 150A",
+          "CSE 151A",
+          "CSE 158",
+          "CSE 158R",
+          "DSC 148",
+          "ECE 174",
+          "ECE 175A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "COGS 118A",
+    "COGS 181",
+    "COGS 182",
+    "COGS 188",
+    "COGS 189",
+    "CSE 151B"
+  ]
+}

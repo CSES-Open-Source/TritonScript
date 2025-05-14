@@ -1,0 +1,9 @@
+{
+  "code": "SE 260B",
+  "title": "Aerospace Structural Mechanics II",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se260b",
+  "description": "Analysis of aerospace structures via work-energy principles and finite element analysis. Bending of metallic and laminated composite plates and shells. Static vibration and buckling analysis of simple and built-up aircraft structures. Introduction to wing divergence and flutter, fastener analysis. Prerequisites: SE 260A, graduate standing.",
+  "prereqs": "SE 260A"
+}

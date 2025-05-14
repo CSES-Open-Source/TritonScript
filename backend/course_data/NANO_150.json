@@ -1,0 +1,9 @@
+{
+  "code": "NANO 150",
+  "title": "Mechanics of Nanomaterials",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano150",
+  "description": "Introduction to mechanics of rigid and deformable bodies. Continuum and atomistic models, interatomic forces and intermolecular interactions. Nanomechanics, material defects, elasticity, plasticity, creep, and fracture. Composite materials, nanomaterials, biological materials. Prerequisites: NANO 108.",
+  "prereqs": "NANO 108"
+}

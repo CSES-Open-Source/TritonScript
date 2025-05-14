@@ -1,0 +1,16 @@
+{
+  "code": "DSC 208R",
+  "title": "Data Management for Analytics",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc208r",
+  "description": "Principles, techniques, and tools for organizing, storing, querying, transforming, and using data for analytics and machine learning computations at scale; including the relational data model, relational algebra, database system features for faster querying, and non-relational data systems. Introduction to data quality issues, data cleansing, cluster and cloud computing, and transformation for feature engineering. Evaluation of analytics results including reasoning about bias and fairness. This is a distance education course. Prerequisites: DSC 207R. Restricted to major codes DS78 and DS79. All other students with graduate standing may be considered as space permits.",
+  "prereqs": "DSC 207R",
+  "successors": [
+    "DSC 209R",
+    "DSC 259R",
+    "DSC 266R",
+    "DSC 267R",
+    "DSC 288R"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "BENG 102",
+  "title": "Molecular Components of Living Systems",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng102",
+  "description": "Introduction to molecular structures. Macromolecules and assemblies-proteins, nucleic acids, and metabolites. Principles of design of simple and complex components of organelles, cells, and tissues. Prerequisites: BENG 120 or consent of department. (S)",
+  "prereqs": "BENG 120",
+  "successors": [
+    "BENG 140A",
+    "BENG 152"
+  ]
+}

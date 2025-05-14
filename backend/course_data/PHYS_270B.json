@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 270B",
+  "title": "Quantitative Biology Laboratory",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys270b",
+  "description": "A project-oriented laboratory course in which students are guided to develop their own ideas and tools, along with using state-of-art instruments to investigate a biological problem of current interest, under the direction of a faculty member. A range of current topics in quantitative biology is available, including microbiology, molecular and cell biology, developmental biology, synthetic biology, and evolution. This course may be repeated up to ten times for credit as long as the student works on a different project. Prerequisites: PHYS 270A. Department approval required.",
+  "prereqs": "PHYS 270A"
+}

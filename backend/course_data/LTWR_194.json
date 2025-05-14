@@ -1,0 +1,11 @@
+{
+  "code": "LTWR 194",
+  "title": "Capstone Course for Writing Majors",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr194",
+  "description": "An advanced seminar open to all writing majors in their senior year. Required for those interested in the Honors Program. It offers an integrative experience by considering key facets of the discipline and profession, including relationships between aesthetics/culture and politics, genre writing, craft/technique, literary theories/theories of writing, and distribution/publication. Restricted to major code LT34 or consent of the instructor and department.  Prerequisites:  senior standing.",
+  "successors": [
+    "LTWL 194A"
+  ]
+}

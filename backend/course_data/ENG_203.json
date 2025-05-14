@@ -1,0 +1,11 @@
+{
+  "code": "ENG 203",
+  "title": "Applied Innovations",
+  "units": "4",
+  "dept": "ENG",
+  "anchor": "eng203",
+  "description": "Course includes the examination of business plans developed by early stage technology businesses. Students expected to work on the development of business plans for real, innovative business organizations. Will explore all of the business research and analysis that needs to be undertaken in order to develop a complete business plan. Completion of ENG 201 or ENG 202 preferred.",
+  "successors": [
+    "ENG 207"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "code": "ASTR 154",
+  "title": "Data Science in Astronomy",
+  "units": "5",
+  "dept": "ASTR",
+  "anchor": "astr154",
+  "description": "Introduction to statistical and machine learning methods and algorithms frequently used in modern astronomy research. The Python programming language will be used almost exclusively due to its widespread usage in astronomy. The course will use a variety of cutting-edge data science tools, techniques, and numerical methods widely used in the astronomy community, with an emphasis on utilizing publicly available codes. Prerequisites: PHYS 2A or PHYS 2AR or PHYS 4A and PHYS 2B or PHYS 4B and PHYS 2C or PHYS 4C and PHYS 2D or PHYS 4D and PHYS 2D or PHYS 4E and BILD 62 or COGS 18 or CSE 11 or CSE 6R or CSE 8A or CSE 8B or DSC 10 or PHYS 41.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 2AR",
+          "PHYS 4A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2B",
+          "PHYS 4B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2C",
+          "PHYS 4C"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2D",
+          "PHYS 4D"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2D",
+          "PHYS 4E"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BILD 62",
+          "COGS 18",
+          "CSE 11",
+          "CSE 6R",
+          "CSE 8A",
+          "CSE 8B",
+          "DSC 10",
+          "PHYS 41"
+        ]
+      }
+    ]
+  }
+}

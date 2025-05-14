@@ -1,0 +1,16 @@
+{
+  "code": "SIOC 217A",
+  "title": "Atmospheric and Climate Sciences I",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc217a",
+  "description": "Thermodynamics and statics of dry and moist air, atmospheric composition, Earth radiation budget, vertical structure of the atmosphere, global energy balance, thermodynamic feedbacks in the climate system. Prerequisites: graduate standing or consent of instructor. (Letter grades only.)",
+  "successors": [
+    "SIOC 217B",
+    "SIOC 217C",
+    "SIOC 217D",
+    "SIOC 218",
+    "SIOC 235",
+    "SIOC 254"
+  ]
+}

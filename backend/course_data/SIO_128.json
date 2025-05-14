@@ -1,0 +1,16 @@
+{
+  "code": "SIO 128",
+  "title": "Microbial Life in Extreme Environments",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio128",
+  "description": "Microorganisms turn up in the strangest places. This course examines the exotic and bizarre in the microbial world, including the super-sized, the rock and cloud builders, the survivors, and those present at the limits of life. Prerequisites: BILD 1 or BILD 2 or BILD 3, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BILD 1",
+      "BILD 2",
+      "BILD 3"
+    ]
+  }
+}

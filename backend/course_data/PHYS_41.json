@@ -1,0 +1,14 @@
+{
+  "code": "PHYS 41",
+  "title": "Scientific Computing with Python",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys41",
+  "description": "This course is designed for students concurrently enrolled in the PHYS 4 series and is an introduction to computer programming and scientific computing with Python. The course covers basic data structures and operations in Python and how to write and debug functions. These tools are then applied to scientific computing, including data analysis and visualization, numerical computations, and simulations. Recommended preparation: prior or concurrent enrollment in PHYS 4A. Prerequisites: MATH 20A.",
+  "prereqs": "MATH 20A",
+  "successors": [
+    "ASTR 150",
+    "ASTR 154",
+    "ASTR 155"
+  ]
+}

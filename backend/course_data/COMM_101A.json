@@ -1,0 +1,15 @@
+{
+  "code": "COMM 101A",
+  "title": "Media Activism",
+  "units": "?",
+  "dept": "COMM",
+  "anchor": "comm101a",
+  "description": "In this course, we ask what techniques, strategies, and platforms we might engage to present these stories to a broader audience in an impactful and ethical way. While we engage with a specific web-based platform each quarter, the class maintains an emphasis on documentary storytelling and audiovisual production. The aim of this class is to demystify the idea of a \u201cmedia activist\u201d by guiding students through the development of their own media activism. Prerequisites: COMM 10 and COMM 101.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      "COMM 101"
+    ]
+  }
+}

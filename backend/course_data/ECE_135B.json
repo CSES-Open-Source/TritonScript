@@ -1,0 +1,12 @@
+{
+  "code": "ECE 135B",
+  "title": "Electronic Devices",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece135b",
+  "description": "Structure and operation of bipolar junction transistors, junction field-effect transistors, metal-oxide-semiconductor diodes and transistors. Analysis of dc and ac characteristics. Charge control model of dynamic behavior. Prerequisites: ECE 135A with a grade of C\u2013 or better.",
+  "prereqs": "ECE 135A",
+  "successors": [
+    "ECE 136L"
+  ]
+}

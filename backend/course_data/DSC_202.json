@@ -1,0 +1,12 @@
+{
+  "code": "DSC 202",
+  "title": "Data Management for Data Science",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc202",
+  "description": "Principles of data management, relational data model, relational algebra, SQL for data science, NoSQL databases (document, key-value, graph, column-family), multidimensional data management (data warehousing, OLAP Queries, OLAP Cubes, visualizing multidimensional data). Prerequisites: none. Restricted to students within the DS75 and DS76 major.",
+  "successors": [
+    "DSC 203",
+    "DSC 204A"
+  ]
+}

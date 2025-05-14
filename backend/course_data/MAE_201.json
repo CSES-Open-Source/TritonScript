@@ -1,0 +1,11 @@
+{
+  "code": "MAE 201",
+  "title": "Mechanics of Fluids",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae201",
+  "description": "This course covers topics in kinematics, equations of motion, dimensional analysis, laminar and irrotational flow, vorticity dynamics, and boundary layers. Prerequisites: nongraduate students may enroll with consent of instructor.",
+  "successors": [
+    "MAE 209"
+  ]
+}

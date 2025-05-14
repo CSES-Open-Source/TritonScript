@@ -1,0 +1,11 @@
+{
+  "code": "MUS 127",
+  "title": "Discover Jazz",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus127",
+  "description": "Offers an introduction to jazz, including important performers and their associated styles and techniques. Explores the often-provocative role jazz has played in American and global society, the diverse perceptions and arguments that have surrounded its production and reception, and how these have been inflected by issues of race, class, gender, and sexuality. Specific topics vary from year to year. (Cross-listed with ETHN 179.) Prerequisites: upper-division standing or consent of instructor.",
+  "successors": [
+    "MUS 150"
+  ]
+}

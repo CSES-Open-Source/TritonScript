@@ -1,0 +1,9 @@
+{
+  "code": "SIO 133",
+  "title": "Marine Mammal Biology",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio133",
+  "description": "Introduction to the biology, ecology, evolution, and conservation status of marine mammals. Description of marine mammal taxa (mysticetes, odontocetes, pinnipeds, sirenians), their anatomy, physiology, ecology, and behavior. Impacts of whaling, fisheries interactions, and other anthropogenic threats. Prerequisites: BILD 3 and upper-division standing or consent of instructor.",
+  "prereqs": "BILD 3"
+}

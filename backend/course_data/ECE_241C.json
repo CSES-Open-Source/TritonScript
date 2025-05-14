@@ -1,0 +1,9 @@
+{
+  "code": "ECE 241C",
+  "title": "Holographic Optical Elements",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece241c",
+  "description": "Fresnel, Fraunhofer, and Fourier holography. Analysis of thin and volume holograms, reflection and transmission holograms, color and polarization holograms. Optically recorded and computer-generated holography. Applications to information storage, optical interconnects, 2-D and 3-D display, pattern recognition, and image processing. Recommended preparation: ECE 182 or equivalent. Prerequisites: ECE 241B; graduate standing.",
+  "prereqs": "ECE 241B"
+}

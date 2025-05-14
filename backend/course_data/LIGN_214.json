@@ -1,0 +1,15 @@
+{
+  "code": "LIGN 214",
+  "title": "Topics in Phonetics",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign214",
+  "description": "This course examines recent developments in controversial areas of phonetics. Topics will vary and will address issues in speech production (articulation, acoustics), speech perception, phonetic theory, and the relationship between phonetics and phonology. May be repeated for credit up to two times. Prerequisites: LIGN 210 and LIGN 211.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIGN 210",
+      "LIGN 211"
+    ]
+  }
+}

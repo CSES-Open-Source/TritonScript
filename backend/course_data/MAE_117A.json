@@ -1,0 +1,15 @@
+{
+  "code": "MAE 117A",
+  "title": "Elementary Plasma Physics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae117a",
+  "description": "(Cross-listed with Physics 151.) Particle motions, plasmas as fluids, waves, diffusion, equilibrium and stability, nonlinear effects, controlled fusion. Recommended preparation: PHYS 100B\u2013C or ECE 107. Prerequisites: MATH 20D or 21D, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 20D",
+      "MATH 21D"
+    ]
+  }
+}

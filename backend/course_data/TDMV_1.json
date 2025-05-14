@@ -1,0 +1,11 @@
+{
+  "code": "TDMV 1",
+  "title": "Beginning Ballet",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdmv1",
+  "description": "A contemporary approach to beginning-level ballet technique, principles, and terminology. Develops the body for strength, flexibility, and artistic interpretation. Emphasis on developing a foundation in movement for the continuation of ballet training. Historical origin of ballet will be discussed. May be taken for credit six times. Prerequisites: none.",
+  "successors": [
+    "TDMV 110"
+  ]
+}

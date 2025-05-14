@@ -1,0 +1,9 @@
+{
+  "code": "BIEB 128",
+  "title": "Insect Diversity",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb128",
+  "description": "Course begins with a survey of insect diversity and phylogenetic relationships. Course then addresses issues such as population dynamics (including outbreaks), movement and migration, competition, predation, herbivory, parasitism, insect defense, mimicry complexes, and sociality. Course also includes discussions of pest management, evolution of insecticide resistance, insect-borne diseases, and how insects are responding to global change. Prerequisites: BILD 3.",
+  "prereqs": "BILD 3"
+}

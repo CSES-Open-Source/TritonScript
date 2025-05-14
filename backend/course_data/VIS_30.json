@@ -1,0 +1,14 @@
+{
+  "code": "VIS 30",
+  "title": "Introduction to Speculative Design",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis30",
+  "description": "Speculative design uses design methods to question and investigate material culture with critical creative purpose. This course provides a historical, theoretical, and methodological introduction to speculative design as a distinct program. Emphasis is tracing the integration of interdisciplinary intellectual and technical problems toward creative, unexpected propositions and prototypes. Prerequisites: none.",
+  "successors": [
+    "VIS 133A",
+    "VIS 135",
+    "VIS 136A",
+    "VIS 163"
+  ]
+}

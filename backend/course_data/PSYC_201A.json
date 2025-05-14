@@ -1,0 +1,11 @@
+{
+  "code": "PSYC 201A",
+  "title": "Statistical Computing and Inference from Data I",
+  "units": "6",
+  "dept": "PSYC",
+  "anchor": "psyc201a",
+  "description": "The first of a series of intensive courses in statistical computing to draw inferences from data. This course covers research design, causal inference, data wrangling, visualization, probability, statistical inference, and the general linear model.\u00a0Prerequisites: graduate standing.",
+  "successors": [
+    "PSYC 201B"
+  ]
+}

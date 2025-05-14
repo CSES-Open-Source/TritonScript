@@ -1,0 +1,15 @@
+{
+  "code": "BNFO 262",
+  "title": "Quantitative Methods in Genetics",
+  "units": "4",
+  "dept": "BIOI",
+  "anchor": "bnfo262",
+  "description": "(Cross-listed with BIOM 262 and BGGN 237.) This advanced problem-oriented course will examine experimental design, laboratory methods, and quantitative analytical tools used in genetic and genomic research. Students will analyze supplied data using a variety of software packages. Prerequisites: BIOM 252 and BIOM 272.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BIOM 252",
+      "BIOM 272"
+    ]
+  }
+}

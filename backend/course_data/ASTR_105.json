@@ -1,0 +1,12 @@
+{
+  "code": "ASTR 105",
+  "title": "Fundamentals of Quantum Mechanics",
+  "units": "4",
+  "dept": "ASTR",
+  "anchor": "astr105",
+  "description": "This course presents the fundamentals of quantum mechanics. Topics include a review of linear operators and Hamiltonian mechanics, wave mechanics, the Schrodinger equation, and states; observables and Heisenberg representation; simple potentials, including harmonic oscillator and the hydrogen atom, symmetry, angular momentum, and spin; stationary state perturbation theory and basic scattering theory. Prerequisites: ASTR 101.",
+  "prereqs": "ASTR 101",
+  "successors": [
+    "ASTR 106"
+  ]
+}

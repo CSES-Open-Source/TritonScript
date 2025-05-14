@@ -1,0 +1,9 @@
+{
+  "code": "CHEM 105B",
+  "title": "Physical Chemistry Laboratory",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem105b",
+  "description": "Laboratory course in experimental physical chemistry. Program or materials fees may apply. Prerequisites: CHEM 105A.",
+  "prereqs": "CHEM 105A"
+}

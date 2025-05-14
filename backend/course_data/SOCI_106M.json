@@ -1,0 +1,15 @@
+{
+  "code": "SOCI 106M",
+  "title": "Holocaust Diaries",
+  "units": "4",
+  "dept": "SOC",
+  "anchor": "soci106m",
+  "description": "Methods for interpreting diaries, letters, and testaments written by victims and perpetrators of the Holocaust. Students use these sources for original research about life in hiding, ghettos, and death camps. Includes techniques for making comparisons and for generalizing from evidence. Prerequisites: SOCI 60 and SOCI 178 or the consent of instructor. Will not receive credit for SOCI 106M and SOCA 106M.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SOCI 60",
+      "SOCI 178"
+    ]
+  }
+}

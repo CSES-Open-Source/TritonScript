@@ -1,0 +1,13 @@
+{
+  "code": "PHYS 211A",
+  "title": "Solid-State Physics I",
+  "units": "5",
+  "dept": "PHYS",
+  "anchor": "phys211a",
+  "description": "The first of a two-quarter course in solid-state physics. Covers a range of solid-state phenomena that can be understood within an independent particle description. Topics include chemical versus band-theoretical description of solids, electronic band structure calculation, lattice dynamics, transport phenomena and electrodynamics in metals, optical properties, semiconductor physics.",
+  "successors": [
+    "PHYS 211B",
+    "PHYS 219",
+    "PHYS 232"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "VIS 122D",
+  "title": "Michelangelo",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis122d",
+  "description": "This course offers new approaches to understanding Michelangelo\u2019s greatest creations. By considering how each work relates to the setting for which it was intended, by regarding critical literature and artistic borrowings as evidence about the works, and by studying the thought of the spiritual reformers who counseled Michelangelo, new interpretations emerge which show the artist to be a deeply religious man who invested his works with both public and private meanings. Prerequisites: upper-division standing; or one of the following courses: VIS 20, 21, 22 or 23; or any upper-division course in art history and criticism or in European history.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 20",
+      "VIS 21",
+      "VIS 22",
+      "VIS 23"
+    ]
+  }
+}

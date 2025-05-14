@@ -1,0 +1,24 @@
+{
+  "code": "BIMM 120",
+  "title": "Microbiology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bimm120",
+  "description": "A discussion of the structure, growth, physiology, molecular genetics, genomics, and ecology of prokaryotic microorganisms, with emphasis on the genetic and metabolic diversity of bacteria and Archaea and their interactions with hosts and the environment. Prerequisites: BILD 3 and BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B and BIMM 100.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 3",
+      {
+        "type": "one",
+        "courses": [
+          "BIBC 100",
+          "BIBC 102",
+          "CHEM 114A",
+          "CHEM 114B"
+        ]
+      },
+      "BIMM 100"
+    ]
+  }
+}

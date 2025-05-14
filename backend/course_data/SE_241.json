@@ -1,0 +1,11 @@
+{
+  "code": "SE 241",
+  "title": "Advanced Soil Mechanics",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se241",
+  "description": "Advanced treatment of topics in soil mechanics, including state of stress, pore pressure, consolidation and settlement analysis, shear strength of cohesionless and cohesive soils, mechanisms of ground improvement, and slope stability analysis. Concepts in course reinforced by laboratory experiments.",
+  "successors": [
+    "SE 226"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "MUS 1B",
+  "title": "Fundamentals of Music B",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus1b",
+  "description": "This course, second in a three-quarter sequence, focuses on understanding music theory and in developing musical ability through rhythm, ear training, and sight singing exercises. Topics include major and minor scales, seventh-chords, transposition, compound meter and rudiments of musical form. Prerequisites: MUS 1A.",
+  "prereqs": "MUS 1A",
+  "successors": [
+    "MUS 1C"
+  ]
+}

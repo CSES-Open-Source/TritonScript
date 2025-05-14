@@ -1,0 +1,15 @@
+{
+  "code": "DSC 259R",
+  "title": "Practice and Applications",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc259r",
+  "description": "In-depth study of the data science lifecycle in practice including building large-scale, working systems on real-world data; methods for properly collecting and cleaning data, building and testing models; dealing with messy data, hypothesis and permutation testing, missing data and imputation, machine learning, model evaluation and communication. Addressing challenging problems using data science algorithms and modifying applications of data science in practice. This is a distance education course. Prerequisites: DSC 208R and DSC 255R. Restricted to major codes DS78 and DS79. All other students with graduate standing may be considered as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 208R",
+      "DSC 255R"
+    ]
+  }
+}

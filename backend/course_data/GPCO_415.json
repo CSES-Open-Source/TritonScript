@@ -1,0 +1,11 @@
+{
+  "code": "GPCO 415",
+  "title": "Accounting and Finance for Policy Makers",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpco415",
+  "description": "This course covers basic knowledge and skills of accounting and finance necessary for policy makers in for-profit, nonprofit, and public sectors. Topics include basic financial accounting, time value of money, and risk with applications to personal, corporate, and public finance. No credit will be allowed for GPCO 415 if a student has taken IRCO 420 and/or IRCO 421. Renumbered from IRCO 415. Students may not receive credit for GPCO 415 and IRCO 415. Prerequisites: GPS students only or consent of instructor.",
+  "successors": [
+    "GPEC 406"
+  ]
+}

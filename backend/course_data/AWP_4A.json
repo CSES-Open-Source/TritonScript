@@ -1,0 +1,11 @@
+{
+  "code": "AWP 4A",
+  "title": "Analytical Writing and Academic English A",
+  "units": "4",
+  "dept": "AWP",
+  "anchor": "awp4a",
+  "description": "AWP 4A is the first of a two-quarter sequence designed to offer students who need extra English language support and/or more time to develop their critical thinking and writing abilities. Students who enroll in AWP 4A are required to enroll in AWP 4B in the subsequent quarter. Pass/Not Pass only. Replaced AWP 2A. Students may not receive credit for AWP 4A and AWP 2A or ELWR 2A. Students must earn a grade of Pass to move on to AWP 4B.",
+  "successors": [
+    "AWP 4B"
+  ]
+}

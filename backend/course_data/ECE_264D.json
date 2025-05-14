@@ -1,0 +1,15 @@
+{
+  "code": "ECE 264D",
+  "title": "CMOS Analog Integrated Circuits and Systems IV",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece264d",
+  "description": "PLL: Phase noise effect, VCO, phase detector, charge pump, integer/fractional-N frequency synthesizer, clock and data recovery, decision feedback. Filter: Continuous-time filter, I-Q complex filter, raised-cosine, Gaussian, delay, zero equalizers. Recommended preparation: ECE 251A. Digital Signal Processing I. Prerequisites: ECE 250 or ECE 264A; graduate standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECE 250",
+      "ECE 264A"
+    ]
+  }
+}

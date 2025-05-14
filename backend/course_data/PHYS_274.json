@@ -1,0 +1,8 @@
+{
+  "code": "PHYS 274",
+  "title": "Stochastic Processes in Population Genetics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys274",
+  "description": "The course explores genetic diversity within biological populations.\u00a0Genetics fundamentals, mutation/selection equilibria, speciation, Wright-Fisher model, Kimura\u2019s neutral theory,\u00a0Luria-Delbr\u00fcck\u00a0test, the coalescent theory, evolutionary games and statistical methods for quantifying genetic observables such as SNPs, copy number variations, etc., will be discussed.\u00a0Recommended preparation: familiarity with probabilities and PDEs at the undergraduate level; an introduction to basic evolutionary processes."
+}

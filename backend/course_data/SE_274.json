@@ -1,0 +1,8 @@
+{
+  "code": "SE 274",
+  "title": "Nonlinear Finite Element Methods for Solid Mechanics",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se274",
+  "description": "Modeling of mechanical deformation processes in solids and structures by the finite element method. PDE models of deformations in solids and structures. Weak form. Weighted residual method. Material models for 3-D solids and rods, beams, shells: elasticity, plasticity, viscoplasticity. Prerequisites: graduate standing."
+}

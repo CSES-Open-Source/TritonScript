@@ -1,0 +1,12 @@
+{
+  "code": "PHYS 200A",
+  "title": "Theoretical Mechanics I",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys200a",
+  "description": "Review of Lagrangian mechanics: calculus of variations, Noether\u2019s theorem, constraints, central forces, coupled oscillations. Continuum mechanics: strings and membranes, Sturm-Liouville theory, dispersion. Hamiltonian mechanics: equations of motion, Poisson brackets, canonical transformations, Hamilton-Jacobi theory, action-angle variables, adiabatic invariants.",
+  "successors": [
+    "PHYS 200B",
+    "PHYS 210A"
+  ]
+}

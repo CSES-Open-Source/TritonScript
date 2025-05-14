@@ -1,0 +1,12 @@
+{
+  "code": "VIS 107A",
+  "title": "Sculpture: Making the Object",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis107a",
+  "description": "A studio course focusing on the problems involved in transferring ideas and information into three-dimensions. Course will explore materials and construction as dictated by the intended object. Specific problems to be investigated will be determined by the individual professor. Prerequisites: VIS 80.",
+  "prereqs": "VIS 80",
+  "successors": [
+    "VIS 107B"
+  ]
+}

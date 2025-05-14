@@ -1,0 +1,23 @@
+{
+  "code": "LIIT 5BS",
+  "title": "Fundamentals of Italian II",
+  "units": "5",
+  "dept": "LING",
+  "description": "A course to increase the proficiency level of students who have completed LIIT 1A/1AX, 5AS or who are at an equivalent level. Attention to listening comprehension, conversation, reading, writing, grammar analysis, and culture. Equivalent to LIIT 1B/1BX. Prerequisites: LIIT 1A/1AX, 5AS or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "LIIT 1A",
+          "LIIT 1AX"
+        ]
+      },
+      "LIIT 5AS"
+    ]
+  },
+  "successors": [
+    "LIIT 5CS"
+  ]
+}

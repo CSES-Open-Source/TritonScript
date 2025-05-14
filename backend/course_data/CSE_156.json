@@ -1,0 +1,44 @@
+{
+  "code": "CSE 156",
+  "title": "Statistical Natural Language Processing",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse156",
+  "description": "Natural language processing (NLP) is a field of AI which aims to equip computers with the ability to intelligently process natural (human) language. This course will explore statistical techniques for the automatic analysis of natural language data. Specific topics covered include probabilistic language models, which define probability distributions over text passages; text classification; sequence models; parsing sentences into syntactic representations; and machine translation. Prerequisites: CSE 12 or DSC 40B and CSE 15L or CSE 29 or DSC 80 and BENG 134 or COGS 118D or CSE 103 or ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 181A or MATH 183 or MATH 186; restricted to students within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CSE 12",
+          "DSC 40B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CSE 15L",
+          "CSE 29",
+          "DSC 80"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BENG 134",
+          "COGS 118D",
+          "CSE 103",
+          "ECE 109",
+          "ECON 120A",
+          "MAE 108",
+          "MATH 180A",
+          "MATH 180B",
+          "MATH 181A",
+          "MATH 183",
+          "MATH 186"
+        ]
+      }
+    ]
+  }
+}

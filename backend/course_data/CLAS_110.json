@@ -1,0 +1,16 @@
+{
+  "code": "CLAS 110",
+  "title": "Latin Seminar",
+  "units": "4",
+  "dept": "CLAS",
+  "anchor": "clas-110",
+  "description": "Readings in Latin covering specific topics in ancient Latin literature, philosophy, history, and religion. May be repeated for credit as topics vary. Prerequisites: LTLA 1, 2, 3, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LTLA 1",
+      "LTLA 2",
+      "LTLA 3"
+    ]
+  }
+}

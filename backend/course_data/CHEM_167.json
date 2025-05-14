@@ -1,0 +1,22 @@
+{
+  "code": "CHEM 167",
+  "title": "Medicinal Chemistry",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem166",
+  "description": "Basics of medicinal chemistry, emphasizing rigorous descriptions of receptor-protein structure, interactions, and dynamics; their implications for drug development; and an integrated treatment of pharmacodynamic and pharmacokinetic considerations in drug design. Treats computational approaches as well as practical experimental approaches. Prerequisites: CHEM 40C, 40CH, or 41C and CHEM 114A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 40C",
+          "CHEM 40CH",
+          "CHEM 41C"
+        ]
+      },
+      "CHEM 114A"
+    ]
+  }
+}

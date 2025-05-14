@@ -1,0 +1,36 @@
+{
+  "code": "MAE 131A",
+  "title": "Solid Mechanics I",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae131a",
+  "description": "Concepts of stress and strain. Hooke\u2019s Law. Axial loading of bars. Torsion of circular shafts. Shearing and normal stresses in beam bending. Deflections in beams. Statically determinate and indeterminate problems. Combined loading. Principal stresses and design criteria. Buckling of columns. Prerequisites: MATH 20D and MAE 30A or MAE 130A or SE 101A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MAE 30A",
+          "MAE 130A",
+          "SE 101A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MAE 131B",
+    "MAE 133",
+    "MAE 153",
+    "MAE 156A",
+    "MAE 160",
+    "SE 110B",
+    "SE 130A",
+    "SE 132",
+    "SE 142",
+    "SE 160A",
+    "SE 171",
+    "SE 181"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "CHEM 230A",
+  "title": "Quantum Mechanics I",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem230a",
+  "description": "Theoretical basis of quantum mechanics; postulates; wave packets; matrix representations; ladder operators; exact solutions for bound states in 1, 2, or 3 dimensions; angular momentum; spin; variational approximations; description of real one and two electron systems. Recommended background: CHEM 133 and MATH 20D or their equivalents.",
+  "successors": [
+    "CHEM 230B"
+  ]
+}

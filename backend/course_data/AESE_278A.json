@@ -1,0 +1,13 @@
+{
+  "code": "AESE 278A",
+  "title": "Complexity and Large-Scale Systems",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "aese278a",
+  "description": "Comprehensive introduction to system and event complexity, software and systems engineering practices for complexity management, agile and plan-driven development, development and management processes and process models, data, information, and knowledge management, basics of distributed data and computation. This course will meet from 8:00 a.m. to 5:00 p.m. every alternating Friday and Saturday. Prerequisites: enrollment in MAS-AESE or instructor approval. AESE 278A is cross-listed with CSE 278A, ECE 205A, and MAE 277A.",
+  "successors": [
+    "AESE 278B",
+    "AESE 278C",
+    "AESE 278D"
+  ]
+}

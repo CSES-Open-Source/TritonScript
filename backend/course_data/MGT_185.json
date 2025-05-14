@@ -1,0 +1,17 @@
+{
+  "code": "MGT 185",
+  "title": "Investment Banking",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt185",
+  "description": "This course provides students with an overview of the investment banking industry, including IPOs, equity offerings, debt offerings, valuation, mergers and acquisition, private equity, asset securitization, prime brokerage, sales and trading, and market making. Emphasis of the class will be on traditional corporate finance, which includes equity and debt offerings as well as mergers and acquisitions. Prerequisites: ECON 173B or MGT 180 or MGT 181 or MGT 187 and upper-division standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 173B",
+      "MGT 180",
+      "MGT 181",
+      "MGT 187"
+    ]
+  }
+}

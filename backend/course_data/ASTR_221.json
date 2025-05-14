@@ -1,0 +1,8 @@
+{
+  "code": "ASTR 221",
+  "title": "Computational Astrophysics",
+  "units": "4",
+  "dept": "ASTR",
+  "anchor": "astr221",
+  "description": "Graduate-level course covering both computational methods and applications to astrophysical systems. Topics include numerical analysis, numerical differentiation and integration, ordinary and partial differential equations, linear systems, Fourier transforms, data fitting, grid-based and smoothed-particle hydrodynamics, and N-body algorithms. Special topics such as Monte Carlo methods, ray tracing, visualization and parallel computing, and management of numerical experiments may be presented. Renumbered from PHYA 230. Students may not receive credit for both ASTR 221 and PHYA 230."
+}

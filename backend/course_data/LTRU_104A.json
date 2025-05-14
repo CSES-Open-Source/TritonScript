@@ -1,0 +1,13 @@
+{
+  "code": "LTRU 104A",
+  "title": "Advanced Practicum in Russian: Linguistic Skills Development",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltru104a",
+  "description": "Advanced Russian grammar taught for varying ability levels. Close work with original texts and film to develop comprehension, production, and analytical skills. May be taken for credit up to two times.   Prerequisites:   LTRU 2B or its equivalent or consent of instructor.",
+  "prereqs": "LTRU 2B",
+  "successors": [
+    "LTRU 104B",
+    "LTRU 104C"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "BIPN 150",
+  "title": "Diseases of the Nervous System",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn150",
+  "description": "Course will be taught from a research perspective highlighting the biological pathways impacted by different neurological diseases. Each disease covered will be used to illustrate a key molecular/cellular pathway involved in proper neurological function. Prerequisites: BICD 100 or BICD 100R and BIBC 102 or CHEM 114B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BICD 100",
+          "BICD 100R"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BIBC 102",
+          "CHEM 114B"
+        ]
+      }
+    ]
+  }
+}

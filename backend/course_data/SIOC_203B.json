@@ -1,0 +1,19 @@
+{
+  "code": "SIOC 203B",
+  "title": "Introduction to Applied Mathematics II",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio203b",
+  "description": "Asymptotic methods: method of steepest descent (if not covered in I) WKB, method of multiple scales, boundary layer theory. Elements of complex analysis. Coscheduled with MAE 294B. Prerequisites: MAE 294A or SIOC 203A or SIO 203A or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 294A",
+      "SIOC 203A",
+      "SIO 203A"
+    ]
+  },
+  "successors": [
+    "SIOC 203C"
+  ]
+}

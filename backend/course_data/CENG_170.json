@@ -1,0 +1,15 @@
+{
+  "code": "CENG 170",
+  "title": "Experimental Methods for Chemical Engineers",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng170",
+  "description": "Principles and practice of measurement and control, design and conduct of experiments, and technical report writing. Specific topics include dimensional analysis, error analysis, data acquisition and data reduction, as well as background of experiments and statistical analysis. Program or materials fees may apply. Restricted to NanoEngineering majors. Prerequisites: CENG 100 and CENG 102.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CENG 100",
+      "CENG 102"
+    ]
+  }
+}

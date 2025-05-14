@@ -1,0 +1,16 @@
+{
+  "code": "ECON 5",
+  "title": "Data Analytics for the Social Sciences",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ5",
+  "description": "(Cross-listed with POLI 5D.) Introduction to probability and analysis for understanding data in the social world. Students engage in hands-on learning with applied social science problems. Basics of probability, visual display of data, data collection and management, hypothesis testing, and computation. Students may receive credit for only one of the following courses: ECON 5, POLI 5, or POLI 5D.",
+  "successors": [
+    "DSC 161",
+    "POLI 100X",
+    "POLI 161",
+    "POLI 170",
+    "POLI 171",
+    "POLI 172"
+  ]
+}

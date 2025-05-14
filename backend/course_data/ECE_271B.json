@@ -1,0 +1,16 @@
+{
+  "code": "ECE 271B",
+  "title": "Statistical Learning II",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece271b",
+  "description": "Linear discriminants; the Perceptron; the margin and large margin classifiers; learning theory; empirical vs. structural risk minimization; the VC dimension; kernel functions; reproducing kernel Hilbert spaces; regularization theory; Lagrangian optimization; duality theory; the support vector machine; boosting; Gaussian processes; applications. Recommended preparation: ECE 109. Prerequisites: ECE 271A; graduate standing.",
+  "prereqs": "ECE 271A",
+  "successors": [
+    "BENG 285",
+    "BNFO 285",
+    "ECE 204",
+    "ECE 209",
+    "ECE 271C"
+  ]
+}

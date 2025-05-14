@@ -1,0 +1,15 @@
+{
+  "code": "ECE 181",
+  "title": "Physical Optics and Fourier Optics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece181",
+  "description": "Ray optics, wave optics, beam optics, Fourier optics, and electromagnetic optics. Ray transfer matrix, matrices of cascaded optics, numerical apertures of step and graded index fibers. Fresnel and Fraunhofer diffractions, interference of waves. Gaussian and Bessel beams, the ABCD law for transmissions through arbitrary optical systems. Spatial frequency, impulse response and transfer function of optical systems, Fourier transform and imaging properties of lenses, holography. Wave propagation in various (inhomogeneous, dispersive, anisotropic or nonlinear) media. (Course materials and/or program fees may apply.) Prerequisites: ECE 103 and 107 with grades of C\u2013 or better.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 103",
+      "ECE 107"
+    ]
+  }
+}

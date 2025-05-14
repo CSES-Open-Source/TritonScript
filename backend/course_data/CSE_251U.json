@@ -1,0 +1,8 @@
+{
+  "code": "CSE 251U",
+  "title": "Unsupervised Learning",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse251u",
+  "description": "This course presents a broad view of unsupervised learning. Topics will include descriptive statistics; clustering; projection, singular value decomposition, and spectral embedding; geometry of high-dimensional spaces; common probability distributions; density estimation; graphical models and latent variable modeling; sparse coding and dictionary learning; autoencoders, shallow and deep; and self-supervised learning.\u00a0Recommended preparation: Understanding of recommender systems and web mining, log-linear models, including logistic regression and conditional random fields in addition to undergraduate-level background in probability, linear algebra, and algorithms. Restricted to students within the CS75, CS78, CS89, CS88, CS77, CS80, CS81, CS83, and CS76 majors. All other students will be allowed as space permits.\u00a0Prerequisites: none."
+}

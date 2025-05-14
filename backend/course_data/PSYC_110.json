@@ -1,0 +1,12 @@
+{
+  "code": "PSYC 110",
+  "title": "Juniors Honors Research Seminars",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc110",
+  "description": "This course provides research seminars by a range of departmental faculty, exposing students to contemporary research problems in many areas of psychology. Class discussions will follow faculty presentations. Must be taken for a letter grade for the Psychology Honors Program. Prerequisites: upper-division standing. Admission by application. Department approval.",
+  "successors": [
+    "PSYC 194A",
+    "PSYC 194B"
+  ]
+}

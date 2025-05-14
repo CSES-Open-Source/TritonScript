@@ -1,0 +1,22 @@
+{
+  "code": "COMM 132",
+  "title": "Advanced Topics in Communication, Politics, and Society",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm132",
+  "description": "Specialized study of communication, politics, and society with topics to be determined by the instructor for any given quarter. May be taken for credit three times. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

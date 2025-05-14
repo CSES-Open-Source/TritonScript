@@ -1,0 +1,15 @@
+{
+  "code": "MAE 262",
+  "title": "Biological Fluid Mechanics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae262",
+  "description": "Fluids phenomena relevant to the function, environment, and dynamics of biological cells. Topics include low-Reynolds number flows, cell motility, internal cellular flows, development and morphogenesis, hydrodynamics of suspensions and polymers, rheology, diffusion, hydrodynamics of deformable bodies (vesicles, membranes, filaments), cells under shear flow. Prerequisites: MAE 209 or 210A and graduate standing, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 209",
+      "MAE 210A"
+    ]
+  }
+}

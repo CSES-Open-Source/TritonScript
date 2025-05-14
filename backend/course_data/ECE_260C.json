@@ -1,0 +1,9 @@
+{
+  "code": "ECE 260C",
+  "title": "VLSI Advanced Topics",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece260c",
+  "description": "Advanced topics in design practices and methodologies for modern system-on-chip design. Different design alternatives are introduced and analyzed. Advanced design tools are used to design a hardware-software system. Class discussion, participation, and presentations of projects and special topics assignments are emphasized. Prerequisites: ECE 260B; graduate standing.",
+  "prereqs": "ECE 260B"
+}

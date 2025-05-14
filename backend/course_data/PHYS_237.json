@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 237",
+  "title": "Introduction to the Standard Model and Beyond",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys237",
+  "description": "Classification of particles using symmetries, quarks and leptons, the gauge interactions of the standard model, the flavor structure and Yukawa interactions, the Higgs mechanism and particle. Beyond the standard model topics (as time permits) to vary, depending on the instructor. Prerequisites: PHYS 215B.",
+  "prereqs": "PHYS 215B"
+}

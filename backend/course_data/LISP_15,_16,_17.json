@@ -1,0 +1,15 @@
+{
+  "code": "LISP 15, 16, 17",
+  "title": "Intermediate Spanish for the Social Sciences",
+  "units": "2",
+  "dept": "LING",
+  "anchor": "lisp17",
+  "description": "Conducted entirely in Spanish. Course aims to improve oral language skills through discussions of social science topics, with emphasis on political events and current affairs. Course materials encompass televised news broadcasts, newspapers and periodicals. LISP 15 is offered fall quarter only, LISP 16 is offered winter quarter only, and LISP 17 is offered spring quarter only. Each course may be taken one time and need not be taken in sequence. Prerequisites: LISP 1D/DX or at least three semesters/four quarters of college Spanish or by permission of the instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LISP 1D",
+      "LISP 1DX"
+    ]
+  }
+}

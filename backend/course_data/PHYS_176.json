@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 176",
+  "title": "Quantitative Microbiology",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys176",
+  "description": "A quantitative description of bacteria from molecular interactions through cellular and population level behaviors. Topics will vary yearly, covering process including gene regulation, molecular signaling, genetic circuits, stochastic dynamics, metabolic control, cell division, cell growth control, stress response, chemotaxis, biofilm formation. May be coscheduled with PHYS 276. Prerequisites: PHYS 140A. Recommended preparation: an introductory course in statistical mechanics or equivalent; ordinary differential equations.",
+  "prereqs": "PHYS 140A"
+}

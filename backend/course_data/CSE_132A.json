@@ -1,0 +1,19 @@
+{
+  "code": "CSE 132A",
+  "title": "Database System Principles",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse132a",
+  "description": "Basic concepts of databases, including data modeling, relational databases, query languages, optimization, dependencies, schema design, and concurrency control. Exposure to one or several commercial database systems. Advanced topics such as deductive and object-oriented databases, time allowing. Prerequisites: CSE 100 or CSE 100R; restricted to students within the CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 100",
+      "CSE 100R"
+    ]
+  },
+  "successors": [
+    "CSE 132B",
+    "CSE 132C"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "code": "CENG 122",
+  "title": "Separation Processes",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng122",
+  "description": "Principles of analysis and design of systems for separation of components from a mixture. Topics will include staged operations (distillation, liquid-liquid extraction), and continuous operations (gas absorption, membrane separation) under equilibrium and nonequilibrium conditions. Prerequisites: admission to the major and grades of C\u2013 or better in CENG 100, CENG 102, and CENG 101C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CENG 100",
+      "CENG 102",
+      "CENG 101C"
+    ]
+  },
+  "successors": [
+    "CENG 124A",
+    "CENG 176A"
+  ]
+}

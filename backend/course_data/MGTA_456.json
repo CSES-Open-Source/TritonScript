@@ -1,0 +1,16 @@
+{
+  "code": "MGTA 456",
+  "title": "Supply Chain Analytics",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgta456",
+  "description": "This course focuses on improving the performance of production and service operations, as well as supply chains, through the combination of data and analytical tools including statistics, forecasting, and optimization. Students will learn to employ analytics in capacity and distribution facility planning and contracting; how to determine data collection requirements for dynamic management of inventory levels; and how to improve revenue management under demand learning. Prerequisites: MGTA 451, MGTA 452, MGTA 453, and restricted to MS in business analytics program or with department and instructor approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGTA 451",
+      "MGTA 452",
+      "MGTA 453"
+    ]
+  }
+}

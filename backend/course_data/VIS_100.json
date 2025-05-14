@@ -1,0 +1,11 @@
+{
+  "code": "VIS 100",
+  "title": "Introduction to Public Culture",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis100",
+  "description": "This course examines contemporary theories and concepts of public culture and social practice, including new spheres of public culture design research and practice that intervene across urban socioeconomic and political domains, environmental, spatial and community-based dynamics, architecture, information design, and visualization. Prerequisites: upper-division standing.",
+  "successors": [
+    "VIS 100A"
+  ]
+}

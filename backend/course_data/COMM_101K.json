@@ -1,0 +1,15 @@
+{
+  "code": "COMM 101K",
+  "title": "MPL: Documentary Sketchbook",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm101k",
+  "description": "Digital video is the medium used in this class both as a production technology and as a device to explore the theory and practice of documentary production. Technical demonstrations, lectures, production exercises, and readings will emphasize the interrelation between production values and ethics, problems of representation, and documentary history. May be taken for credit three times. Prerequisites: COMM 10 and COMM 101.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      "COMM 101"
+    ]
+  }
+}

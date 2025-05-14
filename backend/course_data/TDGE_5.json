@@ -1,0 +1,11 @@
+{
+  "code": "TDGE 5",
+  "title": "A Glimpse into Acting",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdge5",
+  "description": "An introductory course on acting fundamentals for students without an acting background. Through analysis of acting on film, students will explore the actor\u2019s craft and practice these skills in studio exercises to better understand how an actor approaches a text.\u00a0Prerequisites: none.",
+  "successors": [
+    "TDGE 105"
+  ]
+}

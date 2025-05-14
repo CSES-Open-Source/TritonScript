@@ -1,0 +1,20 @@
+{
+  "code": "MCWP 50",
+  "title": "Critical Writing",
+  "units": "4",
+  "dept": "MCWP",
+  "anchor": "mcwp50",
+  "description": "Second course of sequence in reading and writing which satisfies the Muir College graduation requirement in writing. Required of all Muir College first-year students and of transfer students. MCWP 50 focuses on advanced skills of argument and analysis. Students engage in close reading of texts, weekly writing and revision, and individual conferences. Course must be taken for a letter grade. Prerequisites: satisfaction of MCWP 40 requirement or completion of TAG or IGETC agreement.",
+  "prereqs": "MCWP 40",
+  "successors": [
+    "CSE 194",
+    "HITO 106",
+    "LTEN 30",
+    "LTWR 8A",
+    "LTWR 8B",
+    "LTWR 8C",
+    "PHIL 27",
+    "PHYS 30",
+    "POLI 27"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "COMM 106",
+  "title": "Introduction to Media Industries",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm106",
+  "description": "Introduction to topics that arise across various media industries, including media economics, ownership and consolidation in media, media regulation and deregulation, media technologies, creative labor, intellectual property, financialization, globalization, and ethics in media. Engage directly with current events, read recent coverage in the trade press, and learn to analyze contemporary media companies and systems. Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40"
+    ]
+  }
+}

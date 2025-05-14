@@ -1,0 +1,25 @@
+{
+  "code": "VIS 190",
+  "title": "Design Master Studio",
+  "units": "8",
+  "dept": "VIS",
+  "anchor": "vis190",
+  "description": "This advanced course provides students with a unique immersive learning experience, based on design studio/atelier methods. This course develops students\u2019 skills in the ideation, planning, and execution of complex individual and collaborative projects, including historical and contextual research, project ideation, planning and management, coordination of skills and responsibilities, iterative execution, and effective presentation. Prerequisites: senior standing, VIS 135, and two from VIS 100A, VIS 101A, VIS 133A, VIS 136A, VIS 161, VIS 162.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "VIS 135",
+      {
+        "type": "two",
+        "courses": [
+          "VIS 100A",
+          "VIS 101A",
+          "VIS 133A",
+          "VIS 136A",
+          "VIS 161",
+          "VIS 162"
+        ]
+      }
+    ]
+  }
+}

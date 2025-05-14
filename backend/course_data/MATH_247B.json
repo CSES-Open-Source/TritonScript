@@ -1,0 +1,9 @@
+{
+  "code": "MATH 247B",
+  "title": "Further Topics in Real Analysis",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math247b",
+  "description": "Continued development of a topic in real analysis. Topics include Fourier analysis, distribution theory, martingale theory, operator theory. May be taken for credit three times with consent of adviser as topics vary. Prerequisites: MATH 247A. Students who have not completed MATH 247A may enroll with consent of instructor.",
+  "prereqs": "MATH 247A"
+}

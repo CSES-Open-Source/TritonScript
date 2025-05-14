@@ -1,0 +1,27 @@
+{
+  "code": "BENG 193",
+  "title": "Clinical Experience in Bioengineering",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng193",
+  "description": "Introduction on the integration of bioengineering and clinical medicine through lectures and rotations with clinical faculty. Students will work with clinical mentors and course faculty to identify areas where engineering can improve diagnostics, clinical practice, and/or treatment.\u00a0May be coscheduled with BENG 294C.\u00a0Prerequisites: BENG 140A or BIPN 100; BENG 140B or BIPN 102; consent of instructor required. A GPA of 3.5 is requested as a requirement per the agreement with the School of Medicine to ensure that students who are participating in the program have a strong academic background to be in the clinic as an undergraduate. (S)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BENG 140A",
+          "BIPN 100"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BENG 140B",
+          "BIPN 102"
+        ]
+      }
+    ]
+  }
+}

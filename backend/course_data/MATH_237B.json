@@ -1,0 +1,9 @@
+{
+  "code": "MATH 237B",
+  "title": "Further Topics in Differential Equations",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math237b",
+  "description": "Continued development of a topic in differential equations. Topics include Riemannian geometry, Ricci flow, and geometric evolution. May be taken for credit three times with consent of adviser as topics vary. Prerequisites: MATH 237A. Students who have not completed MATH 237A may enroll with consent of instructor.",
+  "prereqs": "MATH 237A"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "MATH 190A",
+  "title": "Foundations of Topology I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math190a",
+  "description": "An introduction to point set topology: topological spaces, subspace topologies, product topologies, quotient topologies, continuous maps and homeomorphisms, metric spaces, connectedness, compactness, basic separation, and countability axioms. Examples. Instructor may choose further topics such as Urysohn\u2019s lemma, Urysohn\u2019s metrization theorem. Formerly MATH 190. Students may not receive credit for MATH 190A and MATH 190. Prerequisites: MATH 31CH or MATH 140A or MATH 142A. Students who have not completed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 31CH",
+      "MATH 140A",
+      "MATH 142A"
+    ]
+  },
+  "successors": [
+    "MATH 190B",
+    "MATH 191"
+  ]
+}

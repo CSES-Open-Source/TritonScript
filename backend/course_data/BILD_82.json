@@ -1,0 +1,11 @@
+{
+  "code": "BILD 82",
+  "title": "Job and Internship Preparation: Professional Development Skills",
+  "units": "1",
+  "dept": "BIOL",
+  "anchor": "bild82",
+  "description": "This is an internship and job preparation course where professional development skills will build upon what was learned in the prior quarter. The focus of this course will be building soft skills and other professional development skills that are applicable to internships. Students can apply to internships or jobs that they seek out on their own or through industry partnerships that the course facilitator has strategically developed for this course.",
+  "successors": [
+    "BISP 182"
+  ]
+}

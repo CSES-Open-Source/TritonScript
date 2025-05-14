@@ -1,0 +1,11 @@
+{
+  "code": "ECE 207A",
+  "title": "Principles of Medical Imaging",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece207a",
+  "description": "Fundamentals of Fourier transform and linear systems theory including convolution, sampling, noise, filtering, image reconstruction, and visualization with an emphasis on applications to biomedical imaging. Examples from optical imaging, CT, MR, ultrasound, nuclear, PET, and radiography. Cross-listed with BENG 280A. Renumbered from ECE 207. Students may receive credit for one of the following: ECE 207A or ECE 207 or BENG 280A. Prerequisites: graduate standing.",
+  "successors": [
+    "ECE 217"
+  ]
+}

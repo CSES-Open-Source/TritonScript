@@ -1,0 +1,11 @@
+{
+  "code": "USP 177A",
+  "title": "Urban Design Practicum",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp177a",
+  "description": "This course is designed to introduce the student to the theory and practice of urban design, the form of the built environment, and how it is created. There is an emphasis on the development within a larger urban context. Renumbered from USP 177. Students may not receive credit for USP 177A and USP 177. Prerequisites: upper-division standing or consent of instructor.",
+  "successors": [
+    "USP 177B"
+  ]
+}

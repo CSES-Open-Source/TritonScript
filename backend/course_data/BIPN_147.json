@@ -1,0 +1,29 @@
+{
+  "code": "BIPN 147",
+  "title": "Computational Systems Neurobiology",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bipn147",
+  "description": "Models of neural coding and computation in the olfactory, visual, auditory, and somatosensory systems. Models of the motor system including central pattern generators, reinforcement learning, and motor cortex. Models of memory systems including working memory, long term memory, and memory consolidation. This course and BIPN 146 are taught in alternate years. Prerequisites: BILD 2 and MATH 10A or MATH 20A and MATH 10B or MATH 20B and MATH 11.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 2",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10A",
+          "MATH 20A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10B",
+          "MATH 20B"
+        ]
+      },
+      "MATH 11"
+    ]
+  }
+}

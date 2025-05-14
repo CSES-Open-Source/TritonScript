@@ -1,0 +1,22 @@
+{
+  "code": "MATH 15A",
+  "title": "Introduction to Discrete Mathematics",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math15a",
+  "description": "Basic discrete mathematical structure: sets, relations, functions, sequences, equivalence relations, partial orders, and number systems. Methods of reasoning and proofs: propositional logic, predicate logic, induction, recursion, and pigeonhole principle. Infinite sets and diagonalization. Basic counting techniques; permutation and combinations. Applications will be given to digital logic design, elementary number theory, design of programs, and proofs of program correctness. Students who have completed MATH 109 may not receive credit for MATH 15A. Credit not offered for both MATH 15A and CSE 20. Equivalent to CSE 20. Prerequisites: CSE 8B or CSE 11. Prerequisite courses must be completed with a grade of C\u2013 or better.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 8B",
+      "CSE 11"
+    ]
+  },
+  "successors": [
+    "CSE 105",
+    "CSE 140",
+    "CSE 140L",
+    "CSE 21",
+    "MATH 170A"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": "ECE 228",
+  "title": "Machine Learning for Physical Applications",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece228",
+  "description": "Machine learning has received enormous interest. To learn from data we use probability theory, which has been a mainstay of statistics and engineering for centuries. The class will focus on implementations for physical problems. Topics: Gaussian probabilities, linear models for regression, linear models for classification, neural networks, kernel methods, support vector machines, graphical models, mixture models, sampling methods, and sequential estimation.\u00a0Prerequisites: graduate standing."
+}

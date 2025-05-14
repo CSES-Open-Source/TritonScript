@@ -1,0 +1,25 @@
+{
+  "code": "MGT 180R",
+  "title": "Business Finance",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt180r",
+  "description": "This course provides an introduction to the fundamental concepts in corporate finance. Topics include discounted cash flow, capital budgeting, bond and stock valuation, portfolio theory, market efficiency, the Capital Asset Pricing Model (CAPM), the determinants of capital structure, and options. We will seek a balance between theoretical paradigms, the empirical facts, and their applicability to real world issues. Emphasis will be placed on general principles and problem-solving. This course is a distance education course. Students will not receive credit for both MGT 180R and MGT 180. Prerequisites: ECE 109 or ECON 100A or ECON 120A or MAE 108 or MATH 180A or MATH 183 or MATH 186.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECE 109",
+      "ECON 100A",
+      "ECON 120A",
+      "MAE 108",
+      "MATH 180A",
+      "MATH 183",
+      "MATH 186"
+    ]
+  },
+  "successors": [
+    "MGT 183",
+    "MGT 184",
+    "MGT 189"
+  ]
+}

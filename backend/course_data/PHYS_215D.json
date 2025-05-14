@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 215D",
+  "title": "Selected Topics in Quantum Fields",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys215d",
+  "description": "Selected additional topics in quantum field theory, varying year by year depending on the instructor. Topics may include effective field theory, anomalies, instantons, monopoles, large N methods, topological terms, coherent state path integrals, field theories of condensed matter, QFT in other space-time dimensions, conformal field theories, lattice gauge theory, strong coupling methods, RG flows and constraints, phases of QFT, supersymmetry, dualities, AdS/CFT. May be taken for credit up to three times. Prerequisites: PHYS 215B.",
+  "prereqs": "PHYS 215B"
+}

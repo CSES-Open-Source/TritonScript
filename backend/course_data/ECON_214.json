@@ -1,0 +1,16 @@
+{
+  "code": "ECON 214",
+  "title": "Applied Macroeconomics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ214",
+  "description": "This course focuses on applied macroeconomics, including econometric testing of macroeconomic theories and empirical measurement guided by theoretical insights. Topics will vary from year to year depending on the latest developments in research. Students will complete the course with a broader understanding of a number of leading topics in macroeconomics as well as a toolkit of estimation and simulation programs. Recommended preparation: ECON 220D. Prerequisites: graduate standing and ECON 210A-B-C or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 210A",
+      "ECON 210B",
+      "ECON 210C"
+    ]
+  }
+}

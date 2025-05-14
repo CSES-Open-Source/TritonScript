@@ -1,0 +1,13 @@
+{
+  "code": "CCE 2",
+  "title": "Cultivating Community-Informed Practices",
+  "units": "4",
+  "dept": "CCE",
+  "anchor": "cce2",
+  "description": "This course introduces students to writing as a community-informed endeavor. Students will develop writing practices to engage in respectful, meaningful, ethical, and reciprocal community partnerships. Using participatory action and community-rooted research, students will develop reading, writing, and thinking practices that recognize, honor, and foster community knowledge. Must be taken for a letter grade to count toward Eighth College general-education requirements. Prerequisites: Eighth College students only; CCE 1.",
+  "prereqs": "CCE 1",
+  "successors": [
+    "PHIL 27",
+    "POLI 27"
+  ]
+}

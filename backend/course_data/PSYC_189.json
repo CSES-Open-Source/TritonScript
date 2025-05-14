@@ -1,0 +1,18 @@
+{
+  "code": "PSYC 189",
+  "title": "Brain, Behavior, and Evolution",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc189",
+  "description": "This course provides a survey of natural behaviors, including birdsong, prey capture, localization, electroreception and echolocation, and the neural system that controls them, emphasizing broad fundamental relationships between brain and behavior across species. Cross-listed with BIPN 189. Students may not receive credit for PSYC 189 and BIPN 189. Prerequisites: upper-division standing, BILD 2 or COGS 101A or COGS 107B or PSYC 102 or PSYC 106.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BILD 2",
+      "COGS 101A",
+      "COGS 107B",
+      "PSYC 102",
+      "PSYC 106"
+    ]
+  }
+}

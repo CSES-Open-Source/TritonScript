@@ -1,0 +1,16 @@
+{
+  "code": "BILD 12",
+  "title": "Neurobiology and Behavior",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bild12",
+  "description": "Introduction to the organization and functions of the nervous system; topics include molecular, cellular, developmental, systems, and behavioral neurobiology. This course is designed for nonbiology students and does not satisfy a lower-division requirement for any biology major. Open to nonbiology majors only. Note: Students may not receive credit for both BILD 12 and COGS 17.",
+  "successors": [
+    "COGS 107A",
+    "COGS 115",
+    "COGS 170",
+    "COGS 180",
+    "COGS 184",
+    "PSYC 171"
+  ]
+}

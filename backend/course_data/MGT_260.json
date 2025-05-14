@@ -1,0 +1,15 @@
+{
+  "code": "MGT 260",
+  "title": "Quantitative Methods in Marketing",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt260",
+  "description": "This course applies methods from econometrics and computer science to estimate consumers\u2019 preferences and inform firm decisions. Sample topics include estimating econometric models with large data, using Natural Language Processing (NLP) and computer vision modeling to solve business problems. Prerequisites: ECON 200A; ECON 220A; admission to management PhD program or by consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 200A",
+      "ECON 220A"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "SIOG 223B",
+  "title": "Geophysical Data Analysis II",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio223gb",
+  "description": "Analysis of geophysical measurements, especially time series, Fourier theory digital signal processing, and spectral analysis. Prerequisites: graduate standing and SIOG 223A or SIO 223A or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIOG 223A",
+      "SIO 223A"
+    ]
+  }
+}

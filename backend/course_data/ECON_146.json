@@ -1,0 +1,9 @@
+{
+  "code": "ECON 146",
+  "title": "Economic Stabilization",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ146",
+  "description": "Theory of business cycles and techniques used by governments to stabilize an economy. Discussion of recent economic experience. Prerequisites: ECON 110B.",
+  "prereqs": "ECON 110B"
+}

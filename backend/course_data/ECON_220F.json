@@ -1,0 +1,9 @@
+{
+  "code": "ECON 220F",
+  "title": "Econometrics F",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ220f",
+  "description": "This course focuses on the application of econometric techniques to issues in microeconomics and macroeconomics. The major emphasis in the class is on the completion of an empirical project. Prerequisites: ECON 220E, graduate standing; enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.",
+  "prereqs": "ECON 220E"
+}

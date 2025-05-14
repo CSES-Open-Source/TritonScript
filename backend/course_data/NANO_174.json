@@ -1,0 +1,12 @@
+{
+  "code": "NANO 174",
+  "title": "Mechanical Behavior of Materials",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano174",
+  "description": "Microscopic and macroscopic aspects of the mechanical behavior of engineering materials, with emphasis on recent development in materials characterization by mechanical methods. The fundamental aspects of plasticity in engineering materials, strengthening mechanisms, and mechanical failure modes of materials systems. Prerequisites: NANO 108.",
+  "prereqs": "NANO 108",
+  "successors": [
+    "NANO 174L"
+  ]
+}

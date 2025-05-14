@@ -1,0 +1,8 @@
+{
+  "code": "MAE 287",
+  "title": "Control of Distributed Parameter Systems",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae287",
+  "description": "Lyapunov stability; exact solutions to PDEs; boundary control of parabolic PDEs (reaction-advection-diffusion and other equations); boundary observer design; control of complex-valued PDEs (Schrodinger and Gunzburg-Landau equations); boundary control of hyperbolic PDEs (wave equations) and beam equations; control of first-order hyperbolic PDEs and delay equations; control of Navier-Stokes equations; motion planning for PDEs; elements of adaptive control for PDEs and control of nonlinear PDEs. Prerequisites: graduate standing or consent of instructor."
+}

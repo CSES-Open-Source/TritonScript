@@ -1,0 +1,39 @@
+{
+  "code": "PHB 222",
+  "title": "Biostatistical Methods II",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "phb222",
+  "description": "Intermediate-level graduate course in the analysis of categorical data. Topics include generalized linear models (logistic, Poisson, loglinear models); maximum likelihood and quasi likelihood approaches; model diagnostics, computational approaches and inferential strategies. Both theory and practice will be addressed. Renumbered from FMPH 222. Students may not receive credit for PHB 222 and FMPH 222. Must be taken for a letter grade to be applied to the biostatistics degree requirements. Prerequisites: successful completion of FMPH 221 or PHB 221 and FMPH 244A or PHB 244A or MATH 281A or program approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 221",
+          "PHB 221"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 244A",
+          "PHB 244A",
+          "MATH 281A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "PHB 223",
+    "PHB 224",
+    "PHB 225",
+    "PHB 226",
+    "PHB 227",
+    "PHB 228",
+    "PHB 241",
+    "PHB 242",
+    "PHB 243A"
+  ]
+}

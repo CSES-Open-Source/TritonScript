@@ -1,0 +1,12 @@
+{
+  "code": "BENG 202",
+  "title": "Bioinformatics II: Introduction to Bioinformatics Algorithms",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng202",
+  "description": "(Formerly BENG 202/CSE 257A.) Introduction to methods for sequence analysis. Application to genome and proteome sequences. Protein structure, sequence-structure analysis. Prerequisites: Pharm 201 or consent of instructor. (W)",
+  "successors": [
+    "BENG 203",
+    "CSE 283"
+  ]
+}

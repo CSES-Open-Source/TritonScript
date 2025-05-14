@@ -1,0 +1,21 @@
+{
+  "code": "COGS 116",
+  "title": "Developmental Cognitive Neuroscience",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs116",
+  "description": "This course will discuss the relationship between brain and cognitive development. Topics will include methods for studying the developing brain, how these methods have informed our understanding of cognitive development, the effects of environmental factors, and disorders of brain development. Prerequisites:\u00a0COGS 107A and COGS 107B or PSYC 106.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COGS 107A",
+      {
+        "type": "one",
+        "courses": [
+          "COGS 107B",
+          "PSYC 106"
+        ]
+      }
+    ]
+  }
+}

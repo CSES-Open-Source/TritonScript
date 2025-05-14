@@ -1,0 +1,9 @@
+{
+  "code": "COGS 172",
+  "title": "Brain Disorders and Cognition",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs172",
+  "description": "A review of the patterns of impaired and intact cognitive abilities present in brain-damaged patients in terms of damage to one or more components of a model of normal cognitive functioning. Prerequisites: COGS 107A.",
+  "prereqs": "COGS 107A"
+}

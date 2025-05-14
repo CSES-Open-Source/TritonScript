@@ -1,0 +1,26 @@
+{
+  "code": "COGS 14A",
+  "title": "Introduction to Research Methods",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs14a",
+  "description": "Introduction to the scientific method. Methods of knowledge acquisition, research questions, hypotheses, operational definitions, variables, control. Observation, levels of measurement, reliability, validity. Experimentation and design: between-groups, within-subjects, quasi-experimental, factorial, single-subject. Correlational and observational studies. Ethics in research.",
+  "successors": [
+    "COGS 101C",
+    "COGS 142",
+    "COGS 144",
+    "COGS 14B",
+    "COGS 150",
+    "PSYC 113",
+    "PSYC 114",
+    "PSYC 117",
+    "PSYC 118",
+    "PSYC 120",
+    "PSYC 121",
+    "PSYC 140",
+    "PSYC 175",
+    "PSYC 193L",
+    "PSYC 71",
+    "PSYC 81"
+  ]
+}

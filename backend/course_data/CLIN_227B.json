@@ -1,0 +1,9 @@
+{
+  "code": "CLIN 227B",
+  "title": "Mind, Brain & Behavior II",
+  "units": "6",
+  "dept": "CLIN",
+  "anchor": "clin227b",
+  "description": "This five-week course during year two covers neurological, psychiatric, ophthalmological, otolaryngological, and general head and neck principles, syndromes, and disorders. Prerequisites: CLIN 227A. S/U grades only.",
+  "prereqs": "CLIN 227A"
+}

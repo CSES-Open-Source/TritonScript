@@ -1,0 +1,15 @@
+{
+  "code": "CSE 223B",
+  "title": "Distributed Computing and Systems",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse223b",
+  "description": "Efficient primitives for distributed operating systems and high-performance network servers, including concurrent and event-driven server architectures, remote procedure calls, and load shedding. Distributed naming, directory, and storage services, replication for fault tolerance, and security in distributed systems. Prerequisites: CSE 221, CSE 222A, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CSE 221",
+      "CSE 222A"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "code": "FMPH 405",
+  "title": "Introduction to Health Policy",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "fmph405",
+  "description": "This course will introduce students to health policy making and the organization and financing of health services in the United States, enhance their understanding of the historical and political context of health policy, and enable them to develop strategies for analysis of health policy issues. The course aims to convey not just specific facts, but to help students develop the ability and confidence to assess current health policy issues in a thoughtful, comprehensive, and rigorous manner. Prerequisites: must be enrolled in MPH program (FM75) or program approval.",
+  "successors": [
+    "FMPH 440",
+    "FMPH 441"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 135A",
+  "title": "Mexican Literature before 1910",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp135a",
+  "description": "Explores the relationships among cultural production, politics, and societal changes in Mexico before the 1910 Revolution, specifically the roles of intellectuals and popular culture in nation-building and modernization. Readings may include didactic literature and historiographic writings, forms of popular discourse, as well as novels and poetry. May be taken for credit up to two times as topics vary.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

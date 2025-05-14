@@ -1,0 +1,18 @@
+{
+  "code": "PHYS 161",
+  "title": "Black Holes",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys161",
+  "description": "An introduction to Einstein\u2019s theory of general relativity with emphasis on the physics of black holes. Topics will include metrics and curved space-time, the Schwarzschild metric, motion around and inside black holes, rotating black holes, gravitational lensing, gravity waves, Hawking radiation, and observations of black holes. Prerequisites: PHYS 4A-B-C-D-E.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 4A",
+      "PHYS 4B",
+      "PHYS 4C",
+      "PHYS 4D",
+      "PHYS 4E"
+    ]
+  }
+}

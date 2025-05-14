@@ -71,39 +71,31 @@ export default function Dashboard() {
               type="text"
               placeholder="Search..."
             />
-            <div className="filter">
+            {/* <div className="filter">
               <img className="filter-logo" src={filter} alt="search filter icon" />
-            </div>
-            <div className="edit">
+            </div> */}
+            {/* <div className="edit">
               <img className="edit-logo" src={edit} alt="edit icon" />
+            </div> */}
+          </div>
+          
+          <div className="folders-container">
+            <div className="folder-text-and-add">
+              <h3 className="folder-text">Folders</h3>
+              <img className ="add-folder" src="src/assets/plus-solid.svg"/>
+            </div>
+            <div className="folders">
+            <div className="folder">Math</div>
+            <div className="folder">Physics</div>
+            <div className="folder">CS</div>
             </div>
           </div>
-          <div className="notes-grid">
-              <div className="recent-notes">
-                <div className="recent-notes-text">
-                  <p><b>RECENT NOTES</b></p>
-                  <div className="note-container">
-                    {notes.length > 0 ? (
-                      notes.map((oneNote) => (
-                        <div key={oneNote.note_id}>
-                          <img 
-                            className="placeholder-note-recent" 
-                            src={note} 
-                            alt={oneNote.title || "placeholder note"} 
-                          />
-                          <p className="note-title">{oneNote.title || "Untitled Note"}</p> {/* Title below image */}
-                        </div>
-                      ))
-                    ) : (
-                      <p>No notes available</p>
-                    )}
-                  </div>
-                </div>
-              </div>
-              <div className="class-notes">
-                <ClassNote classTitle={"CSE 30"} notes={notes_placeholder}/>
-                <ClassNote classTitle={"PHYS 2C"} notes={notes_placeholder}/>
-                <ClassNote classTitle={"ECE 65"} notes={notes_placeholder}/>
+          <div className="recent-view-container">
+            <h3 className="recent-view-text">Recently Viewed</h3>
+              <div className="recent-view">
+              <div className="note">Math</div>
+              <div className="note">Physics</div>
+              <div className="note">CS</div>
               </div>
           </div>
         </div>

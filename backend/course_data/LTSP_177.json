@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 177",
+  "title": "Literary and Historical Migrations",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp177",
+  "description": "This course will focus on a variety of Latin American and/or Spanish intra- and international migrations throughout the world and on the literature produced by these exiles or immigrants. May be taken for credit up to two times as topics vary.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

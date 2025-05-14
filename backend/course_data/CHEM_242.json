@@ -1,0 +1,11 @@
+{
+  "code": "CHEM 242",
+  "title": "Introduction to Glycosciences",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem242",
+  "description": "The primary aim of this course is to provide an overview of fundamental facts, concepts, and methods in glycoscience. The course is structured around major themes in the field starting from the basic understanding of structure and molecular interactions of carbohydrates, to the mechanisms of their biological functions in normal and disease states, to their applications in materials science and energy generation. This course is geared to introduce students with limited prior exposure to the field, supported by selected readings and class notes. May be coscheduled with CHEM 142. Recommended preparation: undergraduate-level organic chemistry and at least one previous course in either general biology, molecular biology, or cell biology is strongly encouraged.",
+  "successors": [
+    "CHEM 237"
+  ]
+}

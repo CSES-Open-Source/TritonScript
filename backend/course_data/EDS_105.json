@@ -1,0 +1,38 @@
+{
+  "code": "EDS 105",
+  "title": "Teaching and Learning Physics",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds105",
+  "description": "How people learn and understand key concepts in physics. Readings in physics, physics education research, and cognitive science. Useful for students interested in teaching and learning physical sciences. Prerequisites: PHYS 1A or PHYS 2A or PHYS 4A and PHYS 1B or PHYS 2B or PHYS 4C and PHYS 1C or PHYS 2C or PHYS 2D or PHYS 4B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1A",
+          "PHYS 2A",
+          "PHYS 4A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1B",
+          "PHYS 2B",
+          "PHYS 4C"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1C",
+          "PHYS 2C",
+          "PHYS 2D",
+          "PHYS 4B"
+        ]
+      }
+    ]
+  }
+}

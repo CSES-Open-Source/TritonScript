@@ -1,0 +1,9 @@
+{
+  "code": "COMM 110P",
+  "title": "LLC: Language and Human Communication",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm110p",
+  "description": "This course examines the interaction of language and culture in human communication. Beginning with language evolution, the course then discusses a broad range of human languages, including indigenous languages, sign languages, and hybrid languages spoken in urban centers. Prerequisites: COMM 10.",
+  "prereqs": "COMM 10"
+}

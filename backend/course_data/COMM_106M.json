@@ -1,0 +1,18 @@
+{
+  "code": "COMM 106M",
+  "title": "Advertising and Society",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm106m",
+  "description": "Advertising as a commercial and social force. The development of advertising, branding, and consumer culture in the United States; the history and political economy of advertising in mass and digital media; semiotics and representation in advertisements; influencers, authenticity, and the monetization of self and community; subversion and rebellion within systems of advertisement and promotion. Prerequisites: COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COMM 10",
+      "COMM 20",
+      "COMM 30",
+      "COMM 30GS",
+      "COMM 40"
+    ]
+  }
+}

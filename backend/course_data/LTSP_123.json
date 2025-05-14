@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 123",
+  "title": "Topics in Modern Spanish Culture",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp123",
+  "description": "Investigation of selected topics concerning Spanish cultural production after 1800. Topics might focus on a genre (film, popular novel, theatre) or on the transformations of a theme or metaphor (nation, femininity, the uncanny). May be taken for credit up to two times as topics vary.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

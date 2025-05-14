@@ -1,0 +1,9 @@
+{
+  "code": "CHEM 190",
+  "title": "Mathematics for Physical Chemistry",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem190",
+  "description": "Focus on select topics from among numerous areas relevant to chemistry, including linear algebra, probability theory, group theory, complex variables, Laplace and Fourier transforms, partial differential equations, stochastic variables, random walks, and others. May be coscheduled with CHEM 290. Prerequisites: MATH 20D.",
+  "prereqs": "MATH 20D"
+}

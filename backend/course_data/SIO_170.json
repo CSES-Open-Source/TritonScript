@@ -1,0 +1,24 @@
+{
+  "code": "SIO 170",
+  "title": "Volcanology",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio170",
+  "description": "This class will introduce students to the fundamentals of the science of volcanology. Topics explored will include the processes and products of various types of volcanism, magma genesis, eruptive mechanisms, in addition to volcanic monitoring, hazards and mitigation. Students may not receive credit for both SIO 170 and SIO 170GS. Prerequisites: SIO 100 and CHEM 6A or CHEM 6AH, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SIO 100",
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6A",
+          "CHEM 6AH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "SIO 170L"
+  ]
+}

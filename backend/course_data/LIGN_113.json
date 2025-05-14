@@ -1,0 +1,15 @@
+{
+  "code": "LIGN 113",
+  "title": "Hearing Science and Hearing Disorders",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign113",
+  "description": "An introductory course focused on the hearing component of speech, speech perception, and language disorders, this course gives students an introduction to the anatomy and function of human hearing, the principles and practice of audiology, and the modern methods of addressing hearing loss in patients like hearing aids and cochlear implants. Prerequisites: LIGN 101 and LIGN 110.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIGN 101",
+      "LIGN 110"
+    ]
+  }
+}

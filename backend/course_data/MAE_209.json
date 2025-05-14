@@ -1,0 +1,42 @@
+{
+  "code": "MAE 209",
+  "title": "Continuum Mechanics Applied to Medicine/Biology",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae209",
+  "description": "(Cross-listed with BENG 209.) Introduction to the basic definitions of continuum mechanics and their mathematical formulation at the graduate level with applications to problems in medicine and biology. This course is intended for students with little or no background in mechanics; it is an introduction to the Biomechanics courses BENG 250 A\u2013B in the Department of Bioengineering and to Solid and Fluid Mechanics courses MAE 210A and MAE 231A in the Department of Mechanical and Aerospace Engineering. This course should NOT be taken concurrently with MAE 210A or MAE 231A. Prerequisites: BENG 226 or MAE 201 and BENG 227 or MAE 201 or MAE 210A and BENG 221 or MAE 208 or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BENG 226",
+          "MAE 201"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BENG 227",
+          "MAE 201",
+          "MAE 210A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BENG 221",
+          "MAE 208"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MAE 210B",
+    "MAE 231B",
+    "MAE 262",
+    "MAE 263",
+    "MAE 264"
+  ]
+}

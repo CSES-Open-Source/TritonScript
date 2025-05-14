@@ -1,0 +1,8 @@
+{
+  "code": "MGTA 463R",
+  "title": "Fraud Analytics",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgta463r",
+  "description": "In this course students will learn everything they need to know to build statistical/machine learning models to find fraud in data events. We will cover the basics of building fraud models: understanding the problem dynamics, modes of fraud, data analysis and preparation, building expert variables/features, different algorithm choices, and measurements of model goodness. Students will not receive credit for both MGTA 463R and MGTA 463. This is a distance education course. Prerequisites: restricted to MS in business analytics students or instructor approval or department approval."
+}

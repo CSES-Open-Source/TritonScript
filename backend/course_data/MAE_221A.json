@@ -1,0 +1,12 @@
+{
+  "code": "MAE 221A",
+  "title": "Conduction Heat Transfer",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae221a",
+  "description": "Fourier\u2019s Law, the heat conduction equation, multidimensional conduction, unsteady conduction, moving boundary problems, conduction on slabs, cylindrical and spherical shells, multidimensional fins, numerical solution methods. Prerequisites: graduate standing.",
+  "successors": [
+    "MAE 225A",
+    "MAE 225B"
+  ]
+}

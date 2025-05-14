@@ -1,0 +1,16 @@
+{
+  "code": "LIGN 148",
+  "title": "The Psycholinguistics of Gesture and Sign Languages",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign148",
+  "description": "The study of how sign languages are structured, and how they are understood and produced by adults. Topics include the contrast between gesture and language, sign language acquisition, brain processing, sociolinguistics, and the role of sign language in reading. Prerequisites: LIGN 101 or LISL 1C/1CX.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LIGN 101",
+      "LISL 1C",
+      "LISL 1CX"
+    ]
+  }
+}

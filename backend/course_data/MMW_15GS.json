@@ -1,0 +1,27 @@
+{
+  "code": "MMW 15GS",
+  "title": "The Contemporary Era: Conflict and Aspirations in a Globalized World, Twentieth\u2013Twenty-First Century",
+  "units": "4",
+  "dept": "MMW",
+  "anchor": "mmw15gs",
+  "description": "This course explores the sociocultural, economic, and political forces that shaped the twentieth and twenty-first century and contestations over them, with particular focus on the complex interaction between humans and the natural world. It examines the overlapping causes and impact of the global and local conflicts and inequalities that have defined the contemporary era. The course addresses efforts to defend and expand freedom, improve quality of life, and increase transnational cooperation and communication that challenge those hierarchies that perpetuate inequality. The course reflects on what this recent history may mean for our collective future. Students may not receive credit for both MMW 15 and MMW 15GS. Open to Eleanor Roosevelt College (ERC) students only. Must be taken for a letter grade to meet the ERC graduation requirement. Program or materials fees may apply. Prerequisites: MMW 12 or MMW 12R and MMW 13 or MMW 13R with a grade of \u201cD\u201d or better. Students must apply and be accepted to the Global Seminars program.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MMW 12",
+          "MMW 12R"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MMW 13",
+          "MMW 13R"
+        ]
+      }
+    ]
+  }
+}

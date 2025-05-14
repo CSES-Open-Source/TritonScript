@@ -1,0 +1,22 @@
+{
+  "code": "MATH 168A",
+  "title": "Topics in Applied Mathematics\u2014Computer Science",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math168a",
+  "description": "Topics to be chosen in areas of applied mathematics and mathematical aspects of computer science. May be taken for credit two times with different topics. Prerequisites: MATH 18 or MATH 20F or MATH 31AH, and MATH 20C. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      },
+      "MATH 20C"
+    ]
+  }
+}

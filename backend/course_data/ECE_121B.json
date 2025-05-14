@@ -1,0 +1,12 @@
+{
+  "code": "ECE 121B",
+  "title": "Energy Conversion",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece121b",
+  "description": "Principles of electro-mechanical energy conversion, balanced three-phase systems, fundamental concepts of magnetic circuits, single-phase transformers, and the steady-state performance of DC and induction machines. Students may not receive credit for both ECE 121B and ECE 121. Prerequisites: ECE 121A.",
+  "prereqs": "ECE 121A",
+  "successors": [
+    "ECE 124"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "VIS 151A",
+  "title": "Seminar in Media History and Theory",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis151a",
+  "description": "Research seminar in media history, theory, and/or criticism. Potential topics: digital media aesthetics, television or radio, new media, theory of photography and/or other image forms in digital era. Focus on a specific period, theme, or context. Class devoted to discussion of readings in connection with viewing of media and related forms. Students will gain advanced knowledge of a specialized aspect of media history, theory, or criticism in a setting that promotes research, reports, and writing. Prerequisites: VIS 22 or VIS 83 or VIS 84 or VIS 85A or VIS 159.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 22",
+      "VIS 83",
+      "VIS 84",
+      "VIS 85A",
+      "VIS 159"
+    ]
+  }
+}

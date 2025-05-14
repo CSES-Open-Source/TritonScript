@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 175",
+  "title": "Feminisms, Gender, and Sexuality in Latin America",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp175",
+  "description": "This course analyzes feminist studies in Latin America. It addresses the theoretical, intellectual, and activist trajectories as well as the gender and sexuality configurations in the region. In addition, students will be able to work with different types of texts and archives produced in Latin America. May be taken for credit up to two times as topics vary.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

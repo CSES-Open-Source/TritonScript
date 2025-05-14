@@ -1,0 +1,15 @@
+{
+  "code": "CGS 127",
+  "title": "Feminist Border Studies",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs127",
+  "description": "This course investigates how borders are produced, policed, and maintained, centering gender and sexuality, embodiment, and racialization as key analytic lenses. Prerequisites: CGS 2A or 2B or at least one CGS upper-division course.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B"
+    ]
+  }
+}

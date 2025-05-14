@@ -1,0 +1,39 @@
+{
+  "code": "CHEM 126A",
+  "title": "Physical Biochemistry I: Thermodynamics and Kinetics of Biomolecules",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem126a",
+  "description": "Renumbered from CHEM 127. This course covers thermodynamics and kinetics of biomolecules from fundamental principles to biomolecular applications. Topics include thermodynamics, first and second laws, chemical equilibrium, solutions, kinetic theory, enzyme kinetics. Students may not receive credit for CHEM 126A and either CHEM 127, CHEM 131, or CHEM 132. Prerequisites: CHEM 6C or 6CH, PHYS 1C or 2C or 2D, and MATH 10C or 20C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6C",
+          "CHEM 6CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1C",
+          "PHYS 2C",
+          "PHYS 2D"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10C",
+          "MATH 20C"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CHEM 105A",
+    "CHEM 126B"
+  ]
+}

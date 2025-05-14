@@ -1,0 +1,9 @@
+{
+  "code": "MGT 170",
+  "title": "Management Information Systems",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt170",
+  "description": "With dramatic progress of IT (e.g., computers, software, networks, mobile), information systems now represent the central nervous system of most enterprises and have become a crucial resource to ensure the competitive viability of almost any business. This course introduces students to the foundations of the management, business value, and strategic importance of information resources and information technology and provides the first steps towards becoming competent and IS-savvy managers. Prerequisites: MGT 153.",
+  "prereqs": "MGT 153"
+}

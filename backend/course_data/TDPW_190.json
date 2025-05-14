@@ -1,0 +1,15 @@
+{
+  "code": "TDPW 190",
+  "title": "Major Project in Playwriting/Screenwriting",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdpw190",
+  "description": "For the advanced student in playwriting/screenwriting. This intensive concentration in the study of playwriting and/or screenwriting will culminate in the creation of a substantial length play. A maximum of eight units of major project study, regardless of area (design, directing, stage management, playwriting) may be used to fulfill major requirements. Applicants must have completed the playwriting sequence, THPW or TDPW 1, 101, and/or consent of instructor. See department for application form. Prerequisites: THPW or TDPW 1 and THPW or TDPW 101.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "TDPW 1",
+      "TDPW 101"
+    ]
+  }
+}

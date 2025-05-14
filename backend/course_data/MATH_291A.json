@@ -1,0 +1,11 @@
+{
+  "code": "MATH 291A",
+  "title": "Topics in Topology",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math291a",
+  "description": "Introduction to varied topics in topology. In recent years topics have included generalized cohomology theory, spectral sequences, K-theory, homotophy theory. May be taken for credit six times with consent of adviser as topics vary. Prerequisites: graduate standing. Nongraduate students may enroll with consent of instructor.",
+  "successors": [
+    "MATH 291B"
+  ]
+}

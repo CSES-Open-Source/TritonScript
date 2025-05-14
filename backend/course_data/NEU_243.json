@@ -1,0 +1,15 @@
+{
+  "code": "NEU 243",
+  "title": "Physiological Basis of Human Information",
+  "units": "2",
+  "dept": "NEU",
+  "anchor": "neu243",
+  "description": "Psychological processes including attention, perception, and memory will be studied in connection with event-related potentials of the human brain. The interrelations among psychological and physiological events will be explored in order to arrive at unified concepts of human information processing. Prerequisites: NEU 238 or PSYC 231, and consent of instructor. (S/U grades only.) (F)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "NEU 238",
+      "PSYC 231"
+    ]
+  }
+}

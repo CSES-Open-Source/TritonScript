@@ -1,0 +1,9 @@
+{
+  "code": "CSE 280A",
+  "title": "Algorithms in Computational Biology",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse280a",
+  "description": "(Formerly CSE 206B.) The course focuses on algorithmic aspects of modern bioinformatics and covers the following topics: computational gene hunting, sequencing, DNA arrays, sequence comparison, pattern discovery in DNA, genome rearrangements, molecular evolution, computational proteomics, and others. Prerequisites: CSE 202 preferred or consent of instructor.",
+  "prereqs": "CSE 202"
+}

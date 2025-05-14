@@ -1,0 +1,15 @@
+{
+  "code": "VIS 163",
+  "title": "Design Research and Criticism",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis163",
+  "description": "Course examines critical topics in design theory, epistemology, research, and criticism. Students develop original critical and theoretical discourse. Topics may be drawn from design theory and criticism, philosophy of technology, architectural theory and design, speculative fiction, bioethics, the human and nonhuman body, urbanism, environmentalism, critical geography studies, political philosophy of materialism, artificial intelligence, robotics, and critical engineering studies. Prerequisites: VIS 30 or VIS 41.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 30",
+      "VIS 41"
+    ]
+  }
+}

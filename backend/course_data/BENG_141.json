@@ -1,0 +1,9 @@
+{
+  "code": "BENG 141",
+  "title": "Biomedical Optics and Imaging",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng141",
+  "description": "Introduction to optics. Light propagation in tissue. Propagation modeling. Optical components. Laser concepts. Optical coherence tomography. Microscopic scattering. Tissue optics. Microscopy. Confocal microscopy. Polarization in tissue. Absorption, diffuse reflection, light scattering spectroscopy. Raman, fluorescence lifetime imaging. Photo-acoustic imaging. Prerequisites: BENG 100 or consent of department. (F)",
+  "prereqs": "BENG 100"
+}

@@ -1,0 +1,8 @@
+{
+  "code": "SE 244",
+  "title": "Numerical Methods in Geomechanics",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se244",
+  "description": "Application of finite element method to static and dynamic analysis of geotechnical structures. One-, 2-, and 3-D static and seismic response of earth structures/slopes/Foundation systems. Pore-pressure generation/effects during cycle loading. System identification using strong motion downhole-array data. Use of computer resources required. Prerequisites: graduate standing."
+}

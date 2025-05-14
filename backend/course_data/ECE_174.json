@@ -1,0 +1,28 @@
+{
+  "code": "ECE 174",
+  "title": "Introduction to Linear and Nonlinear Optimization with Applications",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece174",
+  "description": "The linear least squares problem, including constrained and unconstrained quadratic optimization and the relationship to the geometry of linear transformations. Introduction to nonlinear optimization. Applications to signal processing, system identification, robotics, and circuit design. Recommended preparation: ECE 143 (for Python) or equivalent proficiency in MATLAB programming. Prerequisites: MATH 18 or MATH 31AH and ECE 15.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      "ECE 15"
+    ]
+  },
+  "successors": [
+    "COGS 118A",
+    "COGS 118B",
+    "COGS 181",
+    "COGS 182",
+    "ECE 175A"
+  ]
+}

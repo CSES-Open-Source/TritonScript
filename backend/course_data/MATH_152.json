@@ -1,0 +1,22 @@
+{
+  "code": "MATH 152",
+  "title": "Applicable Mathematics and Computing",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math152",
+  "description": "This course will give students experience in applying theory to real world applications such as internet and wireless communication problems. The course will incorporate talks by experts from industry and students will be helped to carry out independent projects. Topics include graph visualization, labelling, and embeddings, random graphs and randomized algorithms. May be taken for credit three times. Prerequisites: MATH 20D and either MATH 18 or MATH 20F or MATH 31AH. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  }
+}

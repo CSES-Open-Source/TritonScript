@@ -1,0 +1,28 @@
+{
+  "code": "BENG 181",
+  "title": "Molecular Sequence Analysis",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng181",
+  "description": "(Cross-listed as BIMM 181 and CSE 181.) This course covers the analysis of nucleic acid and protein sequences, with an emphasis on the application of algorithms to biological problems. Topics include sequence alignments, database searching, comparative genomics, and phylogenetic and clustering analyses. Pairwise alignment, multiple alignment, DNA sequencing, scoring functions, fast database search, comparative genomics, clustering, phylogenetic trees, gene finding/DNA statistics. Prerequisites: CSE 100; CSE 101; BIMM 100 or CHEM 114C; bioinformatics majors only. (W)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CSE 100",
+      "CSE 101",
+      {
+        "type": "one",
+        "courses": [
+          "BIMM 100",
+          "CHEM 114C"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "BENG 184",
+    "BIMM 184",
+    "BIMM 185",
+    "CSE 184"
+  ]
+}

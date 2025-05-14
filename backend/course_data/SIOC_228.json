@@ -1,0 +1,8 @@
+{
+  "code": "SIOC 228",
+  "title": "Machine Learning for Physical Applications",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc228",
+  "description": "Machine learning has received enormous interest. To learn from data we use probability theory, which has been the mainstay of statistics and engineering for centuries. The class will focus on implementations for physical problems. Topics include Gaussian probabilities, linear models for regression, linear models for classification, neural networks, kernel methods, support vector machines, graphical models, mixture models, sampling methods, and sequential estimation. Students may not receive credit for both SIOC 228 and ECE 228. Prerequisites: graduate standing or consent of instructor."
+}

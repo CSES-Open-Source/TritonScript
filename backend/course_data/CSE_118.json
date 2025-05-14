@@ -1,0 +1,25 @@
+{
+  "code": "CSE 118",
+  "title": "Ubiquitous Computing",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse118",
+  "description": "Explores emerging opportunities enabled by cheap sensors and networked computing devices. Small research projects will be conducted in teams, culminating in project presentations at the end of the term. Section will cover material relevant to the project, such as research methods, software engineering, teamwork, and project management. Prerequisites: any course from the following: CSE 131, CSE 132B, COGS 102C, COGS 121, COGS 184, COMT 111B, COMT 115, ECE 111, ECE 118, ECE 191, ECE 192, or ICAM 160B; or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 131",
+      "CSE 132B",
+      "COGS 102C",
+      "COGS 121",
+      "COGS 184",
+      "COMT 111B",
+      "COMT 115",
+      "ECE 111",
+      "ECE 118",
+      "ECE 191",
+      "ECE 192",
+      "ICAM 160B"
+    ]
+  }
+}

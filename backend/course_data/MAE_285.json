@@ -1,0 +1,21 @@
+{
+  "code": "MAE 285",
+  "title": "Design of Micro/Nanoacoustofluidic Devices",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae285",
+  "description": "Acoustofluidics is a burgeoning field reliant on high frequency acoustics and underpinning many new developments and devices at micro to nano scales. First the basics, piezoelectricity, microfluidics, acoustics, and device metrology. Then, new physics arising from the unusually large accelerations (10^7 to 10^9 m/s^2) induced by acoustic waves. Finally, how various phenomena of acoustofluidics at small scales can be used in designing practical devices. Prerequisites: MAE 210A or CENG 210A, and MAE 210B, graduate standing, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MAE 210A",
+          "CENG 210A"
+        ]
+      },
+      "MAE 210B"
+    ]
+  }
+}

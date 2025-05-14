@@ -1,0 +1,18 @@
+{
+  "code": "MBC 258",
+  "title": "Marine Conservation and Communication Practicum 1",
+  "units": "2",
+  "dept": "MBC",
+  "anchor": "mbc258",
+  "description": "This is the first of two required courses in a sequence for MAS-MBC students, which focuses on generation and refinement of MAS-MBC Capstone Projects, professional networking, and development of critical technical and practical skills. Students broaden understanding of and discuss complex political, social, economic, and historical issues related to marine conservation, give peer feedback on Capstone ideas, and interact with MBC leadership and invited guests. May be taken for credit three times. Prerequisites: SIO 295S and SIO 295LS summer courses. Limited to registered students in MAS Marine Biodiversity and Conservation program.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SIO 295S",
+      "SIO 295LS"
+    ]
+  },
+  "successors": [
+    "MBC 259"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "code": "MAE 217C",
+  "title": "Introduction to Magnetized Hot Plasma Physics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae217c",
+  "description": "Drifts of magnetized charged particles, charged particle motion in different magnetic configurations, toroidal plasma equilibrium, Grad-Shafranov equation, neoclassical plasma transport in tokamak, waves in homogeneous magnetized plasma, waves in inhomogeneous magnetized plasma, instabilities of magnetized plasma. Prerequisites: MAE 217A and B, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 217A",
+      "MAE 217B"
+    ]
+  },
+  "successors": [
+    "MAE 218A",
+    "MAE 218B",
+    "MAE 228"
+  ]
+}

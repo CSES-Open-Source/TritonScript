@@ -1,0 +1,31 @@
+{
+  "code": "BENG 134",
+  "title": "Measurements, Statistics, and Probability",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng134",
+  "description": "A combined lecture and laboratory course that provides an introductory treatment of probability theory, including distribution functions, moments, and random variables. Practical applications include estimation of means and variances, hypothesis testing, sampling theory, and linear regression. Prerequisites: MATH 20D and MATH 18 or MATH 31AH; BENG 100 or consent of department. (F)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      "BENG 100"
+    ]
+  },
+  "successors": [
+    "BENG 122A",
+    "BENG 189",
+    "CSE 151B",
+    "CSE 156",
+    "CSE 158",
+    "CSE 158R",
+    "MATH 189"
+  ]
+}

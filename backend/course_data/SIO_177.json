@@ -1,0 +1,19 @@
+{
+  "code": "SIO 177",
+  "title": "Fluid Dynamics",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio177",
+  "description": "This course gives an introduction to ocean and atmosphere fluid properties, statics, and kinematics; fluid conservation laws; irrotational flow; Bernoulli equation; gravity waves; shallow water equations; geophysical applications. Prerequisites: PHYS 2A and MATH 20D and MATH 20E or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 2A",
+      "MATH 20D",
+      "MATH 20E"
+    ]
+  },
+  "successors": [
+    "SIO 178"
+  ]
+}

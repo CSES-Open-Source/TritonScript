@@ -1,0 +1,15 @@
+{
+  "code": "BISP 194",
+  "title": "Advanced Topics in Modern Biology",
+  "units": "2",
+  "dept": "BIOL",
+  "anchor": "bisp194",
+  "description": "Course will vary in title and content. Students are expected to actively participate in course discussions, read and analyze primary literature. Current descriptions and subtitles may be found on the Schedule of Classes and the Biological Sciences website. Students may receive credit in 194 courses a total of four times as topics vary. Students may not receive credit for the same topic. Prerequisites: BICD 100 or BICD 100R; upper-division standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BICD 100",
+      "BICD 100R"
+    ]
+  }
+}

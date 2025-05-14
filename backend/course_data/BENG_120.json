@@ -1,0 +1,22 @@
+{
+  "code": "BENG 120",
+  "title": "Organic Chemistry Structural and Design Principles",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng120",
+  "description": "Structural and design principles of carbon compounds. Structure and stereochemistry. Functional groups and chemical transformations. Structure and design principles of biomolecules. Molecules of life and their organization. Prerequisites: CHEM 6A and 6B; majors only or consent of department. (W)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 6A",
+      "CHEM 6B"
+    ]
+  },
+  "successors": [
+    "BENG 102",
+    "BENG 123",
+    "BIBC 100",
+    "BIBC 102",
+    "BIMM 100"
+  ]
+}

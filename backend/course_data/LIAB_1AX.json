@@ -1,0 +1,12 @@
+{
+  "code": "LIAB 1AX",
+  "title": "Analysis of Arabic",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "liab1ax",
+  "description": "Presentation and practice of the basic grammatical structures needed for oral and written communication and for reading. This course is taught entirely in Arabic. Must be taken in conjunction with LIAB 1A. Prerequisites: no prior study of Arabic.",
+  "successors": [
+    "LIAB 1B",
+    "LIAB 1BX"
+  ]
+}

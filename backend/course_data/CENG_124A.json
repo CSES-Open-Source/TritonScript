@@ -1,0 +1,18 @@
+{
+  "code": "CENG 124A",
+  "title": "Chemical Plant and Process Design I",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng124a",
+  "description": "Principles of chemical process design and economics. Process flow diagrams and cost estimation. Computer-aided design and analysis. Representation of the structure of complex, interconnected chemical processes with recycle streams. Ethics and professionalism. Health, safety, and the environmental issues. Prerequisites: admission to chemical engineering major and grades of C\u2013 or better in CENG 113 and CENG 122, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CENG 113",
+      "CENG 122"
+    ]
+  },
+  "successors": [
+    "CENG 124B"
+  ]
+}

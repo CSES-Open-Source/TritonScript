@@ -1,0 +1,15 @@
+{
+  "code": "COMM 102B",
+  "title": "MMPP: Audio Story and Podcasting Practicum",
+  "units": "6",
+  "dept": "COMM",
+  "anchor": "comm102b",
+  "description": "Production-oriented course involving diverse audio media forms. Critically analyze journalistic podcasts, features, documentaries, diaries, place-casts, and news shorts to evaluate what makes for compelling and effective audio as a contemporary storytelling form. Students will gain technical and production skills to facilitate their own creativity in the audio sphere. Prerequisites: COMM 10 and COMM 101.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      "COMM 101"
+    ]
+  }
+}

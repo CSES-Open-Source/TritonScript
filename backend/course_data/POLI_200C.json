@@ -1,0 +1,11 @@
+{
+  "code": "POLI 200C",
+  "title": "States and Markets",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli200c",
+  "description": "An overview of the normative and positive issues associated with decentralized (market) versus centralized (political) mechanics of allocation. The appropriate role of government in the economy will be explored. Prerequisites: graduate student standing.",
+  "successors": [
+    "POLI 227"
+  ]
+}

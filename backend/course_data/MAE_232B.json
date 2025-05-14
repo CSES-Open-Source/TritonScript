@@ -1,0 +1,19 @@
+{
+  "code": "MAE 232B",
+  "title": "Finite Element Methods in Solid Mechanics II",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae232b",
+  "description": "(Cross-listed with SE 276B.) Finite element methods for linear problems in structural dynamics. Beam, plate, and doubly curved shell elements are derived. Strategies for eliminating shear locking problems are introduced. Formulation and numerical solution of the equations of motion for structural dynamics are introduced and the effect of different mass matrix formulations on the solution accuracy is explored. Prerequisites: graduate standing and MAE 232A or SE 276A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 232A",
+      "SE 276A"
+    ]
+  },
+  "successors": [
+    "SE 277",
+    "SE 280"
+  ]
+}

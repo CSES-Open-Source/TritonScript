@@ -1,0 +1,22 @@
+{
+  "code": "COMM 140",
+  "title": "Cinema in Latin America",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm140",
+  "description": "Analysis of the changing content and sociopolitical role in Latin America of contemporary media, including the \u201cnew cinema\u201d movement, recent developments in film, and popular television programming, including the telenovela. Examples drawn from Mexico, Brazil, Cuba, and other countries. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "code": "DSC 140A",
+  "title": "Probabilistic Modeling and Machine Learning",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc140a",
+  "description": "The course covers learning and using probabilistic models for knowledge representation and decision-making. Topics covered include graphical models, temporal models, and online learning, as well as applications to natural language processing, adversarial learning, computational biology, and robotics. Prior completion of MATH 181A is strongly recommended. Prerequisites: DSC 80 and ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 183 or MATH 186. Restricted to students with upper-division standing. Restricted to students within the DS25 major. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 80",
+      {
+        "type": "one",
+        "courses": [
+          "ECE 109",
+          "ECON 120A",
+          "MAE 108",
+          "MATH 180A",
+          "MATH 183",
+          "MATH 186"
+        ]
+      }
+    ]
+  }
+}

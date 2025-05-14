@@ -1,0 +1,22 @@
+{
+  "code": "COMM 151",
+  "title": "The Information Age: Fact and Fiction",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm151",
+  "description": "Analysis of the forces propelling the Information Age. An examination of the differential benefits and costs, and a discussion of the presentation in the general media of the Information Age. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

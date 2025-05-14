@@ -1,0 +1,27 @@
+{
+  "code": "USP 102",
+  "title": "Urban Economics",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp102",
+  "description": "(Same as ECON 135.) Economic analysis of why and where cities develop, patterns of land use in cities, why cities sub-urbanize, and the pattern of urban commuting. The course also examines problems of urban congestion, air pollution, zoning, poverty, and crime, and discusses public policies to deal with them. Credit not allowed for both ECON 135 and USP 102. Prerequisites: ECON 2 or 100A and MATH 10A or 20A and upper-division standing or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "ECON 2",
+          "ECON 100A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10A",
+          "MATH 20A"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "code": "MGT 246",
+  "title": "Research in Management and Technology Strategy",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt246",
+  "description": "This course covers the management of technology and innovation emphasizing product family design, market segmentation, technology selection, and product management. Prerequisites: MGT 208A-B-C, ECON 200A-B-C, MGT 245.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGT 208A",
+      "MGT 208B",
+      "MGT 208C",
+      "ECON 200A",
+      "ECON 200B",
+      "ECON 200C",
+      "MGT 245"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "code": "ECON 100B",
+  "title": "Microeconomics B",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ100b",
+  "description": "Analysis of firms\u2019 production and costs, the supply of output and demand factors of production. Analysis of perfectly competitive markets. Prerequisites: ECON 100A.",
+  "prereqs": "ECON 100A",
+  "successors": [
+    "ECON 100C",
+    "ECON 101",
+    "ECON 102",
+    "ECON 106",
+    "ECON 107",
+    "ECON 116",
+    "ECON 136",
+    "ECON 139",
+    "ECON 140"
+  ]
+}

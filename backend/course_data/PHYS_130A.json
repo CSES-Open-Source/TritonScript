@@ -1,0 +1,27 @@
+{
+  "code": "PHYS 130A",
+  "title": "Quantum Physics I",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys130a",
+  "description": "Development of quantum mechanics. Wave mechanics; measurement postulate and measurement problem. Piece-wise constant potentials, simple harmonic oscillator, central field and the hydrogen atom. Three hours lecture, one-hour discussion session. Prerequisites: PHYS 4A-B-C-D-E, 100A, 110A. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 4A",
+      "PHYS 4B",
+      "PHYS 4C",
+      "PHYS 4D",
+      "PHYS 4E",
+      "PHYS 100A",
+      "PHYS 110A"
+    ]
+  },
+  "successors": [
+    "PHYS 113",
+    "PHYS 130B",
+    "PHYS 137",
+    "PHYS 140A",
+    "PHYS 152A"
+  ]
+}

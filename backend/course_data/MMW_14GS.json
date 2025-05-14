@@ -1,0 +1,27 @@
+{
+  "code": "MMW 14GS",
+  "title": "Divergent Paths to the Modern World, Eighteenth\u2013Twentieth Century",
+  "units": "4",
+  "dept": "MMW",
+  "anchor": "mmw14gs",
+  "description": "This course explores divergent paths to modernity between the mid-eighteenth century and World War I. The course examines the influence of \u201cthe West\u201d as a hegemonic force that disrupted global connections and forged new ones, changing the social, economic, political, and ecological norms of societies worldwide. The course investigates how groups and individuals around the world adopted, contested, and/or resisted this influence. Students may not receive credit for both MMW 14 and MMW 14GS. Open to Eleanor Roosevelt College (ERC) students only. Must be taken for a letter grade to meet the ERC graduation requirement. Program or materials fees may apply. Prerequisites: MMW 12 or MMW 12R and MMW 13 or MMW 13R with a grade of \u201cD\u201d or better. Students must apply and be accepted to the Global Seminars program.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MMW 12",
+          "MMW 12R"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MMW 13",
+          "MMW 13R"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "MATH 181E",
+  "title": "Mathematical Statistics\u2014Time Series",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math181e",
+  "description": "Analysis of trends and seasonal effects, autoregressive and moving averages models, forecasting, informal introduction to spectral analysis. Prerequisites: MATH 181B or consent of instructor.",
+  "prereqs": "MATH 181B"
+}

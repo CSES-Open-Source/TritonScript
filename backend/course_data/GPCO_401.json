@@ -1,0 +1,16 @@
+{
+  "code": "GPCO 401",
+  "title": "Microeconomics for Policy and Management",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpco401",
+  "description": "This course introduces microeconomics, emphasizing applications to public policy. We examine tools such as marginal analysis and game theory to understand markets, the behavior of individuals and firms, and what role policy plays when markets fail to maximize social welfare. Renumbered from IRCO 401. Students may not receive credit for GPCO 401 and IRCO 401. Prerequisites: GPS students only or consent of instructor.",
+  "successors": [
+    "GPEC 409",
+    "GPEC 451",
+    "GPEC 462",
+    "GPEC 471",
+    "GPEC 488",
+    "GPEC 489"
+  ]
+}

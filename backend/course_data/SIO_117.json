@@ -1,0 +1,15 @@
+{
+  "code": "SIO 117",
+  "title": "The Physical Basis of Global Warming",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio117",
+  "description": "Introduction to the processes behind global warming, including the physics of the greenhouse effect, controls on greenhouse gases, atmospheric and oceanic circulation, climate feedbacks, relationship to natural climate variability, and global environmental issues related to global warming. Prerequisites: MATH 20D and PHYS 2C or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20D",
+      "PHYS 2C"
+    ]
+  }
+}

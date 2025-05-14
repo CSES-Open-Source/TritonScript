@@ -1,0 +1,15 @@
+{
+  "code": "CHEM 174",
+  "title": "Chemical Principles of Marine Systems",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem174",
+  "description": "(Cross-listed with SIO 141.) Introduction to the chemistry and distribution of the elements in seawater, emphasizing basic chemical principles such as electron structure, chemical bonding, and group and periodic properties and showing how these affect basic aqueous chemistry in marine systems. Students may not receive credit for SIO 141 and CHEM 174. Prerequisites: CHEM 6C or 6CH.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 6C",
+      "CHEM 6CH"
+    ]
+  }
+}

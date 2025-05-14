@@ -1,0 +1,18 @@
+{
+  "code": "ETHN 3",
+  "title": "Introduction to Ethnic Studies: Making Culture",
+  "units": "4",
+  "dept": "ETHN",
+  "anchor": "ethn3",
+  "description": "Through examining the historical and contemporary politics of representation in both popular and community-focused media, film, art, music, and literature, this course tracks racial formation through studying the sphere of cultural production, consumption, and contestation. Students may not receive credit for both ETHN 1C and ETHN 3.",
+  "successors": [
+    "CGS 137",
+    "CGS 147",
+    "CGS 150",
+    "CGS 165",
+    "CGS 187",
+    "CSE 194",
+    "EDS 120",
+    "ETHN 100A"
+  ]
+}

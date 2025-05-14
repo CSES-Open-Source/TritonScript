@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 169",
+  "title": "Latin American Popular and Mass Cultures",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp169",
+  "description": "This class explores Latin American popular culture. Students will be exposed to cultural forms traditionally associated with the popular sectors of Latin American societies such as the soap opera, popular music, TV series, oral narratives, detective fiction, or the romantic novel. These non-elitist forms of cultural expressions will provide access to the structure of feeling of the non-white lower classes in the region.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

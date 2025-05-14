@@ -1,0 +1,9 @@
+{
+  "code": "CSE 143",
+  "title": "Microelectronic System Design",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse143",
+  "description": "VLSI process technologies; circuit characterization; logic design styles; clocking strategies; computer-aided design tools; subsystem design; design case studies. System design project from hardware description, logic synthesis, physical layout to design verification. Prerequisites: CSE 140. Restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": "CSE 140"
+}

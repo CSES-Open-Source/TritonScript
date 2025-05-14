@@ -1,0 +1,13 @@
+{
+  "code": "ECE 121A",
+  "title": "Power Systems Analysis and Fundamentals",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece121a",
+  "description": "This course introduces concepts of large-scale power system analysis: electric power generation, distribution, steady-state analysis and economic operation. It provides the fundamentals for advanced courses and engineering practice on electric power systems, smart grid, and electricity economics. The course requires implementing some of the computational techniques in simulation software. Prerequisites: ECE 35.",
+  "prereqs": "ECE 35",
+  "successors": [
+    "ECE 121B",
+    "ECE 125A"
+  ]
+}

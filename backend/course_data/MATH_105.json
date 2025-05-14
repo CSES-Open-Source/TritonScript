@@ -1,0 +1,15 @@
+{
+  "code": "MATH 105",
+  "title": "Basic Number Theory",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math105",
+  "description": "The course will cover the basic arithmetic properties of the integers, with applications to Diophantine equations and elementary Diophantine approximation theory. Prerequisites: MATH 31CH or MATH 109. Students who have not completed the listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 31CH",
+      "MATH 109"
+    ]
+  }
+}

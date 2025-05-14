@@ -1,0 +1,15 @@
+{
+  "code": "MAE 217B",
+  "title": "Introduction to Nonmagnetized Hot Plasma Physics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae217b",
+  "description": "Coulomb collisions, collisionless approximation for hot plasma dynamics, Vlasov equation, waves in nonmagnetized plasma, dispersion equation, WKB approximation, Landau dumping, plasma instabilities, quasi-linear theory. Prerequisites: MAE 217A or consent of instructor.",
+  "prereqs": "MAE 217A",
+  "successors": [
+    "MAE 217C",
+    "MAE 218A",
+    "MAE 218B",
+    "MAE 228"
+  ]
+}

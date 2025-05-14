@@ -1,0 +1,11 @@
+{
+  "code": "POLI 203A",
+  "title": "Analytic Theory I",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli203a",
+  "description": "The first in the two-course sequence on the essentials of game theory and fundamental concepts in the social sciences. This course examines the philosophy of modeling, and introduces social choice theory, decision-making under uncertainty, and games of complete information. Applications include representation and democracy, social dilemmas and collective action, principal-agent problems, self-enforcing agreements, and institutions as equilibria. Prerequisites: graduate student standing.",
+  "successors": [
+    "POLI 203B"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "GPPS 435",
+  "title": "State-Building and Modeling State Capacity",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpps441",
+  "description": "The search for the \u201croot cause\u201d of legitimate state capacity is a central question in political science. The entry-point for course analysis will be the causes and consequences of civil war since 1945, and the challenges associated with rebuilding social structures after catastrophic violent collapse. We will read historical literature and theories that purport to account for variation and isomorphism in stable state structures across time. Abilities in advanced STATA or R, and GIS are recommended. Students may not earn credit for GPPS 435 and GPGN 490 with the same title. Prerequisites: GPCO 453 and GPCO 454 or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "GPCO 453",
+      "GPCO 454"
+    ]
+  }
+}

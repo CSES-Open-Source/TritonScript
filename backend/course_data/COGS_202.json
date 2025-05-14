@@ -1,0 +1,8 @@
+{
+  "code": "COGS 202",
+  "title": "Computational Modeling of Cognition",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs202",
+  "description": "This course surveys some key methods of computational modeling across a range of cognitive science fields. Bringing together basic tools of probabilistic modeling, information theory, machine learning, and computational neuroscience. Students presumed to be facile with probability, statistics, linear algebra, calculus."
+}

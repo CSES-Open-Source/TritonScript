@@ -1,0 +1,9 @@
+{
+  "code": "VIS 110N",
+  "title": "Studio Honors II",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis110n",
+  "description": "The second advanced studio course in the Honors Program in Studio, the successful completion of which will lead toward an honors degree in the studio major. The course builds on the critical and technical issues raised in Studio Honors I. Prerequisites: VIS 110M.",
+  "prereqs": "VIS 110M"
+}

@@ -1,0 +1,9 @@
+{
+  "code": "MATH 241B",
+  "title": "Functional Analysis II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math241b",
+  "description": "Second course in graduate functional analysis. Locally convex spaces, weak topologies. Convexity and fixed point theorems. Banach algebras and C*-algebras. Operators on Hilbert spaces (bounded, unbounded, compact, normal). Spectral theory of operators, semigroups of operators. Fredholm theory. Prerequisites: MATH 241A. Students who have not completed MATH 241A may enroll with consent of instructor.",
+  "prereqs": "MATH 241A"
+}

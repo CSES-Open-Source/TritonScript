@@ -1,0 +1,79 @@
+{
+  "code": "LTWR 8B",
+  "title": "Writing Poetry",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltwr8b",
+  "description": "Study and practice of poetry as artistic and communal expression. Techniques of composition (traditional forms, avant garde techniques, dramatic monologue, performance poetry, and new genre) studied through written and spoken examples of poetry. Students are required to attend at least three New Writing Series readings during the quarter.  Prerequisites:  CAT 2 and 3 or DOC 2 and 3 or HUM 1 and 2 or MCWP 40 and 50 or MMW 12 and 13 or WARR 11A-B or WCWP 10A-B or SYN 1 and 2.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      {
+        "type": "all",
+        "courses": [
+          "CAT 2",
+          "CAT 3"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "DOC 2",
+          "DOC 3"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "HUM 1",
+          "HUM 2"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "MCWP 40",
+          "MCWP 50"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "MMW 12",
+          "MMW 13"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "WARR 11A",
+          "WARR 11B"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "WCWP 10A",
+          "WCWP 10B"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "SYN 1",
+          "SYN 2"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "LTWR 102",
+    "LTWR 103",
+    "LTWR 113",
+    "LTWR 114",
+    "LTWR 115",
+    "LTWR 119",
+    "LTWR 120",
+    "LTWR 124"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "EDS 122",
+  "title": "Foundations of Teaching and Learning Science",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds122",
+  "description": "Examine theories of learning and how they are important in the science classroom. Conceptual development in the individual student, as well as the development of knowledge in the history of science. Key conceptual obstacles in science will be explored. Prerequisites: EDS 31/CHEM 87: Introduction to Teaching Science, Chemistry 6C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "EDS 31",
+      "CHEM 87"
+    ]
+  },
+  "successors": [
+    "CHEM 188",
+    "EDS 123"
+  ]
+}

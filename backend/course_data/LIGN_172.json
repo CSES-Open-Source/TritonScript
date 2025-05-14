@@ -1,0 +1,23 @@
+{
+  "code": "LIGN 172",
+  "title": "Psycholinguistics Laboratory Projects",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign172",
+  "description": "A project-oriented laboratory course (research) in which students learn and use experimental design, and are guided to develop their own ideas and tools, along with using state-of-the-art instruments to investigate a linguistic problem of current interest, under the direction of the instructor. A range of current topics in psycholinguistics is available including sentence and discourse processing, word comprehension and production, and cross-linguistic research. Prerequisites: LIGN 101 and (LIGN 170 or LIGN 171 or LIGN 180 or LIGN 181).",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIGN 101",
+      {
+        "type": "one",
+        "courses": [
+          "LIGN 170",
+          "LIGN 171",
+          "LIGN 180",
+          "LIGN 181"
+        ]
+      }
+    ]
+  }
+}

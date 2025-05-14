@@ -1,0 +1,16 @@
+{
+  "code": "MGTA 466",
+  "title": "Scalable Analytics",
+  "units": "2",
+  "dept": "MGT",
+  "anchor": "mgta466",
+  "description": "This course is designed to provide students with skills and knowledge to perform analytics at scale. Topics include steps in the analytics process used to gather, prepare, process, and evaluate data; basic principles of computer systems and parallelism; scalable computing; and cloud-based analytics. Hands-on experience with widely used scalable and cloud platforms will be provided. Through programming assignments, students will apply what they learn in the course to leverage big data. Prerequisites: MGTA 451, MGTA 452, MGTA 453, and restricted to MS in business analytics program or with department and instructor approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGTA 451",
+      "MGTA 452",
+      "MGTA 453"
+    ]
+  }
+}

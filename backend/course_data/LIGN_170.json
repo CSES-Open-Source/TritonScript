@@ -1,0 +1,12 @@
+{
+  "code": "LIGN 170",
+  "title": "Psycholinguistics",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign170",
+  "description": "The study of how humans learn, represent, comprehend, and produce language. Topics include visual and auditory recognition of words, sentence comprehension, reading, sentence production, language acquisition, neural representation of language, bilingualism, and language disorders. Prerequisites: LIGN 101, or upper-division standing, or consent of instructor.",
+  "prereqs": "LIGN 101",
+  "successors": [
+    "LIGN 172"
+  ]
+}

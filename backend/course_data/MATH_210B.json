@@ -1,0 +1,13 @@
+{
+  "code": "MATH 210B",
+  "title": "Mathematical Methods in Physics and Engineering",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math210b",
+  "description": "Linear algebra and functional analysis. Vector spaces, orthonormal bases, linear operators and matrices, eigenvalues and diagonalization, least squares approximation, infinite-dimensional spaces, completeness, integral equations, spectral theory, Green\u2019s functions, distributions, Fourier transform. Prerequisites: MATH 210A or consent of instructor.",
+  "prereqs": "MATH 210A",
+  "successors": [
+    "MATH 210C",
+    "MATH 231A"
+  ]
+}

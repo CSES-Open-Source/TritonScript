@@ -1,0 +1,12 @@
+{
+  "code": "MGT 407",
+  "title": "Marketing",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt407",
+  "description": "By taking an analytical approach to the study of marketing problems, this course provides an understanding of customers and competitors as a basis for developing, pricing, promoting, and distributing goods and services that satisfy customer and organizational objectives. Letter grades only. Students may not receive credit for both MGT 407 and MGT 407R. Prerequisites: MBA student or instructor approval or department approval.",
+  "successors": [
+    "MGT 470",
+    "MGT 479"
+  ]
+}

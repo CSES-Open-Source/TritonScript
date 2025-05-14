@@ -1,0 +1,13 @@
+{
+  "code": "VIS 23",
+  "title": "Seminar in Art History Methods",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis23",
+  "description": "This course, a lower-division seminar for art history majors, covers the research tools and fundamental skills needed for advanced work in the field. Topics include descriptive and analytical writing; revision and peer review; compiling annotated bibliographies with traditional and online resources, indexes, and databases; evaluating source materials (including those found online); defining research programs; and preparing and delivering art history presentations. Prerequisites: none. Art history majors only.",
+  "successors": [
+    "VIS 112",
+    "VIS 122D",
+    "VIS 122F"
+  ]
+}

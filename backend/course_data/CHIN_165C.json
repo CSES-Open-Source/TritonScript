@@ -1,0 +1,32 @@
+{
+  "code": "CHIN 165C",
+  "title": "Business Chinese III",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "",
+  "description": "Advanced Mandarin Chinese language course that focuses on oral and written communication skills for business, including introduction to modern business terminology and social conventions.\u00a0Prerequisites: any one of the following or department approval through placement interview: CHIN 100CM, CHIN 100CN, CHIN 165A-B, CHIN 185A-B-C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHIN 100CM",
+      "CHIN 100CN",
+      "CHIN 165A",
+      "CHIN 165B",
+      "CHIN 185A",
+      "CHIN 185B",
+      "CHIN 185C"
+    ]
+  },
+  "successors": [
+    "CHIN 165A",
+    "CHIN 165B",
+    "CHIN 169A",
+    "CHIN 169B",
+    "CHIN 182A",
+    "CHIN 182B",
+    "CHIN 182C",
+    "CHIN 185A",
+    "CHIN 185B",
+    "CHIN 185C"
+  ]
+}

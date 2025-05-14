@@ -1,0 +1,9 @@
+{
+  "code": "BICD 112",
+  "title": "Stem Cells and Regeneration",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bicd112",
+  "description": "Stem cells maintain homeostasis of nearly all organ systems and the regenerative capacity of certain organisms. Course explores the paradigm of the tissue-specific stem cell, the cellular mechanisms of tissue regeneration, the evolution of stem cells and regenerative capacity over time, the basis of induced pluripotency, and how these basic processes can inform new approaches to human health. Prerequisites: BIMM 100.",
+  "prereqs": "BIMM 100"
+}

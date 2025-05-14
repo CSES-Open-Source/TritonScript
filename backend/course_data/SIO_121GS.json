@@ -1,0 +1,15 @@
+{
+  "code": "SIO 121GS",
+  "title": "Geology of the Alps",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio121gs",
+  "description": "This global seminar course will examine the geology of the Alps range. Students will develop an in-depth understanding of the geology, tectonics, and geomorphology of this fascinating, beautiful, and geologically complex region. The course will focus closely on the tectonics of the region and the subsequent geologic processes that have shaped it (e.g., glaciation) since the late Mesozoic Alpine Orogeny. Classroom study will be strongly augmented with local and regional field excursions. Program or materials fees may apply. Prerequisites: SIO 10 or SIO 50. Students must apply for and be accepted to the Global Seminars Program.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIO 10",
+      "SIO 50"
+    ]
+  }
+}

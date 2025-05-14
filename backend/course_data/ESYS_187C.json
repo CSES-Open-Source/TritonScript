@@ -1,0 +1,9 @@
+{
+  "code": "ESYS 187C",
+  "title": "Environmental Systems Senior Seminar",
+  "units": "4",
+  "dept": "ESYS",
+  "anchor": "esys187c",
+  "description": "This is the third quarter of the three-quarter senior project sequence. This seminar provides a venue for students to develop a written report and a poster on their internship results. Students present their posters in the ESYS symposium at the end of the quarter. Prerequisites: ESYS 187B.",
+  "prereqs": "ESYS 187B"
+}

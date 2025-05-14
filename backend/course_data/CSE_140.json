@@ -1,0 +1,32 @@
+{
+  "code": "CSE 140",
+  "title": "Components and Design Techniques for Digital Systems",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse140",
+  "description": "Design of Boolean logic and finite state machines; two-level, multilevel combinational logic design, combinational modules and modular networks, Mealy and Moore machines, analysis and synthesis of canonical forms, sequential modules. Prerequisites: CSE 20 or MATH 109 or MATH 15A or MATH 31CH and CSE 30; CSE 140L must be taken concurrently; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CSE 20",
+          "MATH 109",
+          "MATH 15A",
+          "MATH 31CH"
+        ]
+      },
+      "CSE 30"
+    ]
+  },
+  "coreqs": "CSE 140L",
+  "successors": [
+    "CSE 141",
+    "CSE 141L",
+    "CSE 143",
+    "CSE 241A",
+    "ECE 108",
+    "ECE 111"
+  ]
+}

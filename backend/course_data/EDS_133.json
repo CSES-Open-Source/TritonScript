@@ -1,0 +1,11 @@
+{
+  "code": "EDS 133",
+  "title": "Counseling, Mentoring, and Academic Advising (Preschool through Twelfth Grade)",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds133",
+  "description": "This course introduces students to foundations of academic advising and counseling. Through a combination of course readings, assignments, lectures, guest speakers, and field experiences, students learn about a social justice approach to academic advising and counseling. The course addresses issues of diversity, equity, access, and inclusion in P\u201312 schools. The role of language and culture, as well as family and community factors are addressed. Prerequisites: department approval required. EDS 139 must be taken as a corequisite.",
+  "successors": [
+    "EDS 140"
+  ]
+}

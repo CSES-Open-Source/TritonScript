@@ -1,0 +1,15 @@
+{
+  "code": "MGT 106",
+  "title": "Sales and Sales Management",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt106",
+  "description": "Examines the sales function from strategic competitive importance to the firm to required direct sales skills of individual salespersons. Major subject areas covered are the sales process, recruitment and training, organization and focus, \u201cterritories,\u201d evaluation and compensation. Prerequisites: MGT 100 or\u00a0MGT 103.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MGT 100",
+      "MGT 103"
+    ]
+  }
+}

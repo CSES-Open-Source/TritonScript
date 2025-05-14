@@ -1,0 +1,9 @@
+{
+  "code": "PHIL 122",
+  "title": "Advanced Topics in Logic",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil122",
+  "description": "Topics vary from year to year. They include Metalogic (Mathematical Logic), Modal Logic, Foundations of Logic, Foundations of Set Theory, G\u00f6del\u2019s Incompleteness Theorems, and others. Prerequisites: PHIL 120 or consent of instructor.",
+  "prereqs": "PHIL 120"
+}

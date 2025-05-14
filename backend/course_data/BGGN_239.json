@@ -1,0 +1,9 @@
+{
+  "code": "BGGN 239",
+  "title": "Bioinformatics for Immunologists",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bggn239",
+  "description": "Technological advances brought an unprecedented increase in both the depth and breadth of data to study the immune system. This course will provide a conceptual understanding of and hands-on experience with computational methodologies to analyze such data for immunology research. Students will use their own technology/laptops. Prerequisites: BGGN 213. Enrollment restricted to the following major codes: BI77, BI78, BI80, BI81, BI82, BI83, BI85, BI86, BS75, and BS81.",
+  "prereqs": "BGGN 213"
+}

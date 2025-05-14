@@ -1,0 +1,8 @@
+{
+  "code": "MAE 227",
+  "title": "Convex Optimization for Engineers",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae227",
+  "description": "This course focuses on convex optimization theory, convexification of non-convex problems, engineering applications, modeling and implementation in a programming language. This course covers convex sets and functions, convex optimization problems (LP, QP, SOCP, SDP), weak and strong duality, optimality conditions, and solution and shadow price interpretation. Some applications include design in mechanical engineering, optimal control problems, machine learning, energy, transportation, etc."
+}

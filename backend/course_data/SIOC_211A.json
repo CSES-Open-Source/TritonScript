@@ -1,0 +1,13 @@
+{
+  "code": "SIOC 211A",
+  "title": "Ocean Waves I",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc211a",
+  "description": "Propagation and dynamics of waves in the ocean, including the effects of stratification, rotation, topography, wind, and nonlinearity. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "SIOC 211B",
+    "SIOC 235",
+    "SIOC 261"
+  ]
+}

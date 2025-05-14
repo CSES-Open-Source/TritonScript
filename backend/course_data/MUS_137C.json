@@ -1,0 +1,12 @@
+{
+  "code": "MUS 137C",
+  "title": "Jazz Theory and Improvisation",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus137c",
+  "description": "Study of jazz theory and improvisation, focused on fundamental rhythmic, harmonic, melodic, and formal aspects of modern jazz style. Application of theoretical knowledge to instruments and concepts will be reinforced through listening, transcription work, and composition and improvisation exercises. Third course of a yearlong sequence; continuation of MUS 137B. Prerequisites: MUS 137B or consent of instructor.",
+  "prereqs": "MUS 137B",
+  "successors": [
+    "MUS 137D"
+  ]
+}

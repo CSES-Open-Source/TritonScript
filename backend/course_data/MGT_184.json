@@ -1,0 +1,18 @@
+{
+  "code": "MGT 184",
+  "title": "Money and Banking",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt184",
+  "description": "Focuses on role of financial institutions, implications for firm financing and valuation as well as the Federal Reserve, financial regulation, the money supply process, and monetary policy. Mechanisms through which monetary policy affects businesses and credit channels will be covered.\u00a0Prerequisites: ECON 173B or MGT 180 or MGT 180R or MGT 181 or MGT 187.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 173B",
+      "MGT 180",
+      "MGT 180R",
+      "MGT 181",
+      "MGT 187"
+    ]
+  }
+}

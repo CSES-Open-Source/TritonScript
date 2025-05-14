@@ -1,0 +1,20 @@
+{
+  "code": "MCWP 40",
+  "title": "Critical Writing",
+  "units": "4",
+  "dept": "MCWP",
+  "anchor": "mcwp40",
+  "description": "First course of sequence in university reading and writing which satisfies the Muir College graduation requirement in writing. Required of all Muir College first-year students and of transfer students who have not completed a comparable course elsewhere. MCWP 40 introduces students to the basic elements of argument and analysis. Students engage in close reading of texts, weekly writing and revision, and individual conferences. Course must be taken for a letter grade. Those who need additional work to prepare for MCWP 50 will be given a grade of IP and will be required to take MCWP 41. Prerequisites: satisfaction of the UC Entry Level Writing requirement.",
+  "successors": [
+    "ENG 100D",
+    "HITO 106",
+    "LTEN 30",
+    "LTWR 8A",
+    "LTWR 8B",
+    "LTWR 8C",
+    "MCWP 50",
+    "PHIL 27",
+    "PHYS 30",
+    "POLI 27"
+  ]
+}

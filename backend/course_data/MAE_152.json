@@ -1,0 +1,15 @@
+{
+  "code": "MAE 152",
+  "title": "Introductions to Manual and CNC Machining",
+  "units": "1",
+  "dept": "MAE",
+  "anchor": "mae152",
+  "description": "In this class, students are introduced to precision machining. Students will learn the proper safe operating procedures of a manual mill and lathe, band saws, and hand tools. Other topics include the basics of tolerancing, design (Fusion 360), and operation of CNC milling and turning. Program or materials fees may apply. Recommended preparation: It is recommended that students take introduction to design process through a hands-on design project course or some other introduction to shop course.\u00a0Prerequisites: MAE 3 or MAE 2 and consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 3",
+      "MAE 2"
+    ]
+  }
+}

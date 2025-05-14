@@ -1,0 +1,21 @@
+{
+  "code": "LIIT 1CX",
+  "title": "Analysis of Italian",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "liit1cx",
+  "description": "Presentation and practice of the basic grammatical structures needed for oral and written communication and for reading. The course is taught entirely in Italian. Must be taken with LIIT 1C. Prerequisites: LIIT 1B with a grade of C\u2013 or better, or equivalent and LIIT 1BX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIIT 1B",
+      "LIIT 1BX"
+    ]
+  },
+  "successors": [
+    "LIIT 1D",
+    "LIIT 1DX",
+    "LIIT 5DS",
+    "LTIT 2A"
+  ]
+}

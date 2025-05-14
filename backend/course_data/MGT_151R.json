@@ -1,0 +1,42 @@
+{
+  "code": "MGT 151R",
+  "title": "Business Analytics",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt151r",
+  "description": "This course focuses on the concept of data analytics, and the convergence of data and business. From a practical standpoint, the course focuses on solving business problems by examining industry data, machine learning, statistics, and various forms of data analytics concepts. The fundamental goal of the course is to ensure students learn and understand fundamental interconnections and practical coding applications within the field of data analytics. This course is a distance education course. Prerequisites: MATH 10A or MATH 18 or MATH 20A or MATH 31AH and BENG 100 or BIEB 100 or COGS 14B or ECE 109 or ECON 120A or MAE 108 or MATH 11 or MATH 180A or MATH 180B or MATH 181A or MATH 183 or MATH 186 or MGT 3 or PSYC 60 or SIO 187.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10A",
+          "MATH 18",
+          "MATH 20A",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BENG 100",
+          "BIEB 100",
+          "COGS 14B",
+          "ECE 109",
+          "ECON 120A",
+          "MAE 108",
+          "MATH 11",
+          "MATH 180A",
+          "MATH 180B",
+          "MATH 181A",
+          "MATH 183",
+          "MATH 186",
+          "MGT 3",
+          "PSYC 60",
+          "SIO 187"
+        ]
+      }
+    ]
+  }
+}

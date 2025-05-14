@@ -1,0 +1,31 @@
+{
+  "code": "ESYS 102",
+  "title": "The Solid and Fluid Earth",
+  "units": "4",
+  "dept": "ESYS",
+  "anchor": "esys102",
+  "description": "Earth\u2019s dynamic physical systems interact in complex ways with profound impact on our environment. Processes such as volcanism and weathering enable geochemical exchange between solid and fluid (ocean and atmosphere) systems. Sea level and climate changes interface with tectonic processes. Prerequisites: MATH 10A or MATH 20A, CHEM 6A, PHYS 1A or 2A, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10A",
+          "MATH 20A"
+        ]
+      },
+      "CHEM 6A",
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1A",
+          "PHYS 2A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "SIO 108"
+  ]
+}

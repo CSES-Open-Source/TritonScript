@@ -1,0 +1,9 @@
+{
+  "code": "ASTR 103",
+  "title": "Dynamics of Radiation and Fluids",
+  "units": "4",
+  "dept": "ASTR",
+  "anchor": "astr103",
+  "description": "Electromagnetic radiation and topics in fluid dynamics with an emphasis on astrophysical applications. Topics include special relativity, radiation: multipole expansion, Lienard-Wiechert formulation, radiation from relativistic charges; electromagnetic scattering, topics in radiation processes, introductory fluids, Euler and Navier-Stokes equations, potential flow and induced mass, vorticity, convection and Schwarzchild criterion, and turbulence. Prerequisites: ASTR 102.",
+  "prereqs": "ASTR 102"
+}

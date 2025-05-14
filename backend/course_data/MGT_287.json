@@ -1,0 +1,9 @@
+{
+  "code": "MGT 287",
+  "title": "Empirical Finance",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt287",
+  "description": "This course covers econometric methods including the linear regression model, serial correlation, hypothesis testing, timer series analysis, and estimation of discrete choice and simultaneous equation models. Prerequisites: MGT 285; admission to management PhD program or by consent of instructor.",
+  "prereqs": "MGT 285"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "SE 203A",
+  "title": "Structural Dynamics I",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se203a",
+  "description": "Response of discrete linear structural systems to harmonic, periodic and transient excitations. Lagrangian mechanics. Linearization of the equations of motion. Free and forced vibrations of multi degree-of-freedom structures. Normal mode,\u00a0frequency response and numerical methods. Continuous systems. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "SE 203B",
+    "SE 205",
+    "SE 206",
+    "SE 221",
+    "SE 243"
+  ]
+}

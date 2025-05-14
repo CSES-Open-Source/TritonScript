@@ -1,0 +1,8 @@
+{
+  "code": "ECE 227",
+  "title": "Big Network Data",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece227",
+  "description": "A course on network science driven by data analysis. The class will focus on both theoretical and empirical analysis performed on real data, including technological networks, social networks, information networks, biological networks, economic networks, and financial networks. Students will be exposed to a number of state-of-the-art software libraries for network data analysis and visualization via the Python notebook environment. Previous Python programming experience recommended. Prerequisites: graduate standing."
+}

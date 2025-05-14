@@ -1,0 +1,15 @@
+{
+  "code": "ECON 185",
+  "title": "Detecting Discrimination in Data",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ185",
+  "description": "Exploring and understanding the causes of gaps by group status (race, gender, etc.) in data. Work on independent projects exploring gaps by group status in publicly available datasets. Learn to decompose gaps to assess how these gaps might be driven by discrimination using techniques such as the Kitagawa-Oaxaca-Blinder decomposition, multivariate regression, etc. Familiarization with the concepts of taste-based, statistical, and structural discrimination as underlying drivers of gaps. Prerequisites: ECON 120B or MATH 181B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 120B",
+      "MATH 181B"
+    ]
+  }
+}

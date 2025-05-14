@@ -1,0 +1,8 @@
+{
+  "code": "POLI 273",
+  "title": "Causal Inference",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli273",
+  "description": "This course covers designs and methods of causal inference, including randomized experiments, cross-sectional and longitudinal designs, and other tools such as sensitivity analysis and randomization inference. These methods are illustrated with examples in political science and positive political economy. Prerequisites: graduate standing."
+}

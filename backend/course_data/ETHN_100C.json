@@ -1,0 +1,15 @@
+{
+  "code": "ETHN 100C",
+  "title": "Social Justice Praxis",
+  "units": "4",
+  "dept": "ETHN",
+  "anchor": "ethn100c",
+  "description": "An intensive capstone experience for ethnic studies majors, this course combines an advanced exploration of praxis-based approaches to social justice with practicum-based independent campus, community, creative, or research projects. Prerequisites: ETHN 100A and ETHN 100B, ethnic studies major or minor, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ETHN 100A",
+      "ETHN 100B"
+    ]
+  }
+}

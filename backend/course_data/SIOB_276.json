@@ -1,0 +1,11 @@
+{
+  "code": "SIOB 276",
+  "title": "Quantitative Theory of Populations and Communities",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siob276",
+  "description": "An introduction to the quantitative tools and conceptual issues underlying the study of the dynamics and structure of ecological systems. Recommended preparation: three quarters of calculus. Prerequisites: graduate standing or consent of instructor. (S/U grades permitted.)",
+  "successors": [
+    "SIOB 276L"
+  ]
+}

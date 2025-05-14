@@ -1,0 +1,11 @@
+{
+  "code": "MUS 132V",
+  "title": "Proseminar in Vocal Instruction",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus132v",
+  "description": "Individual instruction in advanced vocal performance. For declared music majors and minors. Students must be simultaneously enrolled in a performance ensemble or nonperformance music course and in the Vocal Master Class, MUS 32VM. May be taken for credit six times. Prerequisites: audition and department approval.",
+  "successors": [
+    "MUS 132C"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "ECE 255C",
+  "title": "Network Information Theory",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece255c",
+  "description": "The course aims to provide a broad coverage of key results, techniques, and open problems in network information theory. Topics include background (information measures and typical sequences, point-to-point communication) and single-hop networks (multiple access channels, degraded broadcast channels, interference channels, channels with state, general broadcast channels, Gaussian vector channels, distributed lossless source coding, source coding with side information). Prerequisites: ECE 250; ECE 255B; graduate standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 250",
+      "ECE 255B"
+    ]
+  }
+}

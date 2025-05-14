@@ -1,0 +1,18 @@
+{
+  "code": "JWSP 196B",
+  "title": "Jewish Studies Honors Course",
+  "units": "4",
+  "dept": "JWSP",
+  "anchor": "jwsp196b",
+  "description": "Second quarter of honors thesis research for students accepted into honors program. Research is conducted under the supervision of a faculty member selected with the approval of the director of the Jewish Studies Program. Prerequisites: admission to Jewish Studies Honors Program; previous enrollment in JWSP 196A; JWSP 100, JWSP 103, HITO 104, HITO 105; upper-division electives in Jewish studies; at least junior standing; overall 3.3 GPA; 3.5 in Jewish studies.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "JWSP 196A",
+      "JWSP 100",
+      "JWSP 103",
+      "HITO 104",
+      "HITO 105"
+    ]
+  }
+}

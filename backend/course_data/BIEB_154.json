@@ -1,0 +1,15 @@
+{
+  "code": "BIEB 154",
+  "title": "Evolutionary Inquiry",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb154",
+  "description": "Students will investigate selected in-depth topics in evolutionary biology through reading and writing. Students will read books and articles written for a general audience as well as primary literature. Example topics include the origins of novel features, the impact of human activity and environmental changes on evolutionary processes, the rate and intensity of natural selection, and how our own evolutionary history affects human health. Prerequisites: BILD 1 and BILD 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 3"
+    ]
+  }
+}

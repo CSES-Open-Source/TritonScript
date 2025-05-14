@@ -1,0 +1,22 @@
+{
+  "code": "COMM 175",
+  "title": "Cultures of Consumption",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm175",
+  "description": "This course examines the cultural politics of consumption across time and cultures through several concepts: commodity fetishism; conspicuous consumption; taste; class; and identity formation; consumption\u2019s psychological, phenomenological, and poetic dimensions; and contemporary manifestations of globalization and consumer activism. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

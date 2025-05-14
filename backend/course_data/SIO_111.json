@@ -1,0 +1,39 @@
+{
+  "code": "SIO 111",
+  "title": "Introduction to Ocean Waves",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio111",
+  "description": "The linear theory of ocean surface waves, including group velocity, wave dispersion, ray theory, wave measurement and prediction, shoaling waves, giant waves, ship wakes, tsunamis, and the physics of the surf zone. Cross-listed with PHYS 111. Prerequisites: PHYS 2A\u2013C or PHYS 4A\u2013C and MATH 20A\u2013E, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          {
+            "type": "all",
+            "courses": [
+              "PHYS 2A",
+              "PHYS 2B",
+              "PHYS 2C"
+            ]
+          },
+          {
+            "type": "all",
+            "courses": [
+              "PHYS 4A",
+              "PHYS 4B",
+              "PHYS 4C"
+            ]
+          }
+        ]
+      },
+      "MATH 20A",
+      "MATH 20B",
+      "MATH 20C",
+      "MATH 20D",
+      "MATH 20E"
+    ]
+  }
+}

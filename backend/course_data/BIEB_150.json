@@ -1,0 +1,24 @@
+{
+  "code": "BIEB 150",
+  "title": "Evolution",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb150",
+  "description": "Evolutionary processes are discussed in their genetic, historical, and ecological contexts. Population genetics, agents of evolution, microevolution, speciation, macroevolution. Prerequisites: BILD 3 and BILD 1 or BIEB 143.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 3",
+      {
+        "type": "one",
+        "courses": [
+          "BILD 1",
+          "BIEB 143"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "BIEB 143"
+  ]
+}

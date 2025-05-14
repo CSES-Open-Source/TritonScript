@@ -1,0 +1,16 @@
+{
+  "code": "MGT 226",
+  "title": "Theory of Industrial Organization and Business Strategy",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt226",
+  "description": "This course provides the theoretical underpinnings of business strategy drawing from the body of literature in industrial organization. It will complement Department of Economics courses on industrial organization to provide depth in business strategy. Prerequisites: ECON 200A-B-C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 200A",
+      "ECON 200B",
+      "ECON 200C"
+    ]
+  }
+}

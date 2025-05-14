@@ -1,0 +1,17 @@
+{
+  "code": "MAE 148",
+  "title": "Introduction to Autonomous Vehicles",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae148",
+  "description": "(Cross-listed with ECE 148.) Fundamentals of autonomous vehicles. Working in small teams, students will develop 1/8-scale autonomous cars that must perform on a simulated city track. Topics include robotics system integration, computer vision, algorithms for navigation, on-vehicle vs. off-vehicle computation, computer learning systems such as neural networks, locomotion systems, vehicle steering, dead reckoning, odometry, sensor fusion, GPS autopilot limitations, wiring, and power distribution and management. Prerequisites: ECE 15 or ECE 35 or MAE 2 or MAE 3 and department approval.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECE 15",
+      "ECE 35",
+      "MAE 2",
+      "MAE 3"
+    ]
+  }
+}

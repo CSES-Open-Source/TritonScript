@@ -1,0 +1,17 @@
+{
+  "code": "ECON 220D",
+  "title": "Econometrics D",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ220d",
+  "description": "Examines modern time series econometrics, extending methods from ECON 220A-C to dependent data. Topics covered include spectral density theory, HAC estimation, vector autoregressions, nonstationary econometrics, filtering. Prerequisites: ECON 220C, graduate standing; enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.",
+  "prereqs": "ECON 220C",
+  "successors": [
+    "ECON 220E",
+    "ECON 221",
+    "ECON 225",
+    "ECON 226",
+    "ECON 227",
+    "ECON 228"
+  ]
+}

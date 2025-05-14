@@ -1,0 +1,16 @@
+{
+  "code": "ECON 263",
+  "title": "Modeling Behavioral Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ263",
+  "description": "Covers various models in behavioral economics including self-control, bounded memory, belief manipulation, framing effects, and behavioral game theory. The course will also discuss their role in industrial organization, finance, and political economy, and their implications for welfare. Prerequisites: graduate standing and ECON 200A-B-C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 200A",
+      "ECON 200B",
+      "ECON 200C"
+    ]
+  }
+}

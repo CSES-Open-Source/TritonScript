@@ -1,0 +1,9 @@
+{
+  "code": "SE 226",
+  "title": "Geotechnical Groundwater Engineering",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se226",
+  "description": "This course will treat quantitative aspects of the flow of uncontaminated groundwater as it influences the practice of geotechnical engineering. We will cover flow through porous media, generalized Darcy\u2019s law, groundwater modeling, confined and unconfined systems, well hydraulics, land subsidence, and construction dewatering.\u00a0Prerequisites:\u00a0SE 241 or consent of instructor, graduate standing.",
+  "prereqs": "SE 241"
+}

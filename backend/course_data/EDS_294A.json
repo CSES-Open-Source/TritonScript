@@ -1,0 +1,11 @@
+{
+  "code": "EDS 294A",
+  "title": "Colloquium on Educational Leadership",
+  "units": "2",
+  "dept": "EDS",
+  "anchor": "eds294a",
+  "description": "Program faculty and visiting lecturers present leadership research in progress. Serves as a forum to discuss current research in educational leadership. This is the first course of a two-course series. Prerequisites: graduate student status or consent of instructor.",
+  "successors": [
+    "EDS 294B"
+  ]
+}

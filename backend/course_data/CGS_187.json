@@ -1,0 +1,18 @@
+{
+  "code": "CGS 187",
+  "title": "Latinx Sexualities",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs187",
+  "description": "(Cross-listed with ETHN 187.) The construction and articulation of Latinx sexualities will be explored in this course through interdisciplinary and comparative perspectives. We will discuss how immigration, class, and norms of ethnicity, race, and gender determine the construction, expression, and reframing of Latinx sexualities. Students will not receive credit for both CGS 115 and 187. Prerequisites: CGS 2A-B, ETHN 1, 2, 3, at least one CGS or ETHN upper-division course, or permission of the instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B",
+      "ETHN 1",
+      "ETHN 2",
+      "ETHN 3"
+    ]
+  }
+}

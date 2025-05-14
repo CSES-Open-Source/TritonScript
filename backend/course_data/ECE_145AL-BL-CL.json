@@ -1,0 +1,9 @@
+{
+  "code": "ECE 145AL-BL-CL",
+  "title": "Acoustics Laboratory",
+  "units": "4-4-4",
+  "dept": "ECE",
+  "anchor": "ece145cl",
+  "description": "Automated laboratory based on H-P GPIB controlled instruments. Software controlled data collection and analysis. Vibrations and waves in strings and bars of electromechanical systems and transducers. Transmissions, reflection, and scattering of sound waves in air and water. Aural and visual detection. Prerequisites: ECE 107 with a grade of C\u2013 or better or consent of instructor.",
+  "prereqs": "ECE 107"
+}

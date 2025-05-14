@@ -1,0 +1,10 @@
+{
+  "code": "CLRE 267",
+  "title": "Machine Learning and Predictive Analytics in Biomedical Research",
+  "units": "2",
+  "dept": "CLRE",
+  "anchor": "clre267",
+  "description": "The course introduces tools and practices for predictive modeling of binary, categorical, and continuous outcomes, using the R statistical software. The methods include linear and logistic regression using LASSO, ridge regression and elastic nets, CART, boosting, bagging, and random forests. Corequisite: CLRE 254. Prerequisites: CLRE 253, admission to the MAS in Clinical Research Program, or consent of department.",
+  "prereqs": "CLRE 253",
+  "coreqs": "CLRE 254"
+}

@@ -1,0 +1,8 @@
+{
+  "code": "PHYS 273",
+  "title": "Information Theory and Pattern Formation in Biological Systems",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys273",
+  "description": "This course discusses how living systems acquire information on their environment and exploit it to generate structures and perform functions. Biological sensing of concentrations, reaction-diffusion equations, the Turing mechanism, and applications of information theory to cellular transduction pathways and animal behavior will be presented. Recommended preparation: familiarity with probabilities at the level of undergraduate statistical mechanics and major cellular processes; basic knowledge of information theory."
+}

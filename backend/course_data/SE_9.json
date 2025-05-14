@@ -1,0 +1,20 @@
+{
+  "code": "SE 9",
+  "title": "Algorithms and Programming for Structural Engineering",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se9",
+  "description": "Introduction to the MATLAB environment. Variables and types, statements, functions, blocks, loops, and branches. Algorithm development. Functions, function handles, input and output arguments. Data encapsulation and object-oriented programming. Toolboxes and libraries. Models from physics (mechanics and thermodynamics) are used in exercises and projects. Prerequisites: MATH 20A-B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20A",
+      "MATH 20B"
+    ]
+  },
+  "successors": [
+    "SE 102",
+    "SE 103",
+    "SE 132"
+  ]
+}

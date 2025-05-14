@@ -1,0 +1,14 @@
+{
+  "code": "ECE 171A",
+  "title": "Linear Control System Theory",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece171a",
+  "description": "Stability of continuous- and discrete-time single-input/single-output linear time-invariant control systems emphasizing frequency domain methods. Transient and steady-state behavior. Stability analysis by root locus, Bode, Nyquist, and Nichols plots. Compensator design. Prerequisites: ECE 45. Open to EC26, EC27, EC28, and EC37 major codes only.",
+  "prereqs": "ECE 45",
+  "successors": [
+    "ECE 171B",
+    "MAE 142",
+    "MAE 144"
+  ]
+}

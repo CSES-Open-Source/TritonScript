@@ -1,0 +1,23 @@
+{
+  "code": "MATH 194",
+  "title": "The Mathematics of Finance",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math194",
+  "description": "Introduction to the mathematics of financial models. Basic probabilistic models and associated mathematical machinery will be discussed, with emphasis on discrete time models. Concepts covered will include conditional expectation, martingales, optimal stopping, arbitrage pricing, hedging, European and American options. Prerequisites: MATH 20D, and either MATH 18 or MATH 20F or MATH 31AH, and MATH 180A. Students who have not completed listed prerequisites may enroll with consent of instructor. Students completing ECON 120A instead of MATH 180A must obtain consent of instructor to enroll.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20D",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      },
+      "MATH 180A"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "code": "ECON 109",
+  "title": "Game Theory",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ109",
+  "description": "Introduction to game theory. Analysis of people\u2019s decisions when the consequences of the decisions depend on what other people do. This course features applications in economics, political science, and law. Prerequisites: ECON 100C or MATH 31CH or MATH 109 or (CSE 20 and MATH 20 C).",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 100C",
+      "MATH 31CH",
+      "MATH 109",
+      {
+        "type": "all",
+        "courses": [
+          "CSE 20",
+          "MATH 20"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "ECON 142"
+  ]
+}

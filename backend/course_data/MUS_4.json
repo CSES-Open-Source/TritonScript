@@ -1,0 +1,11 @@
+{
+  "code": "MUS 4",
+  "title": "Introduction to Western Music",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus4",
+  "description": "A brief survey of the history of Western music from the Middle Ages to the present. Much attention will be paid to the direct experience of listening to music and attendance of concerts. Class consists of lectures, listening labs, and live performances. Prerequisites: none.",
+  "successors": [
+    "MUS 112"
+  ]
+}

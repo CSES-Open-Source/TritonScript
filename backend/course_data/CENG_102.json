@@ -1,0 +1,22 @@
+{
+  "code": "CENG 102",
+  "title": "Chemical Engineering Thermodynamics",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng102",
+  "description": "Thermodynamic behavior of pure substances and mixtures. Properties of solutions, phase equilibria. Thermodynamic cycles. Chemical equilibria for homogeneous and heterogeneous systems. Prerequisites: CENG 100, CHEM 6C, and MATH 20C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CENG 100",
+      "CHEM 6C",
+      "MATH 20C"
+    ]
+  },
+  "successors": [
+    "CENG 122",
+    "CENG 170",
+    "MAE 101B",
+    "MAE 113"
+  ]
+}

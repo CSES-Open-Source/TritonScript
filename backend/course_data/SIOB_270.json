@@ -1,0 +1,27 @@
+{
+  "code": "SIOB 270",
+  "title": "Pelagic Ecology",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siob270",
+  "description": "An analysis of the concepts and theories used to explain the biological events observed in the water column. Alternate years. Prerequisites: SIOC 210 or SIO 210 and SIOB 280 or SIO 280 or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SIOC 210",
+          "SIO 210"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SIOB 280",
+          "SIO 280"
+        ]
+      }
+    ]
+  }
+}

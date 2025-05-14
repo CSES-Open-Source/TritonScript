@@ -1,0 +1,34 @@
+{
+  "code": "PHYS 1CL",
+  "title": "Waves, Optics, and Modern Physics Laboratory",
+  "units": "2",
+  "dept": "PHYS",
+  "anchor": "phys1cl",
+  "description": "Physics laboratory course to accompany PHYS 1C. Experiments in waves, optics, and modern physics. Program or materials fee may apply. PHYS 1C and 1CL are designed to be taken concurrently but may be taken in separate terms; taking the lecture before the lab is the best alternative to enrolling in both. Prerequisites: PHYS 1B or 2B, 1BL or 2CL, and MATH 10B or 20B. Recommended preparation: concurrent or prior enrollment in PHYS 1C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1B",
+          "PHYS 2B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 1BL",
+          "PHYS 2CL"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10B",
+          "MATH 20B"
+        ]
+      }
+    ]
+  }
+}

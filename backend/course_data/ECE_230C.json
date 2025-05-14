@@ -1,0 +1,9 @@
+{
+  "code": "ECE 230C",
+  "title": "Solid State Electronics III",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece230c",
+  "description": "This course is designed to provide a treatise of semiconductor devices based on solid state phenomena. Band structures carrier scattering and recombination processes and their influence on transport properties will be emphasized. Prerequisites: ECE 230A; graduate standing.",
+  "prereqs": "ECE 230A"
+}

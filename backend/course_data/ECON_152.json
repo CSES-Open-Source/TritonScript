@@ -1,0 +1,12 @@
+{
+  "code": "ECON 152",
+  "title": "Public Economics: Expenditures II",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ152",
+  "description": "Overview of the public sector in the United States and the justifications for government intervention in economic life. Theory of income redistribution and social insurance. Applications to current policy in such areas as health insurance, welfare, unemployment insurance, and Social Security. Prerequisites: ECON 100C.",
+  "prereqs": "ECON 100C",
+  "successors": [
+    "ECON 152T"
+  ]
+}

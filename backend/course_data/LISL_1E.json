@@ -1,0 +1,15 @@
+{
+  "code": "LISL 1E",
+  "title": "Intermediate American Sign Language Conversation",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lisl1e",
+  "description": "Course aims to improve language skills through discussion of topics relevant to the Deaf community. Central topics will include education and American Sign Language (ASL) literature. Conducted entirely in American Sign Language. Prerequisites: LISL 1D and LISL 1DX with a grade of C\u2013 or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LISL 1D",
+      "LISL 1DX"
+    ]
+  }
+}

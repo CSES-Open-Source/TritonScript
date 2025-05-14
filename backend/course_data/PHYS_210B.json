@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 210B",
+  "title": "Nonequilibrium Statistical Mechanics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys210b",
+  "description": "Transport phenomena; kinetic theory and the Chapman-Enskog method; hydrodynamic theory; nonlinear effects and the mode coupling method. Stochastic processes; Langevin and Fokker-Planck equation; fluctuation-dissipation relation; multiplicative processes; dynamic field theory; Martin-Siggia-Rose formalism; dynamical scaling theory. Prerequisites: PHYS 210A.",
+  "prereqs": "PHYS 210A"
+}

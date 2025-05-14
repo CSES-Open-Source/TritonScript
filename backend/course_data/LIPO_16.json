@@ -1,0 +1,14 @@
+{
+  "code": "LIPO 16",
+  "title": "Intermediate Brazilian Portuguese for the Social Sciences: Cultural Movements",
+  "units": "2.0",
+  "dept": "LING",
+  "description": "Conducted entirely in Portuguese. Course aims to improve oral language skills through discussions of social science topics, with emphasis on culture and the arts in contemporary Brazil. Course materials may encompass televised news broadcasts, newspapers, and periodicals. Prerequisites: LIPO 1D and 1DX or equivalent or by consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIPO 1D",
+      "LIPO 1DX"
+    ]
+  }
+}

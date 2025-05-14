@@ -1,0 +1,18 @@
+{
+  "code": "PHYS 162",
+  "title": "Modern Cosmology",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys162",
+  "description": "An introduction to our current understanding of the universe, its history and content. The course introduces the geometry of the universe, the origin of structure, maps of the universe, and inference of cosmic parameters. Topics include big bang nucleosynthesis, the cosmic microwave background, the quantum origin of density fluctuations, dark matter, and the cosmological constant. Prerequisites: PHYS 4A-B-C-D-E.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 4A",
+      "PHYS 4B",
+      "PHYS 4C",
+      "PHYS 4D",
+      "PHYS 4E"
+    ]
+  }
+}

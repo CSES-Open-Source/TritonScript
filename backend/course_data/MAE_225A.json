@@ -1,0 +1,12 @@
+{
+  "code": "MAE 225A",
+  "title": "Nanoscale and Microscale Heat Transfer for Energy Conversion Applications I",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae225a",
+  "description": "An advanced introduction to the principles underlying conduction, convection, and radiation phenomena at the atomic/molecular scale; overview of macroscopic thermal sciences, kinetic theory and fluidics, statistical thermodynamics and quantum theory, thermal properties as a function of dimensionality; experimental methods. Prerequisites: MAE 221A, graduate standing.",
+  "prereqs": "MAE 221A",
+  "successors": [
+    "MAE 225B"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "code": "MGT 181",
+  "title": "Enterprise Finance",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt181",
+  "description": "Will cover debt and equity financing of the enterprise, the role of commercial banks, venture firms, and investment banks; along with enterprise valuation, cash flow management, capital expenditure decisions, return on investment, economic value add, and foreign currency translation. Prerequisites: upper-division standing and (MATH 10A or MATH 20A or MGT 3) and (MGT 5 or MGT 45) and (MGT 4 or MGT 45 or ECON 4).",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10A",
+          "MATH 20A",
+          "MGT 3"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MGT 5",
+          "MGT 45"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MGT 4",
+          "MGT 45",
+          "ECON 4"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MGT 112",
+    "MGT 121B",
+    "MGT 157",
+    "MGT 183",
+    "MGT 184",
+    "MGT 185",
+    "MGT 189"
+  ]
+}

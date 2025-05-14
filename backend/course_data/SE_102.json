@@ -1,0 +1,30 @@
+{
+  "code": "SE 102",
+  "title": "Introduction to Computing for Engineers",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se102",
+  "description": "Introduction to engineering computing. Interpolation, integration, differentiation. Ordinary differential equations. Nonlinear algebraic equations. Systems of linear algebraic equations. Representation of data in the computer. Prerequisites: SE 9 or MAE 8 and SE 101A or MAE 130A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SE 9",
+          "MAE 8"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SE 101A",
+          "MAE 130A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "SE 120"
+  ]
+}

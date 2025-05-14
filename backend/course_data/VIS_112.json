@@ -1,0 +1,18 @@
+{
+  "code": "VIS 112",
+  "title": "Theories and Methods",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis112",
+  "description": "Introduction for art history majors to a wide range of critical and theoretical approaches to the image and to key methodologies of art history, including iconography, formalism, psychological theories of art, social art history, feminism, and de/postcolonialism. Emphasis will be on developments in the nineteenth\u2013twenty-first centuries; students with research interests in early or premodern periods are encouraged to use the methodological resources we develop to address these areas and issues. Required for all art history and criticism majors. Prerequisites: VIS 23.",
+  "prereqs": "VIS 23",
+  "successors": [
+    "VIS 113AN",
+    "VIS 129A",
+    "VIS 129A\u2013F",
+    "VIS 129B",
+    "VIS 129C",
+    "VIS 129E",
+    "VIS 129F"
+  ]
+}

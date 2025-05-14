@@ -1,0 +1,8 @@
+{
+  "code": "MAE 270",
+  "title": "Multidisciplinary Design Optimization",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae270",
+  "description": "Introduction to engineering design optimization involving multidisciplinary models. Topics covered include local sensitivity analysis, gradient-based optimization, gradient-free optimization, surrogate models, discrete optimization, and multidisciplinary design optimization architectures. Students will apply these methods to a practical design problem of their choosing through a course project."
+}

@@ -1,0 +1,15 @@
+{
+  "code": "MUS 2JK",
+  "title": "Jazz Keyboard",
+  "units": "2",
+  "dept": "MUS",
+  "anchor": "mus2jk",
+  "description": "This course will acquaint students with basic concepts in jazz piano. Students will learn chord voicing, how to read a lead sheet, and modes for improvising. Major pianists from the idiom will be listened to and discussed. The course is ideal for non-pianists as well as pianists because its emphasis is theoretical, not technical. Prerequisites: MUS 2AK and 2BK or passing proficiency exam, or consent of instructor. Concurrent enrollment in MUS 2C. Majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MUS 2AK",
+      "MUS 2BK"
+    ]
+  }
+}

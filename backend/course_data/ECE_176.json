@@ -1,0 +1,15 @@
+{
+  "code": "ECE 176",
+  "title": "Introduction to Deep Learning and Applications",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece176",
+  "description": "This course covers the fundamentals in deep learning, basics in deep neural network including different network architectures (e.g., ConvNet, RNN), and the optimization algorithms for training these networks. We will have hands-on implementation courses in PyTorch. This course will also introduce the deep learning applications in computer vision, robotics, and sequence modeling in natural language processing. Prerequisites: MATH 18 or MATH 31AH, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 18",
+      "MATH 31AH"
+    ]
+  }
+}

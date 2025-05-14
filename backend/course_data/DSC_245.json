@@ -1,0 +1,15 @@
+{
+  "code": "DSC 245",
+  "title": "Introduction to Causal Inference",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc245",
+  "description": "Causal versus predictive inference, potential outcomes and randomized experiments (A/B testing), structural causal models (interventions, counterfactuals, causal diagram, do-operator, d-separation), causal structure learning, identification of causal effect, estimation of causal effect, causal discovery and inference in presence of distribution shifts, selection bias, hidden confounders, cycles, nonlinear causal mechanisms, missing values, causal representation learning. Prerequisites: DSC 212 and DSC 240. Restricted to DS75 and DS76 students.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 212",
+      "DSC 240"
+    ]
+  }
+}

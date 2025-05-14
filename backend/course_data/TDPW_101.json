@@ -1,0 +1,13 @@
+{
+  "code": "TDPW 101",
+  "title": "Intermediate Playwriting",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdpw101",
+  "description": "A workshop where students present their plays at various stages of development for group analysis and discussion. Students write a thirty-minute play that culminates in a reading. Also includes writing exercises designed to stimulate imagination and develop writing techniques. May be taken for credit two times. Prerequisites: THPW or TDPW 1 or consent of instructor.",
+  "prereqs": "TDPW 1",
+  "successors": [
+    "TDPW 102",
+    "TDPW 190"
+  ]
+}

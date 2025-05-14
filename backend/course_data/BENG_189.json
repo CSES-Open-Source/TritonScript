@@ -1,0 +1,18 @@
+{
+  "code": "BENG 189",
+  "title": "Physiological Systems Engineering",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng189",
+  "description": "Quantitative description of physiological systems, e.g., electrical and mechanical properties of muscle (skeletal and cardiac). Modeling and simulation of properties. Kidney, transport, and models. Neural circuits and models. Prerequisites: BENG 133, 134, 135, 140A and 140B, or consent of department. (S) Not offered until spring 2017.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BENG 133",
+      "BENG 134",
+      "BENG 135",
+      "BENG 140A",
+      "BENG 140B"
+    ]
+  }
+}

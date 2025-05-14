@@ -1,0 +1,18 @@
+{
+  "code": "DSC 255R",
+  "title": "Machine Learning Fundamentals",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc255r",
+  "description": "Supervised and unsupervised learning algorithms, and the theory behind those algorithms. Using case studies, covered topics include classification, regression, and conditional probability estimation; generative and discriminative models; linear models and extensions to non-linearity using kernel methods; ensemble methods: boosting, bagging, random forests; representation learning: clustering, dimensionality reduction, auto-encoders, deep neural networks. This is a distance education course. Prerequisites: DSC 215R. Restricted to major codes DS78 and DS79. All other students with graduate standing may be considered as space permits.",
+  "prereqs": "DSC 215R",
+  "successors": [
+    "DSC 232R",
+    "DSC 257R",
+    "DSC 258R",
+    "DSC 259R",
+    "DSC 266R",
+    "DSC 267R",
+    "DSC 288R"
+  ]
+}

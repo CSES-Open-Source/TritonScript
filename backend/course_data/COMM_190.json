@@ -1,0 +1,22 @@
+{
+  "code": "COMM 190",
+  "title": "Junior Seminar in Communication",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm190",
+  "description": "The junior seminar enables a detailed examination of a specific topic from the field of communication selected by the instructor, exploring in greater depth theories and methods introduced in the core communication curriculum. Seminars are limited to thirty students with a heavy focus on class participation. Students complete a research project with a significant final product (typically a research paper). Prerequisites: junior or senior standing and COMM 10 and at least one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

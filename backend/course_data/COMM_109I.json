@@ -1,0 +1,9 @@
+{
+  "code": "COMM 109I",
+  "title": "MC: History of Information",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm109i",
+  "description": "Even though we consider ours to be the Information Age, information has a rich history that goes back to the invention of the printing press. This history focuses on the rise of mechanical and social technologies that fostered the spread of information. Topics will include media and networks (books, telegraphy, internet), collecting and storage (archives, libraries, digital repositories), elemental units (facts, bits, noise), and application and use (reading, messaging, algorithms). Prerequisites: COMM 10.",
+  "prereqs": "COMM 10"
+}

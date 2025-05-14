@@ -1,0 +1,12 @@
+{
+  "code": "SOCG 255A",
+  "title": "Introduction to Science Studies: Part I",
+  "units": "4",
+  "dept": "SOC",
+  "anchor": "socg255a",
+  "description": "(Same as Phil 209A, HIGR 238, and COGR 225A.) Study and discussion of classic work in history of science, sociology of science, and philosophy of science, and of work that attempts to develop a unified science studies approach. Required for all students in the Science Studies Program. Prerequisites: enrollment in Science Studies Program.",
+  "successors": [
+    "COGR 225D",
+    "SOCG 255D"
+  ]
+}

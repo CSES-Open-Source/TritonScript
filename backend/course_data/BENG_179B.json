@@ -1,0 +1,10 @@
+{
+  "code": "BENG 179B",
+  "title": "Design Implementation in Bioinstrumentation",
+  "units": "3",
+  "dept": "BENG",
+  "anchor": "beng179b",
+  "description": "Implementation of design project in bioinstrumentation. Prerequisites: BENG 179A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W)",
+  "prereqs": "BENG 179A",
+  "coreqs": "BENG 187C"
+}

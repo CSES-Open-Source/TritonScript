@@ -1,0 +1,15 @@
+{
+  "code": "BENG 186A",
+  "title": "Principles of Biomaterials Design",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng186a",
+  "description": "Fundamentals of materials science as applied to bioengineering design. Natural and synthetic polymeric materials. Materials characterization and design. Wound repair, blood clotting, foreign body response, transplantation biology, biocompatibility of materials, tissue engineering. Artificial organs and medical devices. Government regulations. Patenting. Economic impact. Ethical issues. A term project and oral presentation are required. Prerequisites: BENG 112B or BENG 123, or consent of department. (S)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BENG 112B",
+      "BENG 123"
+    ]
+  }
+}

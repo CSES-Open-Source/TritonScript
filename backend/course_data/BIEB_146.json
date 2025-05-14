@@ -1,0 +1,15 @@
+{
+  "code": "BIEB 146",
+  "title": "Genome Diversity and Dynamics",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb146",
+  "description": "Modern sequencing technology has revolutionized our ability to detect how genomes vary in space among individuals, populations, and communities, and over time. This course will review methods and concepts in ecological and evolutionary genomics that help us understand these differences, including their relevance to health (human microbiome, cancer evolution), evolutionary history (ancestor reconstruction, human evolution), and the environment (effect of climate change). Prerequisites: BILD 1 and BILD 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 1",
+      "BILD 3"
+    ]
+  }
+}

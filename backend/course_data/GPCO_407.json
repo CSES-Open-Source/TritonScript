@@ -1,0 +1,11 @@
+{
+  "code": "GPCO 407",
+  "title": "Policy Analysis and Decision Theory",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpco407",
+  "description": "This course introduces students to the methods of policy analysis and decision-making theory, including methods to assemble panel data to capture the impact of new policy on observable data, decision-making theory, uncertainty, decision criteria, expected utility, and risk. Renumbered from IRCO 407. Students may not receive credit for GPCO 407 and IRCO 407. Prerequisites: GPS students only or consent of instructor.",
+  "successors": [
+    "GPPA 460"
+  ]
+}

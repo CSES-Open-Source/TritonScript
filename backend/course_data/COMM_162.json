@@ -1,0 +1,22 @@
+{
+  "code": "COMM 162",
+  "title": "Advanced Studies in Cultural Industries",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm162",
+  "description": "We examine how people interact with products of popular culture, production of cultural goods by looking at conditions in cultural industries. We examine film, music, publishing, focusing on how production is organized, what kind of working conditions arise, how products are distributed. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

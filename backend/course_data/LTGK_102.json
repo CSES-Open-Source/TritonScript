@@ -1,0 +1,16 @@
+{
+  "code": "LTGK 102",
+  "title": "Greek Poetry",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltgk102",
+  "description": "Readings in Greek from ancient Greek poetry. May be taken for credit up to four times as topics vary.  Prerequisites:  LTGK 1, 2, and 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LTGK 1",
+      "LTGK 2",
+      "LTGK 3"
+    ]
+  }
+}

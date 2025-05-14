@@ -1,0 +1,12 @@
+{
+  "code": "TDGR 210B",
+  "title": "Process I\u2014Part II",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdgr210b",
+  "description": "Intensive studio examination of realistic texts using improvisational and imaginative techniques to realistically based texts commonly from American theatre. Second course in a three-course sequence. Prerequisites: TDGR 210A and admission to the MFA program or consent of instructor.",
+  "prereqs": "TDGR 210A",
+  "successors": [
+    "TDGR 210C"
+  ]
+}

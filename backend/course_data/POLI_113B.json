@@ -1,0 +1,11 @@
+{
+  "code": "POLI 113B",
+  "title": "Chinese and Japanese Political Thought I",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli113b",
+  "description": "Examines philosophical traditions of ancient and modern China and Japan, to understand how these have been reflected in Chinese and Japanese development. Course will be in English; however, students with Chinese or Japanese language skills will have opportunity to use these. Graduate students will be required to complete a seminar-length research paper; undergraduate students will write a paper. Prerequisites: upper-division standing for POLI 113B.",
+  "successors": [
+    "POLI 113C"
+  ]
+}

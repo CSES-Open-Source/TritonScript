@@ -1,0 +1,15 @@
+{
+  "code": "ECE 134",
+  "title": "Electronic Materials Science of Integrated Circuits",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece134",
+  "description": "Electronic materials science with emphasis on topics pertinent to microelectronics and VLSI technology. Concept of the course is to use components in integrated circuits to discuss structure, thermodynamics, reaction kinetics, and electrical properties of materials. Prerequisites: PHYS 2C\u2013D with grades of C\u2013 or better.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 2C",
+      "PHYS 2D"
+    ]
+  }
+}

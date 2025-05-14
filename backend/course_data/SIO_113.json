@@ -1,0 +1,9 @@
+{
+  "code": "SIO 113",
+  "title": "Computing and Data Analysis in Geosciences",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio113",
+  "description": "Computers are used in the geosciences to understand complex natural systems. This course includes beginning programming with a user-friendly language (Python). Prerequisites: SIO 50 or consent of instructor.",
+  "prereqs": "SIO 50"
+}

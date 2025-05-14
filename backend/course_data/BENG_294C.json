@@ -1,0 +1,9 @@
+{
+  "code": "BENG 294C",
+  "title": "Clinical Experience in Bioengineering",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng294c",
+  "description": "Capstone experiential learning course where students are to integrate bioengineering training and clinical medicine through lectures and rotations with clinical faculty. Students will identify problems with diagnostics, clinical practice, and/or treatment, and use engineering principles to design solutions. May be coscheduled with BENG 193. Prerequisites: BENG 294B; bioengineering MS medicine majors only or consent of department.",
+  "prereqs": "BENG 294B"
+}

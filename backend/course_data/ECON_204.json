@@ -1,0 +1,16 @@
+{
+  "code": "ECON 204",
+  "title": "Contract Theory",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ204",
+  "description": "This course reviews the theoretical foundations for the analysis of contractual interaction, and it covers a selection of game-theoretic models and applications. The course is intended to provide a foundation for theoretical research on contracts as well as applied research on topics in behavioral/experimental, development, environmental, international, and labor economics, law and economics, and macroeconomics. Prerequisites: ECON 200A-B-C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 200A",
+      "ECON 200B",
+      "ECON 200C"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "COGS 144",
+  "title": "Social Cognition: A Developmental and Evolutionary Perspective",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs144",
+  "description": "This course presents the building blocks of social cognition from a developmental and evolutionary perspective and focuses on how and when children develop these abilities and how humans compare to other species such as great apes, birds, and dogs. Prerequisites: COGS 14A-B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COGS 14A",
+      "COGS 14B"
+    ]
+  }
+}

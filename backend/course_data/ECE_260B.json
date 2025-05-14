@@ -1,0 +1,12 @@
+{
+  "code": "ECE 260B",
+  "title": "VLSI Integrated Circuits and Systems Design",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece260b",
+  "description": "VLSI implementation methodology across block, circuit, and layout levels of abstraction. Circuit building blocks including embedded memory and clock distribution. Computer-aided design (synthesis, place-and-route, verification) and performance analyses, and small-group block implementation projects spanning RTL to tape-out using leading-edge EDA tools. Cross-listed with CSE 241A. Recommended preparation: ECE 165. Prerequisites: ECE 260A; graduate standing.",
+  "prereqs": "ECE 260A",
+  "successors": [
+    "ECE 260C"
+  ]
+}

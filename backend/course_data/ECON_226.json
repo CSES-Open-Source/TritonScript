@@ -1,0 +1,18 @@
+{
+  "code": "ECON 226",
+  "title": "Bayesian and Numerical Methods",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ226",
+  "description": "Topics include Bayesian inference and decision theory, loss functions, estimation of dynamic stochastic general equilibrium models, nonlinear time series, state-space models, spatial-temporal models, and high-frequency data. Prerequisites: graduate standing and ECON 220A, 220B, 220C, 220D, and 220E or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 220A",
+      "ECON 220B",
+      "ECON 220C",
+      "ECON 220D",
+      "ECON 220E"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "code": "LTIT 2A",
+  "title": "Intermediate Italian I",
+  "units": "5",
+  "dept": "LIT",
+  "anchor": "ltit2a",
+  "description": "A second-year course in Italian language and literature. Conversation, composition, grammar review, and an introduction to literary and nonliterary texts.  Prerequisites:  LTIT 1C or LIIT 1C/1CX or its equivalent or a score of 3 on AP Italian Language and Culture Exam or placement result of 3 or 4 on the Language Placement Exam\u2013Italian or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTIT 1C",
+      "LIIT 1C",
+      "LIIT 1CX"
+    ]
+  },
+  "successors": [
+    "LTIT 2B",
+    "LTIT 50"
+  ]
+}

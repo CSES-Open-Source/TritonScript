@@ -1,0 +1,24 @@
+{
+  "code": "MAE 142",
+  "title": "Dynamics and Control of Aerospace Vehicles",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae142",
+  "description": "The dynamics of vehicles in space or air are derived for analysis of the stability properties of spacecraft and aircraft. The theory of flight, lift, drag, Dutch roll and phugoid modes of aircraft are discussed. Optimal state space control theory for the design of analog and digital controllers (autopilots). Prerequisites: MAE 104 and MAE 143B or ECE 171A, or consent of instructor. Enrollment restricted to engineering majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 104",
+      {
+        "type": "one",
+        "courses": [
+          "MAE 143B",
+          "ECE 171A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MAE 155B"
+  ]
+}

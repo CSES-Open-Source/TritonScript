@@ -1,0 +1,30 @@
+{
+  "code": "CENG 101A",
+  "title": "Introductory Fluid Mechanics",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "ceng101a",
+  "description": "Kinematics and equation of motion; hydrostatics; Bernoulli\u2019s equation; viscous flows; turbulence, pipe flow; boundary layers and drag in external flows; applications to chemical, structural, and bioengineering. Students may not receive credit for both MAE 101A and CENG 101A. Prerequisites: admission to the major and grades of C\u2013 or better in PHYS 2A, MATH 20D, and MATH 20E, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 2A",
+      "MATH 20D",
+      "MATH 20E"
+    ]
+  },
+  "successors": [
+    "BENG 103B",
+    "CENG 101B",
+    "CENG 101C",
+    "CENG 157",
+    "CENG 210A",
+    "MAE 101B",
+    "MAE 101C",
+    "MAE 113",
+    "MAE 118",
+    "MAE 120",
+    "MAE 122",
+    "MAE 126A"
+  ]
+}

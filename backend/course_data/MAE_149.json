@@ -1,0 +1,8 @@
+{
+  "code": "MAE 149",
+  "title": "Sensor Networks",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae149",
+  "description": "(Cross-listed with ECE 156.) Characteristics of chemical, biological, seismic, and other physical sensors; signal processing techniques supporting distributed detection of salient events; wireless communication and networking protocols supporting formation of robust censor fabrics; current experience with low power, low-cost sensor deployments. Students may not receive credit for both MAE 149 and ECE 156. May be coscheduled with SIOC 238. Prerequisites: upper-division standing. (Not offered every year.)"
+}

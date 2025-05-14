@@ -1,0 +1,19 @@
+{
+  "code": "ECON 231",
+  "title": "Public Economics: Public Goods and Externalities",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ231",
+  "description": "Justifications for government intervention in the context of public goods and externalities. Exploration of normative and positive models of government behavior. Lessons from fiscal federalism for federal, state, and local roles. Applications to specific expenditure programs, such as national defense and education. Prerequisites: graduate standing and ECON 200A-B-C and ECON 220A-B-C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 200A",
+      "ECON 200B",
+      "ECON 200C",
+      "ECON 220A",
+      "ECON 220B",
+      "ECON 220C"
+    ]
+  }
+}

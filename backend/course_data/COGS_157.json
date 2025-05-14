@@ -1,0 +1,16 @@
+{
+  "code": "COGS 157",
+  "title": "Music and the Mind",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs157",
+  "description": "Explores how humans (and other species) process music, including pitch, meter, emotion, motor aspects, links to language, brain activity. Students should have experience reading musical notation. Prerequisites: COGS 101A or COGS 101B or COGS 101C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 101A",
+      "COGS 101B",
+      "COGS 101C"
+    ]
+  }
+}

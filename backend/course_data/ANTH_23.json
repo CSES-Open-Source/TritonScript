@@ -1,0 +1,12 @@
+{
+  "code": "ANTH 23",
+  "title": "Debating Multiculturalism: Race, Ethnicity, and Class in American Societies",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "anth23",
+  "description": "This course focuses on the debate about multiculturalism in American society. It examines the interaction of race, ethnicity, and class, historically and comparatively, and considers the problem of citizenship in relation to the growing polarization of multiple social identities.",
+  "successors": [
+    "ANSC 191GS",
+    "EDS 120"
+  ]
+}

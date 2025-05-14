@@ -1,0 +1,16 @@
+{
+  "code": "MAE 233B",
+  "title": "Micromechanics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae233b",
+  "description": "General theory of transformation strains and corresponding elastic fields; Green\u2019s functions and other solution methods; dislocations; inclusions and inhomogeneities; micromechanics of plastic flow, microcracking, cavitation, and damage in crystalline and other solids. Prerequisites: MAE 231A-B-C or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 231A",
+      "MAE 231B",
+      "MAE 231C"
+    ]
+  }
+}

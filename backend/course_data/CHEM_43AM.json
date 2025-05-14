@@ -1,0 +1,35 @@
+{
+  "code": "CHEM 43AM",
+  "title": "Organic Chemistry Laboratory for Majors",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem43am",
+  "description": "Organic chemistry laboratory for chemistry majors; nonmajors with strong background in CHEM 40A or 140A may also enroll, though preference will be given to majors. Similar to CHEM 43A, but emphasizes instrumental methods of product identification, separation, and analysis. A materials fee is required. Students must pass a safety exam. CHEM 43AM is renumbered from CHEM 143AH. Students may only receive credit for one of the following: CHEM 43AM, 143AM, 43A, or 143A. Prerequisites: CHEM 7L or 7LM and CHEM 40A, 40AH, or 41A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 7L",
+          "CHEM 7LM"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 40A",
+          "CHEM 40AH",
+          "CHEM 41A"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CHEM 108",
+    "CHEM 109",
+    "CHEM 123",
+    "CHEM 143B",
+    "CHEM 143C"
+  ]
+}

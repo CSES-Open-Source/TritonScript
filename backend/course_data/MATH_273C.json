@@ -1,0 +1,9 @@
+{
+  "code": "MATH 273C",
+  "title": "Advanced Techniques in Computational Mathematics III",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math273c",
+  "description": "Adaptive numerical methods for capturing all scales in one model, multiscale and multiphysics modeling frameworks, and other advanced techniques in computational multiscale/multiphysics modeling. Project-oriented; projects designed around problems of current interest in science, mathematics, and engineering. Prerequisites: MATH 273B or consent of instructor.",
+  "prereqs": "MATH 273B"
+}

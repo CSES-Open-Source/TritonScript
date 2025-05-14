@@ -1,0 +1,11 @@
+{
+  "code": "MATH 216A",
+  "title": "Mathematical Methods in Data Science I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math216a",
+  "description": "This is the first course in a three-course sequence in mathematical methods in data science, and will serve as an introduction to the rest of the sequence. Topics include principal component analysis and the singular value decomposition, sparse representation, dictionary learning, the Johnson Lindenstrauss Lemma and its applications, compressed sensing, kernel methods, nearest neighbor searches, and spectral and subspace clustering. Some scientific programming experience is recommended. Prerequisites: graduate standing.",
+  "successors": [
+    "MATH 216B"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": "MAE 249",
+  "title": "Soft Robotics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae249",
+  "description": "Roboticists have begun to explore the design of automated systems using soft materials (e.g., elastomers, gels, fluids) with the goal of achieving the versatility and robustness of biological organisms. This course provides a survey of topics important for the design, analysis, and control of soft robotics, including modeling (e.g., nonlinear elasticity), actuation (e.g., fluidic elastomer actuators), sensing (e.g., liquid metal sensors), and design optimization (e.g., using artificial evolution)."
+}

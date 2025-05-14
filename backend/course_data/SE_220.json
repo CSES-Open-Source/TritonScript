@@ -1,0 +1,9 @@
+{
+  "code": "SE 220",
+  "title": "Seismic Isolation and Energy Dissipation",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se220",
+  "description": "Concepts, advantages, and limitations of seismic isolation techniques; fundamentals of dynamic response under seismic excitation; spectral analysis; damping; energy approach; application to buildings and structures. Prerequisites: SE 221 or consent of instructor.",
+  "prereqs": "SE 221"
+}

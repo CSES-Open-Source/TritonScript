@@ -1,0 +1,9 @@
+{
+  "code": "PSYC 115B",
+  "title": "Laboratory in Cognitive Psychology II",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc115b",
+  "description": "This course is designed to extend the training of PSYC 115A in the design, execution, and analysis of cognitive psychology experiments. Students may not receive credit for both PSYC 115 and PSYC 115B.\u00a0Open to the following Department of Psychology majors only: PC26, PC28, PC29, PC30, PC31, PC32, PC33, PC34, CG32. Prerequisites: upper-division standing and PSYC 115A. Instructor and department approval.",
+  "prereqs": "PSYC 115A"
+}

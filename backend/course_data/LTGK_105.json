@@ -1,0 +1,16 @@
+{
+  "code": "LTGK 105",
+  "title": "Topics in Greek Literature",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltgk105",
+  "description": "Readings in Greek covering specific topics in ancient Greek literature. May be taken for credit up to four times as topics vary.  Prerequisites:  LTGK 1, 2, and 3.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LTGK 1",
+      "LTGK 2",
+      "LTGK 3"
+    ]
+  }
+}

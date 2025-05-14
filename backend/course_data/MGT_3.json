@@ -1,0 +1,15 @@
+{
+  "code": "MGT 3",
+  "title": "Quantitative Methods in Business",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt3",
+  "description": "Introduction to techniques to develop/analyze data for informed tactical and strategic management decisions: statistical inference, probability, regression analysis, and optimization. Using these analytic approaches, theory-based formulas, and spreadsheets, students explore managerial applications across all areas of business activity.",
+  "successors": [
+    "CSS 2",
+    "MGT 151R",
+    "MGT 153",
+    "MGT 160",
+    "MGT 181"
+  ]
+}

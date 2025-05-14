@@ -1,0 +1,9 @@
+{
+  "code": "MATH 202C",
+  "title": "Applied Algebra III",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math202c",
+  "description": "Third course in algebra from a computational perspective. Groups, rings, linear algebra, rational and Jordan forms, unitary and Hermitian matrices, matrix decompositions, perturbation of eigenvalues, group representations, symmetric functions, fast Fourier transform, commutative algebra, Grobner basis, finite fields. Prerequisites: MATH 202B or consent of instructor.",
+  "prereqs": "MATH 202B"
+}

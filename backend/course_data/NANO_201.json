@@ -1,0 +1,11 @@
+{
+  "code": "NANO 201",
+  "title": "Introduction to NanoEngineering",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano201",
+  "description": "Understanding nanotechnology, broad implications, miniaturization: scaling laws; nanoscale physics; types and properties of nanomaterials; nanomechanical oscillators, nano(bio)electronics, nanoscale heat transfer; fluids at the nanoscale; machinery cell; applications of nanotechnology and nanobiotechnology. Students may not receive credit for both NANO 201 and CENG 211. Prerequisites: graduate standing.",
+  "successors": [
+    "NANO 245"
+  ]
+}

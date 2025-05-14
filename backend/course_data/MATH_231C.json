@@ -1,0 +1,9 @@
+{
+  "code": "MATH 231C",
+  "title": "Partial Differential Equations III",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math231c",
+  "description": "Third course in graduate partial differential equations. Laplace, heat, and wave equations. Non-linear first order equations, including Hamilton-Jacobi theory. Sobolev spaces and initial/boundary value problems for linear elliptic, parabolic, and hyperbolic equations. Non-linear second order equations, including calculus of variations. Prerequisites: MATH 231B. Students who have not completed MATH 231B may enroll with consent of instructor.",
+  "prereqs": "MATH 231B"
+}

@@ -1,0 +1,36 @@
+{
+  "code": "ECON 132",
+  "title": "Energy Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ132",
+  "description": "Energy from an economic perspective. Fuel cycles for coal, hydro, nuclear, oil, and solar energy. Emphasis on efficiency and control of pollution. Comparison of energy use across sectors and across countries. Global warming. Role of energy in the international economy. Prerequisites: ECON 1 and (ECON 2 or 3 or 100A or 131 or ESYS 103 or MAE 124) and MATH 10C or 20C or 31BH.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 1",
+      {
+        "type": "one",
+        "courses": [
+          "ECON 2",
+          "ECON 3",
+          "ECON 100A",
+          "ECON 131",
+          "ESYS 103",
+          "MAE 124"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10C",
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "ECON 132T"
+  ]
+}

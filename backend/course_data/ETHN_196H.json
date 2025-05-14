@@ -1,0 +1,16 @@
+{
+  "code": "ETHN 196H",
+  "title": "Honors Thesis",
+  "units": "4",
+  "dept": "ETHN",
+  "anchor": "ethn196h",
+  "description": "Independent study to complete an honors thesis under the supervision of a faculty member who serves as thesis adviser. Prerequisites: ETHN 100A and ETHN 100B and ETHN 100H. Department approval required.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ETHN 100A",
+      "ETHN 100B",
+      "ETHN 100H"
+    ]
+  }
+}

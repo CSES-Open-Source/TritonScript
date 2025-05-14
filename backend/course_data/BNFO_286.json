@@ -1,0 +1,32 @@
+{
+  "code": "BNFO 286",
+  "title": "Network Biology and Biomedicine",
+  "units": "4",
+  "dept": "BIOI",
+  "anchor": "bnfo286",
+  "description": "(Cross-listed with MED 283.) Networks are pervasive in molecular biology and medicine. This course introduces biomolecular networks and their major analysis techniques and roles in biomedical research, including pathway-based genetic analysis. Recommended familiarity with bioinformatics programming; course examples are taught in Python. Prerequisites: Genetics (BICD 100, BGGN 223, or BIOM 252) and graduate-level statistics (MED 268, MATH 283, MATH 281A, MATH 281C, FMPH 221, or FMPH 222). Prerequisites may be waived with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "BICD 100",
+          "BGGN 223",
+          "BIOM 252"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MED 268",
+          "MATH 283",
+          "MATH 281A",
+          "MATH 281C",
+          "FMPH 221",
+          "FMPH 222"
+        ]
+      }
+    ]
+  }
+}

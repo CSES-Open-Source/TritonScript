@@ -1,0 +1,18 @@
+{
+  "code": "ECON 131",
+  "title": "Economics of the Environment",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ131",
+  "description": "Environmental issues from an economic perspective. Relation of the environment to economic growth. Management of natural resources, such as forest and fresh water. Policies on air, water, and toxic waste pollution. International issues such as ozone depletion and sustainable development. Prerequisites: ECON 2 or 100A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECON 2",
+      "ECON 100A"
+    ]
+  },
+  "successors": [
+    "ECON 132"
+  ]
+}

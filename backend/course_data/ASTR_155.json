@@ -1,0 +1,62 @@
+{
+  "code": "ASTR 155",
+  "title": "Computational Astrophysics",
+  "units": "5",
+  "dept": "ASTR",
+  "anchor": "astr155",
+  "description": "Introduction to computational methods in astrophysics. Topics include numerical differentiation and integration, ordinary and partial differential equations, Monte Carlo methods, Fourier transforms, N-body algorithms, the basics of fluid dynamics, and its implementation in grid-based and smoothed-particle hydrodynamic methods. The course will include modern practical applications ranging from planet formation to cosmological structure formation. Prerequisites: PHYS 2A or PHYS 2AR or PHYS 4A and PHYS 2B or PHYS 4B and PHYS 2C or PHYS 4C and PHYS 2D or PHYS 4D and PHYS 2D or PHYS 4E and BILD 62 or COGS 18 or CSE 11 or CSE 6R or CSE 8A or CSE 8B or DSC 10 or PHYS 41.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2A",
+          "PHYS 2AR",
+          "PHYS 4A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2B",
+          "PHYS 4B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2C",
+          "PHYS 4C"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2D",
+          "PHYS 4D"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "PHYS 2D",
+          "PHYS 4E"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BILD 62",
+          "COGS 18",
+          "CSE 11",
+          "CSE 6R",
+          "CSE 8A",
+          "CSE 8B",
+          "DSC 10",
+          "PHYS 41"
+        ]
+      }
+    ]
+  }
+}

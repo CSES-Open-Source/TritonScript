@@ -1,0 +1,16 @@
+{
+  "code": "COGS 137",
+  "title": "Practical Data Science in R",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs137",
+  "description": "Learn coding for data analysis using the R programming language. Course focus will be on practical and applied skills in asking data-informed questions, data wrangling, data visualization, building statistical learning models, and communicating your findings to advance your career. Prerequisites: COGS 14B or MATH 11 or PSYC 60.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 14B",
+      "MATH 11",
+      "PSYC 60"
+    ]
+  }
+}

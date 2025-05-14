@@ -1,0 +1,21 @@
+{
+  "code": "CSE 182",
+  "title": "Biological Databases",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse182",
+  "description": "This course provides an introduction to the features of biological data, how those data are organized efficiently in databases, and how existing data resources can be utilized to solve a variety of biological problems. Object oriented databases, data modeling and description. Survey of current biological database with respect to above, implementation of a database on a biological topic. Students may receive credit for one of the following: CSE 182, BENG 182, or BIMM 182. Prerequisites: CSE 100 or CSE 100R; restricted to BE28, BI34, CH37, and CS27 majors.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 100",
+      "CSE 100R"
+    ]
+  },
+  "successors": [
+    "BENG 184",
+    "BIMM 184",
+    "BIMM 185",
+    "CSE 184"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "NANO 146",
+  "title": "Nanoscale Optical Microscopy and Spectroscopy",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano146",
+  "description": "Fundamentals in optical imaging and spectroscopy at the nanometer scale. Diffraction-limited techniques, near-field methods, multi-photon imaging and spectroscopy, Raman techniques, Plasmon-enhanced methods, scan-probe techniques, novel sub-diffraction-limit imaging techniques, and energy transfer methods. Prerequisites: NANO 104.",
+  "prereqs": "NANO 104"
+}

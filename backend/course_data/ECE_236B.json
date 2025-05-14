@@ -1,0 +1,11 @@
+{
+  "code": "ECE 236B",
+  "title": "Optical Processes in Semiconductors",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece236b",
+  "description": "Absorption and emission of radiation in semiconductors. Radiative transition and nonradiative recombination. Laser, modulators, and photodetector devices will be discussed. Recommended preparation: ECE 230A, Solid State Electronics I, and ECE 230C, Solid State Electronics III, or equivalent. Prerequisites:\u00a0graduate standing.",
+  "successors": [
+    "ECE 236C"
+  ]
+}

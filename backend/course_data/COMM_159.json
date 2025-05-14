@@ -1,0 +1,22 @@
+{
+  "code": "COMM 159",
+  "title": "Tourism, Power, and Place",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm159",
+  "description": "Explores tourism encounters around the world to question the discourses, imaginaries, and social practices involved in the construction, consumption, and reproduction of stereotypical representations of otherness (place, nature, culture, bodies). Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

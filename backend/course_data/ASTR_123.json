@@ -1,0 +1,33 @@
+{
+  "code": "ASTR 123",
+  "title": "Galaxies",
+  "units": "4",
+  "dept": "ASTR",
+  "anchor": "astr123",
+  "description": "An in-depth exploration of the structure and properties of galaxies in the universe. Topics covered include the Milky Way, the interstellar medium, properties of spiral and elliptical galaxies, rotation curves, starburst galaxies, galaxy formation and evolution, large-scale structure, and active galaxies and quasars. Prerequisites: PHYS 2A/2AR-B-C-D or 4A-B-C-D-E.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "PHYS 2A",
+      {
+        "type": "all",
+        "courses": [
+          "PHYS 2AR",
+          "PHYS 2B",
+          "PHYS 2C",
+          "PHYS 2D"
+        ]
+      },
+      {
+        "type": "all",
+        "courses": [
+          "PHYS 4A",
+          "PHYS 4B",
+          "PHYS 4C",
+          "PHYS 4D",
+          "PHYS 4E"
+        ]
+      }
+    ]
+  }
+}

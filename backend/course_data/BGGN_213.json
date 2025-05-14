@@ -1,0 +1,11 @@
+{
+  "code": "BGGN 213",
+  "title": "Foundations of Bioinformatics",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bggn213",
+  "description": "This course provides a hands-on introduction to the computer-based analysis of genomic and biomolecular data. Major topics include sequencing technologies, genome informatics, structural bioinformatics, and transcriptomics. Students completing this course will be able to evaluate new genomic and biomolecular information using existing software and will have experience in combining bioinformatic approaches to answer biological questions. Enrollment restricted to the following major codes: BI77, BI78, and BS75. Course limited to PhD level students.",
+  "successors": [
+    "BGGN 239"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "code": "BIEB 131",
+  "title": "Marine Invertebrate Ecology Lab",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bieb131",
+  "description": "A laboratory course introducing students to coastal marine ecology. Students will participate in outdoor fieldwork and work in the laboratory gathering and analyzing ecological data. We will focus on ecological communities from a variety of coastal habitats and use them to learn about basic ecological processes as well as issues related to sustainability and conservation of biodiversity. Fieldwork is expected in this course. Associated travel in the San Diego area is required and students are responsible for their own transportation. Material lab fees will apply. Prerequisites: BILD 3 and BIEB 100\u00a0or MATH 11.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BILD 3",
+      {
+        "type": "one",
+        "courses": [
+          "BIEB 100",
+          "MATH 11"
+        ]
+      }
+    ]
+  }
+}

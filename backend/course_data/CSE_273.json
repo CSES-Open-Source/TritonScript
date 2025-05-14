@@ -1,0 +1,8 @@
+{
+  "code": "CSE 273",
+  "title": "Computational Photography",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse273",
+  "description": "Computational photography overcomes the limitations of traditional photography using computational techniques from image processing, computer vision, and computer graphics. This course provides a comprehensive introduction to computational photography and the practical techniques used to overcome traditional photography limitations (e.g., image resolution, dynamic range, and defocus and motion blur) and those used to produce images (and more) that are not possible with traditional photography. Linear algebra, calculus, and optimization, MATLAB, Python, or other programming experience recommended. Prerequisites: course is restricted to students in the following major codes: CS75, CS76, and CS78. Graduate students in other major codes will be allowed if space permits."
+}

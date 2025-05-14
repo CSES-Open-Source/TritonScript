@@ -1,0 +1,12 @@
+{
+  "code": "TDGR 204B",
+  "title": "Contemporary Theories of Theatre",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdgr204b",
+  "description": "An investigation of contemporary theories of theatre with an emphasis on structural and poststructural perspectives on text and textuality. The seminar will focus on adapting contemporary techniques of close reading to the interpretive and creative process in the theatre. Prerequisites: TDGR 204A; admission to MFA theatre program or consent of instructor.",
+  "prereqs": "TDGR 204A",
+  "successors": [
+    "TDGR 204C"
+  ]
+}

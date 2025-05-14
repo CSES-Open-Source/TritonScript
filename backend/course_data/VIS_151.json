@@ -1,0 +1,18 @@
+{
+  "code": "VIS 151",
+  "title": "Experimental Cinema",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis151",
+  "description": "An inquiry into a specialized alternative history of film, consisting of experimental works made outside the conventions of the movie industry that are closer in their style and nature to experimental work in painting, poetry, the sciences, etc., than to the mainstream theatrical cinema. Materials fees required. Prerequisites: VIS 22 or VIS 83 or VIS 84 or VIS 85A or VIS 159.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "VIS 22",
+      "VIS 83",
+      "VIS 84",
+      "VIS 85A",
+      "VIS 159"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "code": "MATH 182",
+  "title": "Hidden Data in Random Matrices",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math182",
+  "description": "Rigorous treatment of principal component analysis, one of the most effective methods in finding signals amidst the noise of large data arrays. Topics include singular value decomposition for matrices, maximal likelihood estimation, least squares methods, unbiased estimators, random matrices, Wigner\u2019s semicircle law, Markchenko-Pastur laws, universality of eigenvalue statistics, outliers, the BBP transition, applications to community detection, and stochastic block model. Students will not receive credit for both MATH 182 and DSC 155. Completion of MATH 102 is encouraged but not required. Prerequisites: MATH 180A, and MATH 18 or MATH 31AH. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 180A",
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      }
+    ]
+  }
+}

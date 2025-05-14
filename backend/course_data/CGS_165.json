@@ -1,0 +1,18 @@
+{
+  "code": "CGS 165",
+  "title": "Gender and Sexuality in African American Communities",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs165",
+  "description": "(Cross-listed with ETHN 165.)\u00a0This course will investigate the changing constructions of sexuality, gender, and sexuality in African American communities defined by historical period, region, and class. Topics will include the sexual division of labor, myths of black sexuality, the rise of black feminism, black masculinity, and queer politics. Students may not receive credit for CGS 165 and ETHN 165. Prerequisites: CGS 2A-B, ETHN 1, 2, 3, at least one CGS or ETHN upper-division course, or permission of the instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B",
+      "ETHN 1",
+      "ETHN 2",
+      "ETHN 3"
+    ]
+  }
+}

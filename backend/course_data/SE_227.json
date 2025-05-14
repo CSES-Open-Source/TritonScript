@@ -1,0 +1,9 @@
+{
+  "code": "SE 227",
+  "title": "Seismic Design and Performance of Nonstructural Components and Systems",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se227",
+  "description": "This course provides students with an understanding of the design and performance of nonstructural components and systems (NCSs) when subjected to earthquake loads. Specifically, this course will cover 1) classification and sources of damage, 2) case histories, 3) experimental advancements, 4) methods in practice (force- and displacement-based), 5) methods of analysis, 6) anchorage design, and 7) protection of NCSs. Corequisite: SE 203A. Prerequisites: graduate standing.",
+  "coreqs": "SE 203A"
+}

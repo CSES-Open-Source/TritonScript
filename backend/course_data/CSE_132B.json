@@ -1,0 +1,12 @@
+{
+  "code": "CSE 132B",
+  "title": "Database Systems Applications",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse132b",
+  "description": "Design of databases, transactions, use of trigger facilities and datablades. Performance measuring, organization of index structures. Prerequisites: CSE 132A; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": "CSE 132A",
+  "successors": [
+    "CSE 118"
+  ]
+}

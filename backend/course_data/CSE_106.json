@@ -1,0 +1,38 @@
+{
+  "code": "CSE 106",
+  "title": "Discrete and Continuous Optimization",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse106",
+  "description": "One frequently deals with problems in engineering, data science, business, economics, and other disciplines for which algorithmic solutions that optimize a given quantity under constraints are desired. This course is an introduction to the models, theory, methods, and applications of discrete and continuous optimization. Topics include shortest paths, flows, linear, integer, and convex programming, and continuous optimization techniques such as steepest descent and Lagrange multipliers. Prerequisites: MATH 18 or MATH 31AH and MATH 20C or MATH 31BH and CSE 21 or DSC 40B or MATH 154 or MATH 158 or MATH 184 or MATH 188.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CSE 21",
+          "DSC 40B",
+          "MATH 154",
+          "MATH 158",
+          "MATH 184",
+          "MATH 188"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "code": "ESYS 10",
+  "title": "Introduction to Environmental Systems",
+  "units": "4",
+  "dept": "ESYS",
+  "anchor": "esys10",
+  "description": "This course explores the interdisciplinary character of environmental issues through an examination of a particular topic (climate change, for example) from numerous disciplinary perspectives (e.g., biology, chemistry, physics, political science, and economics). Prerequisites: none.",
+  "successors": [
+    "COMM 124A"
+  ]
+}

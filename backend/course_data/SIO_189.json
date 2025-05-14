@@ -1,0 +1,21 @@
+{
+  "code": "SIO 189",
+  "title": "Pollution, Environment and Health",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio189",
+  "description": "The goal is to understand the scope of the pollution problem facing the planet. Students will learn the properties of chemicals in the environment and survey the biological mechanisms that determine their accumulation and toxicity. Prerequisites: CHEM 6C and BILD 1 or 3 or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CHEM 6C",
+      {
+        "type": "one",
+        "courses": [
+          "BILD 1",
+          "BILD 3"
+        ]
+      }
+    ]
+  }
+}

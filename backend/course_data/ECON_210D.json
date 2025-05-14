@@ -1,0 +1,16 @@
+{
+  "code": "ECON 210D",
+  "title": "Monetary Economics and Business Cycles",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ210d",
+  "description": "Study of the determinants of economic fluctuations, inflation, and interest rates with particular focus on the effects of monetary policy. Overview of key methods and findings of empirical research in macroeconomics. Recommended preparation: ECON 220D. Prerequisites: graduate standing and ECON 210A-B-C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 210A",
+      "ECON 210B",
+      "ECON 210C"
+    ]
+  }
+}

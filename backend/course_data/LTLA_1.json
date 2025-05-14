@@ -1,0 +1,16 @@
+{
+  "code": "LTLA 1",
+  "title": "Beginning Latin",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltla1",
+  "description": "Study of Latin, including grammar and reading.",
+  "successors": [
+    "CLAS 110",
+    "LTLA 102",
+    "LTLA 103",
+    "LTLA 104",
+    "LTLA 105",
+    "LTLA 2"
+  ]
+}

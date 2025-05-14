@@ -1,0 +1,28 @@
+{
+  "code": "PSYC 175",
+  "title": "Science of Mindfulness",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc175",
+  "description": "This course provides a review of the scientific research surrounding the topic of Mindfulness, which has been approached from multiple disciplines including Buddhism, Positive Psychology, Cognitive Behavioral Therapy, and Neuroscience. Because Mindfulness is so multi-faceted, with many variables involved, the scientific study of Mindfulness requires rigorous research methods and statistics, and for this reason, a significant portion of the class focuses on these aspects. Prerequisites: upper-division standing, COGS 14B or MATH 11 or PSYC 60, and COGS 14A or PSYC 70. Department approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "COGS 14B",
+          "MATH 11",
+          "PSYC 60"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "COGS 14A",
+          "PSYC 70"
+        ]
+      }
+    ]
+  }
+}

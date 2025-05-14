@@ -1,0 +1,15 @@
+{
+  "code": "LTSP 172",
+  "title": "Indigenista Themes in Latin American Literature",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "ltsp172",
+  "description": "Study of the literary modes by which nineteenth- and twentieth-century authors have interpreted the themes of indigenous survival and resistance in Latin America, primarily in Mexico and the Andean region. May be taken for credit up to two times as topics vary.  Prerequisites:  LTSP 100A or 100B, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "LTSP 100A",
+      "LTSP 100B"
+    ]
+  }
+}

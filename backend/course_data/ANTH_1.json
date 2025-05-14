@@ -1,0 +1,11 @@
+{
+  "code": "ANTH 1",
+  "title": "Introduction to Culture",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "anth1",
+  "description": "An introduction to the anthropological approach to understanding human behavior, with an examination of data from a selection of societies and cultures.",
+  "successors": [
+    "ANSC 191GS"
+  ]
+}

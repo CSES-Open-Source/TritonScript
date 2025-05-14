@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 232",
+  "title": "Electronic Materials",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys232",
+  "description": "Physics of electronic materials. Semiconductors: bands, donors and acceptors, devices. Metals: Fermi surface, screening, optical properties. Insulators: dia-/ferro-electrics, displacive transitions. Magnets: dia-/para-/ferro-/antiferro-magnetism, phase transitions, low temperature properties. Superconductors: pairing, Meissner effect, flux quantization, BCS theory. Prerequisites: PHYS 211A.",
+  "prereqs": "PHYS 211A"
+}

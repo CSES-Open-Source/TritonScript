@@ -1,0 +1,15 @@
+{
+  "code": "MAE 08",
+  "title": "MATLAB Programming for Engineering Analysis",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae8",
+  "description": "Computer programming in MATLAB with elementary numerical analysis of engineering problems. Arithmetic and logical operations, arrays, graphical presentation of computations, symbolic mathematics, solutions of equations, and introduction to data structures. Prerequisites: MATH 20A and 20B or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20A",
+      "MATH 20B"
+    ]
+  }
+}

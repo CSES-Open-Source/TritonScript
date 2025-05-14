@@ -1,0 +1,21 @@
+{
+  "code": "MATH 142A",
+  "title": "Introduction to Analysis I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math142a",
+  "description": "First course in an introductory two-quarter sequence on analysis. Topics include the real number system, numerical sequences and series, infinite limits, limits of functions, continuity, differentiation. Students may not receive credit for MATH 142A if taken after or concurrently with MATH 140A. Prerequisites: MATH 31CH or MATH 109. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 31CH",
+      "MATH 109"
+    ]
+  },
+  "successors": [
+    "ECON 113",
+    "MATH 142B",
+    "MATH 190A",
+    "MATH 210A"
+  ]
+}

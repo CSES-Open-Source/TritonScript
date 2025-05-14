@@ -1,0 +1,11 @@
+{
+  "code": "POLI 108",
+  "title": "Politics of Multiculturalism",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli108",
+  "description": "This course will examine central issues in debates about race, ethnicity, and multiculturalism in the United States. It will look at relations not only between whites and minorities, but also at those among racial and ethnic communities. Prerequisites: upper-division standing.",
+  "successors": [
+    "EDS 120"
+  ]
+}

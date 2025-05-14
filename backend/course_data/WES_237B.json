@@ -1,0 +1,8 @@
+{
+  "code": "WES 237B",
+  "title": "Software for Embedded Systems",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "wes237b",
+  "description": "Embedded computing elements, device interfaces, time-critical I/O handling. Embedded software design under size, performance, and reliability constraints. Software timing and functional validation. Programming methods and compilation for embeddable software. Embedded runtime systems. Case studies of real-time software systems."
+}

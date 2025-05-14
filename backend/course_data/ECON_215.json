@@ -1,0 +1,16 @@
+{
+  "code": "ECON 215",
+  "title": "Macroeconomic Policy",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ215",
+  "description": "This course focuses on theoretical models and empirical analysis aimed at understanding and directing macroeconomic policy, including monetary, fiscal, and structural policies. Prerequisites: ECON 210A-B-C or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 210A",
+      "ECON 210B",
+      "ECON 210C"
+    ]
+  }
+}

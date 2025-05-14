@@ -1,0 +1,18 @@
+{
+  "code": "TDDE 121",
+  "title": "Theatre Process\u2014Lighting Design",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdde121",
+  "description": "One of three classes in theatre process. The course aims to develop basic skills in lighting design through practical projects, lab work and lecture. These emphasize collaborating, manipulating light and color, and developing craft skills. Prerequisites: THDE or TDDE 1 or THPR or TDPR 3 or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "TDDE 1",
+      "TDPR 3"
+    ]
+  },
+  "successors": [
+    "TDDE 132"
+  ]
+}

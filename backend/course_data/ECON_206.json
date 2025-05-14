@@ -1,0 +1,16 @@
+{
+  "code": "ECON 206",
+  "title": "Decisions",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ206",
+  "description": "Further topics in consumer and producer theory, intertemporal optimization, and decision making under uncertainty. (Previously numbered ECON 200D.) Prerequisites: ECON 200A-B-C or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 200A",
+      "ECON 200B",
+      "ECON 200C"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "code": "CENG 4",
+  "title": "Experience Chemical Engineering",
+  "units": "1",
+  "dept": "NANO",
+  "anchor": "ceng4",
+  "description": "Hands-on, team-based laboratory activities to demonstrate modern applications of chemical engineering, and the role of the chemical engineer in academia and industry. Emphasis on teamwork, safe laboratory practices, and student-directed problem solving. (P/NP grading only; for incoming CENG first-year students and transfers. CENG 4 is mandatory.)\u00a0",
+  "successors": [
+    "CENG 100",
+    "ECE 196"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "ECON 250A",
+  "title": "Empirical Methods in Labor Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ250a",
+  "description": "Econometric methods currently used in applied microeconomics explained through examples from labor economics. Prerequisites: none.",
+  "successors": [
+    "ECON 250B",
+    "ECON 250C"
+  ]
+}

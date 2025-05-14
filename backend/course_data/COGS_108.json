@@ -1,0 +1,31 @@
+{
+  "code": "COGS 108",
+  "title": "Data Science in Practice",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs108",
+  "description": "Data science is multidisciplinary, covering computer science, statistics, cognitive science and psychology, data visualization, artificial intelligence and machine learning, among others. This course teaches critical skills needed to pursue a data science career using hands-on programming and experimental challenges. Prerequisites: CSE 11 or CSE 8A or COGS 18 or DSC 10 or MAE 8.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 11",
+      "CSE 8A",
+      "COGS 18",
+      "DSC 10",
+      "MAE 8"
+    ]
+  },
+  "successors": [
+    "COGS 118A",
+    "COGS 118B",
+    "COGS 118C",
+    "COGS 118D",
+    "COGS 120",
+    "COGS 128",
+    "COGS 180",
+    "COGS 182",
+    "COGS 186",
+    "COGS 189",
+    "CSE 170"
+  ]
+}

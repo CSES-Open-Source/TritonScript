@@ -1,0 +1,9 @@
+{
+  "code": "ECE 222D",
+  "title": "Advanced Antenna Design",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece222d",
+  "description": "Review of 222A\u2013B. Fourier transform, waveguide antennas. Mutual coupling, active impedance, Floquet modes in arrays. Microstrip antennas, surface waves. Reflector and lens analysis: taper, spillover, aperture and physical optics methods. Impedance surfaces. Advanced concepts: Subwavelength propagation, etc. (chosen by instructor). Recommended preparation: CE 222A, ECE 222B, or equivalent. Prerequisites: ECE 222C; graduate standing.",
+  "prereqs": "ECE 222C"
+}

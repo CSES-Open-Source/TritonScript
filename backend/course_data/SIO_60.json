@@ -1,0 +1,11 @@
+{
+  "code": "SIO 60",
+  "title": "Experiences in Oceanic and Atmospheric Sciences",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio60",
+  "description": "Oceanic and atmospheric sciences are introduced through a series of modules where students learn basic principles in the classroom and then have hands-on experiences demonstrating these principles. The course will include trips to the beach, the Ellen Browning Scripps Memorial Pier, and laboratories at Scripps Institution of Oceanography. Prerequisites: none.",
+  "successors": [
+    "SIO 107"
+  ]
+}

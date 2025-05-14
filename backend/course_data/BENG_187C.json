@@ -1,0 +1,28 @@
+{
+  "code": "BENG 187C",
+  "title": "Bioengineering Design Project: Implementation",
+  "units": "1",
+  "dept": "BENG",
+  "anchor": "beng187c",
+  "description": "Approaches to implementation of senior design project, including final report. Teams will report on construction of prototypes, conduct of testing, collection of data, and assessment of reliability and failure. Majors must enroll in the course for a letter grade in order to count the sequence toward the major. No exceptions will be approved. Prerequisites: BENG 187B; concurrent enrollment in one of the following lab sections: BENG 119B, BENG 126B, BENG 127B, BENG 128B, BENG 129B, BENG 139B, BENG 147B, BENG 148B, BENG 149B, BENG 169B, or BENG 179B; bioengineering, bioengineering: biotechnology, or bioengineering: biosystems majors only or consent of instructor. (W)",
+  "prereqs": "BENG 187B",
+  "coreqs": {
+    "type": "one",
+    "courses": [
+      "BENG 119B",
+      "BENG 126B",
+      "BENG 127B",
+      "BENG 128B",
+      "BENG 129B",
+      "BENG 139B",
+      "BENG 147B",
+      "BENG 148B",
+      "BENG 149B",
+      "BENG 169B",
+      "BENG 179B"
+    ]
+  },
+  "successors": [
+    "BENG 187D"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "BENG 140B",
+  "title": "Bioengineering Physiology",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng140b",
+  "description": "Introductory mammalian physiology for bioengineering students, with emphasis on control mechanisms and engineering principles. Digestive, respiratory, renal, and reproductive systems; regulation of metabolism, and defense mechanisms. (Credit not allowed for both BIPN 102 and BENG 140B.) Prerequisites: BENG 140A; majors only or consent of instructor. (S)",
+  "prereqs": "BENG 140A",
+  "successors": [
+    "BENG 189",
+    "BENG 193"
+  ]
+}

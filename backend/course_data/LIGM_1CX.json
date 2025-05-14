@@ -1,0 +1,19 @@
+{
+  "code": "LIGM 1CX",
+  "title": "Analysis of German",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "ligm1cx",
+  "description": "Presentation and practice of the basic grammatical structures needed for oral and written communication and for reading. The course is taught entirely in German. Must be taken with LIGM 1C. Prerequisites: LIGM 1B with a grade of C\u2013 or better, or equivalent and LIGM 1BX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIGM 1B",
+      "LIGM 1BX"
+    ]
+  },
+  "successors": [
+    "LIGM 1D",
+    "LIGM 1DX"
+  ]
+}

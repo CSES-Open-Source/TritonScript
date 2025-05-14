@@ -1,0 +1,15 @@
+{
+  "code": "CHEM 171",
+  "title": "Environmental Chemistry I",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem171",
+  "description": "An introduction to chemical concerns in nature with emphasis on atmospheric issues like air pollution, chlorofluorocarbons and the ozone hole, greenhouse effects and climate change, impacts of radioactive waste, sustainable resource usage, and risks and benefits of energy sources. Students may only receive credit for one of the following: CHEM 149A or 171. Prerequisites: CHEM 6C or 6CH.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 6C",
+      "CHEM 6CH"
+    ]
+  }
+}

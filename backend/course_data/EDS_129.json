@@ -1,0 +1,9 @@
+{
+  "code": "EDS 129",
+  "title": "A-B-C. Introduction to Teaching and Learning (Secondary)",
+  "units": "4-4-4",
+  "dept": "EDS",
+  "anchor": "eds129c",
+  "description": "This course series is for undergraduates who are exploring a career in teaching secondary school. Topics addressed include theories of teaching and learning processes and motivation for science, mathematics, English, and world language instruction. EDS 129A focuses on the analysis of the needs of individual learners and small group instruction techniques; EDS 129B emphasizes the various roles of the classroom teacher and planning individual lessons; and EDS 129C emphasizes the assessment of student work and longer-range curriculum planning. Prerequisites: department approval required; EDS 139 must be taken as corequisite. Must have successfully completed EDS 135, 136, or 129A for 129B, and 129B for 129C. EDS 129B and 129C are restricted for students applying to the EDS MEd/Single Subject Credential Program.",
+  "prereqs": "EDS 139"
+}

@@ -1,0 +1,25 @@
+{
+  "code": "CSE 123",
+  "title": "Computer Networks",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse123",
+  "description": "Introduction to concepts, principles, and practice of computer communication networks with examples from existing architectures, protocols, and standards with special emphasis on internet protocols. Layering and the OSI model; physical and data link layers; local and wide area networks; datagrams and virtual circuits; routing and congestion control; internetworking. Transport protocols. Students may not receive credit for both CSE 123 and ECE 158A. Prerequisites: CSE 15L or CSE 29 and CSE 101 and CSE 110; restricted to students within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CSE 15L",
+          "CSE 29"
+        ]
+      },
+      "CSE 101",
+      "CSE 110"
+    ]
+  },
+  "successors": [
+    "CSE 127"
+  ]
+}

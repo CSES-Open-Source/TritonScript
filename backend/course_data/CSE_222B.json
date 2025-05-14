@@ -1,0 +1,15 @@
+{
+  "code": "CSE 222B",
+  "title": "Internet Algorithmics",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse222b",
+  "description": "(Formerly CSE 228H.) Techniques for speeding up internet implementations, including system restructuring, new algorithms, and hardware innovations. Topics include models for protocols, systems and hardware; efficiency principles; applying these principles to deriving techniques for efficient implementation of common endnode and router functions. Prerequisites: CSE 123A or CSE 222A, or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 123A",
+      "CSE 222A"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "code": "CHEM 163",
+  "title": "Introduction to Mass Spectrometry",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem163",
+  "description": "Introduction to fundamental theory and applications of mass spectrometry. The basics of mass spectrometry instrumentation will be discussed. Different types of mass spectrometers and their advantages for studying certain types of molecules will be examined. Various data analysis platforms will be reviewed and applications relevant for the biotech industry will be discussed. This course will have a particular focus on protein-based mass spectrometry. May be coscheduled with CHEM 263. Prerequisites: CHEM 41C.",
+  "prereqs": "CHEM 41C",
+  "successors": [
+    "CHEM 103"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "MATH 287C",
+  "title": "Advanced Time Series Analysis",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math287c",
+  "description": "Nonparametric function (spectrum, density, regression) estimation from time series data. Nonlinear time series models (threshold AR, ARCH, GARCH, etc.). Nonparametric forms of ARMA and GARCH. Multivariate time series. Students who have not taken MATH 287A may enroll with consent of instructor. Prerequisites: MATH 287A or consent of instructor.",
+  "prereqs": "MATH 287A"
+}

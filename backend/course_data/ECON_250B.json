@@ -1,0 +1,12 @@
+{
+  "code": "ECON 250B",
+  "title": "Topics in Labor Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ250b",
+  "description": "Topics typically include labor demand, labor supply, wage setting, inequality, intergenerational mobility, demographics, economics of family, migration, unemployment, religion, conflict, discrimination, human capital, education and training. Prerequisites: ECON 250A.",
+  "prereqs": "ECON 250A",
+  "successors": [
+    "ECON 250C"
+  ]
+}

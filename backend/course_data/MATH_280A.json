@@ -1,0 +1,12 @@
+{
+  "code": "MATH 280A",
+  "title": "Probability Theory I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math280a",
+  "description": "This is the first course in a three-course sequence in probability theory. Topics covered in the sequence include the measure-theoretic foundations of probability theory, independence, the Law of Large Numbers, convergence in distribution, the Central Limit Theorem, conditional expectation, martingales, Markov processes, and Brownian motion. Recommended preparation: completion of real analysis equivalent to MATH 140A-B strongly recommended. Prerequisites: graduate standing.",
+  "successors": [
+    "MATH 280B",
+    "MATH 286"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "LIIT 1AX",
+  "title": "Analysis of Italian",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "liit1ax",
+  "description": "Presentation and practice of the basic grammatical structures needed for oral and written communication and for reading. The course is taught entirely in Italian. Must be taken with LIIT 1A. Prerequisites: no prior study of Italian.",
+  "successors": [
+    "LIIT 1B",
+    "LIIT 1BX",
+    "LIIT 5BS"
+  ]
+}

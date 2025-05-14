@@ -1,0 +1,20 @@
+{
+  "code": "MATH 142B",
+  "title": "Introduction to Analysis II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math142b",
+  "description": "Second course in an introductory two-quarter sequence on analysis. Topics include the Riemann integral, sequences and series of functions, uniform convergence, Taylor series, introduction to analysis in several variables. Students may not receive credit for MATH 142B if taken after or concurrently with MATH 140B. Prerequisites: MATH 142A or MATH 140A. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 142A",
+      "MATH 140A"
+    ]
+  },
+  "successors": [
+    "MATH 144",
+    "MATH 146",
+    "MATH 148"
+  ]
+}

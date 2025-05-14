@@ -1,0 +1,49 @@
+{
+  "code": "CSE 158R",
+  "title": "Recommender Systems and Web Mining",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse158r",
+  "description": "Current methods for data mining and predictive analytics. Emphasis is on studying real-world data sets, building working systems, and putting current ideas from machine learning research into practice. Prerequisites: CSE 12 or DSC 40B and CSE 15L or CSE 29 or DSC 80 and BENG 100 or BENG 134 or COGS 118D or CSE 103 or ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 181A or MATH 183 or MATH 186; restricted to students within the CS25, CS26, CS27, CS28, EC26, and DS25 majors. All other students will be allowed as space permits. This course is a distance education course. May be coscheduled with CSE 258R. Students may not receive credit for CSE 158R and CSE 158 or DSC 148.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CSE 12",
+          "DSC 40B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CSE 15L",
+          "CSE 29",
+          "DSC 80"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BENG 100",
+          "BENG 134",
+          "COGS 118D",
+          "CSE 103",
+          "ECE 109",
+          "ECON 120A",
+          "MAE 108",
+          "MATH 180A",
+          "MATH 180B",
+          "MATH 181A",
+          "MATH 183",
+          "MATH 186"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "COGS 118B",
+    "DSC 180A"
+  ]
+}

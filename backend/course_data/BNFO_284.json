@@ -1,0 +1,8 @@
+{
+  "code": "BNFO 284",
+  "title": "Nonlinear Dynamics in Quantitative Biology",
+  "units": "4",
+  "dept": "BIOI",
+  "anchor": "bnfo284",
+  "description": "Qualitative, analytical and computational mathematical modeling techniques applied to regulatory networks and signaling networks. Stability, bifurcations, oscillations, multistability, hysteresis, multiple timescales, and chaos. Introduction to experimental data analysis and control techniques. Applications to synthetic biology, cellular population dynamics, ad canonical signaling networks (inflammation, tumor suppression, metabolism). Letter grades only. Prerequisites: bioinformatics and systems biology graduate students only."
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MGT 245",
+  "title": "Theory of Technology and Operations Management",
+  "units": "4",
+  "dept": "MGT",
+  "anchor": "mgt245",
+  "description": "This course addresses classical operations management models in inventory and capacity planning and control leading up to models of supply chain and supplier relationship management. Prerequisites: MGT 208A-B-C, ECON 200A-B-C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGT 208A",
+      "MGT 208B",
+      "MGT 208C",
+      "ECON 200A",
+      "ECON 200B",
+      "ECON 200C"
+    ]
+  },
+  "successors": [
+    "MGT 246"
+  ]
+}

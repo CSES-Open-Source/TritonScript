@@ -1,0 +1,27 @@
+{
+  "code": "PHB 227",
+  "title": "Statistical Learning and Multivariate Analysis",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "phb227",
+  "description": "This graduate course introduces concepts, methods, and applications of statistical learning and multivariate data analysis, including prediction, classification, regularization, decision trees, principal components analysis, and clustering. Data analysis will be emphasized. Renumbered from FMPH 227. Students may not receive credit for PHB 227 and FMPH 227. Must be taken for a letter grade to be applied to the biostatistics degree requirements. Prerequisites: successful completion of FMPH 221 or PHB 221 and FMPH 222 or PHB 222 or program approval.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 221",
+          "PHB 221"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "FMPH 222",
+          "PHB 222"
+        ]
+      }
+    ]
+  }
+}

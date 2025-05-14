@@ -1,0 +1,20 @@
+{
+  "code": "SE 181",
+  "title": "Geotechnical Engineering",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se181",
+  "description": "General introduction to physical and engineering properties of soils. Soil classification and identification methods. Compaction and construction control. Total and effective stress. Permeability, seepage, and consolidation phenomena. Shear strength of sand and clay. Prerequisites: grade of C\u2013 or better in SE 110A or MAE 131A. Enrollment restricted to SE27 majors only.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SE 110A",
+      "MAE 131A"
+    ]
+  },
+  "successors": [
+    "SE 140B",
+    "SE 182",
+    "SE 184"
+  ]
+}

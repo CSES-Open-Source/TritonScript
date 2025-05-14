@@ -1,0 +1,15 @@
+{
+  "code": "NANO 141B",
+  "title": "Engineering Mechanics II: Analysis of Motion",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano141b",
+  "description": "Newton\u2019s laws of motion. Kinematic and kinetic \u200bdescription of particle motion. Angular momentum. Energy and work principles. Motion of the system of interconnected particles.\u00a0Mass center. Degrees of freedom. Equations of planar motion of rigid bodies. Energy methods. Lagrange\u2019s equations of motion. Introduction to vibration. Free and forced vibrations of a single degree of freedom system. Undamped and damped vibrations. Application to NanoEngineering problems.\u00a0Prerequisites:\u00a0MATH 20D and NANO 141A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 20D",
+      "NANO 141A"
+    ]
+  }
+}

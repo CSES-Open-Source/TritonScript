@@ -1,0 +1,8 @@
+{
+  "code": "MATH 289C",
+  "title": "Exploratory Data Analysis and Inference",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math289c",
+  "description": "An introduction to various quantitative methods and statistical techniques for analyzing data\u2014in particular big data. Quick review of probability continuing to topics of how to process, analyze, and visualize data using statistical language R. Further topics include basic inference, sampling, hypothesis testing, bootstrap methods, and regression and diagnostics. Offers conceptual explanation of techniques, along with opportunities to examine, implement, and practice them in real and simulated data. Recommended preparation: familiarity with linear algebra and mathematical statistics highly recommended. Prerequisites: graduate standing."
+}

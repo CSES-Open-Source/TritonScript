@@ -1,0 +1,45 @@
+{
+  "code": "MAE 108",
+  "title": "Probability and Statistical Methods for Mechanical Engineering",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae108",
+  "description": "Probability theory, conditional probability, Bayes theorem, random variables, densities, expected values, characteristic functions, central limit theorem. Engineering reliability, elements of estimation, random sampling, sampling distributions, hypothesis testing, confidence intervals. Curve fitting and data analysis. Students cannot receive credit for MAE 108 and ECE 109, ECON 120A, MATH 180A, MATH 183, MATH 186, or SE 125. Prerequisites: MATH 18 or 20F.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 18",
+      "MATH 20F"
+    ]
+  },
+  "successors": [
+    "COGS 118B",
+    "CSE 150A",
+    "CSE 150B",
+    "CSE 151A",
+    "CSE 151B",
+    "CSE 156",
+    "CSE 158",
+    "CSE 158R",
+    "DSC 140A",
+    "DSC 140B",
+    "DSC 148",
+    "ECE 155",
+    "ECE 157A",
+    "ECON 120B",
+    "ECON 129",
+    "ECON 171",
+    "ECON 190",
+    "MAE 145",
+    "MAE 146",
+    "MATH 181D",
+    "MATH 181F",
+    "MATH 189",
+    "MGT 151R",
+    "MGT 153",
+    "MGT 160",
+    "MGT 180",
+    "MGT 180R",
+    "SE 132"
+  ]
+}

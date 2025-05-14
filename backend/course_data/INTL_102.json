@@ -1,0 +1,12 @@
+{
+  "code": "INTL 102",
+  "title": "Economics, Politics, and International Change",
+  "units": "4",
+  "dept": "INTL",
+  "anchor": "intl102",
+  "description": "Examination of the domestic and international sources of economic and political change. Topics include the rise of the nation-state, comparative economic development, authoritarian and democratic regimes, international and civil conflict, globalization and its domestic and international implications. Prerequisites: completion of INTL 100 with a grade of C\u2013 or better.",
+  "prereqs": "INTL 100",
+  "successors": [
+    "INTL 190"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "PHIL 124",
+  "title": "Philosophy of Mathematics",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil124",
+  "description": "The character of logical and mathematical truth and knowledge; the relations between logic and mathematics; the significance of G\u00f6del\u2019s Incompleteness Theorem; Platonism, logicism, and more recent approaches. Prerequisites: PHIL 120 or consent of instructor.",
+  "prereqs": "PHIL 120"
+}

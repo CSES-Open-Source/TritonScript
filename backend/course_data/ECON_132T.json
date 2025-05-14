@@ -1,0 +1,9 @@
+{
+  "code": "ECON 132T",
+  "title": "Advanced Topics in Energy Economics",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ132t",
+  "description": "This course presents a selection of applications and advanced topics that build on the material covered in the ECON 132, Energy Economics course. Prerequisites: ECON 132.",
+  "prereqs": "ECON 132"
+}

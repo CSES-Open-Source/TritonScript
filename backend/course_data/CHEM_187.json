@@ -1,0 +1,31 @@
+{
+  "code": "CHEM 187",
+  "title": "Foundations of Teaching and Learning Science",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem187",
+  "description": "(Cross-listed with EDS 122.) Examine theories of learning and how they are important in the science classroom. Conceptual development in the individual student, as well as the development of knowledge in the history of science. Key conceptual obstacles in science will be explored. Prerequisites: CHEM 6C or 6CH and CHEM 96 or EDS 31.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6C",
+          "CHEM 6CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 96",
+          "EDS 31"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CHEM 188",
+    "EDS 123"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "code": "MATH 100A",
+  "title": "Abstract Algebra I",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math100a",
+  "description": "First course in a rigorous three-quarter introduction to the methods and basic structures of higher algebra. Topics include groups, subgroups and factor groups, homomorphisms, rings, fields. (Students may not receive credit for both MATH 100A and MATH 103A.) Prerequisites: MATH 31CH or MATH 109 or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 31CH",
+      "MATH 109"
+    ]
+  },
+  "successors": [
+    "CSE 105",
+    "MATH 100B",
+    "MATH 103B",
+    "MATH 160A",
+    "MATH 188",
+    "MATH 290A-B-C"
+  ]
+}

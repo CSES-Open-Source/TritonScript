@@ -1,0 +1,12 @@
+{
+  "code": "CLRE 251",
+  "title": "Epidemiology I",
+  "units": "2",
+  "dept": "CLRE",
+  "anchor": "clre251",
+  "description": "Scholars will recognize and understand different types of study designs, the relative strengths and limitations of each, and the proper choice of study design in conducting their own research. They will also be able to identify and calculate the correct measure of risk for each study design. Participants will recognize major sources of bias, confounding and misclassification, and understand design and analysis methods of dealing with each. They will also be familiar with criteria to differentiate association from causation. Class sessions may also be offered live via distance learning with established remote site.",
+  "successors": [
+    "CLRE 257",
+    "CLRE 270"
+  ]
+}

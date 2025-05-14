@@ -1,0 +1,15 @@
+{
+  "code": "CGS 123",
+  "title": "Gender and Reproductive Politics",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs123",
+  "description": "Legal treatment of gender, reproductive rights, and the family, particularly as evolving law, primarily in the U.S., has created conflicting rights, roles, and responsibilities. Topics include abortion, fetal rights, surrogacy, marriage, and child custody issues. Students will not receive credit for both CGS 107 and 123. Prerequisites: CGS 2A-B, at least one CGS upper-division course, or permission of the instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B"
+    ]
+  }
+}

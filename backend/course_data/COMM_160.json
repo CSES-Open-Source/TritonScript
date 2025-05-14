@@ -1,0 +1,22 @@
+{
+  "code": "COMM 160",
+  "title": "Political Economy and International Communication",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm160",
+  "description": "The character and forms of international communications. Emerging structures of international communications. The United States as the foremost international communicator. Differential impacts of the free flow of information and the unequal roles and needs of developed and developing economies in international communications. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

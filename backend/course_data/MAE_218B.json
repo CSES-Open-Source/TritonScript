@@ -1,0 +1,16 @@
+{
+  "code": "MAE 218B",
+  "title": "Introduction to High Energy Density Physics (Laser-Plasma Interactions)",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae218b",
+  "description": "Propagation and absorption of laser beam in plasma, ablation pressure. Laser scattering and laser-plasma instabilities (stimulated Raman and Brillouin scattering, filamentation and decay instabilities). Electron heat transport, mechanisms of magnetic field generation. Prerequisites: MAE 217A, B, and C, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 217A",
+      "MAE 217B",
+      "MAE 217C"
+    ]
+  }
+}

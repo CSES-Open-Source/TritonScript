@@ -1,0 +1,18 @@
+{
+  "code": "MATH 144",
+  "title": "Introduction to Fourier Analysis",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math144",
+  "description": "Rigorous introduction to the theory of Fourier series and Fourier transforms. Topics include basic properties of Fourier series, mean square and pointwise convergence, Hilbert spaces, applications of Fourier series, the Fourier transform on the real line, inversion formula, Plancherel formula, Poisson summation formula, Heisenberg uncertainty principle, applications of the Fourier transform. Prerequisites: MATH 140B or MATH 142B. Students who have not completed listed prerequisite(s) may enroll with the consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 140B",
+      "MATH 142B"
+    ]
+  },
+  "successors": [
+    "COGS 138"
+  ]
+}

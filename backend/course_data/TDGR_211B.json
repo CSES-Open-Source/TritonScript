@@ -1,0 +1,12 @@
+{
+  "code": "TDGR 211B",
+  "title": "Speech for the Actor",
+  "units": "2\u20134",
+  "dept": "THEA",
+  "anchor": "tdgr211b",
+  "description": "Continued introduction of the principle of phonetics and articulation. Constant study and drill to prepare the actor for standard speech and flexibility. Second course in a three-course series. Prerequisites: TDGR 211A and admission to the MFA program or consent of instructor.",
+  "prereqs": "TDGR 211A",
+  "successors": [
+    "TDGR 211C"
+  ]
+}

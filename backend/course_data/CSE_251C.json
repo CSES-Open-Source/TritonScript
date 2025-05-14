@@ -1,0 +1,8 @@
+{
+  "code": "CSE 251C",
+  "title": "Principles of Machine Learning: Machine Learning Theory",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse251c",
+  "description": "(Formerly CSE 250C.) Theoretical foundations of machine learning. Topics include concentration of measure, the PAC model, uniform convergence bounds, and VC dimension. Possible topics include online learning, learning with expert advice, multiarmed bandits, and boosting. Renumbered from CSE 250C. Students may not receive credit for CSE 251C and CSE 250C. Recommended preparation: CSE 103 and CSE 101 or similar course. Prerequisites: graduate standing or consent of instructor."
+}

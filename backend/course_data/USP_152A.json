@@ -1,0 +1,18 @@
+{
+  "code": "USP 152A",
+  "title": "Real Estate Development Finance and Investment",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp152a",
+  "description": "This course investigates the institutions, instruments, and structures by which investment in real estate is financed. It reviews capital markets, the sources and uses of real estate funds, and the role of government in real estate finance. Renumbered from USP 152. Students may not receive credit for USP 152A and USP 152. Prerequisites:\u00a0USP 15, USP 25, and upper-division standing or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "USP 15",
+      "USP 25"
+    ]
+  },
+  "successors": [
+    "USP 152B"
+  ]
+}

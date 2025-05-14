@@ -1,0 +1,11 @@
+{
+  "code": "PHIL 32",
+  "title": "Philosophy and the Rise of Modern Science",
+  "units": "4",
+  "dept": "PHIL",
+  "anchor": "phil32",
+  "description": "Beginning with the contrast between medieval and early modern thought, the course focuses on the relation of seventeenth-century philosophy and the emergence of modern natural science. Figures to be studied may include Bacon, Galileo, Descartes, Cavendish, Hobbes, Leibniz, and Newton.",
+  "successors": [
+    "PHIL 106"
+  ]
+}

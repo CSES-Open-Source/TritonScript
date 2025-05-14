@@ -1,0 +1,9 @@
+{
+  "code": "DSC 104",
+  "title": "Beyond Relational Data Management",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc104",
+  "description": "The course will introduce a variety of No-SQL data formats, data models, high-level query languages, and programming abstractions representative of the needs of modern data analytic tasks. Topics include hierarchical graph database systems, unrestricted graph database systems, array databases, comparison of expressive power of the data models, and parallel programming abstractions, including Map/Reduce and its descendants. Prerequisites: DSC 100. Restricted to students with upper-division standing. Restricted to students within the DS25 major. All other students will be allowed as space permits.",
+  "prereqs": "DSC 100"
+}

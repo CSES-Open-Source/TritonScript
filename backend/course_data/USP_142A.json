@@ -1,0 +1,11 @@
+{
+  "code": "USP 142A",
+  "title": "Urban Challenges: Homelessness in San Diego Core Fundamentals",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp142a",
+  "description": "This course introduces students to the complexity of homelessness from multiple perspectives including the homeless population itself, service providers, policymakers, community members, and researchers. In addition to classroom learning, students will have the unique opportunity for experiential, place-based learning off campus. Prerequisites: upper-division standing or consent of instructor and department approval.",
+  "successors": [
+    "USP 142B"
+  ]
+}

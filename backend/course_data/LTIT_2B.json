@@ -1,0 +1,12 @@
+{
+  "code": "LTIT 2B",
+  "title": "Intermediate Italian II",
+  "units": "5",
+  "dept": "LIT",
+  "anchor": "ltit2b",
+  "description": "Continuation of second-year Italian language and literature. Reading, writing, conversation, grammar review, and an introduction to literary genres and contemporary Italian culture and society.  Prerequisites:  LTIT 2A or its equivalent, or consent of instructor, or a score of 4 on the AP Italian Language and Culture exam.",
+  "prereqs": "LTIT 2A",
+  "successors": [
+    "LTIT 50"
+  ]
+}

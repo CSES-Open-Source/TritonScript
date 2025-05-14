@@ -1,0 +1,15 @@
+{
+  "code": "ECE 209",
+  "title": "Statistical Learning for Biosignal Processing",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece209",
+  "description": "Medical device systems increasingly measure biosignals from multiple sensors, requiring computational analyses of complex multivariate time-varying data. The combination of statistics and algorithms produces statistical learning methods that automate the analysis of complex data. Applications within the domain of neural engineering that utilize unsupervised and supervised generative statistical modeling techniques are explored. This course assumes familiarity with key statistical methods. Prerequisites: ECE 271A-B; graduate standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 271A",
+      "ECE 271B"
+    ]
+  }
+}

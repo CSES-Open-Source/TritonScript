@@ -1,0 +1,8 @@
+{
+  "code": "DSC 214",
+  "title": "Topological Data Analysis",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc214",
+  "description": "Topology provides a powerful way to describe essential features of functions and spaces. In recent years topological methods have attracted much attention for analyzing complex data. Fundamental developments have been made and the resulting methods have been applied in many fields, e.g., graphics, visualization, neuroscience, and material science. This course introduces basic concepts and topological structures behind these developments, algorithms for them, and examples of applications. Prerequisites: none. Restricted to students within the DS75 and DS76 major."
+}

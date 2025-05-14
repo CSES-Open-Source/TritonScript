@@ -1,0 +1,8 @@
+{
+  "code": "DSE 230",
+  "title": "Scalable Data Analysis",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "dse230",
+  "description": "The course exercises the data scientist\u2019s scalability toolbox, covering such concepts as map-reduce, streaming analysis, external memory algorithms, as well as their implementation options in popular frameworks (e.g., Hadoop and its ecosystem: HBase, Hive, Pig and Spark, etc.). The class will include assignments of analyzing large existing databases."
+}

@@ -1,0 +1,16 @@
+{
+  "code": "DSC 288R",
+  "title": "Graduate Capstone in Data Science",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc288r",
+  "description": "Following the life cycle of a data science project, students apply advanced data science knowledge and techniques to a specific domain. Cleaning and structuring data for hypothesis generation and data analysis; creating a scalable big date pipeline from data ingestion and exploration, to modeling and evaluation; building machine learning models and evaluating insights; communicating finding through visualizations and reports; fully considering ethical implications throughout. Prerequisites: DSC 208R, DSC 255R, and DSC 256R. Restricted to major codes DS78 and DS79.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 208R",
+      "DSC 255R",
+      "DSC 256R"
+    ]
+  }
+}

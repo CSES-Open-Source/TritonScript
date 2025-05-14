@@ -1,0 +1,26 @@
+{
+  "code": "CHEM 109",
+  "title": "Recombinant DNA Laboratory",
+  "units": "6",
+  "dept": "CHEM",
+  "anchor": "chem109",
+  "description": "This laboratory will introduce students to the tools of molecular biology and will involve experiments with recombinant DNA techniques. Students may not receive credit for both CHEM 109 and BIMM 101. A materials fee may be required for this course. Prerequisites: CHEM 43A, 143A, 43AM, or 143AM and CHEM 114A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 43A",
+          "CHEM 143A",
+          "CHEM 43AM",
+          "CHEM 143AM"
+        ]
+      },
+      "CHEM 114A"
+    ]
+  },
+  "successors": [
+    "CSE 185"
+  ]
+}

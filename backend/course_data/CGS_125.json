@@ -1,0 +1,15 @@
+{
+  "code": "CGS 125",
+  "title": "Women of Color Writers",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs125",
+  "description": "For women of color, writing has been more than just artistic expression. Women of color have also used the written word to challenge dominant ideas of race, gender, desire, power, violence, and intimacy, and to construct new ways of knowing, writing, and being. This course examines writing by women of color to understand how literary texts can shape and reflect social and political contexts. Prerequisites: CGS 2A or CGS 2B or at least one CGS upper-division course.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B"
+    ]
+  }
+}

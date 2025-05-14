@@ -1,0 +1,12 @@
+{
+  "code": "MATH 200B",
+  "title": "Algebra II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math200b",
+  "description": "Second course in graduate algebra. Topics may include group actions, Sylow theorems, solvable and nilpotent groups, free groups and presentations, semidirect products, polynomial rings, unique factorization, chain conditions, modules over principal ideal domains, rational and Jordan canonical forms, tensor products, projective and flat modules, Galois theory, solvability by radicals, localization, primary decomposition, Hilbert Nullstellensatz, integral extensions, Dedekind domains, Krull dimension. Prerequisites: MATH 200A. Students who have not completed MATH 200A may enroll with consent of instructor.",
+  "prereqs": "MATH 200A",
+  "successors": [
+    "MATH 200C"
+  ]
+}

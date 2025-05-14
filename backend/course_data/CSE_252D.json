@@ -1,0 +1,8 @@
+{
+  "code": "CSE 252D",
+  "title": "Advanced Computer Vision",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse252d",
+  "description": "This course covers advanced concepts in computer vision. Example topics include 3-D reconstruction, face recognition, object detection, semantic segmentation, action recognition, and domain adaptation. Consistent with recent developments, deep learning forms a significant fraction of the class. Lectures and assignments cover recent works on fundamental problems in computer vision, with the aim to prepare students for pursuing careers in the field. Recommended preparation: Completion of one of CSE 252A, 252B, 250A, or 250B is highly recommended. Prerequisites: graduate standing."
+}

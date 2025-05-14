@@ -1,0 +1,19 @@
+{
+  "code": "DSC 100",
+  "title": "Introduction to Data Management",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc100",
+  "description": "This course is an introduction to storage and management of large-scale data using classical relational (SQL) systems, with an eye toward applications in data science. The course covers topics including the SQL data model and query language, relational data modeling and schema design, elements of cost-based query optimizations, relational data base architecture, and database-backed applications. Prerequisites: DSC 40B and DSC 80. Restricted to students with upper-division standing. Restricted to students within the DS25 major. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 40B",
+      "DSC 80"
+    ]
+  },
+  "successors": [
+    "DSC 102",
+    "DSC 104"
+  ]
+}

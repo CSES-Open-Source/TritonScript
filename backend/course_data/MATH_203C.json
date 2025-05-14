@@ -1,0 +1,9 @@
+{
+  "code": "MATH 203C",
+  "title": "Algebraic Geometry III",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math203c",
+  "description": "Third course in algebraic geometry. Continued exploration of varieties, sheaves and schemes, divisors and linear systems, differentials, cohomology, curves, and surfaces. May be taken for credit up to three times. Prerequisites: MATH 203B. Students who have not taken MATH 203B may enroll with consent of instructor.",
+  "prereqs": "MATH 203B"
+}

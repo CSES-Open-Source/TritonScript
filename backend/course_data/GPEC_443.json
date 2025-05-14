@@ -1,0 +1,12 @@
+{
+  "code": "GPEC 443",
+  "title": "GIS and Spatial Data Analysis",
+  "units": "4",
+  "dept": "GPS",
+  "anchor": "gpec443",
+  "description": "This course introduces GIS and spatial data analysis for social science research. We use ArcGIS to manipulate and visualize georeferenced data and learn various spatial analysis tools. We emphasize geography as an important lens through which to study society. Renumbered from IRGN 443. Students may not receive credit for GPEC 443 and IRGN 443. Basic knowledge of statistics and STATA is assumed.",
+  "successors": [
+    "GPEC 445",
+    "GPEC 447"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "VIS 106A",
+  "title": "Painting: Image Making",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis106a",
+  "description": "A studio course focusing on problems inherent in painting\u2014transferring information and ideas onto a two-dimensional surface, color, composition, as well as manual and technical procedures. These concepts will be explored through the use of models, still life, and landscapes. Prerequisites: VIS 80.",
+  "prereqs": "VIS 80",
+  "successors": [
+    "VIS 106B"
+  ]
+}

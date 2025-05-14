@@ -1,0 +1,8 @@
+{
+  "code": "ECE 156",
+  "title": "Sensor Networks",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece156",
+  "description": "Characteristics of chemical, biological, seismic, and other physical sensors; signal processing techniques supporting distributed detection of salient events; wireless communication and networking protocols supporting formation of robust sensor fabrics; current experience with low power, low cost sensor deployments. Undergraduate students must take a final exam; graduate students must write a term paper or complete a final project. Cross-listed with MAE 149 and SIO 238. Prerequisites: upper-division standing and consent of instructor, or graduate student in science and engineering."
+}

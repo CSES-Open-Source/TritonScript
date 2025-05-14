@@ -1,0 +1,29 @@
+.contact-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    flex-wrap: wrap;
+  }
+
+  .header {
+    font-size: 1.5rem;
+    color: white; 
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+  }
+  
+  .social-icon {
+    width: 50px;
+    height: 50px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  
+  .social-icon:hover {
+    transform: scale(1.1);
+    opacity: 0.8;
+  }
+  

@@ -1,0 +1,16 @@
+{
+  "code": "CSE 176A",
+  "title": "Health Care Robotics",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse176a",
+  "description": "Robotics has the potential to improve well-being for millions of people and support caregivers and to aid the clinical workforce. We bring together engineers, clinicians, and end users to explore this exciting new field. The course is project-based, interactive, and hands-on, and involves working closely with stakeholders to develop prototypes that solve real-world problems. Students will explore the latest research in health care robotics, human-robot teaming, and health design. Program or materials fees may apply. Prerequisites: CSE 110 or CSE 170 or COGS 120.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 110",
+      "CSE 170",
+      "COGS 120"
+    ]
+  }
+}

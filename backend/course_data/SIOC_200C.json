@@ -1,0 +1,15 @@
+{
+  "code": "SIOC 200C",
+  "title": "Computational Ocean Acoustics and Signal Processing III",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc200c",
+  "description": "Continuation of SIOC 200B. Modeling interference such as ambient noise. Time domain methods. Matched field tomography, nonlinear optimization methods, and geophysical inversion. Prerequisites: graduate standing and SIOC 200B or SIO 200B or consent of instructor.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SIOC 200B",
+      "SIO 200B"
+    ]
+  }
+}

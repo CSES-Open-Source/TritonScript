@@ -1,0 +1,14 @@
+{
+  "code": "COGS 187B",
+  "title": "Practicum in Professional Web Design",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs187b",
+  "description": "This course follows up on the basics of multimedia design taught in COGS 187A. Students will probe more deeply into selective topics, such as animation, navigation, graphical display of information, and narrative coherence. Prerequisites: COGS 187A or consent of instructor.",
+  "prereqs": "COGS 187A",
+  "successors": [
+    "COGS 122",
+    "COGS 123",
+    "DSGN 118"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": "PHYS 201",
+  "title": "Mathematical Methods for Physics",
+  "units": "5",
+  "dept": "PHYS",
+  "anchor": "phys201",
+  "description": "An introduction to mathematical methods used in theoretical physics. Topics include a review of complex variable theory, applications of the Cauchy residue theorem, asymptotic series, method of steepest descent, Fourier and Laplace transforms, series solutions for ODE\u2019s and related special functions, Sturm Liouville theory, variational principles, boundary value problems, and Green\u2019s function techniques."
+}

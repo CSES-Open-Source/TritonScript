@@ -1,0 +1,18 @@
+{
+  "code": "COGS 122",
+  "title": "Start-up Studio",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs122",
+  "description": "Explores tools and processes for innovating novel business concepts to solve problems involving the interaction between humans and technology. Students will work with an interdisciplinary team to understand unmet user needs and to create a value proposition that balances technical feasibility, financial viability, and desirability. Prerequisites: DSGN 100 or COGS 187B or COGS 187A or COGS 120 or CSE 170.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "DSGN 100",
+      "COGS 187B",
+      "COGS 187A",
+      "COGS 120",
+      "CSE 170"
+    ]
+  }
+}

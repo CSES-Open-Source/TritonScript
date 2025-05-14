@@ -1,0 +1,12 @@
+{
+  "code": "VIS 106B",
+  "title": "Painting: Practices and Genre",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis106b",
+  "description": "A continuation of VIS 106A. A studio course in which the student will investigate a wider variety of technical and conceptual issues involved in contemporary art practice related to painting. Prerequisites: VIS 106A.",
+  "prereqs": "VIS 106A",
+  "successors": [
+    "VIS 106C"
+  ]
+}

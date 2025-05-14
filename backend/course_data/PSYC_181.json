@@ -1,0 +1,11 @@
+{
+  "code": "PSYC 181",
+  "title": "Psychopharmacology\u2014Drugs and Behavior",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc181",
+  "description": "This course provides an overview of basic principles of psychopharmacology, including psychological effects, brain mode of action, and patterns of use of psychoactive agents. Drugs discussed may include drugs of abuse and psychotherapeutics such as stimulants, opioids, sedative hypnotics, hallucinogens, marijuana, alcohol, cognitive enhancers, anxiolytics, antidepressants, and antipsychotics. Prerequisites: upper-division standing.",
+  "successors": [
+    "PSYC 171"
+  ]
+}

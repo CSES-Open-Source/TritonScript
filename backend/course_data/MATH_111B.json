@@ -1,0 +1,9 @@
+{
+  "code": "MATH 111B",
+  "title": "Mathematical Modeling II",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math111b",
+  "description": "Continued study on mathematical modeling in the physical and social sciences, using advanced techniques that will expand upon the topics selected and further the mathematical theory presented in MATH 111A. Prerequisites: MATH 111A or consent of instructor.",
+  "prereqs": "MATH 111A"
+}

@@ -1,0 +1,9 @@
+{
+  "code": "PSYC 201C",
+  "title": "Quantitative Methods in Psychology III",
+  "units": "6",
+  "dept": "PSYC",
+  "anchor": "psyc201c",
+  "description": "The third part of a series of intensive courses in statistical methods and the mathematical treatment of data, with special reference to research in psychology. Prerequisites: PSYC 201B.",
+  "prereqs": "PSYC 201B"
+}

@@ -1,0 +1,8 @@
+{
+  "code": "CSE 270",
+  "title": "Discrete Differential Geometry",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse270",
+  "description": "This course introduces the mathematics and algorithms for digital geometry processing and simulation problems in computer graphics. Topics include the continuous and discrete theory of curves and surfaces, exterior calculus, Hodge theory, and gauge theory with various applications ranging from texture synthesis, differential equations, and vector field design. Restricted to CS75, CS76, CS78, CS88, and CS89 majors. Other students will be allowed as space permits."
+}

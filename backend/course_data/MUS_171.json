@@ -1,0 +1,12 @@
+{
+  "code": "MUS 171",
+  "title": "Computer Music I",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus171",
+  "description": "This course provides a practical introduction to computer techniques for audio synthesis, processing, and analysis. Prerequisites: upper-division standing; MUS 170 recommended.",
+  "prereqs": "MUS 170",
+  "successors": [
+    "MUS 172"
+  ]
+}

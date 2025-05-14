@@ -1,0 +1,15 @@
+{
+  "code": "ECE 124",
+  "title": "Motor Drives",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece124",
+  "description": "Topics include the operation of DC motor and induction machine drives in steady state and speed control of DC and induction motor drives in an energy efficient manner using power electronics. Control techniques such as vector control and direct torque control (DTC) of induction machines. Different control methods for direct current motors using different types of power converters, such as DC-DC and AC-DC converters. Design torque, speed, and position controller of DC motor drive. Prerequisites: ECE 121B and ECE 125A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECE 121B",
+      "ECE 125A"
+    ]
+  }
+}

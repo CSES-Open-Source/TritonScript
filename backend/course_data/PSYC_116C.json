@@ -1,0 +1,9 @@
+{
+  "code": "PSYC 116C",
+  "title": "Laboratory in Clinical Psychology Research III",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc116c",
+  "description": "This course, the third in a sequence of three courses, provides the culmination of an applied examination of theory, research design, and methods for clinical research to support an independent study in research at a clinical research lab. Prerequisites: PSYC 116B.",
+  "prereqs": "PSYC 116B"
+}

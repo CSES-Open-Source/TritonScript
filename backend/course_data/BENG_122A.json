@@ -1,0 +1,20 @@
+{
+  "code": "BENG 122A",
+  "title": "Biosystems and Control",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng122a",
+  "description": "Systems and control theory applied to bioengineering. Modeling, linearization, transfer functions, Laplace transforms, closed-loop systems, design and simulation of controllers. Dynamic behavior and controls of first and second order processes. PID controllers. Stability. Bode design. Features of biological controls systems. A simulation project using MATLAB and an oral presentation are required. Credit not allowed for both ECE 101 and BENG 122A. Prerequisites: MAE 140 or BENG 134 or consent of department. (F)",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 140",
+      "BENG 134"
+    ]
+  },
+  "successors": [
+    "BENG 125",
+    "ECE 155",
+    "MAE 144"
+  ]
+}

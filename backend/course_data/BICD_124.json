@@ -1,0 +1,15 @@
+{
+  "code": "BICD 124",
+  "title": "Plant Innate Immunity",
+  "units": "4",
+  "dept": "BIOL",
+  "anchor": "bicd124",
+  "description": "Plant immunity protects against pathogens and enables symbioses. This course explores the agents of plant disease, the genetics of inherited immunity, mechanisms of pathogenesis and defense, the coordination of plant immunity by plant hormones, and the regulation of symbioses. Prerequisites:\u00a0BICD 100 or BICD 100R.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "BICD 100",
+      "BICD 100R"
+    ]
+  }
+}

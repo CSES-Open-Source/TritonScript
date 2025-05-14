@@ -1,0 +1,8 @@
+{
+  "code": "PHYS 213",
+  "title": "Quantum Information is Physical",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys213",
+  "description": "The subject of the course is physical aspects of quantum information. Following a primer on Shannon\u2019s theory on the compression and transmission of information, emphasizing its physical nature, the theory is extended to quantum systems. This includes measures of entanglement and their operational meanings, purification, and strong subadditivity of the von Neumann entropy. Further topics may include applications to quantum many-body physics, quantum algorithms and quantum complexity theory. May be coscheduled with PHYS 113. In addition to readings, homework, and exams at the graduate level, PHYS 213 will require a review paper at the end of the course, while the undergraduate course will not."
+}

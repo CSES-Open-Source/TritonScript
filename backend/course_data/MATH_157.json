@@ -1,0 +1,36 @@
+{
+  "code": "MATH 157",
+  "title": "Introduction to Mathematical Software",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math157",
+  "description": "This course provides a hands-on introduction to the use of a variety of open-source mathematical software packages, as applied to a diverse range of topics within pure and applied mathematics. Most of these packages are built on the Python programming language, but experience with another common programming language is acceptable. All software will be accessed using the CoCalc web platform (http://cocalc.com), which provides a uniform interface through any web browser.\u00a0Students will need to bring a laptop or tablet to lectures in order to participate in interactive presentations. Students should have exposure to one of the following programming languages: C, C++, Java, Python, R. Prerequisites: MATH 18 or MATH 20F or MATH 31AH and one of BILD 62, COGS 18 or CSE 5A or CSE 6R or CSE 8A or CSE 11 or DSC 10 or ECE 15 or ECE 143 or MATH 189. Students who have not completed listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 20F",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "BILD 62",
+          "COGS 18",
+          "CSE 5A",
+          "CSE 6R",
+          "CSE 8A",
+          "CSE 11",
+          "DSC 10",
+          "ECE 15",
+          "ECE 143",
+          "MATH 189"
+        ]
+      }
+    ]
+  }
+}

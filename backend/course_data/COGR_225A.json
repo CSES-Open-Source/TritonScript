@@ -1,0 +1,11 @@
+{
+  "code": "COGR 225A",
+  "title": "Introduction to Science Studies: Part 1",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "cogr225a",
+  "description": "Study and discussion of classic themes and texts in history of science, sociology of science, and philosophy of science, and of work that attempts to develop an interdisciplinary science studies approach. Prerequisites: enrollment in the Science Studies Program or consent of instructor.",
+  "successors": [
+    "COGR 225D"
+  ]
+}

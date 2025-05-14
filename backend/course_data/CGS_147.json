@@ -1,0 +1,18 @@
+{
+  "code": "CGS 147",
+  "title": "Black Feminisms, Past and Present",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs147",
+  "description": "(Cross-listed with ETHN 147.) An advanced introduction to historical and contemporary black feminisms in the United States and transnationally. Students will explore the theory and practice of black feminists/womanists and analyze the significance of black feminism to contemporary understandings of race, class, gender, and sexuality. Students may not receive credit for CGS 147 and ETHN 147. Prerequisites: CGS 2A-B, ETHN 1, 2, 3, at least one CGS or ETHN upper-division course, or permission of the instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CGS 2A",
+      "CGS 2B",
+      "ETHN 1",
+      "ETHN 2",
+      "ETHN 3"
+    ]
+  }
+}

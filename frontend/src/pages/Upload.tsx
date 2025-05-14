@@ -1,17 +1,10 @@
-import { useState, useEffect } from "react";
-import settings from "../utils/config";
-import { v4 as uuidv4 } from "uuid";
-import { useSelector } from "react-redux";
-import "../../src/pages/Upload.css";
-import ClassNote from "../components/ClassNotes/ClassNotes.tsx";
-import note from '../assets/note-placeholder.png';
+import { useState } from "react";
+import UploadModal from "../components/UploadModal";
+import "../../src/pages/Upload.css"; 
+import uploadIcon from "../assets/upload-icon.png";
 
 export default function Upload() {
-  const { currentUser } = useSelector((state: any) => state.user);
-  const [formData, setFormData] = useState({ title: "", classInfo: "", description: "", uploader: "", instructor: "" });
-  const [file, setFile] = useState<File | null>(null);
-  const [isUploading, setIsUploading] = useState(false);
-  const [userNotes, setUserNotes] = useState<any[]>([]);
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   useEffect(() => {
     async function fetchUserNotes() {
@@ -211,6 +204,8 @@ export default function Upload() {
           )}
         </div>
       </div>
+
+      {isModalOpen && <UploadModal onClose={() => setIsModalOpen(false)} />}
     </div>
   );
 }

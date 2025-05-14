@@ -1,0 +1,16 @@
+{
+  "code": "POLI 260",
+  "title": "Social Science Replication",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli260",
+  "description": "The purpose of this class is to replicate new empirical research in the social sciences. The class meets weekly and will begin with two lectures introducing replication tools and best practices. Thereafter, pairs of students will take turns replicating and extending a working paper by an established political scientist\u2014normally a visitor to UC San Diego\u2014and will present their findings in front of the author. Through such reverse engineering, students will learn how to do excellent quantitative work. Prerequisites: POLI 204B and POLI 270 and POLI 271; graduate standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "POLI 204B",
+      "POLI 270",
+      "POLI 271"
+    ]
+  }
+}

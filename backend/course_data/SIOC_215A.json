@@ -1,0 +1,12 @@
+{
+  "code": "SIOC 215A",
+  "title": "Applied Mathematics for Oceanographers I",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc215a",
+  "description": "Intended for first-year graduate students who seek a quantitative way to describe how the ocean works: vector analysis, complex quantities, Fourier and Laplace transforms, ordinary differential equations, nonhomogeneous ordinary differential equations, initial and boundary value problems, Heat and Laplace equations. Prerequisites: graduate standing or consent of instructor.",
+  "successors": [
+    "SIOC 215B",
+    "SIOC 215C"
+  ]
+}

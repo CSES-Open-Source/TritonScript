@@ -1,0 +1,11 @@
+{
+  "code": "MUS 173A",
+  "title": "Electronic Music Production and Composition",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus173a",
+  "description": "Creative music production using digital audio workstations (DAWs), emphasizing hands-on composition projects including tempo warping, beat and tonality matching, virtual drum kits, chord progressions, sound processing and effects, arrangement, and remixing in the context of both popular and experimental genres. Existing works are analyzed and dissected for aesthetic value and production technique. Prerequisites: upper-division standing; restricted to music, ICAM-music, and ICAM-visual arts majors and minors, or consent of instructor.",
+  "successors": [
+    "MUS 173B"
+  ]
+}

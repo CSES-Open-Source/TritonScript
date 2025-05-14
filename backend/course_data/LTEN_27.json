@@ -1,0 +1,11 @@
+{
+  "code": "LTEN 27",
+  "title": "Introduction to African American Literature",
+  "units": "4",
+  "dept": "LIT",
+  "anchor": "lten27",
+  "description": "A lecture discussion course that examines a major topic or theme in African American literature as it is developed over time and across the literary genres of fiction, poetry, and belles lettres. A particular emphasis of the course is how African American writers have adhered to or departed from conventional definitions of genre.",
+  "successors": [
+    "CSE 194"
+  ]
+}

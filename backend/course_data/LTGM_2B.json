@@ -1,0 +1,12 @@
+{
+  "code": "LTGM 2B",
+  "title": "Intermediate German II",
+  "units": "5",
+  "dept": "LIT",
+  "anchor": "ltgm2b",
+  "description": "LTGM 2B is a continuation of LTGM 2A for those students who intend to practice their skills in reading, listening comprehension, and writing on a more advanced level. The literary texts are supplemented by readings from other disciplines as well as audiovisual materials.  Prerequisites:  LTGM 2A or score of 4 on AP German language exam or consent of instructor.",
+  "prereqs": "LTGM 2A",
+  "successors": [
+    "LTGM 2C"
+  ]
+}

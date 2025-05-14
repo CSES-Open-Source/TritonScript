@@ -1,0 +1,15 @@
+{
+  "code": "NANO 164",
+  "title": "Advanced Micro- and Nano-materials for Energy Storage and Conversion",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano164",
+  "description": "Materials for energy storage and conversion in existing and future power systems, including fuel cells and batteries, photovoltaic cells, thermoelectric cells, and hybrids. Prerequisites: NANO 101, NANO 102, and upper-division standing.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "NANO 101",
+      "NANO 102"
+    ]
+  }
+}

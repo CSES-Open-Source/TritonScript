@@ -1,0 +1,19 @@
+{
+  "code": "ECE 264B",
+  "title": "CMOS Analog Integrated Circuits and Systems II",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece264b",
+  "description": "Nonideal effects and their mitigation in high-performance operational amplifiers. Switched-capacitor circuit techniques: CMOS circuit topologies, analysis and mitigation of nonideal effects, and filter synthesis. Overview of CMOS samplers, data converters, and PLLs. Recommended preparation: ECE 161A, Introduction to Digital Signal Processing, and ECE 251A, Digital Signal Processing I. Prerequisites: ECE 250 or ECE 264A; graduate standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECE 250",
+      "ECE 264A"
+    ]
+  },
+  "successors": [
+    "ECE 264C",
+    "ECE 266"
+  ]
+}

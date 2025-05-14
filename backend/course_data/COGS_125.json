@@ -1,0 +1,27 @@
+{
+  "code": "COGS 125",
+  "title": "Advanced Interaction Design",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs125",
+  "description": "This is a studio class for students who are passionate about diving deep into interaction design and honing their design skills. Introduces social computing, input and interaction techniques, and information design. Students will regularly present work in a studio format. Prerequisites: CSE 11 or 8B and COGS 120 or CSE 170.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CSE 11",
+          "CSE 8B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "COGS 120",
+          "CSE 170"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "code": "MAE 283A",
+  "title": "Parametric Identification: Theory and Methods",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae283a",
+  "description": "Constructing dynamical models from experimental data. Deterministic and stochastic discrete time signals. Discrete time systems. Nonparametric identification: correlation and spectral analysis. Parametric identification: realization and prediction error methods, least squares estimation, approximate modeling. Experiment design. Frequency domain identification. Recommended preparation: MAE 143C.",
+  "successors": [
+    "MAE 283B"
+  ]
+}

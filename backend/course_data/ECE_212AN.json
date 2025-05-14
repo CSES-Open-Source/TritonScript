@@ -1,0 +1,11 @@
+{
+  "code": "ECE 212AN",
+  "title": "Principles of Nanoscience and Nanotechnology",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece212an",
+  "description": "Introduction to and rigorous treatment of electronic, photonic, magnetic, and mechanical properties of materials at the nanoscale. Concepts from mathematical physics, quantum mechanics, quantum optics, and electromagnetic theory will be introduced as appropriate. Students may not receive credit for both ECE 212A and ECE 212AN. Prerequisites: graduate standing.",
+  "successors": [
+    "ECE 212BN"
+  ]
+}

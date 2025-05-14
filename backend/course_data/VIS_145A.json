@@ -1,0 +1,13 @@
+{
+  "code": "VIS 145A",
+  "title": "Time- and Process-Based Digital Media I",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis145a",
+  "description": "Introduces time- and process-based digital media art making. Contemporary and historical works across time- and process-based media will be studied, and projects produced. Topics may include software art, software and hardware interfacing, interaction, and installation in an art context. Recommended preparation: CSE 5A or equivalent programming experience. Materials fees required. May not receive credit for both VIS 145A and ICAM 102. Two production-course limitation. Prerequisites: VIS 142. Open to ICAM and speculative design majors and computing and the arts and speculative design minors.",
+  "prereqs": "VIS 142",
+  "successors": [
+    "VIS 145B",
+    "VIS 160A"
+  ]
+}

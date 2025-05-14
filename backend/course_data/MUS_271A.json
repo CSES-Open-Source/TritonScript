@@ -1,0 +1,11 @@
+{
+  "code": "MUS 271A",
+  "title": "Survey of Electronic Music Techniques I",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus271a",
+  "description": "A hands-on encounter with several important works from the classic electronic repertory, showing a representative subset of the electronic techniques available to musicians. Students who have taken MUS 271 for credit may not take MUS 271A for credit. Prerequisites: graduate standing in music.",
+  "successors": [
+    "MUS 271B"
+  ]
+}

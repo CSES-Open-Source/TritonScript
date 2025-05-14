@@ -1,0 +1,19 @@
+{
+  "code": "ECON 233",
+  "title": "Public Economics of Health Care",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ233",
+  "description": "The objective of this course is to provide an understanding of the role of government in the health sector. Key applications include insurance markets, physician and hospital objective functions, payment models, health system design, and medical innovation. All topics are considered from both a theoretical and an empirical perspective. The emphasis will be on learning techniques that can be applied to produce original research and to critically analyze existing research in the field. Prerequisites: graduate standing and ECON 200A-B-C and ECON 220A-B-C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 200A",
+      "ECON 200B",
+      "ECON 200C",
+      "ECON 220A",
+      "ECON 220B",
+      "ECON 220C"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "code": "SE 277",
+  "title": "Error Control in Finite Element Analysis",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se277",
+  "description": "This course will provide an overview of the latest technology for evaluating and improving the accuracy and validity of linear and nonlinear finite element models, solution verification, finite element model validation, sensitivity analysis, uncertainty analysis, and test-analysis correlation. Prerequisites: SE 232B or MAE 232B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SE 232B",
+      "MAE 232B"
+    ]
+  }
+}

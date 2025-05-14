@@ -1,0 +1,12 @@
+{
+  "code": "TDDM 1",
+  "title": "Introduction to Dance Making",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tddm1",
+  "description": "Explores the concepts and processes of dance making through creative projects, discussions, and the examination of major dance works. Recommended preparation: No prior dance experience required. Open to all levels. Prerequisites: none.",
+  "successors": [
+    "TDDM 100",
+    "TDDM 101"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "code": "USP 185A",
+  "title": "Real Estate Finance and Development Studio I",
+  "units": "4",
+  "dept": "USP",
+  "anchor": "usp185a",
+  "description": "This course introduces students to the challenges of developing and financing real property. Students work in teams to prepare a proposal for a complete site-specific project that incorporates real estate finance, development, and design. Prerequisites:\u00a0USP 50, USP 124, USP 151, USP 152, and USP 153. Restricted to seniors within the Real Estate and Development major.\u00a0(Only offered fall quarter.)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "USP 50",
+      "USP 124",
+      "USP 151",
+      "USP 152",
+      "USP 153"
+    ]
+  },
+  "successors": [
+    "USP 185B"
+  ]
+}

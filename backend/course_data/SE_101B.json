@@ -1,0 +1,13 @@
+{
+  "code": "SE 101B",
+  "title": "Mechanics II: Dynamics",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se101b",
+  "description": "Kinematics and kinetics of particles in two- and three-dimensional motion. Newton\u2019s equations of motion. Energy and momentum methods. Impulsive motion and impact. Systems of particles. Kinetics and kinematics of rigid bodies in 2-D. Introduction to 3-D dynamics of rigid bodies. Prerequisites: SE 101A.",
+  "prereqs": "SE 101A",
+  "successors": [
+    "SE 101C",
+    "SE 160A"
+  ]
+}

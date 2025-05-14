@@ -1,0 +1,31 @@
+{
+  "code": "CHEM 100A",
+  "title": "Analytical Chemistry Laboratory",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem100a",
+  "description": "Laboratory course emphasizing classical quantitative chemical analysis techniques, including separation and gravimetric methods, as well as an introduction to instrumental analysis. Program or materials fees may apply. Prerequisites: CHEM 6C or 6CH and CHEM 7L or 7LM. Recommended: PHYS 2CL or 2BL.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 6C",
+          "CHEM 6CH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 7L",
+          "CHEM 7LM"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "CHEM 100B",
+    "CHEM 105A"
+  ]
+}

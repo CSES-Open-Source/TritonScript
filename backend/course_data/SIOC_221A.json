@@ -1,0 +1,12 @@
+{
+  "code": "SIOC 221A",
+  "title": "Analysis of Physical Oceanographic Data (A)",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc221a",
+  "description": "Fundamental elements of analysis of geophysical and oceanographic time series, including sampling problems, least squares techniques, spectral analysis, interpretation of series, design of experiments. Prerequisites: consent of instructor.",
+  "successors": [
+    "SIOC 221B",
+    "SIOC 221C"
+  ]
+}

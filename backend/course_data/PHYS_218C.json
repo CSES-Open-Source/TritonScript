@@ -1,0 +1,12 @@
+{
+  "code": "PHYS 218C",
+  "title": "Plasma Physics III",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys218c",
+  "description": "This course deals with the physics of confined plasmas with particular relevance to controlled fusion. Topics include topology of magnetic fields, confined plasma equilibria, energy principles, ballooning and kink instabilities, resistive MHD modes (tearing, rippling and pressure-driven), gyrokinetic theory, microinstabilities and anomalous transport, and laser-plasma interactions relevant to inertial fusion. Prerequisites: PHYS 218B.",
+  "prereqs": "PHYS 218B",
+  "successors": [
+    "PHYS 235"
+  ]
+}

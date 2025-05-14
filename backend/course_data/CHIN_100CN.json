@@ -1,0 +1,19 @@
+{
+  "code": "CHIN 100CN",
+  "title": "Third-Year Chinese III",
+  "units": "4",
+  "dept": "CHIN",
+  "anchor": "chin100cn",
+  "description": "Advanced Mandarin Chinese language course for students who have received some prior training in Mandarin. Part three of a three-quarter sequence that further expands more advanced oral and written communicative competence through study of topics including the history of Chinese language and society, education, and literature. Prerequisites: previous course or department approval through placement interview.",
+  "successors": [
+    "CHIN 165A",
+    "CHIN 165B",
+    "CHIN 165C",
+    "CHIN 185A",
+    "CHIN 185B",
+    "CHIN 185C",
+    "CHIN 186A",
+    "CHIN 186B",
+    "CHIN 186C"
+  ]
+}

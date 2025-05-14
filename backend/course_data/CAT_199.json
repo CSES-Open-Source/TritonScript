@@ -1,0 +1,16 @@
+{
+  "code": "CAT 199",
+  "title": "Culture, Art, and Technology Independent Studies",
+  "units": "4",
+  "dept": "CAT",
+  "anchor": "cat199",
+  "description": "Individual independent research or creative project. Designated for Sixth College students to have the opportunity to work on a project supervised by a faculty member in a specific department, where the subject or content of the project cannot be represented by the academic department of the faculty member. May be taken for credit three times. Prerequisites: upper-division standing; completion of lower-division writing sequence through taking CAT 1, CAT 2, and CAT 3 by students who entered as first-years, or through equivalent course work by transfer students.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "CAT 1",
+      "CAT 2",
+      "CAT 3"
+    ]
+  }
+}

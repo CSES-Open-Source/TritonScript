@@ -1,0 +1,10 @@
+{
+  "code": "BENG 126B",
+  "title": "Design Implementation in Bioinformatics Bioengineering",
+  "units": "3",
+  "dept": "BENG",
+  "anchor": "beng126b",
+  "description": "Implementation of design project in bioinformatics bioengineering. Prerequisites: BENG 126A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W)",
+  "prereqs": "BENG 126A",
+  "coreqs": "BENG 187C"
+}

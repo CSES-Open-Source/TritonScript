@@ -1,0 +1,8 @@
+{
+  "code": "MAE 226",
+  "title": "Advanced Dynamics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae226",
+  "description": "This course covers advanced topics in Lagrange\u2019s equations, rigid and flexible body dynamics, virtual power, non-holonomic dynamics, functional analysis, and integrals of motion. After taking this class, the student should be able to determine the equations of motion for even very complex dynamical systems; determine special invariants of the system helping to avoid detailed solution by computer and providing insight; and understand the basics of minimization and variational calculus."
+}

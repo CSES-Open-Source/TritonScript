@@ -1,0 +1,8 @@
+{
+  "code": "LIGN 266",
+  "title": "Computational Pragmatics",
+  "units": "4",
+  "dept": "LING",
+  "anchor": "lign266",
+  "description": "This course will provide an introduction to computational models of pragmatics and their empirical evaluation. The course will mainly focus on probabilistic models, including the Rational Speech Acts model and its various extensions. Students will learn how to build probabilistically coherent models of agent behavior, and how to evaluate the linguistic accuracy of these models."
+}

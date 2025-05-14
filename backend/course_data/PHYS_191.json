@@ -1,0 +1,15 @@
+{
+  "code": "PHYS 191",
+  "title": "Undergraduate Seminar on Physics",
+  "units": "1",
+  "dept": "PHYS",
+  "anchor": "phys191",
+  "description": "Undergraduate seminars organized around the research interests of various faculty members. P/NP grades only. Prerequisites: PHYS 2A or 4A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "PHYS 2A",
+      "PHYS 4A"
+    ]
+  }
+}

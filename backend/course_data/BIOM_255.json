@@ -1,0 +1,16 @@
+{
+  "code": "BIOM 255",
+  "title": "Molecular Basis of Drug Action and Disease Therapy",
+  "units": "3",
+  "dept": "BIOM",
+  "anchor": "biom255",
+  "description": "Molecular basis of drug action; basis of disease; drug invention. Topics may include: basic principles, autonomic nervous system; CV, pulmonary, diabetes, cancer therapy, pharmacotherapy of CNS disease (depression, etc.) pain, infections (bacterial, viral, malarial). Students that have taken both 255A and 255B cannot take 255 for credit. Prerequisites: BIOM 200A-B, 201. Limited to BMS graduate students except by consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "BIOM 200A",
+      "BIOM 200B",
+      "BIOM 201"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "PHYS 122",
+  "title": "Experimental Techniques",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys122",
+  "description": "Laboratory-lecture course covering practical techniques used in research laboratories. Possible topics include computer interfacing of\u00a0instruments, sensors, and actuators; programming for data acquisition/analysis; electronics; measurement techniques; mechanical\u00a0design/machining; mechanics of materials; thermal design/control; vacuum/cryogenic techniques; optics; particle detection. PHYS 122 was formerly numbered PHYS 121. Program or materials fees may apply.\u00a0Prerequisites: PHYS 120.",
+  "prereqs": "PHYS 120"
+}

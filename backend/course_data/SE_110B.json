@@ -1,0 +1,21 @@
+{
+  "code": "SE 110B",
+  "title": "Solid Mechanics II",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se110b",
+  "description": "Advanced concepts in the mechanics of deformable bodies. Unsymmetrical bending of symmetrical and unsymmetrical sections. Bending of curved beams. Shear center and torsional analysis of open and closed sections. Stability analysis of columns, lateral buckling. Application of the theory of elasticity in rectangular coordinates. Prerequisites: grade of C\u2013 or better in SE 110A (or MAE 131A). Enrollment restricted to SE27 majors only.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "SE 110A",
+      "MAE 131A"
+    ]
+  },
+  "successors": [
+    "SE 131A",
+    "SE 142",
+    "SE 150A",
+    "SE 171"
+  ]
+}

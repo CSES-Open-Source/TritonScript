@@ -1,0 +1,11 @@
+{
+  "code": "ANTH 2",
+  "title": "Human Origins",
+  "units": "4",
+  "dept": "ANTH",
+  "anchor": "anth2",
+  "description": "An introduction to human evolution from the perspective of physical anthropology, including evolutionary theory and the evolution of the primates, hominids, and modern humans. Emphasis is placed on evidence from fossil remains and behavioral studies of living primates.",
+  "successors": [
+    "HDS 111"
+  ]
+}

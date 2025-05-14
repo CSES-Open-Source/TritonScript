@@ -1,0 +1,8 @@
+{
+  "code": "SIOG 238",
+  "title": "Numerical Methods for Partial Differential Equations",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "siog238",
+  "description": "The course will discuss main numerical methods used to solve boundary and initial value problems involving partial differential equations, such as finite differences, finite elements, and boundary elements. The emphasis will be on practical implementation of the commonly used tools and algorithms. Examples from geophysical applications will be provided. Recommended preparation: calculus and linear algebra. Prerequisites: graduate standing or consent of instructor. (S/U grades permitted.)"
+}

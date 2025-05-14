@@ -1,0 +1,27 @@
+{
+  "code": "VIS 174",
+  "title": "Media Sketchbook",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis174",
+  "description": "Video medium used both as production technology and as device to explore the fundamental character of filmmaking and time-based computer art practices. Students perform all aspects of production with attention to developing ideas and building analytical/critical skills. Two production-course limitation. Prerequisites: VIS 70N. Open to media, studio, ICAM, and speculative design majors; and film production and speculative design minors.",
+  "prereqs": "VIS 70N",
+  "successors": [
+    "VIS 171",
+    "VIS 172",
+    "VIS 175",
+    "VIS 176",
+    "VIS 177",
+    "VIS 178",
+    "VIS 179",
+    "VIS 180A",
+    "VIS 180B",
+    "VIS 181",
+    "VIS 182",
+    "VIS 182A",
+    "VIS 183A",
+    "VIS 183B",
+    "VIS 184",
+    "VIS 185"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "MUS 33C",
+  "title": "Introduction to Composition III",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus33c",
+  "description": "Third part of course sequence for students pursuing a composition emphasis. Course continues the development of skills in instrumentation and analysis. It includes a survey of advanced techniques in contemporary composition, with additional focus on notation, part-preparation, and the art of writing for small groups of instruments. Prerequisites: MUS 33B.",
+  "prereqs": "MUS 33B",
+  "successors": [
+    "MUS 103A"
+  ]
+}

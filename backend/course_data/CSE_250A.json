@@ -1,0 +1,8 @@
+{
+  "code": "CSE 250A",
+  "title": "Principles of Artificial Intelligence: Probabilistic Reasoning and Learning",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse250a",
+  "description": "Methods based on probability theory for reasoning and learning under uncertainty. Content may include directed and undirected probabilistic graphical models, exact and approximate inference, latent variables, expectation-maximization, hidden Markov models, Markov decision processes, applications to vision, robotics, speech, and/or text. Recommended preparation: CSE 103 or similar course. Prerequisites: graduate standing in CSE or consent of instructor."
+}

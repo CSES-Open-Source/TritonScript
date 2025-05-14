@@ -1,0 +1,27 @@
+{
+  "code": "MAE 232C",
+  "title": "Finite Element Methods in Solid Mechanics III",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae232c",
+  "description": "(Cross-listed with SE 276C.) Finite element methods for problems with both material and geometrical (large deformations) nonlinearities. The total LaGrangian and the updated LaGrangian formulations are introduced. Basic solution methods for the nonlinear equations are developed and applied to problems in plasticity and hyperelasticity. Prerequisites: graduate standing and MAE 232A or SE 276A and MAE 231A or SE 271.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MAE 232A",
+          "SE 276A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MAE 231A",
+          "SE 271"
+        ]
+      }
+    ]
+  }
+}

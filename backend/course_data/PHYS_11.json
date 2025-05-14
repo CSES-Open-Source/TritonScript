@@ -1,0 +1,22 @@
+{
+  "code": "PHYS 11",
+  "title": "Survey of Physics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys11",
+  "description": "Survey of physics for nonscience majors with strong mathematical background, including calculus. PHYS 11 describes the laws of motion, gravity, energy, momentum, and relativity. A laboratory component consists of two experiments with gravity and conservation principles. Prerequisites: MATH 10A or 20A. Corequisites: MATH 10B or 20B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MATH 10A",
+      "MATH 20A"
+    ]
+  },
+  "coreqs": {
+    "type": "one",
+    "courses": [
+      "MATH 10B",
+      "MATH 20B"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "code": "CHEM 232A",
+  "title": "Statistical Mechanics I",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem232a",
+  "description": "Derivation of thermodynamics from atomic descriptions. Ensembles, fluctuations, classical (Boltzmann) and quantum (Fermi-Dirac and Bose-Einstein) statistics, partition functions, phase space, Liouville equation, chemical equilibrium, applications to weakly interacting systems, such as ideal gases, ideal crystals, radiation fields. Recommended background: CHEM 132 or its equivalent. Classical and quantum mechanics, thermodynamics, and mathematical methods will be reviewed as needed, but some background will be necessary.",
+  "successors": [
+    "CHEM 232B"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "ECE 243B",
+  "title": "Optical Fiber Communication",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece243b",
+  "description": "Optical fibers, waveguides, laser communication system. Modulation and demodulation; detection processes and communication-receivers. Recommended preparation: ECE 240A-B-C or equivalent. Prerequisites: ECE 243A; graduate standing.",
+  "prereqs": "ECE 243A"
+}

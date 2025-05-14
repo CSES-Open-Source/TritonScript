@@ -1,0 +1,19 @@
+{
+  "code": "ECE 140A",
+  "title": "The Art of Product Engineering I",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece140a",
+  "description": "Building on a solid foundation of electrical and computer engineer skills, this course strives to broaden student skills in software, full-stack engineering, and concrete understanding of methods related to the realistic development of a commercial product. Students will research, design, and develop an IOT device to serve an emerging market. Prerequisites: CSE 8B or CSE 11 or ECE 15.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CSE 8B",
+      "CSE 11",
+      "ECE 15"
+    ]
+  },
+  "successors": [
+    "ECE 140B"
+  ]
+}

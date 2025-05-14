@@ -1,0 +1,34 @@
+{
+  "code": "DSC 80",
+  "title": "The Practice and Application of Data Science",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc80",
+  "description": "The marriage of data, computation, and inferential thinking, or \u201cdata science,\u201d is redefining how people and organizations solve challenging problems and understand the world. This course bridges lower- and upper-division data science courses as well as methods courses in other fields. Students master the data science life-cycle and learn many of the fundamental principles and techniques of data science spanning algorithms, statistics, machine learning, visualization, and data systems. Prerequisites: DSC 30 and DSC 40A. Restricted to students within the DS25 major. All other students will be allowed as space permits.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 30",
+      "DSC 40A"
+    ]
+  },
+  "successors": [
+    "CSE 150A",
+    "CSE 150B",
+    "CSE 151A",
+    "CSE 152A",
+    "CSE 156",
+    "CSE 158",
+    "CSE 158R",
+    "CSE 166",
+    "DSC 100",
+    "DSC 106",
+    "DSC 120",
+    "DSC 140A",
+    "DSC 140B",
+    "DSC 148",
+    "DSC 160",
+    "DSC 167",
+    "DSC 170"
+  ]
+}

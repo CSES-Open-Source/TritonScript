@@ -1,0 +1,26 @@
+{
+  "code": "ECON 190",
+  "title": "An Introduction to Research in Economics",
+  "units": "2",
+  "dept": "ECON",
+  "anchor": "econ190",
+  "description": "Provides students with tools to carry out their own research in economics. Tools include learning meaningful information sources, including economics datasets and literature databases. Develops the skills to write key sections of an academic article in economics, such as a section including results or a section connecting a research idea to the existing literature. Prerequisites: ECON 100A and ECE 109 or ECON 120A or MATH 181A or MATH 186 or MATH 183 or MAE 108 or MATH 180A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 100A",
+      {
+        "type": "one",
+        "courses": [
+          "ECE 109",
+          "ECON 120A",
+          "MATH 181A",
+          "MATH 186",
+          "MATH 183",
+          "MAE 108",
+          "MATH 180A"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "code": "MAE 131B",
+  "title": "Fundamentals of Solid Mechanics II",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae131b",
+  "description": "Analysis of 3-D states of stress and strain. Governing equations of linear elasticity. Solution of elasticity problems in rectangular and polar coordinates. Stress concentration. Failure criteria. Torsion of noncircular and thin walled members. Energy methods. Plastic collapse and limit analysis. Prerequisites: MAE 131A or SE 110A and MAE 105. Enrollment restricted to engineering majors only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MAE 131A",
+          "SE 110A"
+        ]
+      },
+      "MAE 105"
+    ]
+  },
+  "successors": [
+    "MAE 156B",
+    "SE 131A",
+    "SE 171"
+  ]
+}

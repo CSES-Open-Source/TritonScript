@@ -1,0 +1,27 @@
+{
+  "code": "ECON 119",
+  "title": "Law and Economics: Contracts and Corporations",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ119",
+  "description": "This course asks how firms are organized and why the corporate form dominates, how corporations are governed and the distortions that result, when firms borrow and how they deal with financial distress and bankruptcy. The course will present basic legal doctrines in corporate law, contract law, debtor-creditor law, and bankruptcy, and use economic models to analyze whether and when these doctrines promote economically efficient behavior. Prerequisites: ECON 2 or 100A and MATH 10A or 20A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "ECON 2",
+          "ECON 100A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 10A",
+          "MATH 20A"
+        ]
+      }
+    ]
+  }
+}

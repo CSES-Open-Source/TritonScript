@@ -1,0 +1,11 @@
+{
+  "code": "MATH 257A",
+  "title": "Topics in Differential Geometry",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math257a",
+  "description": "Introduction to varied topics in differential geometry. In recent years, topics have included Morse theory and general relativity. May be taken for credit six times with consent of adviser. Prerequisites: graduate standing. Nongraduate students may enroll with consent of instructor.",
+  "successors": [
+    "MATH 257B"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "ECON 171",
+  "title": "Decisions Under Uncertainty",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ171",
+  "description": "Decision making when the consequences are uncertain. Decision trees, payoff tables, decision criteria, expected utility theory, risk aversion, and applications to investments and asset pricing. Prerequisites: ECON 100A and ECE 109 or MAE 108 or MATH 181A or ECON 120A or MATH 180A or MATH 183 or MATH 186 or MATH 180B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 100A",
+      {
+        "type": "one",
+        "courses": [
+          "ECE 109",
+          "MAE 108",
+          "MATH 181A",
+          "ECON 120A",
+          "MATH 180A",
+          "MATH 183",
+          "MATH 186",
+          "MATH 180B"
+        ]
+      }
+    ]
+  }
+}

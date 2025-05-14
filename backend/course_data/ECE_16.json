@@ -1,0 +1,21 @@
+{
+  "code": "ECE 16",
+  "title": "Rapid Hardware and Software Design for Interfacing with the World",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece16",
+  "description": "Students are introduced to embedded systems concepts with structured development of a computer controller based on electromyogram (EMG) signals through four lab assignments through the quarter. Key concepts include sampling, signal processing, communication, and real-time control. Students will apply their prior knowledge in C (from ECE15) to program microcontrollers and will engage in data analysis using the Python programming language. Prerequisites: MAE 8 or CSE 8B or CSE 11 or ECE 15.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 8",
+      "CSE 8B",
+      "CSE 11",
+      "ECE 15"
+    ]
+  },
+  "successors": [
+    "ECE 115",
+    "ECE 143"
+  ]
+}

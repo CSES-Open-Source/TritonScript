@@ -1,0 +1,19 @@
+{
+  "code": "ECE 111",
+  "title": "Advanced Digital Design Project",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece111",
+  "description": "Advanced topics in digital circuits and systems. Use of computers and design automation tools. Hazard elimination, synchronous/asynchronous FSM synthesis, synchronization and arbitration, pipelining and timing issues. Problem sets and design exercises. A large-scale design project. Simulation and/or rapid prototyping. Prerequisites: ECE 25 or CSE 140.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "ECE 25",
+      "CSE 140"
+    ]
+  },
+  "successors": [
+    "CSE 118",
+    "CSE 241A"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "PHYS 173",
+  "title": "Modern Physics Laboratory: Biological and Quantum Physics",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys173",
+  "description": "A selection of experiments in contemporary physics and biophysics. Students select among pulsed NMR, Mossbauer, Zeeman effect, light scattering, holography, optical trapping, voltage clamp and genetic transcription of ion channels in oocytes, fluorescent imaging, and flight control in flies. Prerequisites: PHYS 120 and BILD 1 and CHEM 7L.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 120",
+      "BILD 1",
+      "CHEM 7L"
+    ]
+  }
+}

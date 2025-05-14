@@ -1,0 +1,8 @@
+{
+  "code": "NEUG 240",
+  "title": "Mathematical Foundations for Computational Neuroscience",
+  "units": "3",
+  "dept": "NEU",
+  "anchor": "neug240",
+  "description": "This course teaches mathematical concepts in neuroscience to students inexperienced in computation and mathematics. Topics from linear algebra, calculus, information theory, digital signal processing, graph theory, and machine learning will be covered. An optional weekly tutorial will teach computing basics. Priority enrollment is given to PhD students. MS students may enroll with instructor approval. Calculus AB is recommended but not required."
+}

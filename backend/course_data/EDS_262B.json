@@ -1,0 +1,12 @@
+{
+  "code": "EDS 262B",
+  "title": "Dissertation Writing Seminar",
+  "units": "4",
+  "dept": "EDS",
+  "anchor": "eds262b",
+  "description": "This seminar provides an opportunity for doctoral candidates to present and critique in-progress dissertation research and writing. Topics addressed will also include writing for professional publications and presenting research findings to varied audiences. This is the second of a three-course series. Prerequisites: EDS 262A, and admission into the EdD program or consent of instructor.",
+  "prereqs": "EDS 262A",
+  "successors": [
+    "EDS 262C"
+  ]
+}

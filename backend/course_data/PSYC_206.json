@@ -1,0 +1,8 @@
+{
+  "code": "PSYC 206",
+  "title": "Mathematical Modeling",
+  "units": "4",
+  "dept": "PSYC",
+  "anchor": "psyc206",
+  "description": "This course is designed to teach the basics of mathematical modeling. Topics include when, why, and how to use signal detection theory (an essential theory for anyone interested in attention, perception, memory, or decision making), how to analyze reaction time distributions (instead of simply measuring mean RT), how to engage in the fine art of model comparison, and how to avoid creating models that are more complex than the data they seek to explain."
+}

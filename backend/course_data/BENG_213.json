@@ -1,0 +1,9 @@
+{
+  "code": "BENG 213",
+  "title": "Systems Biology and Bioengineering III: Building and Simulating Large-Scale in Silico Models",
+  "units": "4",
+  "dept": "BENG",
+  "anchor": "beng213",
+  "description": "Analysis of biological data can be performed at four levels: 1) statistical analysis, 2) integration of knowledge, 3) integration of networks, and 4) integration of biophysical laws. This course teaches the last two levels. The third level consists of integrating data in the context of genome-scale models to simulate and predict cellular phenotypes. The fourth level consists of analyzing data in the context of kinetic and thermodynamic laws that govern cellular function. Prerequisites: BENG 212 and graduate standing. (S)",
+  "prereqs": "BENG 212"
+}

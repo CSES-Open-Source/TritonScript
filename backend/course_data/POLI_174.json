@@ -1,0 +1,15 @@
+{
+  "code": "POLI 174",
+  "title": "Analyzing Elections",
+  "units": "4",
+  "dept": "POLI",
+  "anchor": "poli174",
+  "description": "This course is concerned with the political economy of elections. It will analyze key topics in political science using both theoretical and empirical tools. Specific topics covered include party and candidate strategy, electoral campaigns, the role and origins of parties, electoral accountability, and voter behavior.\u00a0Prerequisites: POLI 112A\u00a0or\u00a0POLI 118.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "POLI 112A",
+      "POLI 118"
+    ]
+  }
+}

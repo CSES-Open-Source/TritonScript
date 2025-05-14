@@ -1,0 +1,15 @@
+{
+  "code": "PHB 248",
+  "title": "Applied Survival Analysis",
+  "units": "4",
+  "dept": "FMPH",
+  "anchor": "phb248",
+  "description": "Survival analysis has applications in biomedicine, economics, and engineering. It deals with the analysis of time-to-events data with censoring and truncation. This course discusses concepts and methods, comparing survival distributions, proportional hazards and other regression models, competing risks data, and design of survival studies. The emphasis is on semiparametric approaches, and material is drawn from recent literature including machine learning methods. Prerequisites: FMPH 244B or PHB 244B.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "FMPH 244B",
+      "PHB 244B"
+    ]
+  }
+}

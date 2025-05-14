@@ -1,0 +1,8 @@
+{
+  "code": "DSE 241",
+  "title": "Data Visualization",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "dse241",
+  "description": "The goal for the course is to use visualization as a tool to explore trends, relationships, confirm hypotheses, communicate findings, and gain insight about data. This course will focus on teaching students the principles and techniques for creating visual representation from raw data. The course exercises will be based on publicly available datasets and utilize freely available tools like D3.js and VisIt. The course will be modeled similar to Stanford\u2019s visualization CS 448 course and will include an introduction to visualization, vis foundation review, color, interaction, dashboards and heat maps, introduction to D3.js, high dimensional data, network data, geographic data, text data, scientific visualization: isosurface, volume rendering, and introduction to VisIt."
+}

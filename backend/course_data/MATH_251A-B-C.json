@@ -1,0 +1,15 @@
+{
+  "code": "MATH 251A-B-C",
+  "title": "Lie Groups",
+  "units": "4-4-4",
+  "dept": "MATH",
+  "anchor": "math251c",
+  "description": "Lie groups, Lie algebras, exponential map, subgroup subalgebra correspondence, adjoint group, universal enveloping algebra. Structure theory of semisimple Lie groups, global decompositions, Weyl group. Geometry and analysis on symmetric spaces. Prerequisites: MATH 200 and 250 or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MATH 200",
+      "MATH 250"
+    ]
+  }
+}

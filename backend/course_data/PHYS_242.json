@@ -1,0 +1,8 @@
+{
+  "code": "PHYS 242",
+  "title": "Computational Physics II: PDE and Matrix Models",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys242",
+  "description": "Project-based computational physics laboratory course for modern physics and engineering problems with student\u2019s choice of Fortran90/95 or C/C++. Applications of finite element PDE models are chosen from quantum mechanics and nanodevices, fluid dynamics, electromagnetism, materials physics, and other modern topics."
+}

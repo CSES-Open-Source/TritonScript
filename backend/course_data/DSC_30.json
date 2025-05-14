@@ -1,0 +1,19 @@
+{
+  "code": "DSC 30",
+  "title": "Data Structures and Algorithms for Data Science",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc30",
+  "description": "Builds on topics covered in DSC 20 and provides practical experience in composing larger computational systems through several significant programming projects using Java. Students will study advanced programming techniques including encapsulation, abstract data types, interfaces, algorithms and complexity, and data structures such as stacks, queues, priority queues, heaps, linked lists, binary trees, binary search trees, and hash tables. Prerequisites: DSC 20. Restricted to students within the DS25 major. All other students will be allowed as space permits.",
+  "prereqs": "DSC 20",
+  "successors": [
+    "COGS 120",
+    "COGS 121",
+    "COGS 127",
+    "CSE 101",
+    "CSE 152A",
+    "CSE 15L",
+    "CSE 170",
+    "DSC 80"
+  ]
+}

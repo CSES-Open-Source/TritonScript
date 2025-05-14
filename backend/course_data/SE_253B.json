@@ -1,0 +1,12 @@
+{
+  "code": "SE 253B",
+  "title": "Mechanics and Design of Composite Structures II",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se253b",
+  "description": "Advanced topics, with prerequisite being SE 253A, or equivalent. Macro- and micro-material modeling, classical and shear deformable laminate beam and plate theories developed via energy principles, Ritz, Galerkin, and Finite element based solutions, advanced failure theories, fracture, holes/notches and hole-size effect, interlaminar stresses, free-edge problems, impact, damage tolerance, fatigue, elastic tailoring, thermally stabile/zero CTE structures, etc. Prerequisites: SE 253A or equivalent, graduate standing.",
+  "prereqs": "SE 253A",
+  "successors": [
+    "SE 253C"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CHEM 146",
+  "title": "Kinetics and Mechanism of Organic Reactions",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem146",
+  "description": "Methodology of mechanistic organic chemistry; integration of rate expression, determination of rate constants, transition state theory; catalysis, kinetic orders, isotope effects, solvent effects, linear free energy relationship; product studies, stereochemistry; reactive intermediates; rapid reactions. May be coscheduled with CHEM 246. Prerequisites: CHEM 40C, 40CH, or 41C.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 40C",
+      "CHEM 40CH",
+      "CHEM 41C"
+    ]
+  }
+}

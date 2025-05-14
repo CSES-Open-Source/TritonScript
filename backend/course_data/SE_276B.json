@@ -1,0 +1,12 @@
+{
+  "code": "SE 276B",
+  "title": "Finite Element Methods in Solid Mechanics II",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se276b",
+  "description": "Finite element methods for linear problems in structural dynamics. Beam, plate, and doubly curved shell elements are derived. Strategies for eliminating shear locking problems are introduced. Formulation and numerical solution of the equations of motion for structural dynamics are introduced and the effect of different mass matrix formulations on the solution accuracy is explored. Prerequisites: graduate standing and SE 276A.",
+  "prereqs": "SE 276A",
+  "successors": [
+    "SE 280"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "MUS 126",
+  "title": "Blues: An Oral Tradition",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus126",
+  "description": "This course will examine the development of the Blues from its roots in work-songs and the minstrel show to its flowering in the Mississippi Delta to the development of Urban Blues and the close relationship of the Blues with Jazz, Rhythm and Blues, and Rock and Roll. (Cross-listed with ETHN 178.) Prerequisites: upper-division standing or consent of instructor.",
+  "successors": [
+    "MUS 150"
+  ]
+}

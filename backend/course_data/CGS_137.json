@@ -1,0 +1,23 @@
+{
+  "code": "CGS 137",
+  "title": "Latina Issues and Cultural Production",
+  "units": "4",
+  "dept": "CGS",
+  "anchor": "cgs137",
+  "description": "(Cross-listed with ETHN 137.) This course will focus on the intersection of labor, class, race, ethnicity, gender, sexuality, and immigration in Latina cultural production.\u00a0Examined from a socioeconomic, feminist, and cultural perspective, class readings will allow for historically grounded analyses of these issues.\u00a0May be taken for credit three times. Prerequisites: CGS 2A-B, ETHN 1, 2, or 3, at least one CGS or ETHN upper-division course, or permission of the instructor. Students may receive a combined total of twelve units for CGS 137 and ETHN 137.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      {
+        "type": "all",
+        "courses": [
+          "CGS 2A",
+          "CGS 2B"
+        ]
+      },
+      "ETHN 1",
+      "ETHN 2",
+      "ETHN 3"
+    ]
+  }
+}

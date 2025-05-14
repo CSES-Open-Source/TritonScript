@@ -1,0 +1,9 @@
+{
+  "code": "MATH 287D",
+  "title": "Statistical Learning",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math287d",
+  "description": "Topics include regression methods: (penalized) linear regression and kernel smoothing; classification methods: logistic regression and support vector machines; model selection; and mathematical tools and concepts useful for theoretical results such as VC dimension, concentration of measure, and empirical processes. Students who have not taken MATH 282A may enroll with consent of instructor. Prerequisites: MATH 282A or consent of instructor.",
+  "prereqs": "MATH 282A"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CHEM 151",
+  "title": "Molecules that Changed the World",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem151",
+  "description": "A look at some of nature\u2019s most intriguing molecules and the ability to discover, synthesize, modify, and use them. The role of chemistry in society, and how chemical synthesis\u2014the art and science of constructing molecules\u2014shapes our world. Prerequisites: CHEM 40A, 40AH, or 41A.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "CHEM 40A",
+      "CHEM 40AH",
+      "CHEM 41A"
+    ]
+  }
+}

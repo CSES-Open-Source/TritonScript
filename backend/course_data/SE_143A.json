@@ -1,0 +1,19 @@
+{
+  "code": "SE 143A",
+  "title": "Aerospace Structural Design I",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se143a",
+  "description": "Conceptual and preliminary structural design of aircraft and space vehicles. Minimum-weight design of primary structures based upon mission requirements and configuration constraints. Multicriteria decision making. Team projects include layout, material selection, component sizing, fabrication, and cost. Oral presentations. Written reports. Use of computer resources. Program or materials fees may apply. Prerequisites: SE 3, SE 142, and SE 160B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SE 3",
+      "SE 142",
+      "SE 160B"
+    ]
+  },
+  "successors": [
+    "SE 143B"
+  ]
+}

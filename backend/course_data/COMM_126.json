@@ -1,0 +1,22 @@
+{
+  "code": "COMM 126",
+  "title": "Children and Media",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm126",
+  "description": "A course that analyzes the influence of media on children\u2019s behavior and thought processes. The course takes a historical perspective, beginning with children\u2019s print literature, encompassing movies, music, television, and computers. Students will study specific examples of media products intended for children and apply various analytic techniques, including content analysis and experimentation to these materials. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

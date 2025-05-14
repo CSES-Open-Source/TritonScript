@@ -1,0 +1,12 @@
+{
+  "code": "SE 160B",
+  "title": "Aerospace Structural Mechanics II",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se160b",
+  "description": "Analysis of aerospace structures via work-energy principles and finite element analysis. Bending of metallic and laminated composite plates and shells. Static vibration and buckling analysis of simple and built-up aircraft structures. Introduction to wing divergence and flutter, fastener analysis. Prerequisites: SE 160A. Enrollment restricted to MC25, MC27, and SE27 majors only.",
+  "prereqs": "SE 160A",
+  "successors": [
+    "SE 143A"
+  ]
+}

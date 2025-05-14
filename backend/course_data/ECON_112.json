@@ -1,0 +1,21 @@
+{
+  "code": "ECON 112",
+  "title": "Macroeconomic Data Analysis",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ112",
+  "description": "Examines time series methods for data analysis with an emphasis on macroeconomic applications. Students are provided with an overview of fundamental time series techniques, hands-on experience in applying them to real-world macroeconomic data, and expertise in performing empirical tests of policy-relevant macroeconomic theories, such as the permanent income hypothesis, the Keynesian fiscal multiplier, and the Phillips curve. Prerequisites: ECON 110B and ECON 120B or MATH 181B. Enrollment limited to majors in the Department of Economics and MA33 only.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 110B",
+      {
+        "type": "one",
+        "courses": [
+          "ECON 120B",
+          "MATH 181B"
+        ]
+      }
+    ]
+  }
+}

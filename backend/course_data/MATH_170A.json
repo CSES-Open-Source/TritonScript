@@ -1,0 +1,39 @@
+{
+  "code": "MATH 170A",
+  "title": "Introduction to Numerical Analysis: Linear Algebra",
+  "units": "4",
+  "dept": "MATH",
+  "anchor": "math170a",
+  "description": "This course covers analysis of numerical methods for linear algebraic systems and least squares problems. Topics include orthogonalization methods. Ill conditioned problems. Eigenvalue and singular value computations. Knowledge of programming recommended. Prerequisites: MATH 18 or MATH 31AH, and MATH 20C or MATH 31BH and CSE 20 or MATH 15A or MATH 31CH or MATH 109. Students who have not completed the listed prerequisites may enroll with consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "CSE 20",
+          "MATH 15A",
+          "MATH 31CH",
+          "MATH 109"
+        ]
+      }
+    ]
+  },
+  "successors": [
+    "MATH 170B"
+  ]
+}

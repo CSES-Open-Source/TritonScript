@@ -1,0 +1,15 @@
+{
+  "code": "MAE 263",
+  "title": "Experimental Methods in Cell Mechanics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae263",
+  "description": "Methods to measure mechanical aspects of cellular nature and behavior such as intracellular rheology, intracellular force distribution and propagation, cell adhesion strength, generation of propulsive forces during locomotion, interaction with the extracellular matrix, and response to external mechanical stimuli. Prerequisites: MAE 209 or MAE 210A, and graduate standing.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "MAE 209",
+      "MAE 210A"
+    ]
+  }
+}

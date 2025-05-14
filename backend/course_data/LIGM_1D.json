@@ -1,0 +1,15 @@
+{
+  "code": "LIGM 1D",
+  "title": "German Conversation",
+  "units": "2.5",
+  "dept": "LING",
+  "anchor": "ligm1d",
+  "description": "Small conversation sections taught entirely in German. Emphasis on speaking, reading, writing, and culture. Practice of the language functions needed for successful communication. Must be taken in conjunction with LIGM 1DX. Successful completion of LIGM 1D and LIGM 1DX satisfies the requirement for language proficiency in Eleanor Roosevelt and Revelle Colleges. Prerequisites: LIGM 1C with a grade of C\u2013 or better, or equivalent and LIGM 1CX with a grade of D or better, or equivalent.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "LIGM 1C",
+      "LIGM 1CX"
+    ]
+  }
+}

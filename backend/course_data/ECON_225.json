@@ -1,0 +1,18 @@
+{
+  "code": "ECON 225",
+  "title": "Forecasting",
+  "units": "4",
+  "dept": "ECON",
+  "anchor": "econ225",
+  "description": "Topics include testing for rationality of forecasts, Mincer-Zarnowitz regressions, asymmetric loss functions, tests for equal (superior) predictive ability, multivariate forecasting. Prerequisites: graduate standing and ECON 220A, 220B, 220C, 220D, and 220E or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ECON 220A",
+      "ECON 220B",
+      "ECON 220C",
+      "ECON 220D",
+      "ECON 220E"
+    ]
+  }
+}

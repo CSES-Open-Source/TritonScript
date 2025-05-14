@@ -1,0 +1,21 @@
+{
+  "code": "SIO 102",
+  "title": "Introduction to Geochemistry",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sio102",
+  "description": "An introduction to the chemical composition and evolution of the Earth and solar system. Applications of chemical methods to elucidate the origin and geologic history of the Earth and the planets, evolution of oceans and atmosphere, and human environmental impacts. Prerequisites: SIO 50, CHEM 6A-B-C, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "SIO 50",
+      "CHEM 6A",
+      "CHEM 6B",
+      "CHEM 6C"
+    ]
+  },
+  "successors": [
+    "SIO 144",
+    "SIO 155"
+  ]
+}

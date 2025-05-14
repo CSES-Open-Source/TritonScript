@@ -1,0 +1,15 @@
+{
+  "code": "PHYS 113",
+  "title": "Quantum Information is Physical",
+  "units": "4",
+  "dept": "PHYS",
+  "anchor": "phys113",
+  "description": "The subject of the course is physical aspects of quantum information. Following a primer on Shannon\u2019s theory on the compression and transmission of information, emphasizing its physical nature, the theory is extended to quantum systems. This includes measures of entanglement and their operational meanings, purification, and strong subadditivity of the von Neumann entropy. Further topics may include applications to quantum many-body physics, quantum algorithms, and quantum complexity theory. May be coscheduled with PHYS 213. Prerequisites: PHYS 130A-B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "PHYS 130A",
+      "PHYS 130B"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "VIS 196B",
+  "title": "Art History Honors Thesis II",
+  "units": "4",
+  "dept": "VIS",
+  "anchor": "vis196b",
+  "description": "This is the final of a two-quarter advanced-level sequence. This sequence coordinates two consecutive independent research courses to culminate in a completed thesis of study in art history. After the thesis completion, the faculty involved in the project will determine whether the student will graduate with departmental honors. Prerequisites: VIS 196A.",
+  "prereqs": "VIS 196A"
+}

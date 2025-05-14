@@ -1,0 +1,17 @@
+{
+  "code": "ETHN 2",
+  "title": "Introduction to Ethnic Studies: Circulations of Difference",
+  "units": "4",
+  "dept": "ETHN",
+  "anchor": "ethn2",
+  "description": "Focusing on historical and contemporary migration and the circulation of commodities, knowledge, bodies, and culture, this course looks at how racial formation is shaped and contested by such movements within national and transnational contexts. Students may not receive credit for both ETHN 2R and ETHN 2.",
+  "successors": [
+    "CGS 137",
+    "CGS 147",
+    "CGS 150",
+    "CGS 165",
+    "CGS 187",
+    "EDS 120",
+    "ETHN 100A"
+  ]
+}

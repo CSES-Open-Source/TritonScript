@@ -1,0 +1,12 @@
+{
+  "code": "MUS 1A",
+  "title": "Fundamentals of Music A",
+  "units": "4",
+  "dept": "MUS",
+  "anchor": "mus1a",
+  "description": "This course, first in a three-quarter sequence, is primarily intended for students without previous musical experience. It introduces music notation and basic music theory topics such as intervals, scales, keys, and chords, as well as basic rhythm skills. Prerequisites: none.",
+  "successors": [
+    "MUS 170",
+    "MUS 1B"
+  ]
+}

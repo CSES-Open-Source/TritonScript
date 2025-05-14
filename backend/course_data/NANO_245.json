@@ -1,0 +1,9 @@
+{
+  "code": "NANO 245",
+  "title": "Nanoelectronics",
+  "units": "4",
+  "dept": "NANO",
+  "anchor": "nano245",
+  "description": "An introduction to the nano electronics and nanospintronics; fundamentals of semiconductors; electronic band structure theory, electron transport in semiconductors and nano structures, nano devices. Prerequisites: NANO 201.",
+  "prereqs": "NANO 201"
+}

@@ -1,0 +1,15 @@
+{
+  "code": "MAE 261",
+  "title": "Cardiovascular Fluid Mechanics",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae261",
+  "description": "Topics in the mechanics of blood flow including analytical solutions for flow in deformable vessels, one-dimensional equations, cardiovascular anatomy, lumped parameter models, vascular trees, scaling laws, and an introduction to the biomechanics and treatment of adult and congenital cardiovascular diseases. Prerequisites: MAE 210A and 290A, or consent of instructor.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MAE 210A",
+      "MAE 290A"
+    ]
+  }
+}

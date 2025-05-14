@@ -1,0 +1,9 @@
+{
+  "code": "MAE 153",
+  "title": "Design of Machine Components",
+  "units": "4",
+  "dept": "MAE",
+  "anchor": "mae153",
+  "description": "An introduction to the fundamentals of machine design in mechanical and aerospace engineering. The course covers the principles of failure theories, design methodologies, and their application in essential machine elements and structures. Topics include analyzing components by applying the theories from statics, dynamics, and mechanics of materials; static and fatigue failure theories; and designing machine components, including shafts, gears, bearings, fasteners, and geometric dimensioning and tolerancing. Prerequisites: MAE 131A.",
+  "prereqs": "MAE 131A"
+}

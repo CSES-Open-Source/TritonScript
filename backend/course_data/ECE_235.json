@@ -1,0 +1,8 @@
+{
+  "code": "ECE 235",
+  "title": "Nanometer-Scale VLSI Devices",
+  "units": "4",
+  "dept": "ECE",
+  "anchor": "ece235",
+  "description": "This course covers modern research topics in sub-100 nm scale, state-of-the-art silicon VLSI devices. Starting with the fundamentals of CMOS scaling to nanometer dimensions, various advanced device and circuit concepts, including RF CMOS, low power CMOS, silicon memory, silicon-on-insulator, SiGe bipolar, strained silicon MOSFET\u2019s, etc. will be taught. The physics of near-ballistic transport in an ultimately scaled 10 nm MOSFET will be discussed in light of the recently developed scattering theory. Prerequisites: graduate standing."
+}

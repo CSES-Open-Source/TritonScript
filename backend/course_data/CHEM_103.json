@@ -1,0 +1,9 @@
+{
+  "code": "CHEM 103",
+  "title": "Mass Spectrometry in Research Laboratory",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem103",
+  "description": "Mass spectrometry (MS) is used in a variety of industries including biotechnology, forensic science, and environmental science amongst others. In recent years, MS instrumentation has undergone many advancements that have increased speed, sensitivity, and dynamic range. This has increased the number of applications for which the method can be used. This course will provide students with hands-on instruction in the use of MS instruments specifically for protein-based applications. (May not be offered every year.) Prerequisites: CHEM 163 or consent of instructor.",
+  "prereqs": "CHEM 163"
+}

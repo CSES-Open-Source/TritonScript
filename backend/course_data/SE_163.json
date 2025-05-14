@@ -1,0 +1,9 @@
+{
+  "code": "SE 163",
+  "title": "Nondestructive Evaluation",
+  "units": "4",
+  "dept": "SE",
+  "anchor": "se163",
+  "description": "Fourier signal processing, liquid penetrant, elastic wave propagation, ultrasonic testing, impact-echo, acoustic emission testing, vibrational testing, infrared thermography. May be coscheduled with SE 263. Prerequisites: SE 110A or consent of instructor.",
+  "prereqs": "SE 110A"
+}

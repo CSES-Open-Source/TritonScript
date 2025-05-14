@@ -1,0 +1,29 @@
+{
+  "code": "DSC 180A",
+  "title": "Data Science Project I",
+  "units": "4",
+  "dept": "DSC",
+  "anchor": "dsc180a",
+  "description": "In this two-course sequence students will investigate a topic and design a system to produce statistically informed output. The investigation will span the entire lifecycle, including assessing the problem, learning domain knowledge, collecting/cleaning data, creating a model, addressing ethical issues, designing the system, analyzing the output, and presenting the results. 180A deals with research, methodology, and system design. Students will produce a research summary and a project proposal. Prerequisites: DSC 102 and MATH 189 and CSE 151A or COGS 188 or CSE 158 or CSE 158R or DSC 148 and DSC 106. Restricted to students with upper-division standing. Restricted to students within the DS25 major.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "DSC 102",
+      "MATH 189",
+      {
+        "type": "one",
+        "courses": [
+          "CSE 151A",
+          "COGS 188",
+          "CSE 158",
+          "CSE 158R",
+          "DSC 148"
+        ]
+      },
+      "DSC 106"
+    ]
+  },
+  "successors": [
+    "DSC 180B"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "PHYS 259A",
+  "title": "Methods in Quantitative Biology",
+  "units": "2",
+  "dept": "PHYS",
+  "description": "Critical analysis of methods used to collect and analyze biological data. Topics include general aspects of experimental conditions for data collection and strategy of mathematical modeling, as well as specific methodologies in image acquisition, single cell analysis, population dynamics, and statistical data analysis. These topics will be covered through critical reading, peer discussion, problem solving on case studies selected by the instructors. (S/U grades only.)",
+  "successors": [
+    "PHYS 259B"
+  ]
+}

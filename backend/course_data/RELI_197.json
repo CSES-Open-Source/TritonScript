@@ -1,0 +1,15 @@
+{
+  "code": "RELI 197",
+  "title": "Directed Advanced Readings",
+  "units": "4",
+  "dept": "RELI",
+  "anchor": "reli197",
+  "description": "A faculty member will direct a student in advanced readings on a topic not generally included in the Program for the Study of Religion\u2019s curriculum. Students must make arrangements with the program and individual faculty. May be repeated for credit up to three times for credit. Prerequisites: upper-division standing; RELI 110A or 110B; overall GPA of 2.5.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "RELI 110A",
+      "RELI 110B"
+    ]
+  }
+}

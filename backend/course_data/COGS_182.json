@@ -1,0 +1,44 @@
+{
+  "code": "COGS 182",
+  "title": "Introduction to Reinforcement Learning",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs182",
+  "description": "This course is an introduction to reinforcement learning, the subfield of machine learning concerned with how artificial agents learn to act in the world in order to maximize reward. Topics include MDPs, policy iteration, TD learning, Q-learning, function approximation, and deep RL. Prerequisites: COGS 18 or CSE 11 or CSE 8B and MATH 18 or MATH 31AH and MATH 180A and COGS 108 or COGS 109 or COGS 118B or CSE 150A or CSE 150B or CSE 151A or CSE 151B or CSE 158 or ECE 174 or ECE 175A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "COGS 18",
+          "CSE 11",
+          "CSE 8B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 18",
+          "MATH 31AH"
+        ]
+      },
+      "MATH 180A",
+      {
+        "type": "one",
+        "courses": [
+          "COGS 108",
+          "COGS 109",
+          "COGS 118B",
+          "CSE 150A",
+          "CSE 150B",
+          "CSE 151A",
+          "CSE 151B",
+          "CSE 158",
+          "ECE 174",
+          "ECE 175A"
+        ]
+      }
+    ]
+  }
+}

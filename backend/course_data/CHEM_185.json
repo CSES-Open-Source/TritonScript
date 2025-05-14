@@ -1,0 +1,29 @@
+{
+  "code": "CHEM 185",
+  "title": "Quantum Chemistry Lab",
+  "units": "4",
+  "dept": "CHEM",
+  "anchor": "chem185",
+  "description": "Course in computational methods, with focus on quantum chemistry. The course content is built on a background in mathematics and physical chemistry, and provides an introduction to computational theory, ab initio methods, and semiempirical methods. The emphasis is on applications and reliability. May be coscheduled with CHEM 285. Prerequisites: CHEM 126 or 126B or 130 or 133 and MATH 20C or 31BH. (May not be offered every year.)",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "CHEM 126",
+          "CHEM 126B",
+          "CHEM 130",
+          "CHEM 133"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "MATH 20C",
+          "MATH 31BH"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "code": "DSC 90",
+  "title": "Seminar in Data Science",
+  "units": "2",
+  "dept": "DSC",
+  "anchor": "dsc90",
+  "description": "Students will learn about a variety of topics in data science through interactive presentations from faculty and industry professionals.\u00a0May be taken for credit up to four times.\u00a0Prerequisites:\u00a0DSC 10. Restricted to students within the DS25 major. All other students will be allowed as space permits.",
+  "prereqs": "DSC 10"
+}

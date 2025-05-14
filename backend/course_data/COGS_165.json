@@ -1,0 +1,17 @@
+{
+  "code": "COGS 165",
+  "title": "Neuroimaging of Cognition",
+  "units": "4",
+  "dept": "COGS",
+  "anchor": "cogs165",
+  "description": "Introduction to functional magnetic resonance imaging (fMRI) methods for cognitive neuroscience research. This course will cover basic aspects of the physics and biological principles underlying MRI and fMRI, technical aspects of experimental design and data collection for fMRI, as well as basic data processing and analysis approaches. Prerequisites: COGS 107B or COGS 107C or PSYC 106 or PSYC 108.",
+  "prereqs": {
+    "type": "one",
+    "courses": [
+      "COGS 107B",
+      "COGS 107C",
+      "PSYC 106",
+      "PSYC 108"
+    ]
+  }
+}

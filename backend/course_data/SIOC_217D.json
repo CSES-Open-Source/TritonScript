@@ -1,0 +1,34 @@
+{
+  "code": "SIOC 217D",
+  "title": "Atmospheric and Climate Sciences IV",
+  "units": "4",
+  "dept": "SIO",
+  "anchor": "sioc217d",
+  "description": "Atmospheric chemistry that impacts climate change, including photochemical reactions, ozone chemistry, and aerosol evolution in the troposphere and stratosphere. Atmospheric applications of catalytic cycles, heterogeneous chemistry, and microphysical processes will include the ozone hole, urban smog, and aerosol-cloud interactions. Prerequisites: SIOC 217A or SIO 217A and SIOC 217B or SIO 217B and SIOC 217C or SIO 217C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      {
+        "type": "one",
+        "courses": [
+          "SIOC 217A",
+          "SIO 217A"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SIOC 217B",
+          "SIO 217B"
+        ]
+      },
+      {
+        "type": "one",
+        "courses": [
+          "SIOC 217C",
+          "SIO 217C"
+        ]
+      }
+    ]
+  }
+}

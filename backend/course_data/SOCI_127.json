@@ -1,0 +1,11 @@
+{
+  "code": "SOCI 127",
+  "title": "Immigration, Race, and Ethnicity",
+  "units": "4",
+  "dept": "SOC",
+  "anchor": "soci127",
+  "description": "Examination of the role that race and ethnicity play in immigrant group integration. Topics include theories of integration, racial and ethnic identity formation, racial and ethnic change, immigration policy, public opinion, comparisons between contemporary and historical waves of immigration. Prerequisites: upper-division standing. Will not receive credit for SOCI 127 and SOCB 127.",
+  "successors": [
+    "EDS 120"
+  ]
+}

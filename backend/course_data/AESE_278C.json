@@ -1,0 +1,20 @@
+{
+  "code": "AESE 278C",
+  "title": "Modeling, Simulation, and Analysis",
+  "units": "4",
+  "dept": "MAS",
+  "anchor": "aese278c",
+  "description": "Model-driven architecture and development concepts, business process and workflow modeling, structured analysis and IDEF modeling methods, object-, component- and service-orientation and the Unified Modeling Language, event and stream models, colored Petri nets, executable architectures, distributed simulation for performance analysis. This course will meet from 8:00 a.m. to 5:00 p.m. every alternating Friday and Saturday. Prerequisites: enrollment in MAS-AESE, MGT 291, AESE 278A-B, or instructor approval. AESE 278C is cross-listed with CSE 278C, ECE 206, and MAE 278A.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "MGT 291",
+      "AESE 278A",
+      "AESE 278B"
+    ]
+  },
+  "successors": [
+    "AESE 278D",
+    "AESE 278E"
+  ]
+}

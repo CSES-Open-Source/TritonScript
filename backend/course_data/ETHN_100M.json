@@ -1,0 +1,15 @@
+{
+  "code": "ETHN 100M",
+  "title": "Critical Health and Medical Writing",
+  "units": "4",
+  "dept": "ETHN",
+  "anchor": "ethn100m",
+  "description": "This intensive capstone course focuses on reflective and analytical writing about the students\u2019 cumulative experiences with race, gender, and sexuality with respect to medical and health sciences. It prepares the students\u2019 professional portfolio and potential applications to graduate or medical schools. Students develop their professional voices as informed advocates for racial/gendered/classed justice in medicine and health via practicum-based projects. Prerequisites:\u00a0ETHN 100A and ETHN 100B.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "ETHN 100A",
+      "ETHN 100B"
+    ]
+  }
+}

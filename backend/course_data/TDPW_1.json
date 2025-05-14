@@ -1,0 +1,13 @@
+{
+  "code": "TDPW 1",
+  "title": "Introduction to Playwriting",
+  "units": "4",
+  "dept": "THEA",
+  "anchor": "tdpw1",
+  "description": "Beginning workshop in the fundamentals of playwriting. Students discuss material from a workbook that elucidates the basic principles of playwriting, do exercises designed to help them put those principles into creative practice, and are guided through the various stages of the playwriting process that culminate with in-class readings of the short plays they have completed. Prerequisites: none.",
+  "successors": [
+    "TDPW 101",
+    "TDPW 104",
+    "TDPW 190"
+  ]
+}

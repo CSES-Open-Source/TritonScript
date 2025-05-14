@@ -1,0 +1,8 @@
+{
+  "code": "CSE 231",
+  "title": "Compiler Construction",
+  "units": "4",
+  "dept": "CSE",
+  "anchor": "cse231",
+  "description": "(Formerly CSE 264C.) Advanced material in programming languages and translator systems. Topics include compilers and code optimization. May be coscheduled with CSE 131. Prerequisites: restricted to students within the CS75, CS76, CS78, CS88, and CS89 majors. All other students will be allowed as space permits."
+}

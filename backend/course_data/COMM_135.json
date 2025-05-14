@@ -1,0 +1,22 @@
+{
+  "code": "COMM 135",
+  "title": "Contemporary Minority Media Makers and the Festival Experience",
+  "units": "4",
+  "dept": "COMM",
+  "anchor": "comm135",
+  "description": "This advanced course examines, analyzes, and discusses media works by contemporary Asian American, Native American, African American, and Latina/o American filmmakers. The course does not offer a historical survey of films by minority makers but rather will operate on themes such as cultural identity, urbanization, personal relationships, gender relations, cultural retentions, and music. The course will require students to attend some off-campus screenings, especially those at area film festivals. Prerequisites: COMM 10 and one from COMM 100A, 100B, 100C.",
+  "prereqs": {
+    "type": "all",
+    "courses": [
+      "COMM 10",
+      {
+        "type": "one",
+        "courses": [
+          "COMM 100A",
+          "COMM 100B",
+          "COMM 100C"
+        ]
+      }
+    ]
+  }
+}

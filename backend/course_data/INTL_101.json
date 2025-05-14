@@ -1,0 +1,12 @@
+{
+  "code": "INTL 101",
+  "title": "Culture and Society in International Perspective",
+  "units": "4",
+  "dept": "INTL",
+  "anchor": "intl101",
+  "description": "Analysis of the cultural and social development of the modern era from the perspective of interaction among societies. Particular attention is paid to the definition, representation, and negotiation of social and cultural boundaries over time. Prerequisites: completion of INTL 100 with a grade of C\u2013 or better.",
+  "prereqs": "INTL 100",
+  "successors": [
+    "INTL 190"
+  ]
+}
