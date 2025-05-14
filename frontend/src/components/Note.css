@@ -14,45 +14,95 @@
     margin-bottom: 20px;
   }
   
-  .note-textarea {
-    background-color: #F5F5F5;
-    border-radius: 10px;
-    border: none;
-    resize: none;
-    height: 180px;
-    /* width: 150px; */
-    padding: 10px;
-    font-size: 14px;
-    line-height: 1.5;
-    outline: none;
-  }
+.note-textarea {
+  background-color: #F5F5F5;
+  border-radius: 10px;
+  border: none;
+  resize: none;
+  height: 180px;
+  /* width: 150px; */
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.5;
+  outline: none;
+}
+
+.note-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 15px;
+}
+
+.note-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.note-title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.note-meta,
+.note-professor {
+  margin: 2px 0;
+  font-size: 14px;
+}
+
+.note-dots {
+  cursor: pointer;
+  font-size: 24px;
+  color: black;
+}
   
-  .note-footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    margin-top: 15px;
-  }
-  
-  .note-info {
-    display: flex;
-    flex-direction: column;
-  }
-  
-  .note-title {
-    margin: 0;
-    font-size: 20px;
-    font-weight: bold;
-  }
-  
-  .note-meta,
-  .note-professor {
-    margin: 2px 0;
-    font-size: 14px;
-  }
-  
-  .note-dots {
-    font-size: 24px;
-    color: black;
-  }
-  
+.note-dots-container {
+  position: relative;
+}
+
+.note-options {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 5px;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  white-space: nowrap;
+}
+
+.note-option-add,
+.note-option-delete {
+  display: flex;
+  align-items: center;
+  background: none;
+  border: none;
+  padding: 5px 10px;
+  text-align: left;
+  width: 100%;
+  cursor: pointer;
+  color: black;
+  white-space: nowrap;
+}
+
+.note-option-delete {
+  color: red;
+}
+
+.note-option-icon {
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+  flex-shrink: 0;
+}
+
+.note-option-add:hover,
+.note-option-delete:hover {
+  background-color: #f0f0f0;
+}

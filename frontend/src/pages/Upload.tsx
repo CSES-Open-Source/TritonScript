@@ -4,6 +4,7 @@ import UploadModal from "../components/UploadModal";
 import "../../src/pages/Upload.css";
 import uploadIcon from "../assets/upload-icon.png";
 import settings from "../utils/config";
+import Note from "../components/Note.tsx";
 
 export default function Upload() {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -35,23 +36,38 @@ export default function Upload() {
         </button>
       </div>
 
-      <h2 className="past-notes-title">Past Notes</h2>
-
-      <div className="notes-grid-container">
-        <div className="notes-grid">
-          {userNotes.length > 0 ? (
-            userNotes.map((note, idx) => (
-              <div key={note.id || idx} className="note-placeholder">
+      <div className="past-notes-container">
+            <h3 className="past-notes-text">Past Notes</h3>
+              <div className="past-view">
+              <div className="note">
+              <Note
+                  title="Lecture 1"
+                  className="CSE120"
+                  quarter="SP25"
+                  professor="Ousterhoust"
+                  page="upload"
+                />
               </div>
-            ))
-          ) : (
-            // Display placeholders if no notes found
-            Array.from({ length: 5 }).map((_, idx) => (
-              <div key={idx} className="note-placeholder" />
-            ))
-          )}
+              <div className="note">
+              <Note
+                  title="Lecture 5"
+                  className="CSE30"
+                  quarter="SP24"
+                  professor="Muller"
+                  page="upload"
+                />
+              </div>
+              <div className="note">
+              <Note
+                  title="Dijktras"
+                  className="CSE101"
+                  quarter="FA24"
+                  professor="Jones"
+                  page="upload"
+                />
+              </div>
+            </div>
         </div>
-      </div>
 
       {isModalOpen && <UploadModal onClose={() => setIsModalOpen(false)} />}
     </div>

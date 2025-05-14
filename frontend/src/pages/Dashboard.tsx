@@ -100,6 +100,7 @@ export default function Dashboard() {
                   className="CSE120"
                   quarter="SP25"
                   professor="Ousterhoust"
+                  page="dashboard"
                 />
               </div>
               <div className="note">
@@ -108,6 +109,7 @@ export default function Dashboard() {
                   className="CSE30"
                   quarter="SP24"
                   professor="Muller"
+                  page="dashboard"
                 />
               </div>
               <div className="note">
@@ -116,6 +118,7 @@ export default function Dashboard() {
                   className="CSE101"
                   quarter="FA24"
                   professor="Jones"
+                  page="dashboard"
                 />
               </div>
               </div>
