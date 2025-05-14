@@ -7,9 +7,11 @@ import settings from "../utils/config";
 
 interface UploadModalProps {
     onClose: () => void;
+    terms: { value: string; text: string }[];
+    isLoadingTerms: boolean;
 }
 
-export default function UploadModal({ onClose, terms, isLoadingTerms }: UploadModalProps; {terms: { value: string; text: string }[]; isLoadingTerms: boolean;) {
+export default function UploadModal({ onClose, terms, isLoadingTerms }: UploadModalProps) {
     const { currentUser } = useSelector((state: any) => state.user);
     const [file, setFile] = useState<File | null>(null);
     const [isUploading, setIsUploading] = useState(false);

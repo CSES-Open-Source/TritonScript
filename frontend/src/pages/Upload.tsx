@@ -5,9 +5,11 @@ import "../../src/pages/Upload.css";
 import uploadIcon from "../assets/upload-icon.png";
 import settings from "../utils/config";
 
-export default function Upload() {
+export default function Upload( { terms, isLoadingTerms,}: {terms: { value: string; text: string }[];isLoadingTerms: boolean;}) {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [userNotes, setUserNotes] = useState([]);
+  // const [terms, setTerms] = useState<{ value: string; text: string }[]>([]);
+  // const [isLoadingTerms, setIsLoadingTerms] = useState(true);
   const { currentUser } = useSelector((state: any) => state.user);
 
   // Fetch user's previously uploaded notes
@@ -53,7 +55,13 @@ export default function Upload() {
         </div>
       </div>
 
-      {isModalOpen && <UploadModal onClose={() => setIsModalOpen(false)} />}
+      {isModalOpen && (
+        <UploadModal
+          onClose={() => setIsModalOpen(false)}
+          terms={terms}
+          isLoadingTerms={isLoadingTerms}
+        />
+      )}
     </div>
   );
 }

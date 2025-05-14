@@ -50,7 +50,7 @@ function App() {
           <Route element={<PrivateRoute />}>
             <Route path="/profile" element={<Profile />} />
             <Route path="/note" element={<Note />} />
-            <Route path="/upload" element={<Upload terms={terms} isLoadingTerms={isLoadingTerms}/>} />
+            <Route path="/upload" element={<Upload terms={terms} isLoadingTerms={isLoadingTerms} />} />
             <Route path="/dashboard" element={<Dashboard />} />
           </Route>
         </Routes>
