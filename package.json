@@ -2,5 +2,6 @@
   "dependencies": {
     "firebase": "^10.6.0",
     "pnpm": "^9.13.0"
-  }
+  },
+  "proxy": "http://localhost:5015"
 }

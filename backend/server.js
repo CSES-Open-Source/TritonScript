@@ -27,11 +27,11 @@ app.use((req, res, next) => {
 });
 
 // Routes
-app.use('/api/notes', noteRoutes);
+app.use('/api/notes', require('./routes/note'));
 
 // Connect to database
-const CONNECTION_URL = process.env.CONNECTION_URL;
-const PORT = process.env.PORT || 5000;
+const CONNECTION_URL = process.env.MONGO_URI;
+const PORT = process.env.PORT || 5015;
 
 if (!CONNECTION_URL) {
   console.error('Database connection URL is not defined in environment variables.');
