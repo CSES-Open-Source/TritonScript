@@ -13,4 +13,6 @@ router.post("/upload-file", uploadFile);
 // Create a new note
 router.post("/", createNote);
 
+router.delete('/:id', deleteNote)
+
 module.exports = router;

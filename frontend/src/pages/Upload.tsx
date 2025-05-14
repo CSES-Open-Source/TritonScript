@@ -35,46 +35,112 @@ export default function Upload() {
   };
 
   function handleChange(e: any) {
+    console.log("hi")
     setFormData({ ...formData, [e.target.id]: e.target.value });
   }
+
+  async function uploadFile(file: File, url: string): Promise<boolean> {
+    try {
+      const res = await fetch(url, {
+        method: "PUT",
+        headers: {
+          "Content-Type": file.type,
+        },
+        body: file,
+      });
   
+      if (!res.ok) throw new Error("Failed to upload to S3");
+      return true;
+    } catch (err) {
+      console.error("Upload error:", err);
+      return false;
+    }
+  }
+  
+  
+  // async function handleSubmit(e: any) {
+  //   console.log("hi")
+  //   e.preventDefault();
+  //   const id = uuidv4();
+
+  //   if (formData.title === "" || formData.classInfo === "" || formData.description === "")
+  //     return alert("Please fill out all fields");
+  //   if (file === null) return alert("Please upload a file");
+
+  //   setIsUploading(true);
+  //   formData["uploader"] = currentUser.username;
+
+  //   console.log(formData)
+  //   const res = await fetch(`${settings.domain}/api/note/${id}`, {
+  //     method: "POST",
+  //     headers: {
+  //       "Content-Type": "application/json",
+  //     },
+  //     body: JSON.stringify(formData),
+  //   });
+
+  //   const _url = await res.json();
+  //   console.log("File upload URL:", _url.body);  // The 'body' should contain the URL
+
+  //   console.log(_url)
+  //   while (true) {
+  //     try {
+  //       console.log(_url)
+  //       await fetch(_url, {
+  //         method: "PUT",
+  //         body: file,
+  //         headers: {
+  //           "Content-Type": "application/pdf",
+  //         },
+  //       });
+  //       break;
+  //     } catch (e) {
+  //       await new Promise((resolve) => setTimeout(resolve, 5000));
+  //     }
+  //   }
+  //  // setIsUploading(false);
+  //  // alert("Upload Success!");
+  //   setFormData({ title: "", classInfo: "", description: "", uploader: "", instructor: "" });
+  //   setFile(null);
+  // }
+
   async function handleSubmit(e: any) {
     e.preventDefault();
     const id = uuidv4();
-
+  
     if (formData.title === "" || formData.classInfo === "" || formData.description === "")
       return alert("Please fill out all fields");
     if (file === null) return alert("Please upload a file");
+  
     setIsUploading(true);
-    formData["uploader"] = currentUser.username;
-    const res = await fetch(`${settings.domain}/api/note/${id}`, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(formData),
-    });
-    const _url = await res.json();
-
-    while (true) {
-      try {
-        await fetch(_url, {
-          method: "PUT",
-          body: file,
-          headers: {
-            "Content-Type": "applcation/pdf",
-          },
-        });
-        break;
-      } catch (e) {
-        await new Promise((resolve) => setTimeout(resolve, 5000));
-      }
+    const fullFormData = { ...formData, uploader: currentUser.username };
+  
+    try {
+      const res = await fetch(`${settings.domain}/api/note/${id}`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(fullFormData),
+      });
+  
+      const result = await res.json();
+      const uploadUrl = result.body; // S3 presigned URL
+      const success = await uploadFile(file, uploadUrl);
+  
+      if (!success) throw new Error("Upload to S3 failed");
+  
+      alert("Upload Success!");
+      setFormData({ title: "", classInfo: "", description: "", uploader: "", instructor: "" });
+      setFile(null);
+      setIsUploading(false);
+    } catch (error) {
+      console.error("Upload failed:", error);
+      alert("Upload failed. Please try again.");
+      setIsUploading(false);
     }
-    setIsUploading(false);
-    alert("Upload Success!");
-    setFormData({ title: "", classInfo: "", description: "", uploader: "", instructor: "" });
-    setFile(null);
   }
+  
   // const notes_placeholder = [
   //   note,
   //   note,
@@ -121,7 +187,7 @@ export default function Upload() {
                 className="field"
                 onChange={handleChange}
               />
-                <button className="upload-button">Upload PDF</button>
+                <button className="upload-button" type="submit">Upload PDF</button>
             </form>
           </div>
           <div>{isUploading ? "uploading..." : ""}</div>
