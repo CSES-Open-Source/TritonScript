@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Outfit:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playpen+Sans:wght@100..800&family=Playwrite+CU:wght@100..400&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Indie+Flower&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Outfit:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playpen+Sans:wght@100..800&family=Playwrite+CU:wght@100..400&display=swap');
+body.home-background {
+  background-image: url('src/assets/wrinkled-paper.avif');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
 .container {
     padding: 20px;
     min-height: calc(100vh - 80px); /* Adjust for fixed navbar height */
@@ -10,7 +20,7 @@
     padding-top: 50px; /* Increased padding for space above the title */
     margin-bottom: 20px;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
   
   .name {
@@ -18,13 +28,15 @@
     margin-bottom: 10px;
     color: #1E1E1E;
     font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    font-weight: 500;
   }
   
   .title-small {
     margin: 0;
     color: #878787;
     font-family: 'Outfit', sans-serif;
-
+    font-weight: normal;
   }
   
   /* Welcome Section */
@@ -93,21 +105,60 @@
     justify-content: center;
     align-items: center;
     width: 100%;
-    margin-top: 20px;
+    margin-top: 70px;
   }
   
-  .feature-card {
+  .feature-card1,
+  .feature-card3  {
     /* background-color: rgba(0, 4, 62, 0.85); Subtle opacity for better contrast */
     background-color: #FFF6DE;
     padding: 20px;
     border-radius: 15px;
     width: 280px;
-    min-height: 40vh;
+    min-height: 35vh;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     text-align: center;
     color: #ffffff;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transform: rotate(10deg);
+    display: flex; /* Enable Flexbox */
+    flex-direction: column; /* Stack content vertically */
+    justify-content: center; /* Center content vertically */
+    align-items: center;
+    margin-top: 30px;
   }
+
+  .feature-card2 {
+    /* background-color: rgba(0, 4, 62, 0.85); Subtle opacity for better contrast */
+    background-color: #FFF6DE;
+    padding: 20px;
+    border-radius: 15px;
+    width: 280px;
+    min-height: 35vh;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    color: #ffffff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transform: rotate(-10deg);
+    margin-left:80px;
+    margin-right: 80px;
+    display: flex; /* Enable Flexbox */
+    flex-direction: column; /* Stack content vertically */
+    justify-content: center; /* Center content vertically */
+    align-items: center;
+    margin-top: 30px;
+  }
+
+  .card-tape {
+    position: absolute; /* Position the tape relative to the card */
+    top: -10px; /* Adjust to place the tape above the card */
+    left: 50%; /* Center the tape horizontally */
+    transform: translateX(-50%) rotate(2.5deg); /* Center and slightly rotate the tape */
+    width: 150px; /* Adjust the width of the tape */
+    height: auto; /* Maintain aspect ratio */
+    z-index: 1; /* Ensure the tape appears above the card */
+  }
+
   
   .feature-card:hover {
     transform: translateY(-10px);
@@ -128,14 +179,11 @@
     line-height: 1.8;
     color: #1E1E1E;
     text-align: center;
+    font-family: "Indie Flower", cursive;
+    font-weight: bolder;
   }
 
-  .features-container{
-    background-color: #F5F5F5;
-    padding-bottom: 20px;
-    margin: 30px 30px 30px 30px;
-    border-radius: 10px;
-  }
+  
   
   /* Responsive Design */
   @media screen and (max-width: 800px) {
@@ -148,7 +196,7 @@
       flex-direction: column;
     }
     .key-features-title {
-      margin: 30px auto 20px auto; /* Adjust for smaller screens */
+      margin: 20px auto 20px auto; /* Adjust for smaller screens */
     }
   }
   
