@@ -62,10 +62,39 @@ async function deleteNote(req, res, next) {
   }
 }
 
+// Search notes by title or classInfo (case-insensitive, partial match)
+async function searchNotesByName(req, res, next) {
+  try {
+    const { name } = req.params;
+    const regex = new RegExp(name, "i");
+    const notes = await Note.find({
+      $or: [{ title: regex }, { classInfo: regex }]
+    }).sort({ updatedAt: -1 });
+    res.status(200).json(notes);
+  } catch (error) {
+    next(error);
+  }
+}
+
+// Get notes by classInfo (exact match, case-insensitive)
+async function getNotesByClass(req, res, next) {
+  try {
+    const { class: className } = req.params;
+    const notes = await Note.find({
+      classInfo: { $regex: new RegExp(`^${className}$`, "i") }
+    }).sort({ updatedAt: -1 });
+    res.status(200).json(notes);
+  } catch (error) {
+    next(error);
+  }
+}
+
 // Optionally, if you need this in other places:
 module.exports = {
   test,
   getNotes,
   createNote,
-  deleteNote
+  deleteNote,
+  searchNotesByName,
+  getNotesByClass
 };

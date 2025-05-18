@@ -1,5 +1,5 @@
 const settings = {
-  domain: "http://localhost:5173",
+  domain: "http://localhost:5005",
 };
 
 export default settings;

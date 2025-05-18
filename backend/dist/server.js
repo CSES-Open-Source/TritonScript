@@ -27,7 +27,7 @@ app.use((req, res, next) => {
 app.use('/api/notes', note_1.default);
 // Connect to database
 const CONNECTION_URL = process.env.CONNECTION_URL;
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5005;
 if (!CONNECTION_URL) {
     console.error('Database connection URL is not defined in environment variables.');
     process.exit(1);
