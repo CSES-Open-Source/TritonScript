@@ -16,7 +16,7 @@ router.post("/", createNote);
 router.delete('/:id', deleteNote)
 
 // Search notes by title or classInfo
-router.get("/search/:name", searchNotesByName);
+// router.get("/search/:name", searchNotesByName);
 
 // Get notes by classInfo
 router.get("/search/class/:class", getNotesByClass);
