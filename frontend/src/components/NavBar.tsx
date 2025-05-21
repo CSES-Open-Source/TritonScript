@@ -1,4 +1,4 @@
-import { Link, useNavigate } from "react-router-dom";
+import { Link, useNavigate, useLocation } from "react-router-dom";
 import { useState, useEffect } from "react";
 import "./NavBar.css";
 
@@ -8,12 +8,30 @@ function NavBar() {
     return localStorage.getItem("isLoggedIn") === "true";
   });
 
+  const [isScrolled, setIsScrolled] = useState(false); // State to track scroll
   const navigate = useNavigate();
+  const location = useLocation(); // Get the current route
+
 
   // update localStorage when login state changes
   useEffect(() => {
     localStorage.setItem("isLoggedIn", isLoggedIn.toString());
   }, [isLoggedIn]);
+
+  const handleScroll = () => {
+    if (window.scrollY > 50) {
+      setIsScrolled(true);
+    } else {
+      setIsScrolled(false);
+    }
+  };
+
+  useEffect(() => {
+    window.addEventListener("scroll", handleScroll); // Add scroll listener
+    return () => {
+      window.removeEventListener("scroll", handleScroll); // Cleanup listener
+    };
+  }, []);
 
   const handleAuthClick = () => {
     if (isLoggedIn) {
@@ -27,9 +45,14 @@ function NavBar() {
     }
   };
 
+  const isHomePage = location.pathname === "/";
+
   return (
-    <nav className="navbar">
-      {/* Logo linking to Home */}
+      <nav
+            className={`navbar ${isHomePage ? "navbar-home" : ""} ${
+              isScrolled ? "navbar-scrolled" : ""
+            }`}
+          >      {/* Logo linking to Home */}
       <div className="navbar-logo">
         <Link to="/">
           <img src="src/assets/tritonscript.png" alt="TritonScript Logo" className="logo-image" />

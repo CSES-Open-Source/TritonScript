@@ -7,9 +7,11 @@ import { v4 as uuidv4 } from "uuid";
 
 interface UploadModalProps {
     onClose: () => void;
+    terms: { value: string; text: string }[];
+    isLoadingTerms: boolean;
 }
 
-export default function UploadModal({ onClose }: UploadModalProps) {
+export default function UploadModal({ onClose, terms, isLoadingTerms }: UploadModalProps) {
     const { currentUser } = useSelector((state: any) => state.user);
     const [file, setFile] = useState<File | null>(null);
     const [isUploading, setIsUploading] = useState(false);
@@ -21,21 +23,25 @@ export default function UploadModal({ onClose }: UploadModalProps) {
         instructor: ""
     });
 
-    const [terms, setTerms] = useState<{ value: string; text: string }[]>([]);
+    // const [terms, setTerms] = useState<{ value: string; text: string }[]>([]);
+    const [isLoadingCourses, setIsLoadingCourses] = useState(false);
+    const [isLoadingInstructors, setIsLoadingInstructors] = useState(false);
+    
     const [courses, setCourses] = useState<string[]>([]);
     const [instructors, setInstructors] = useState<string[]>([]);
 
     const [selectedTerm, setSelectedTerm] = useState<string>("");
     const [selectedCourse, setSelectedCourse] = useState<string>("");
     
-    useEffect(() => {
-        fetch("http://localhost:3000/terms")
-            .then((res) => res.json())
-            .then((data) => setTerms(data.terms))
-            .catch((err) => console.error("Error fetching terms:", err));
-    }, []);
+    // useEffect(() => {
+    //     fetch("http://localhost:3000/terms")
+    //         .then((res) => res.json())
+    //         .then((data) => setTerms(data.terms))
+    //         .catch((err) => console.error("Error fetching terms:", err));
+    // }, []);
     
     useEffect(() => {
+        setIsLoadingCourses(true);
         async function fetchCourses() {
             try {
                 const res = await fetch(`http://localhost:3000/courses`);
@@ -43,6 +49,8 @@ export default function UploadModal({ onClose }: UploadModalProps) {
                 setCourses(data);
             } catch (error) {
                 console.error("Error fetching courses:", error);
+            } finally {
+                setIsLoadingCourses(false);
             }
         }
         fetchCourses();
@@ -51,12 +59,15 @@ export default function UploadModal({ onClose }: UploadModalProps) {
     useEffect(() => {
         async function fetchInstructors() {
             if (!selectedTerm || !selectedCourse) return;
+            setIsLoadingInstructors(true); 
             try {
                 const res = await fetch(`http://localhost:3000/instructors?term=${selectedTerm}&course=${selectedCourse}`);
                 const data = await res.json();
                 setInstructors(data.instructors);
             } catch (error) {
                 console.error("Error fetching instructors:", error);
+            } finally {
+                setIsLoadingInstructors(false);
             }
         }
         fetchInstructors();
@@ -176,7 +187,7 @@ export default function UploadModal({ onClose }: UploadModalProps) {
                             value={selectedTerm} 
                             onChange={handleTermChange}
                         >
-                            <option value="">Choose a term and quarter</option>
+                            <option value="">{isLoadingTerms ? "Loading terms..." : "Choose a term and quarter"}</option>
                             {terms.map((term) => (
                                 <option key={term.value} value={term.value}>
                                     {term.text}
@@ -188,7 +199,7 @@ export default function UploadModal({ onClose }: UploadModalProps) {
                             value={selectedCourse} 
                             onChange={handleCourseChange}
                         >
-                            <option value="">Choose a course code</option>
+                            <option value="">{isLoadingCourses ? "Loading courses..." : "Choose a course code"}</option>
                             {courses.map((course) => (
                                 <option key={course} value={course}>
                                     {course}
@@ -201,7 +212,7 @@ export default function UploadModal({ onClose }: UploadModalProps) {
                             value={formData.instructor} 
                             onChange={handleChange}
                         >
-                            <option value="">Choose a professor</option>
+                            <option value="">{isLoadingInstructors ? "Loading instructors..." : "Choose an instructor"}</option>
                             {instructors.map((instructor) => (
                                 <option key={instructor} value={instructor}>
                                     {instructor}

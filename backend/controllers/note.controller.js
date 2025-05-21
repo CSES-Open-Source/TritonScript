@@ -44,9 +44,30 @@ async function createNote(req, res, next) {
   }
 }
 
+async function deleteNote(req, res, next) {
+  try {
+    const { id } = req.params;
+
+    if (!mongoose.Types.ObjectId.isValid(id)) {
+      return res.status(404).json({ error: "No such note" });
+    }
+
+    const note = await Note.findOneAndDelete({ _id: id });
+
+    if (!note) {
+      return res.status(400).json({ error: "No such note" });
+    }
+
+    res.status(200).json(note);
+  } catch (error) {
+    next(error);
+  }
+}
+
 // Optionally, if you need this in other places:
 module.exports = {
   test,
   getNotes,
-  createNote
+  createNote,
+  deleteNote
 };
