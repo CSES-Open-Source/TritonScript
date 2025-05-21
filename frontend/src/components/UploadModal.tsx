@@ -97,25 +97,26 @@ export default function UploadModal({ onClose }: UploadModalProps) {
             const fileData = new FormData();
             fileData.append("file", file);
 
-            const fileUploadRes = await fetch(`${settings.domain}/api/notes/upload-file`, {
-                method: "POST",
-                body: fileData,
-            });
+            // const fileUploadRes = await fetch(`${settings.domain}/api/notes/upload-file`, {
+            //     method: "POST",
+            //     body: fileData,
+            // });
 
-            if (!fileUploadRes.ok) {
-                throw new Error(`File upload failed: ${fileUploadRes.statusText}`);
-            } else {
-                console.log("File upload response:", fileUploadRes);
-            }
+            // if (!fileUploadRes.ok) {
+            //     throw new Error(`File upload failed: ${fileUploadRes.statusText}`);
+            // } else {
+            //     console.log("File upload response:", fileUploadRes);
+            // }
 
-            const { url: fileUrl } = await fileUploadRes.json();
+            // const { url: fileUrl } = await fileUploadRes.json();
 
             const submissionData = {
                 note_id: uuidv4(),
                 ...formData,
                 classInfo: selectedCourse,
                 uploader: currentUser.username,
-                fileUrl,
+                instructor: formData.instructor,
+                classQuarter: selectedTerm,
                 term: selectedTerm,
             };
 
