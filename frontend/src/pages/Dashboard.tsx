@@ -41,6 +41,13 @@ export default function Dashboard() {
     fetchNotes();
   }, []);
 
+  useEffect(() => {
+  if (!searchTerm) {
+    setSearchResults([]);
+    setSearchAttempted(false);
+  }
+}, [searchTerm]);
+
   const handleSearch = async () => {
     setSearchAttempted(true);
     if (!searchTerm.trim()) {
@@ -107,49 +114,53 @@ export default function Dashboard() {
           ) : null}
         </div>
         
-        <div className="folders-container">
-          <div className="folder-text-and-add">
-            <h3 className="folder-text">Folders</h3>
-            <img className ="add-folder" src="src/assets/plus-solid-dark.svg"/>
-          </div>
-          <div className="folders">
-            <div className="folder">Math</div>
-            <div className="folder">Physics</div>
-            <div className="folder">CS</div>
-          </div>
-        </div>
-        <div className="recent-view-container">
-          <h3 className="recent-view-text">Recently Viewed</h3>
-          <div className="recent-view">
-            <div className="note">
-              <Note
-                title="Lecture 1"
-                className="CSE120"
-                quarter="SP25"
-                professor="Ousterhoust"
-                page="dashboard"
-              />
+      {(!searchAttempted || !searchTerm) && (
+        <>
+          <div className="folders-container">
+            <div className="folder-text-and-add">
+              <h3 className="folder-text">Folders</h3>
+              <img className ="add-folder" src="src/assets/plus-solid-dark.svg"/>
             </div>
-            <div className="note">
-              <Note
-                title="Lecture 5"
-                className="CSE30"
-                quarter="SP24"
-                professor="Muller"
-                page="dashboard"
-              />
-            </div>
-            <div className="note">
-              <Note
-                title="Dijktras"
-                className="CSE101"
-                quarter="FA24"
-                professor="Jones"
-                page="dashboard"
-              />
+            <div className="folders">
+              <div className="folder">Math</div>
+              <div className="folder">Physics</div>
+              <div className="folder">CS</div>
             </div>
           </div>
-        </div>
+          <div className="recent-view-container">
+            <h3 className="recent-view-text">Recently Viewed</h3>
+            <div className="recent-view">
+              <div className="note">
+                <Note
+                  title="Lecture 1"
+                  className="CSE120"
+                  quarter="SP25"
+                  professor="Ousterhoust"
+                  page="dashboard"
+                />
+              </div>
+              <div className="note">
+                <Note
+                  title="Lecture 5"
+                  className="CSE30"
+                  quarter="SP24"
+                  professor="Muller"
+                  page="dashboard"
+                />
+              </div>
+              <div className="note">
+                <Note
+                  title="Dijktras"
+                  className="CSE101"
+                  quarter="FA24"
+                  professor="Jones"
+                  page="dashboard"
+                />
+              </div>
+            </div>
+          </div>
+          </>
+        )}
       </div>
     </div>
   );
