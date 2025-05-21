@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import axios from "axios";
 import NoteBlock from "../components/NoteBlock";
 import ClassNote from "../components/ClassNotes/ClassNotes.tsx";
 import Note from "../components/Note.tsx";
@@ -9,121 +10,72 @@ import edit from '../assets/edit.png';
 import note from '../assets/note-placeholder.png';
 import "../../src/pages/Dashboard.css";
 
-
-interface Note {
-  note_id: number;
+interface NoteData {
+  _id: string;
+  note_id: string;
   title: string;
-  content: string;
+  classInfo: string;
+  description: string;
+  isPublic: boolean;
+  uploader: string;
+  updatedAt: string;
 }
 
 export default function Dashboard() {
-  const [notes, setNotes] = useState<Note[]>([]); // Explicitly type notes as an array of Note
+  const [notes, setNotes] = useState<NoteData[]>([]);
 
-  // 
-  // async function fetchNotes() {
-  //   try {
-  //     const response = await fetch(`${settings.domain}/api/note`, {
-  //       credentials: "include",
-  //       headers: {
-  //         "Content-Type": "application/json",
-  //       },
-  //     });
-  //     const data = await response.json();
-  //     setNotes(data); 
-  //   } catch (error) {
-  //     console.error("Error fetching notes:", error);
-  //   }
-  // }
+  useEffect(() => {
+    axios.get("http://localhost:5015/api/notes", { withCredentials: true })
 
-  // useEffect(() => {
-  //   fetchNotes();
-  // }, []);
+      .then(res => {
+        console.log("📦 NOTES DATA:", res.data);
+        setNotes(res.data);
+      })
+      .catch(err => console.error("❌ ERROR FETCHING NOTES:", err));
+  }, []);
 
-    useEffect(() => {
-      const mockNotes: Note[] = [
-        {
-          note_id: 1,
-          title: "Sample Note - Physics",
-          content: "This is a sample note to simulate functionality.",
-        },
-        {
-          note_id: 2,
-          title: "Sample Note 2 - CS",
-          content: "another simulated note.",
-        },{
-          note_id: 2,
-          title: "Sample Note 2 - Math",
-          content: "another simulated note.",
-        },
-      ];
-      setNotes(mockNotes); 
-    }, []);
-
-    const notes_placeholder = [
-      note,
-      note,
-    ];
+  const notes_placeholder = [note, note];
 
   return (
     <div>
-        <div className="dashboard-features">
-          <div className="search-features">
-            <input className="search-input"
-              type="text"
-              placeholder="Search..."
-            />
-            {/* <div className="filter">
-              <img className="filter-logo" src={filter} alt="search filter icon" />
-            </div> */}
-            {/* <div className="edit">
-              <img className="edit-logo" src={edit} alt="edit icon" />
-            </div> */}
+      <div className="dashboard-features">
+        <div className="search-features">
+          <input
+            className="search-input"
+            type="text"
+            placeholder="Search..."
+          />
+        </div>
+
+        <div className="folders-container">
+          <div className="folder-text-and-add">
+            <h3 className="folder-text">Folders</h3>
+            <img className="add-folder" src="src/assets/plus-solid-dark.svg" />
           </div>
-          
-          <div className="folders-container">
-            <div className="folder-text-and-add">
-              <h3 className="folder-text">Folders</h3>
-              <img className ="add-folder" src="src/assets/plus-solid-dark.svg"/>
-            </div>
-            <div className="folders">
+          <div className="folders">
             <div className="folder">Math</div>
             <div className="folder">Physics</div>
             <div className="folder">CS</div>
-            </div>
-          </div>
-          <div className="recent-view-container">
-            <h3 className="recent-view-text">Recently Viewed</h3>
-              <div className="recent-view">
-              <div className="note">
-              <Note
-                  title="Lecture 1"
-                  className="CSE120"
-                  quarter="SP25"
-                  professor="Ousterhoust"
-                  page="dashboard"
-                />
-              </div>
-              <div className="note">
-              <Note
-                  title="Lecture 5"
-                  className="CSE30"
-                  quarter="SP24"
-                  professor="Muller"
-                  page="dashboard"
-                />
-              </div>
-              <div className="note">
-              <Note
-                  title="Dijktras"
-                  className="CSE101"
-                  quarter="FA24"
-                  professor="Jones"
-                  page="dashboard"
-                />
-              </div>
-              </div>
           </div>
         </div>
+
+        <div className="recent-view-container">
+          <h3 className="recent-view-text">Recently Viewed</h3>
+          <div className="recent-view">
+            {notes.slice(0, 3).map(note => (
+              <div className="note" key={note._id}>
+                <Note
+                  title={note.title}
+                  className={note.classInfo || "CSE100"}
+                  quarter="SP25"
+                  professor={note.uploader || "Unknown"}
+                  page="dashboard"
+                />
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
