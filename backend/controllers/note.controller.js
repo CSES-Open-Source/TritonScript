@@ -27,11 +27,13 @@ async function createNote(req, res, next) {
     console.log(req.body);
     console.log(req.file);
 
-    const { note_id, title, classInfo, description, isPublic, uploader } = req.body;
+    const { note_id, title, classInfo, description, isPublic, uploader, instructor, classQuarter } = req.body;
     const newNote = await Note.create({
       note_id,
       title,
       classInfo,
+      classQuarter,
+      instructor,
       description,
       isPublic: true,
       uploader,

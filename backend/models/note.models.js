@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var mongoose_1 = require("mongoose");
+const { type } = require("os");
 var noteSchema = new mongoose_1.default.Schema({
     note_id: {
         type: String,
@@ -10,6 +11,16 @@ var noteSchema = new mongoose_1.default.Schema({
     title: {
         type: String,
         required: false,
+        unique: false,
+    },
+    classQuarter: {
+        type: String,
+        required: true,
+        unique: false,
+    },
+    instructor: {
+        type: String,
+        required: true,
         unique: false,
     },
     classInfo: {

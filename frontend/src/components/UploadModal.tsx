@@ -1,9 +1,9 @@
 import { useState, useEffect } from "react";
 import { useSelector } from "react-redux";
-import { v4 as uuidv4 } from "uuid";
 import "../pages/Upload.css";
 import uploadIcon from "../assets/upload-icon2.png";
 import settings from "../utils/config";
+import { v4 as uuidv4 } from "uuid";
 
 interface UploadModalProps {
     onClose: () => void;
@@ -94,36 +94,56 @@ export default function UploadModal({ onClose, terms, isLoadingTerms }: UploadMo
         setSelectedCourse(e.target.value);
     };
 
+
     const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
-        
+
         if (!selectedTerm || !selectedCourse || !formData.title || !file) {
             return alert("Please fill out all required fields and upload a file");
         }
-        
-        const id = uuidv4();
+
         setIsUploading(true);
-        
-        const submissionData = {
-            ...formData,
-            classInfo: selectedCourse,
-            uploader: currentUser.username,
-        };
-        
+
         try {
-            const res = await fetch(`${settings.domain}/api/note/${id}`, {
+            const fileData = new FormData();
+            fileData.append("file", file);
+
+            // const fileUploadRes = await fetch(`${settings.domain}/api/notes/upload-file`, {
+            //     method: "POST",
+            //     body: fileData,
+            // });
+
+            // if (!fileUploadRes.ok) {
+            //     throw new Error(`File upload failed: ${fileUploadRes.statusText}`);
+            // } else {
+            //     console.log("File upload response:", fileUploadRes);
+            // }
+
+            // const { url: fileUrl } = await fileUploadRes.json();
+
+            const submissionData = {
+                note_id: uuidv4(),
+                ...formData,
+                classInfo: selectedCourse,
+                uploader: currentUser.username,
+                instructor: formData.instructor,
+                classQuarter: selectedTerm,
+                term: selectedTerm,
+            };
+
+            console.log("Submission Data:", submissionData);
+
+            const noteCreateRes = await fetch(`${settings.domain}/api/notes`, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(submissionData),
             });
-            
-            const _url = await res.json();
-            await fetch(_url, {
-                method: "PUT",
-                body: file,
-                headers: { "Content-Type": "application/pdf" },
-            });
-            
+
+            if (!noteCreateRes.ok) {
+                const errorText = await noteCreateRes.text();
+                throw new Error(`Note creation failed: ${noteCreateRes.statusText} - ${errorText}`);
+            }
+
             alert("Upload Success!");
             onClose();
         } catch (error) {
