@@ -9,7 +9,7 @@ export default function PrivateRoute() {
 
   useEffect(() => {
     async function checkAuth() {
-      fetch(`${settings.domain}/api/auth/isAuth/${currentUser._id}`, {
+      fetch(`http://localhost:5173/api/auth/isAuth/${currentUser._id}`, {
         credentials: "include",
         headers: {
           "Content-Type": "application/json",
