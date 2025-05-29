@@ -64,10 +64,87 @@ async function deleteNote(req, res, next) {
   }
 }
 
+// Search notes by title or classInfo (case-insensitive, partial match)
+async function searchNotesByName(req, res, next) {
+  try {
+    const { name } = req.params;
+    const regex = new RegExp(name, "i");
+    const notes = await Note.find({
+      $or: [{ title: regex }, { classInfo: regex }]
+    }).sort({ updatedAt: -1 });
+    res.status(200).json(notes);
+  } catch (error) {
+    next(error);
+  }
+}
+
+// Get notes by classInfo (exact match, case-insensitive)
+async function getNotesByClass(req, res, next) {
+  try {
+    const { class: className } = req.params;
+    const notes = await Note.find({
+      classInfo: { $regex: new RegExp(`^${className}$`, "i") }
+    }).sort({ updatedAt: -1 });
+    res.status(200).json(notes);
+  } catch (error) {
+    next(error);
+  }
+}
+
+// Get notes by quarter (exact match, case-insensitive)
+async function getNotesByQuarter(req, res, next) {
+  try {
+    const { quarter } = req.params;
+    const notes = await Note.find({
+      quarter: { $regex: new RegExp(`^${quarter}$`, "i") }
+    }).sort({ updatedAt: -1 });
+    res.status(200).json(notes);
+  } catch (error) {
+    next(error);
+  }
+}
+
+// Get notes by professor (exact match, case-insensitive)
+async function getNotesByProfessor(req, res, next) {
+  try {
+    const { professor } = req.params;
+    const notes = await Note.find({
+      professor: { $regex: new RegExp(`^${professor}$`, "i") }
+    }).sort({ updatedAt: -1 });
+    res.status(200).json(notes);
+  } catch (error) {
+    next(error);
+  }
+}
+
+// Get notes by any search term
+async function universalSearch(req, res, next) {
+  try {
+    const { term } = req.params;
+    const regex = new RegExp(term, "i");
+    const notes = await Note.find({
+      $or: [
+        { title: regex },
+        { classInfo: regex },
+        { quarter: regex },
+        { professor: regex }
+      ]
+    }).sort({ updatedAt: -1 });
+    res.status(200).json(notes);
+  } catch (error) {
+    next(error);
+  }
+}
+
 // Optionally, if you need this in other places:
 module.exports = {
   test,
   getNotes,
   createNote,
-  deleteNote
+  deleteNote,
+  searchNotesByName,
+  getNotesByClass,
+  getNotesByQuarter,
+  getNotesByProfessor,
+  universalSearch,
 };

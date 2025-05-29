@@ -36,7 +36,7 @@ app.use('/api/notes', noteRoutes);
 
 // Connect to database
 const CONNECTION_URL: string | undefined = process.env.CONNECTION_URL;
-const PORT: string | number = process.env.PORT || 5000;
+const PORT: string | number = process.env.PORT || 5005;
 
 if (!CONNECTION_URL) {
     console.error('Database connection URL is not defined in environment variables.');

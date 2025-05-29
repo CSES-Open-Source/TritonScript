@@ -10,10 +10,11 @@ const app = express();
 
 // Middleware
 app.use(express.json());
-app.options('*', cors()); // Allow preflight requests
+// app.options('*', cors()); // Allow preflight requests
 
 app.use(cors({
   origin: 'http://localhost:5173',
+  credentials: true,
   methods: 'GET,POST,PUT,DELETE',
   allowedHeaders: 'Content-Type,Authorization'
 }));
@@ -31,7 +32,7 @@ app.use('/api/notes', noteRoutes);
 
 // Connect to database
 const CONNECTION_URL = process.env.CONNECTION_URL;
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5005;
 
 if (!CONNECTION_URL) {
   console.error('Database connection URL is not defined in environment variables.');
