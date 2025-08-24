@@ -9,8 +9,6 @@ import Note from "../components/Note.tsx";
 export default function Upload( { terms, isLoadingTerms,}: {terms: { value: string; text: string }[];isLoadingTerms: boolean;}) {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [userNotes, setUserNotes] = useState([]);
-  // const [terms, setTerms] = useState<{ value: string; text: string }[]>([]);
-  // const [isLoadingTerms, setIsLoadingTerms] = useState(true);
   const { currentUser } = useSelector((state: any) => state.user);
 
   // Fetch user's previously uploaded notes

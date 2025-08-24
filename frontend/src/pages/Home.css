@@ -16,13 +16,10 @@ body.home-background {
 .container {
     padding: 20px;
     min-height: calc(100vh - 80px);
-    /* Adjust for fixed navbar height */
 }
 
-/* Title Section */
 .title {
     padding-top: 50px;
-    /* Increased padding for space above the title */
     margin-bottom: 20px;
     text-align: center;
     font-size: 2rem;
@@ -30,7 +27,6 @@ body.home-background {
 
 .name {
     margin-top: 20px;
-    /* Add spacing above the title */
     margin-bottom: 10px;
     color: #1E1E1E;
     font-family: 'Outfit', sans-serif;
@@ -45,7 +41,6 @@ body.home-background {
     font-weight: normal;
 }
 
-/* Welcome Section */
 .welcome-text {
     font-size: 1.75rem;
     line-height: 1.8;
@@ -56,12 +51,10 @@ body.home-background {
     max-width: 100%;
 }
 
-/* Goal Section */
 .goal-text-grid {
     color: #e5e7eb;
     display: flex;
     gap: 30px;
-    /* Space between text and image */
     justify-content: center;
     align-items: flex-start;
     padding: 50px 30px;
@@ -80,7 +73,6 @@ body.home-background {
     height: auto;
     align-self: flex-start;
     max-width: 300px;
-    /* Prevent oversized logos */
 }
 
 /* Key Features Section */
@@ -88,13 +80,11 @@ body.home-background {
     display: inline-block;
     padding: 15px 25px;
     margin: 50px auto 30px auto;
-    /* Increased top margin */
     border-radius: 30px;
     background-color: rgba(0, 4, 62, 0.7);
     letter-spacing: 5px;
     word-spacing: 8px;
     max-width: 90%;
-    /* Allow more flexibility */
     text-align: center;
     overflow-wrap: break-word;
 }
@@ -120,7 +110,6 @@ body.home-background {
 
 .feature-card1,
 .feature-card3 {
-    /* background-color: rgba(0, 4, 62, 0.85); Subtle opacity for better contrast */
     background-color: #FFF6DE;
     padding: 20px;
     border-radius: 15px;
@@ -132,17 +121,13 @@ body.home-background {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     transform: rotate(10deg);
     display: flex;
-    /* Enable Flexbox */
     flex-direction: column;
-    /* Stack content vertically */
     justify-content: center;
-    /* Center content vertically */
     align-items: center;
     margin-top: 30px;
 }
 
 .feature-card2 {
-    /* background-color: rgba(0, 4, 62, 0.85); Subtle opacity for better contrast */
     background-color: #FFF6DE;
     padding: 20px;
     border-radius: 15px;
@@ -156,30 +141,20 @@ body.home-background {
     margin-left: 80px;
     margin-right: 80px;
     display: flex;
-    /* Enable Flexbox */
     flex-direction: column;
-    /* Stack content vertically */
     justify-content: center;
-    /* Center content vertically */
     align-items: center;
     margin-top: 30px;
 }
 
 .card-tape {
     position: absolute;
-    /* Position the tape relative to the card */
     top: -10px;
-    /* Adjust to place the tape above the card */
     left: 50%;
-    /* Center the tape horizontally */
     transform: translateX(-50%) rotate(2.5deg);
-    /* Center and slightly rotate the tape */
     width: 150px;
-    /* Adjust the width of the tape */
     height: auto;
-    /* Maintain aspect ratio */
     z-index: 1;
-    /* Ensure the tape appears above the card */
 }
 
 
@@ -206,9 +181,6 @@ body.home-background {
     font-weight: bolder;
 }
 
-
-
-/* Responsive Design */
 @media screen and (max-width: 800px) {
     .feature-card {
         width: 240px;
@@ -222,7 +194,6 @@ body.home-background {
 
     .key-features-title {
         margin: 20px auto 20px auto;
-        /* Adjust for smaller screens */
     }
 }
 

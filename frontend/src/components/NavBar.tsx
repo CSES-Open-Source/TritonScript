@@ -52,19 +52,18 @@ function NavBar() {
             className={`navbar ${isHomePage ? "navbar-home" : ""} ${
               isScrolled ? "navbar-scrolled" : ""
             }`}
-          >      {/* Logo linking to Home */}
+          >
       <div className="navbar-logo">
         <Link to="/">
           <img src="src/assets/tritonscript.png" alt="TritonScript Logo" className="logo-image" />
         </Link>
       </div>
 
-      {/* Centered Navbar Links */}
+      {/* Navbar Links */}
       <div className="navbar-center">
         <ul className="navbar-links">
           {!isLoggedIn ? (
             <>
-              {/* Add links here if needed */}
             </>
           ) : (
             <>
