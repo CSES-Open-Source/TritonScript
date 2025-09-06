@@ -1,6 +1,7 @@
 const express = require("express");
 const { createNote, getNotes, deleteNote, searchNotesByName, getNotesByClass, getNotesByQuarter, getNotesByProfessor, universalSearch  } = require("../controllers/note.controller");
 const { uploadFile } = require("../controllers/file.controller");
+const { getNotesByFolder } = require("../controllers/note.controller");
 
 const router = express.Router();
 
@@ -29,5 +30,8 @@ router.get("/search/professor/:professor", getNotesByProfessor);
 
 // Search notes by anything
 router.get("/search/:term", universalSearch);
+
+// Get notes by folder
+router.get("/:folder_id/notes", getNotesByFolder);
 
 module.exports = router;

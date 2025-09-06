@@ -27,7 +27,7 @@ async function createNote(req, res, next) {
     console.log(req.body);
     console.log(req.file);
 
-    const { note_id, title, classInfo, description, isPublic, uploader, instructor, classQuarter } = req.body;
+    const { note_id, title, classInfo, description, isPublic, uploader, instructor, classQuarter, folder_id } = req.body;
     const newNote = await Note.create({
       note_id,
       title,
@@ -37,6 +37,7 @@ async function createNote(req, res, next) {
       description,
       isPublic: true,
       uploader,
+      folder_id,
     });
     res.status(200).json({ success: true, data: newNote });
   } catch (error) {
@@ -136,6 +137,18 @@ async function universalSearch(req, res, next) {
   }
 }
 
+// Gets notes in a folder
+async function getNotesByFolder(req, res, next) {
+  try {
+    const { folder_id } = req.params;
+    const notes = await Note.find({ folder_id }).sort({ updatedAt: -1 });
+
+    res.status(200).json(notes);
+  } catch (error) {
+    next(error);
+  }
+}
+
 // Optionally, if you need this in other places:
 module.exports = {
   test,
@@ -147,4 +160,5 @@ module.exports = {
   getNotesByQuarter,
   getNotesByProfessor,
   universalSearch,
+  getNotesByFolder,
 };

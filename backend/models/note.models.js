@@ -51,7 +51,11 @@ var noteSchema = new mongoose_1.default.Schema({
     file: {
         type: Buffer,
         required: false
-    }
+    },
+    folder_id: { 
+        type: mongoose_1.default.Schema.Types.ObjectId, 
+        ref: "Folder" 
+    },
 }, { timestamps: true });
 var Note = mongoose_1.default.model("Note", noteSchema);
 //"exports.default = Note;"
