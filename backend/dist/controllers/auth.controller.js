@@ -23,7 +23,6 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.signup = signup;
 exports.signin = signin;
 exports.isAuth = isAuth;
 exports.google = google;
@@ -32,21 +31,7 @@ const user_model_js_1 = __importDefault(require("../models/user.model.js"));
 const bcryptjs_1 = __importDefault(require("bcryptjs"));
 const error_js_1 = require("../utils/error.js");
 const jsonwebtoken_1 = __importDefault(require("jsonwebtoken"));
-function signup(req, res, next) {
-    return __awaiter(this, void 0, void 0, function* () {
-        console.log("req.body", req.body);
-        const { username, email, password } = req.body;
-        const hashedPassword = bcryptjs_1.default.hashSync(password, 10);
-        const newUser = new user_model_js_1.default({ username, email, password: hashedPassword });
-        try {
-            yield newUser.save();
-            res.status(201).json({ message: "User created successfully" });
-        }
-        catch (error) {
-            next(error);
-        }
-    });
-}
+
 function signin(req, res, next) {
     return __awaiter(this, void 0, void 0, function* () {
         const { email, password } = req.body;

@@ -1,9 +1,5 @@
 import { useState, useEffect } from "react";
 import Note from "../components/Note.tsx";
-import settings from "../utils/config";
-import filter from '../assets/filter-icon.png';
-import edit from '../assets/edit.png';
-import note from '../assets/note-placeholder.png';
 import "../../src/pages/Dashboard.css";
 
 interface Note {

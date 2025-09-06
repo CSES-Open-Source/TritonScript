@@ -25,7 +25,14 @@
   }
 
   .social-icon{
-    margin-right:10px;
+    margin-right:15px;
+    height:30px;
+    width:auto;
+  }
+
+  .social-icon-discord,
+  .social-icon-linktree
+  {
     height:30px;
     width:auto;
   }
