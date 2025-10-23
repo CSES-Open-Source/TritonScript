@@ -1,9 +1,0 @@
-{
-  "code": "ECON 178",
-  "title": "Economic and Business Forecasting",
-  "units": "4",
-  "dept": "ECON",
-  "anchor": "econ178",
-  "description": "The course provides an introduction to a number of modern statistical learning methods. It covers the basic concepts and computational issues behind these methods, the concepts of prediction and uncertainty quantification, as well as applications in economics and business. Prerequisites: ECON 120C.\u00a0Enrollment limited to majors in the Department of Economics and MA33 only.",
-  "prereqs": "ECON 120C"
-}
