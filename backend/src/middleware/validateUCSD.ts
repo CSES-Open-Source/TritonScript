@@ -31,3 +31,4 @@ export const validateUCSDEmail = (
   next();
   console.log("UCSD email validated successfully, going next...")
 };
+

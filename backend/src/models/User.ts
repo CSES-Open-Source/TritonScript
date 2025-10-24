@@ -23,6 +23,8 @@ export interface IUserDocument extends IUser, Document {
     isLocked(): boolean;
 }
 
+export interface IUserModel extends Model<IUserDocument> {}
+
 // Create user schema
 const UserSchema = new Schema<IUserDocument>({
     ucsdEmail: {
@@ -137,3 +139,4 @@ UserSchema.pre('save', async function(next) {
 
 const User: Model<IUserDocument> = mongoose.model<IUserDocument>('User', UserSchema);
 export default User;
+
