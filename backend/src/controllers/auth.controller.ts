@@ -76,21 +76,11 @@ export const register = async (req: AuthRequest, res: Response) : Promise<void> 
             }
         });
     } catch (error: any) {  // Add type annotation for error
-      console.error('Registration error:', error);
-      console.error('Error details:', error.message);
-      if (error.name === 'ValidationError') {
-          // Extract and send validation errors
-          const errors = Object.values(error.errors).map((err: any) => err.message);
-          res.status(400).json({
-              message: 'Validation failed',
-              errors
-          });
-          return;
-      }
-      res.status(500).json({
-          message: 'Registration failed',
-          error: process.env.NODE_ENV === 'development' ? error.message : undefined
-      });
+        res.status(500).json({
+            message: 'Registration failed check auth controller',
+            success: false,
+            error: error.message 
+        });
   }
 }
 
@@ -98,24 +88,26 @@ export const login = async (req: AuthRequest, res: Response) : Promise<void> => 
     try {
         const { ucsdEmail, password } = req.body;
         
-        const user = await User.findOne({ucsdEmail}).select('+password)');
+        const user = await User.findOne({ucsdEmail}).select('+password');
+        console.log(`Attempting login for user: ${ucsdEmail}`);
         if (!user) {
             res.status(400).json({ 
-                message: 'Invalid email or password', 
+                message: 'User not found', 
                 success: false });
             return;
         }
 
-        if (user.isLocked()){
-            res.status(423).json({ 
-                message: 'Account is locked due to multiple failed login attempts. Please try again later in 2 hours', 
-                success: false });
-            return;
-        }
+        // if (user.isLocked()){
+        //     res.status(423).json({ 
+        //         message: 'Account is locked due to multiple failed login attempts. Please try again later in 2 hours', 
+        //         success: false });
+        //     return;
+        // }
 
         // timie to check password
+        console.log("Checking password", password);
         const isMatch = await user.comparePassword(password);
-
+        console.log(`Password match status: ${isMatch}`);
         if (!isMatch) {
             await user.incrementLoginAttempts();
             res.status(400).json({ 

@@ -99,6 +99,8 @@ UserSchema.pre('save', async function(next) {
     candidatePassword: string
   ): Promise<boolean> {
     try {
+      console.log('This password', this.password);
+      console.log('Candidate password', candidatePassword);
       return await bcrypt.compare(candidatePassword, this.password);
     } catch (error) {
       return false;

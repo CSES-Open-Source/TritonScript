@@ -31,7 +31,7 @@ export const auth = async (
 
         const decoded = jwt.verify(
             token,
-            process.env.JWT_SECRET as string 
+            process.env.JWT_ACCESS_SECRET as string 
         ) as DecodedToken;
 
         const user = await User.findById(decoded._id);
