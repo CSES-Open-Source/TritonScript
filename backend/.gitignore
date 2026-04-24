@@ -5,17 +5,18 @@
 
 # Compiled output
 dist/
-dist-ssr/
 
 # Dependencies
 node_modules/
+
+# Prisma generated client (regenerated via prisma generate)
+node_modules/.prisma/
 
 # Logs
 *.log
 npm-debug.log*
 yarn-debug.log*
 pnpm-debug.log*
-lerna-debug.log*
 
 # OS
 .DS_Store
@@ -25,8 +26,3 @@ Thumbs.db
 .vscode/*
 !.vscode/extensions.json
 .idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?

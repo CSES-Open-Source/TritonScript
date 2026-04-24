@@ -1,12 +1,16 @@
 import React, { useState } from "react";
 import "./Note.css";
 
-const NoteCard = ({ title, className, quarter, professor, page }) => {
+const NoteCard = ({ title, className, quarter, professor, page, fileUrl }) => {
   const [showOptions, setShowOptions] = useState(false);
 
-  const handleDotsClick = (e) => {
-    // e.stopPropagation(); // Prevent click events from propagating
+  const handleDotsClick = () => {
     setShowOptions(!showOptions);
+  };
+
+  const handleDownload = () => {
+    if (!fileUrl) return alert("No file attached to this note.");
+    window.open(fileUrl, "_blank");
   };
 
   return (
@@ -32,17 +36,16 @@ const NoteCard = ({ title, className, quarter, professor, page }) => {
           </div>
           {showOptions && (
             <div className="note-options">
-              {page === "dashboard" ? (
-                <button className="note-option-add" onClick={() => alert("Add to Folder")}>
-                  <img src="src/assets/folder.svg" alt="Add Icon" className="note-option-icon" />
-                  Add to Folder
-                </button>
-              ) : page === "upload" ? (
+              <button className="note-option-add" onClick={handleDownload}>
+                <img src="src/assets/folder.svg" alt="Download Icon" className="note-option-icon" />
+                Download
+              </button>
+              {page === "upload" && (
                 <button className="note-option-delete" onClick={() => alert("Delete Note")}>
-                  <img src="src/assets/delete.svg" alt="Add Icon" className="note-option-icon" />
+                  <img src="src/assets/delete.svg" alt="Delete Icon" className="note-option-icon" />
                   Delete
                 </button>
-              ) : null}
+              )}
             </div>
           )}
         </div>

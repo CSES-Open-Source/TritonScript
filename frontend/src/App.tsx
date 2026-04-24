@@ -11,22 +11,34 @@ import Note from "./pages/Note";
 import Upload from "./pages/Upload";
 import Dashboard from "./pages/Dashboard";
 import { useState, useEffect } from "react";
+import { useDispatch } from "react-redux";
+import { signInSuccess, signOut } from "./utils/userSlice";
 import NavBar from "./components/NavBar";
 import Footer from "./components/Footer";
 
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5005";
+
 function App() {
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const dispatch = useDispatch();
   const [terms, setTerms] = useState<{ value: string; text: string }[]>([]);
   const [isLoadingTerms, setIsLoadingTerms] = useState(true);
 
-  const toggleLogin = () => {
-    setIsLoggedIn(!isLoggedIn); // Toggle the login/logout state
-  };
+  // On app load, verify the cookie and hydrate Redux with the current user.
+  // This runs after every OAuth redirect and on every page refresh.
+  useEffect(() => {
+    fetch(`${API_URL}/api/auth/me`, { credentials: "include" })
+      .then((res) => res.json())
+      .then((user) => {
+        if (user) dispatch(signInSuccess(user));
+        else dispatch(signOut());
+      })
+      .catch(() => dispatch(signOut()));
+  }, [dispatch]);
 
   // fetch terms for upload when the site loads
   useEffect(() => {
     setIsLoadingTerms(true);
-    fetch("http://localhost:3000/terms")
+    fetch(`${API_URL}/terms`)
       .then((res) => res.json())
       .then((data) => setTerms(data.terms))
       .catch((err) => console.error("Error fetching terms:", err))
@@ -36,8 +48,7 @@ function App() {
   return (
     <BrowserRouter>
       <div>
-        {/* Pass the login state and toggle function to NavBar */}
-        <NavBar isLoggedIn={isLoggedIn} toggleLogin={toggleLogin} />
+        <NavBar />
       </div>
 
       <div>
@@ -54,7 +65,7 @@ function App() {
             <Route path="/dashboard" element={<Dashboard />} />
           </Route>
         </Routes>
-        <Footer/>
+        <Footer />
       </div>
     </BrowserRouter>
   );

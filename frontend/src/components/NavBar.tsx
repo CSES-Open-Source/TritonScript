@@ -1,89 +1,59 @@
 import { Link, useNavigate, useLocation } from "react-router-dom";
 import { useState, useEffect } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { signOut } from "../utils/userSlice";
 import "./NavBar.css";
 
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5005";
+
 function NavBar() {
-  // get login state from localStorage
-  const [isLoggedIn, setIsLoggedIn] = useState(() => {
-    return localStorage.getItem("isLoggedIn") === "true";
-  });
-
-  const [isScrolled, setIsScrolled] = useState(false); // State to track scroll
+  const { currentUser } = useSelector((state: any) => state.user);
+  const dispatch = useDispatch();
   const navigate = useNavigate();
-  const location = useLocation(); // Get the current route
-
-
-  // update localStorage when login state changes
-  useEffect(() => {
-    localStorage.setItem("isLoggedIn", isLoggedIn.toString());
-  }, [isLoggedIn]);
-
-  const handleScroll = () => {
-    if (window.scrollY > 50) {
-      setIsScrolled(true);
-    } else {
-      setIsScrolled(false);
-    }
-  };
+  const location = useLocation();
+  const [isScrolled, setIsScrolled] = useState(false);
 
   useEffect(() => {
-    window.addEventListener("scroll", handleScroll); // Add scroll listener
-    return () => {
-      window.removeEventListener("scroll", handleScroll); // Cleanup listener
-    };
+    const handleScroll = () => setIsScrolled(window.scrollY > 50);
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  const handleAuthClick = () => {
-    if (isLoggedIn) {
-      setIsLoggedIn(false);
-      localStorage.removeItem("isLoggedIn");
-      navigate("/");
-    } else {
-      setIsLoggedIn(true);
-      localStorage.setItem("isLoggedIn", "true");
-      navigate("/dashboard");
-    }
-  };
+  async function handleLogout() {
+    try {
+      await fetch(`${API_URL}/api/auth/signout`, { credentials: "include" });
+    } catch (_) {}
+    dispatch(signOut());
+    navigate("/");
+  }
 
   const isHomePage = location.pathname === "/";
 
   return (
-      <nav
-            className={`navbar ${isHomePage ? "navbar-home" : ""} ${
-              isScrolled ? "navbar-scrolled" : ""
-            }`}
-          >      {/* Logo linking to Home */}
+    <nav className={`navbar ${isHomePage ? "navbar-home" : ""} ${isScrolled ? "navbar-scrolled" : ""}`}>
       <div className="navbar-logo">
         <Link to="/">
           <img src="src/assets/tritonscript.png" alt="TritonScript Logo" className="logo-image" />
         </Link>
       </div>
 
-      {/* Centered Navbar Links */}
       <div className="navbar-center">
         <ul className="navbar-links">
-          {!isLoggedIn ? (
+          {currentUser && (
             <>
-              {/* Add links here if needed */}
-            </>
-          ) : (
-            <>
-              <li>
-                <Link to="/dashboard">Dashboard</Link>
-              </li>
-              <li>
-                <Link to="/upload">My Notes</Link>
-              </li>
+              <li><Link to="/dashboard">Dashboard</Link></li>
+              <li><Link to="/upload">My Notes</Link></li>
             </>
           )}
         </ul>
       </div>
 
-      {/* Login/Logout Button */}
       <div className="auth-button">
-        <button onClick={handleAuthClick}>
-          {isLoggedIn ? "Logout" : "Login"}
-        </button>
+        {currentUser ? (
+          <button onClick={handleLogout}>Logout</button>
+        ) : (
+          <button onClick={() => navigate("/signin")}>Login</button>
+        )}
       </div>
     </nav>
   );

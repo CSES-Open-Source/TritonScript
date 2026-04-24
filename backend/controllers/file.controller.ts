@@ -1,58 +1,38 @@
 import { RequestHandler } from "express";
-import AWS from 'aws-sdk';
-import dotenv from 'dotenv';
-import { error } from "console";
-dotenv.config();
+import { PutObjectCommand } from "@aws-sdk/client-s3";
+import { UploadedFile } from "express-fileupload";
+import { client } from "../utils/r2";
 
+const BUCKET = process.env.R2_BUCKET!;
+const PUBLIC_URL = process.env.R2_PUBLIC_URL!;
 
-export const uploadToS3 = async (file: any, bucketName: string){
-    try{
-        const s3: AWS.S3 = new AWS.S3( {
-            credentials: {
-                accessKeyId: process.env.AWS_ACCESS_KEY_ID!,
-                secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY!,
-            }
-        });
-
-        const newFileName = `pic_${(Date.now()).toString()}.${file.mimetype.split('/')[1]}`
-        const params = {
-            Bucket: bucketName,
-            Key: newFileName,
-            Body: file.data
-        }
-
-        return new Promise((resolve, reject)=> {
-            s3.upload(params, {}, (err, data) => {
-                if(err){
-                    console.log(err);
-                    reject(err);
-                } else {
-                    console.log(data);
-                    resolve(data.Location);
-                }
-            });
-        });
-
-    }catch (e) {
-        return e;
+export const uploadFile: RequestHandler = async (req: any, res) => {
+  try {
+    const raw = req.files?.file;
+    const file: UploadedFile = Array.isArray(raw) ? raw[0] : raw;
+    if (!file) {
+      return res.status(400).json({ success: false, message: "No file provided" });
     }
-}
 
-export const uploadFile: RequestHandler =  async (req: any, res){
-    try {
-        if (req.files.file.name){
-            const result = await uploadToS3(req.files.file, process.env.AWS_S3_BUCKET!);
-            return res.status(201).json({
-                message: "Success",
-                url: result
-            })
-        }
-    }
-    catch (e){
-        return res.status(400).json(
-            { success: false, 
-              message: "Something went wrong" }
-        );
+    const ext = file.mimetype.split("/")[1];
+    const key = `notes/${Date.now()}.${ext}`;
 
-    }
-}
+    await client.send(
+      new PutObjectCommand({
+        Bucket: BUCKET,
+        Key: key,
+        Body: file.data,
+        ContentType: file.mimetype,
+      })
+    );
+
+    return res.status(201).json({
+      success: true,
+      url: `${PUBLIC_URL}/${key}`,
+      key,
+    });
+  } catch (e: any) {
+    console.error("[uploadFile] R2 error:", e?.message ?? e);
+    return res.status(500).json({ success: false, message: e?.message ?? "Upload failed" });
+  }
+};

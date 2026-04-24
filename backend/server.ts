@@ -2,55 +2,41 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 import express, { Application, Request, Response, NextFunction } from 'express';
-import mongoose from 'mongoose';
+import cookieParser from 'cookie-parser';
 import noteRoutes from './routes/note';
-import multer from 'multer';
+import authRoutes from './routes/auth';
+import userRoutes from './routes/user';
+import catalogRoutes from './routes/catalog';
 import fileUpload from 'express-fileupload';
 import cors from 'cors';
 
 const app: Application = express();
+const PORT: string | number = process.env.PORT || 5005;
 
 // Middleware
-// Middleware to parse form data (without files)
 app.use(express.json());
-app.options('*', cors()); // Allow preflight requests
-
+app.options('*', cors());
 app.use(cors({
-    origin: 'http://localhost:5173', // Allow frontend URL
+    origin: 'http://localhost:5173',
     methods: 'GET,POST,PUT,DELETE',
-    allowedHeaders: 'Content-Type,Authorization'
-  }));
-
-//files
-app.use(express.urlencoded({extended: true}));
+    allowedHeaders: 'Content-Type,Authorization',
+    credentials: true,
+}));
+app.use(cookieParser());
+app.use(express.urlencoded({ extended: true }));
 app.use(fileUpload());
-app.use((req: Request, res: Response, next: NextFunction) => {
-    console.log("Headers:", req.headers);
-
+app.use((req: Request, _res: Response, next: NextFunction) => {
     console.log(req.path, req.method);
     next();
 });
 
 // Routes
 app.use('/api/notes', noteRoutes);
+app.use('/api/auth', authRoutes);
+app.use('/api/user', userRoutes);
+app.use('/', catalogRoutes);
 
-// Connect to database
-const CONNECTION_URL: string | undefined = process.env.CONNECTION_URL;
-const PORT: string | number = process.env.PORT || 5005;
-
-if (!CONNECTION_URL) {
-    console.error('Database connection URL is not defined in environment variables.');
-    process.exit(1);
-}
-
-mongoose.connect(CONNECTION_URL)
-    .then(() => {
-        console.log('Connected to database');
-        app.listen(PORT, () => {
-            console.log(`Listening forr requests on port ${PORT}`);
-        });
-    })
-    .catch((err: Error) => {
-        console.error('Database connection error:', err);
+// Start server (Prisma connects lazily on first query)
+app.listen(PORT, () => {
+    console.log(`Listening for requests on port ${PORT}`);
 });
-

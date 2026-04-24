@@ -1,52 +1,38 @@
 import { useState, useEffect } from "react";
 import Note from "../components/Note.tsx";
 import settings from "../utils/config";
-import filter from '../assets/filter-icon.png';
-import edit from '../assets/edit.png';
-import note from '../assets/note-placeholder.png';
 import "../../src/pages/Dashboard.css";
 
-interface Note {
-  note_id: number;
-  title: string;
-  classInfo: string;
-  quarter: string;
-  professor: string;
-  content: string;
+interface NoteData {
+  id: string;
+  note_id?: string;
+  title?: string;
+  classInfo?: string;
+  classQuarter?: string;
+  instructor?: string;
+  description?: string;
+  file_id?: string;
 }
 
 export default function Dashboard() {
-  const [notes, setNotes] = useState<Note[]>([]);
+  const [notes, setNotes] = useState<NoteData[]>([]);
   const [searchTerm, setSearchTerm] = useState("");
-  const [searchResults, setSearchResults] = useState<Note[]>([]);
+  const [searchResults, setSearchResults] = useState<NoteData[]>([]);
   const [searchAttempted, setSearchAttempted] = useState(false);
 
-
-  async function fetchNotes() {
-    try {
-      const response = await fetch(`http://localhost:5005/api/notes`, {
-        credentials: "include",
-        headers: {
-          "Content-Type": "application/json",
-        },
-      });
-      const data = await response.json();
-      setNotes(data); 
-    } catch (error) {
-      console.error("Error fetching notes:", error);
-    }
-  }
-
   useEffect(() => {
-    fetchNotes();
+    fetch(`${settings.domain}/api/notes`, { credentials: "include" })
+      .then((res) => res.json())
+      .then((data) => setNotes(data))
+      .catch((err) => console.error("Error fetching notes:", err));
   }, []);
 
   useEffect(() => {
-  if (!searchTerm) {
-    setSearchResults([]);
-    setSearchAttempted(false);
-  }
-}, [searchTerm]);
+    if (!searchTerm) {
+      setSearchResults([]);
+      setSearchAttempted(false);
+    }
+  }, [searchTerm]);
 
   const handleSearch = async () => {
     setSearchAttempted(true);
@@ -55,12 +41,10 @@ export default function Dashboard() {
       return;
     }
     try {
-      const response = await fetch(`http://localhost:5005/api/notes/search/${encodeURIComponent(searchTerm)}`, {
-        credentials: "include",
-        headers: {
-          "Content-Type": "application/json",
-        },
-      });
+      const response = await fetch(
+        `${settings.domain}/api/notes/search/${encodeURIComponent(searchTerm)}`,
+        { credentials: "include" }
+      );
       const data = await response.json();
       setSearchResults(data);
     } catch (error) {
@@ -77,32 +61,24 @@ export default function Dashboard() {
             type="text"
             placeholder="Search..."
             value={searchTerm}
-            onChange={e => setSearchTerm(e.target.value)}
-            onKeyDown={e => {
-              if (e.key === "Enter") handleSearch();
-            }}
+            onChange={(e) => setSearchTerm(e.target.value)}
+            onKeyDown={(e) => { if (e.key === "Enter") handleSearch(); }}
           />
           <button className="search-button" onClick={handleSearch}>Enter</button>
-          {/* <div className="filter">
-            <img className="filter-logo" src={filter} alt="search filter icon" />
-          </div> */}
-          {/* <div className="edit">
-            <img className="edit-logo" src={edit} alt="edit icon" />
-          </div> */}
         </div>
 
-        <div className="search-results">
-          {searchAttempted && searchTerm ? (
-            searchResults.length > 0 ? (
-              searchResults.map(note => (
-                <div className="note">
-                  <Note 
-                    key={note.note_id}
+        {searchAttempted && searchTerm ? (
+          <div className="search-results">
+            {searchResults.length > 0 ? (
+              searchResults.map((note) => (
+                <div key={note.id} className="note">
+                  <Note
                     title={note.title}
                     className={note.classInfo}
-                    quarter={note.quarter}
-                    professor={note.professor}
+                    quarter={note.classQuarter}
+                    professor={note.instructor}
                     page="dashboard"
+                    fileUrl={note.file_id}
                   />
                 </div>
               ))
@@ -110,55 +86,43 @@ export default function Dashboard() {
               <div style={{ textAlign: "center", color: "#000", margin: "1rem" }}>
                 No notes found
               </div>
-            )
-          ) : null}
-        </div>
-        
-      {(!searchAttempted || !searchTerm) && (
-        <>
-          <div className="folders-container">
-            <div className="folder-text-and-add">
-              <h3 className="folder-text">Folders</h3>
-              <img className ="add-folder" src="src/assets/plus-solid-dark.svg"/>
-            </div>
-            <div className="folders">
-              <div className="folder">Math</div>
-              <div className="folder">Physics</div>
-              <div className="folder">CS</div>
-            </div>
+            )}
           </div>
-          <div className="recent-view-container">
-            <h3 className="recent-view-text">Recently Viewed</h3>
-            <div className="recent-view">
-              <div className="note">
-                <Note
-                  title="Lecture 1"
-                  className="CSE120"
-                  quarter="SP25"
-                  professor="Ousterhoust"
-                  page="dashboard"
-                />
+        ) : (
+          <>
+            <div className="folders-container">
+              <div className="folder-text-and-add">
+                <h3 className="folder-text">Folders</h3>
+                <img className="add-folder" src="src/assets/plus-solid-dark.svg" />
               </div>
-              <div className="note">
-                <Note
-                  title="Lecture 5"
-                  className="CSE30"
-                  quarter="SP24"
-                  professor="Muller"
-                  page="dashboard"
-                />
-              </div>
-              <div className="note">
-                <Note
-                  title="Dijktras"
-                  className="CSE101"
-                  quarter="FA24"
-                  professor="Jones"
-                  page="dashboard"
-                />
+              <div className="folders">
+                <div className="folder">Math</div>
+                <div className="folder">Physics</div>
+                <div className="folder">CS</div>
               </div>
             </div>
-          </div>
+
+            <div className="recent-view-container">
+              <h3 className="recent-view-text">Recently Viewed</h3>
+              <div className="recent-view">
+                {notes.length === 0 ? (
+                  <p style={{ color: "#888", margin: "1rem" }}>No notes yet.</p>
+                ) : (
+                  notes.map((note) => (
+                    <div key={note.id} className="note">
+                      <Note
+                        title={note.title}
+                        className={note.classInfo}
+                        quarter={note.classQuarter}
+                        professor={note.instructor}
+                        page="dashboard"
+                        fileUrl={note.file_id}
+                      />
+                    </div>
+                  ))
+                )}
+              </div>
+            </div>
           </>
         )}
       </div>

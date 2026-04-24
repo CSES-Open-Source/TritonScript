@@ -1,21 +1,5 @@
-import mongoose, { ConnectOptions } from "mongoose";
-import "dotenv/config";
+import { PrismaClient } from "@prisma/client";
 
-// MongoDB server url
-const uri: any = process.env.CONNECTION_URL;
+const prisma = new PrismaClient();
 
-// Connect to database
-async function connectDB() {
-  try {
-    await mongoose.connect(uri, {
-      useNewUrlParser: true,
-      useUnifiedTopology: true,
-    } as ConnectOptions);
-    console.log("MongoDB connected");
-  } catch (error) {
-    console.error("MongoDB connection error:", error);
-    process.exit(1);
-  }
-}
-
-export default connectDB;
+export default prisma;

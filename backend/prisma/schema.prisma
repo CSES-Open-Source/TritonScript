@@ -1,0 +1,42 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model User {
+  id             String   @id @default(cuid())
+  username       String   @unique
+  email          String   @unique
+  password       String
+  profilePicture String   @default("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Default_pfp.svg/1200px-Default_pfp.svg.png")
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+}
+
+model Note {
+  id           String   @id @default(cuid())
+  note_id      String?  @unique
+  title        String?
+  classInfo    String?
+  classQuarter String?
+  instructor   String?
+  description  String?
+  isPublic     Boolean  @default(false)
+  uploader     String?
+  file_id      String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model Counter {
+  id           String   @id @default(cuid())
+  counter_type String   @unique
+  count        Int?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}

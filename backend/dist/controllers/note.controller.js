@@ -15,18 +15,24 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.test = test;
 exports.getNotes = getNotes;
 exports.createNote = createNote;
-const note_models_1 = __importDefault(require("../models/note.models"));
+exports.deleteNote = deleteNote;
+exports.searchNotesByName = searchNotesByName;
+exports.getNotesByClass = getNotesByClass;
+exports.getNotesByQuarter = getNotesByQuarter;
+exports.getNotesByProfessor = getNotesByProfessor;
+exports.universalSearch = universalSearch;
+const connect_1 = __importDefault(require("../database/connect"));
 function test(req, res) {
-    res.json({
-        message: "API is working!",
-    });
+    res.json({ message: "API is working!" });
 }
-// get all notes at the same time and sort by recent on top 
 function getNotes(req, res, next) {
     return __awaiter(this, void 0, void 0, function* () {
         try {
-            //sort by updatedAt vs createdAt;
-            const notes = yield note_models_1.default.find().sort({ updatedAt: -1 });
+            const { uploader } = req.query;
+            const notes = yield connect_1.default.note.findMany({
+                where: uploader ? { uploader } : undefined,
+                orderBy: { updatedAt: "desc" },
+            });
             res.status(200).json(notes);
         }
         catch (error) {
@@ -34,32 +40,22 @@ function getNotes(req, res, next) {
         }
     });
 }
-// // search database for notes that contain name.
-// export async function searchForNoteByName(req: Request, res: Response, next: NextFunction){
-//     try {
-//       const regex = new RegExp(req.params.name, "i")  
-//       const events = await Note.find({ note_id: regex });
-//         res.status(200).json(events);
-//       } catch (error) {
-//         next(error);
-//       }
-// }
-// update user
 function createNote(req, res, next) {
     return __awaiter(this, void 0, void 0, function* () {
         try {
-            console.log(req.body);
-            console.log(req.file);
-            //const rest = await r2.url("cses", req.params.id);
-            const { note_id, title, classInfo, description, isPublic, uploader, file_id } = req.body;
-            const newNote = yield note_models_1.default.create({
-                note_id,
-                title,
-                classInfo,
-                description,
-                isPublic: true,
-                uploader,
-                file_id
+            const { note_id, title, classInfo, classQuarter, instructor, description, isPublic, uploader, file_id } = req.body;
+            const newNote = yield connect_1.default.note.create({
+                data: {
+                    note_id,
+                    title,
+                    classInfo,
+                    classQuarter,
+                    instructor,
+                    description,
+                    isPublic: isPublic !== null && isPublic !== void 0 ? isPublic : true,
+                    uploader,
+                    file_id,
+                },
             });
             res.status(200).json({ success: true, data: newNote });
         }
@@ -68,9 +64,99 @@ function createNote(req, res, next) {
         }
     });
 }
-// export {
-//   getNotes,
-// //  getNote,
-//   createNote
-// //  deleteNote
-// };
+function deleteNote(req, res, next) {
+    return __awaiter(this, void 0, void 0, function* () {
+        try {
+            yield connect_1.default.note.delete({ where: { id: req.params.id } });
+            res.status(200).json("Note has been deleted...");
+        }
+        catch (error) {
+            next(error);
+        }
+    });
+}
+function searchNotesByName(req, res, next) {
+    return __awaiter(this, void 0, void 0, function* () {
+        try {
+            const term = req.params.name;
+            const notes = yield connect_1.default.note.findMany({
+                where: {
+                    OR: [
+                        { title: { contains: term, mode: "insensitive" } },
+                        { classInfo: { contains: term, mode: "insensitive" } },
+                    ],
+                },
+                orderBy: { updatedAt: "desc" },
+            });
+            res.status(200).json(notes);
+        }
+        catch (error) {
+            next(error);
+        }
+    });
+}
+function getNotesByClass(req, res, next) {
+    return __awaiter(this, void 0, void 0, function* () {
+        try {
+            const notes = yield connect_1.default.note.findMany({
+                where: { classInfo: { contains: req.params.class, mode: "insensitive" } },
+                orderBy: { updatedAt: "desc" },
+            });
+            res.status(200).json(notes);
+        }
+        catch (error) {
+            next(error);
+        }
+    });
+}
+function getNotesByQuarter(req, res, next) {
+    return __awaiter(this, void 0, void 0, function* () {
+        try {
+            const notes = yield connect_1.default.note.findMany({
+                where: { classQuarter: { contains: req.params.quarter, mode: "insensitive" } },
+                orderBy: { updatedAt: "desc" },
+            });
+            res.status(200).json(notes);
+        }
+        catch (error) {
+            next(error);
+        }
+    });
+}
+function getNotesByProfessor(req, res, next) {
+    return __awaiter(this, void 0, void 0, function* () {
+        try {
+            const notes = yield connect_1.default.note.findMany({
+                where: { instructor: { contains: req.params.professor, mode: "insensitive" } },
+                orderBy: { updatedAt: "desc" },
+            });
+            res.status(200).json(notes);
+        }
+        catch (error) {
+            next(error);
+        }
+    });
+}
+function universalSearch(req, res, next) {
+    return __awaiter(this, void 0, void 0, function* () {
+        try {
+            const term = req.params.term;
+            const notes = yield connect_1.default.note.findMany({
+                where: {
+                    OR: [
+                        { title: { contains: term, mode: "insensitive" } },
+                        { classInfo: { contains: term, mode: "insensitive" } },
+                        { description: { contains: term, mode: "insensitive" } },
+                        { instructor: { contains: term, mode: "insensitive" } },
+                        { classQuarter: { contains: term, mode: "insensitive" } },
+                    ],
+                },
+                orderBy: { updatedAt: "desc" },
+            });
+            res.status(200).json(notes);
+        }
+        catch (error) {
+            next(error);
+        }
+    });
+}

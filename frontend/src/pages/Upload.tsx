@@ -6,27 +6,32 @@ import uploadIcon from "../assets/upload-icon.png";
 import settings from "../utils/config";
 import Note from "../components/Note.tsx";
 
-export default function Upload( { terms, isLoadingTerms,}: {terms: { value: string; text: string }[];isLoadingTerms: boolean;}) {
+interface NoteData {
+  id: string;
+  title?: string;
+  classInfo?: string;
+  classQuarter?: string;
+  instructor?: string;
+  file_id?: string;
+}
+
+export default function Upload({
+  terms,
+  isLoadingTerms,
+}: {
+  terms: { value: string; text: string }[];
+  isLoadingTerms: boolean;
+}) {
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [userNotes, setUserNotes] = useState([]);
-  // const [terms, setTerms] = useState<{ value: string; text: string }[]>([]);
-  // const [isLoadingTerms, setIsLoadingTerms] = useState(true);
+  const [userNotes, setUserNotes] = useState<NoteData[]>([]);
   const { currentUser } = useSelector((state: any) => state.user);
 
-  // Fetch user's previously uploaded notes
   useEffect(() => {
-    async function fetchUserNotes() {
-      if (!currentUser) return;
-      try {
-        const res = await fetch(`${settings.domain}/api/notes?uploader=${currentUser.username}`);
-        const notes = await res.json();
-        setUserNotes(notes);
-      } catch (error) {
-        console.error("Error fetching notes:", error);
-      }
-    }
-
-    fetchUserNotes();
+    if (!currentUser) return;
+    fetch(`${settings.domain}/api/notes?uploader=${encodeURIComponent(currentUser.username)}`)
+      .then((res) => res.json())
+      .then((notes) => setUserNotes(notes))
+      .catch((err) => console.error("Error fetching notes:", err));
   }, [currentUser]);
 
   return (
@@ -39,37 +44,26 @@ export default function Upload( { terms, isLoadingTerms,}: {terms: { value: stri
       </div>
 
       <div className="past-notes-container">
-            <h3 className="past-notes-text">Past Notes</h3>
-              <div className="past-view">
-              <div className="note">
-              <Note
-                  title="Lecture 1"
-                  className="CSE120"
-                  quarter="SP25"
-                  professor="Ousterhoust"
+        <h3 className="past-notes-text">Past Notes</h3>
+        <div className="past-view">
+          {userNotes.length === 0 ? (
+            <p style={{ color: "#888", margin: "1rem" }}>No notes uploaded yet.</p>
+          ) : (
+            userNotes.map((note) => (
+              <div key={note.id} className="note">
+                <Note
+                  title={note.title}
+                  className={note.classInfo}
+                  quarter={note.classQuarter}
+                  professor={note.instructor}
                   page="upload"
+                  fileUrl={note.file_id}
                 />
               </div>
-              <div className="note">
-              <Note
-                  title="Lecture 5"
-                  className="CSE30"
-                  quarter="SP24"
-                  professor="Muller"
-                  page="upload"
-                />
-              </div>
-              <div className="note">
-              <Note
-                  title="Dijktras"
-                  className="CSE101"
-                  quarter="FA24"
-                  professor="Jones"
-                  page="upload"
-                />
-              </div>
-            </div>
+            ))
+          )}
         </div>
+      </div>
 
       {isModalOpen && (
         <UploadModal

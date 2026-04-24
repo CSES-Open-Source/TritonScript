@@ -5,12 +5,14 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
 const note_controller_1 = require("../controllers/note.controller");
-// import { notes } from "../controllers/note.controller";
-const note_controller_2 = require("../controllers/note.controller");
-const server_1 = require("../server");
+const file_controller_1 = require("../controllers/file.controller");
 const router = express_1.default.Router();
-// get all notes in order of updatedAt
-router.get("/", note_controller_2.getNotes);
-// // get all notes containing a given search string
-// router.get("/search/:name", searchForNoteByName);
+router.get("/", note_controller_1.getNotes);
+router.post("/", note_controller_1.createNote);
+router.delete("/:id", note_controller_1.deleteNote);
+router.post("/upload-file", file_controller_1.uploadFile);
+router.get("/search/class/:class", note_controller_1.getNotesByClass);
+router.get("/search/quarter/:quarter", note_controller_1.getNotesByQuarter);
+router.get("/search/professor/:professor", note_controller_1.getNotesByProfessor);
+router.get("/search/:term", note_controller_1.universalSearch);
 exports.default = router;

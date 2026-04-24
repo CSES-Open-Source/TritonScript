@@ -44,7 +44,7 @@ export default function UploadModal({ onClose, terms, isLoadingTerms }: UploadMo
         setIsLoadingCourses(true);
         async function fetchCourses() {
             try {
-                const res = await fetch(`http://localhost:3000/courses`);
+                const res = await fetch(`${settings.domain}/courses`);
                 const data = await res.json();
                 setCourses(data);
             } catch (error) {
@@ -61,7 +61,7 @@ export default function UploadModal({ onClose, terms, isLoadingTerms }: UploadMo
             if (!selectedTerm || !selectedCourse) return;
             setIsLoadingInstructors(true); 
             try {
-                const res = await fetch(`http://localhost:3000/instructors?term=${selectedTerm}&course=${selectedCourse}`);
+                const res = await fetch(`${settings.domain}/instructors?term=${selectedTerm}&course=${selectedCourse}`);
                 const data = await res.json();
                 setInstructors(data.instructors);
             } catch (error) {
@@ -108,18 +108,18 @@ export default function UploadModal({ onClose, terms, isLoadingTerms }: UploadMo
             const fileData = new FormData();
             fileData.append("file", file);
 
-            // const fileUploadRes = await fetch(`${settings.domain}/api/notes/upload-file`, {
-            //     method: "POST",
-            //     body: fileData,
-            // });
+            const fileUploadRes = await fetch(`${settings.domain}/api/notes/upload-file`, {
+                method: "POST",
+                body: fileData,
+            });
 
-            // if (!fileUploadRes.ok) {
-            //     throw new Error(`File upload failed: ${fileUploadRes.statusText}`);
-            // } else {
-            //     console.log("File upload response:", fileUploadRes);
-            // }
+            const fileUploadBody = await fileUploadRes.json();
+            if (!fileUploadRes.ok) {
+                console.error("[UploadModal] R2 upload error:", fileUploadBody);
+                throw new Error(fileUploadBody?.message ?? `File upload failed: ${fileUploadRes.statusText}`);
+            }
 
-            // const { url: fileUrl } = await fileUploadRes.json();
+            const { url: fileUrl } = fileUploadBody;
 
             const submissionData = {
                 note_id: uuidv4(),
@@ -128,7 +128,7 @@ export default function UploadModal({ onClose, terms, isLoadingTerms }: UploadMo
                 uploader: currentUser.username,
                 instructor: formData.instructor,
                 classQuarter: selectedTerm,
-                term: selectedTerm,
+                file_id: fileUrl,
             };
 
             console.log("Submission Data:", submissionData);
@@ -206,19 +206,14 @@ export default function UploadModal({ onClose, terms, isLoadingTerms }: UploadMo
                                 </option>
                             ))}
                         </select>
-                        <select 
-                            className="upload-input" 
-                            name="instructor" 
-                            value={formData.instructor} 
+                        <input
+                            className="upload-input"
+                            type="text"
+                            name="instructor"
+                            placeholder="Instructor name"
+                            value={formData.instructor}
                             onChange={handleChange}
-                        >
-                            <option value="">{isLoadingInstructors ? "Loading instructors..." : "Choose an instructor"}</option>
-                            {instructors.map((instructor) => (
-                                <option key={instructor} value={instructor}>
-                                    {instructor}
-                                </option>
-                            ))}
-                        </select>
+                        />
                         <button 
                             className="submit-upload-button" 
                             type="submit" 

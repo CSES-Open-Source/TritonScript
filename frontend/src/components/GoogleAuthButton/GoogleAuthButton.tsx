@@ -1,24 +1,16 @@
 import classes from "./GoogleAuthButton.module.css";
 import googleLogoUrl from "../../assets/google.svg";
-import { signInFailure, signInStart, signInSuccess } from "../../utils/userSlice.ts";
-import { GoogleAuthProvider, signInWithPopup } from "firebase/auth";
-import { auth } from "../../firebase.tsx";
+import { signInFailure, signInStart } from "../../utils/userSlice.ts";
 import { useDispatch } from "react-redux";
+
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5005";
 
 export default function GoogleAuthButton({ text }: { text: string }) {
   const dispatch = useDispatch();
 
-  async function handleClick() {
-    try {
-      dispatch(signInStart());
-      signInWithPopup(auth, new GoogleAuthProvider())
-        .then((userCredential) => {
-          const user = userCredential.user;
-          dispatch(signInSuccess(user));
-        });
-    } catch (error) {
-      dispatch(signInFailure(error));
-    }
+  function handleClick() {
+    dispatch(signInStart());
+    window.location.href = `${API_URL}/api/auth/google/login`;
   }
 
   return <div className={classes.button} onClick={handleClick}>
