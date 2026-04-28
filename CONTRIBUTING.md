@@ -40,7 +40,7 @@ Environment variable credentials are managed internally by the TritonScript dev 
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/CSES-Open-Source/TritonScript-legacy.git
+   git clone https://github.com/CSES-Open-Source/TritonScript.git
    cd TritonScript-legacy
    ```
 
@@ -197,7 +197,7 @@ chore: upgrade Prisma to v6
 
 ## Reporting Bugs
 
-Open an issue on [GitHub Issues](https://github.com/CSES-Open-Source/TritonScript-legacy/issues) and include:
+Open an issue on [GitHub Issues](https://github.com/CSES-Open-Source/TritonScript/issues) and include:
 
 - A clear description of the bug
 - Steps to reproduce it

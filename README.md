@@ -2,10 +2,10 @@
 
 > A collaborative class notes platform built for UCSD students, by [CSES @ UC San Diego](https://cses.ucsd.edu).
 
-[![License](https://img.shields.io/github/license/CSES-Open-Source/TritonScript-legacy)](LICENSE)
+[![License](https://img.shields.io/github/license/CSES-Open-Source/TritonScript)](LICENSE)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/pP4B9u25Vs)
-[![Contributors](https://img.shields.io/github/contributors/CSES-Open-Source/TritonScript-legacy)](https://github.com/CSES-Open-Source/TritonScript-legacy/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/CSES-Open-Source/TritonScript-legacy)](https://github.com/CSES-Open-Source/TritonScript-legacy/issues)
+[![Contributors](https://img.shields.io/github/contributors/CSES-Open-Source/TritonScript)](https://github.com/CSES-Open-Source/TritonScript/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/CSES-Open-Source/TritonScript)](https://github.com/CSES-Open-Source/TritonScript/issues)
 
 <!-- TODO: Replace with a screenshot or demo GIF -->
 <!-- ![TritonScript Screenshot](./docs/screenshot.png) -->
@@ -60,7 +60,7 @@ The project is open to all contributors — whether you are a UCSD student, a CS
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/CSES-Open-Source/TritonScript-legacy.git
+   git clone https://github.com/CSES-Open-Source/TritonScript.git
    cd TritonScript-legacy
    ```
 
@@ -111,7 +111,7 @@ TritonScript/
 
 ## Contributing
 
-Contributions are welcome from everyone. Browse [open issues](https://github.com/CSES-Open-Source/TritonScript-legacy/issues) to find something to work on, then read [CONTRIBUTING.md](CONTRIBUTING.md) for the full setup guide, branch conventions, and workflow.
+Contributions are welcome from everyone. Browse [open issues](https://github.com/CSES-Open-Source/TritonScript/issues) to find something to work on, then read [CONTRIBUTING.md](CONTRIBUTING.md) for the full setup guide, branch conventions, and workflow.
 
 ---
 
