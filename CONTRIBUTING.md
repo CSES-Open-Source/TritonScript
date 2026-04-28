@@ -33,7 +33,7 @@ Please also read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
 
 ### Environment Variables
 
-Environment variable credentials are managed internally by the TritonScript dev team. Reach out to a maintainer on [Discord](https://discord.gg/pP4B9u25Vs) or via [email](mailto:hok008@ucsd.edu) to get access to the required `.env` files for both `frontend/` and `backend/`.
+Environment variable credentials are managed internally by the TritonScript dev team. Reach out to a maintainer via [email](mailto:hok008@ucsd.edu) to get access to the required `.env` files for both `frontend/` and `backend/`.
 
 ### Running the Project
 

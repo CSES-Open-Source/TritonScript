@@ -3,7 +3,6 @@
 > A collaborative class notes platform built for UCSD students, by [CSES @ UC San Diego](https://cses.ucsd.edu).
 
 [![License](https://img.shields.io/github/license/CSES-Open-Source/TritonScript)](LICENSE)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/pP4B9u25Vs)
 [![Contributors](https://img.shields.io/github/contributors/CSES-Open-Source/TritonScript)](https://github.com/CSES-Open-Source/TritonScript/graphs/contributors)
 [![Issues](https://img.shields.io/github/issues/CSES-Open-Source/TritonScript)](https://github.com/CSES-Open-Source/TritonScript/issues)
 
@@ -116,9 +115,6 @@ Contributions are welcome from everyone. Browse [open issues](https://github.com
 ---
 
 ## Community & Contact
-
-**Discord** — The primary place for discussion, questions, and announcements:
-[Join the CSES Discord](https://discord.gg/pP4B9u25Vs)
 
 **Maintainers**
 
