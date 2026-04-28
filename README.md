@@ -40,14 +40,11 @@ The project is open to all contributors — whether you are a UCSD student, a CS
 
 ## Tech Stack
 
-| Layer | Technologies |
-|---|---|
-| **Frontend** | React 18, TypeScript, Vite, Redux Toolkit, React Router |
-| **Backend** | Node.js, Express, TypeScript |
-| **Database** | [Supabase](https://supabase.com/) (PostgreSQL) via [Prisma ORM](https://www.prisma.io/) |
-| **Auth** | Google OAuth 2.0, JWT, bcrypt |
-| **Storage** | [Cloudflare R2](https://www.cloudflare.com/developer-platform/r2/) (file uploads) |
-| **Package Manager** | [pnpm](https://pnpm.io/) |
+| Layer               | Technologies                                                                            |
+| ------------------- | --------------------------------------------------------------------------------------- |
+| **Frontend**        | React 18, TypeScript, Vite                                                              |
+| **Backend**         | Node.js, Express, TypeScript                                                            |
+| **Database & Storage** | [Supabase](https://supabase.com/) (PostgreSQL) via [Prisma ORM](https://www.prisma.io/), [Cloudflare R2](https://www.cloudflare.com/developer-platform/r2/) (file uploads) |
 
 ---
 
@@ -125,22 +122,23 @@ Contributions are welcome from everyone. Browse [open issues](https://github.com
 
 **Maintainers**
 
-| Name | Role |
-|---|---|
-| Hogun Kim | Engineering Manager |
+| Name          | Role                |
+| ------------- | ------------------- |
+| Hogun Kim     | Engineering Manager |
 | Victoria Tran | Engineering Manager |
-| Aayan Lakhani | Software Developer |
-| Kyle Koh | Software Developer |
+| Aayan Lakhani | Software Developer  |
+| Kyle Koh      | Software Developer  |
 
 **Contact**
+
 - Hogun Kim — [hok008@ucsd.edu](mailto:hok008@ucsd.edu)
 - Victoria Tran
 
 **CSES @ UC San Diego**
-- Website: [csesucsd.com](https://csesucsd.com/)
+
 - Email: [cses@ucsd.edu](mailto:cses@ucsd.edu)
 - LinkedIn: [linkedin.com/company/cses-uc-sandiego](https://www.linkedin.com/company/cses-uc-sandiego/)
-- Instagram: [@cses.ucsd](https://www.instagram.com/cses.ucsd/)
+- Instagram: [@cses_at_ucsd](https://www.instagram.com/cses_at_ucsd/)
 
 ---
 
