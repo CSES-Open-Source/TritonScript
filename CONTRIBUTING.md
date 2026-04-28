@@ -1,121 +1,224 @@
-# Project Guidelines
+# Contributing to TritonScript
 
-## 1. Git
+Thank you for your interest in contributing. This guide covers everything you need to get the project running locally, our branch and commit conventions, and the workflow for submitting changes.
 
-### 1.1 Some Git rules
+Please also read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
 
-There are a set of rules to keep in mind:
+---
 
-- Perform work in a feature branch.
+## Table of Contents
 
-  _Why:_
+- [Local Setup](#local-setup)
+  - [Prerequisites](#prerequisites)
+  - [Running the Project](#running-the-project)
+- [Branch Naming](#branch-naming)
+- [Commit Messages](#commit-messages)
+- [Git Workflow](#git-workflow)
+- [Submitting a Pull Request](#submitting-a-pull-request)
+- [Reporting Bugs](#reporting-bugs)
+- [Suggesting Features](#suggesting-features)
+- [Documentation](#documentation)
 
-  > Because this way all work is done in isolation on a dedicated branch rather than the main branch. It allows you to submit multiple pull requests without confusion. You can iterate without polluting the master branch with potentially unstable, unfinished code. [read more...](https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow)
+---
 
-- Branch out from `develop`
+## Local Setup
 
-  _Why:_
+### Prerequisites
 
-  > This way, you can make sure that code in master will almost always build without problems, and can be mostly used directly for releases.
+- [Node.js](https://nodejs.org/) v18+
+- [pnpm](https://pnpm.io/) — `npm install -g pnpm`
+- A [Supabase](https://supabase.com/) project (for PostgreSQL database)
+- A [Cloudflare R2](https://www.cloudflare.com/developer-platform/r2/) bucket (for file storage)
+- A [Google Cloud](https://console.cloud.google.com/) project with OAuth 2.0 credentials
 
-- Never push into `develop` or `main` branch. Make a Pull Request.
+### Environment Variables
 
-  _Why:_
+Environment variable credentials are managed internally by the TritonScript dev team. Reach out to a maintainer on [Discord](https://discord.gg/pP4B9u25Vs) or via [email](mailto:hok008@ucsd.edu) to get access to the required `.env` files for both `frontend/` and `backend/`.
 
-  > It notifies team members that they have completed a feature. It also enables easy peer-review of the code and dedicates forum for discussing the proposed feature.
+### Running the Project
 
-- Delete local and remote feature branches after merging.
+1. **Clone the repository**
 
-  _Why:_
+   ```sh
+   git clone https://github.com/CSES-Open-Source/TritonScript-legacy.git
+   cd TritonScript-legacy
+   ```
 
-  > It will clutter up your list of branches with dead branches. It ensures you only ever merge the branch back into (`main` or `develop`) once. Feature branches should only exist while the work is still in progress.
+2. **Set up the backend**
 
-- Before making a Pull Request, make sure your feature branch builds successfully and passes all tests (including code style checks).
+   ```sh
+   cd backend
+   pnpm install
+   pnpm db:migrate      # run Prisma migrations against your Supabase database
+   pnpm run dev         # starts on http://localhost:5005
+   ```
 
-  _Why:_
+3. **Set up the frontend**
 
-  > You are about to add your code to a stable branch. If your feature-branch tests fail, there is a high chance that your destination branch build will fail too. Additionally, you need to apply code style check before making a Pull Request. It aids readability and reduces the chance of formatting fixes being mingled in with actual changes.
+   ```sh
+   cd frontend
+   pnpm install
+   pnpm run dev         # starts on http://localhost:5173
+   ```
 
+---
 
-<a name="git-workflow"></a>
+## Branch Naming
 
-### 1.2 Git workflow
+We follow the [Conventional Branch](https://conventional-branch.github.io/) specification.
 
-- Sync with remote to get changes you’ve missed.
-  ```sh
-  git checkout develop
-  git pull
-  ```
-- Checkout a new feature/bug-fix branch.
-  ```sh
-  git checkout -b <branchname>
-  ```
-- Make Changes.
+**Format:** `<type>/<short-description>` or `<type>/issue-<number>-<short-description>`
 
-  ```sh
-  git add <file1> <file2> ...
-  git commit
-  ```
+| Type | When to use |
+|---|---|
+| `feature/` | New functionality |
+| `bugfix/` | Fix a bug on an existing feature |
+| `hotfix/` | Urgent fix for a production issue |
+| `refactor/` | Code improvements with no behavior change |
+| `docs/` | Documentation-only changes |
+| `chore/` | Build process, dependencies, or tooling |
 
-  _Why:_
+**Rules:**
+- Lowercase only — no uppercase letters
+- Words separated by hyphens — no underscores or spaces
+- Keep it concise and descriptive
+- Include the issue number when one exists
 
-  > `git add <file1> <file2> ... ` - you should add only files that make up a small and coherent change.
+**Examples:**
 
-  > `git commit` will start an editor which lets you separate the subject from the body.
+```
+feature/note-search
+bugfix/issue-42-upload-fails
+docs/update-contributing-guide
+refactor/auth-middleware
+chore/upgrade-prisma
+```
 
-  > Read more about it in _section 1.3_.
+---
 
-  _Tip:_
+## Commit Messages
 
-  > You could use `git add -p` instead, which will give you chance to review all of the introduced changes one by one, and decide whether to include them in the commit or not.
+We follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
 
-- Make a Pull Request to `develop`.
-- Pull request will be accepted, merged and close by a reviewer.
-- Remove your local feature branch if you're done.
+**Format:**
 
-  ```sh
-  git branch -d <branchname>
-  ```
+```
+<type>[optional scope]: <description>
 
-  to remove all branches which are no longer on remote
+[optional body]
 
-  ```sh
-  git fetch -p && for branch in `git branch -vv --no-color | grep ': gone]' | awk '{print $1}'`; do git branch -D $branch; done
-  ```
+[optional footer]
+```
 
-<a name="writing-good-commit-messages"></a>
+| Type | When to use |
+|---|---|
+| `feat` | Introduces a new feature |
+| `fix` | Patches a bug |
+| `docs` | Documentation changes only |
+| `style` | Formatting, whitespace — no logic change |
+| `refactor` | Code change that is neither a fix nor a feature |
+| `perf` | Performance improvement |
+| `test` | Adding or updating tests |
+| `chore` | Build process, dependency updates, tooling |
+| `ci` | CI/CD configuration changes |
 
-### 1.3 Writing good commit messages
+**Rules:**
+- Use lowercase for the type
+- Use imperative mood in the description — "add feature" not "added feature"
+- Keep the subject line under 72 characters
+- Do not end the subject line with a period
+- Use the body to explain *what* and *why*, not *how*
+- Reference issues in the footer: `Closes #42`
 
-Having a good guideline for creating commits and sticking to it makes working with Git and collaborating with others a lot easier. Here are some rules of thumb ([source](https://chris.beams.io/posts/git-commit/#seven-rules)):
+**Examples:**
 
-- Separate the subject from the body with a newline between the two.
+```
+feat(notes): add search by course and instructor
 
-  _Why:_
+fix: resolve file upload failure on large PDFs
 
-  > Git is smart enough to distinguish the first line of your commit message as your summary. In fact, if you try git shortlog, instead of git log, you will see a long list of commit messages, consisting of the id of the commit, and the summary only.
+docs: update environment variable table in CONTRIBUTING
 
-- Limit the subject line to 50 characters and Wrap the body at 72 characters.
+refactor(auth): simplify JWT verification middleware
 
-  _why_
+chore: upgrade Prisma to v6
+```
 
-  > Commits should be as fine-grained and focused as possible, it is not the place to be verbose. [read more...](https://medium.com/@preslavrachev/what-s-with-the-50-72-rule-8a906f61f09c)
+---
 
-- Capitalize the subject line.
-- Do not end the subject line with a period.
-- Use [imperative mood](https://en.wikipedia.org/wiki/Imperative_mood) in the subject line.
+## Git Workflow
 
-  _Why:_
+1. **Sync your local develop branch**
 
-  > Rather than writing messages that say what a committer has done. It's better to consider these messages as the instructions for what is going to be done after the commit is applied on the repository. [read more...](https://news.ycombinator.com/item?id=2079612)
+   ```sh
+   git checkout develop
+   git pull origin develop
+   ```
 
-- Use the body to explain **what** and **why** as opposed to **how**.
+2. **Create a feature branch**
 
-## 2. Documentation
+   ```sh
+   git checkout -b feature/your-feature-name
+   ```
 
-- Keep `README.md` updated as a project evolves.
-- Comment your code. Try to make it as clear as possible what you are intending with each major section.
-- If there is an open discussion on GitHub or stackoverflow about the code or approach you're using, include the link in your comment.
-- Don't use comments as an excuse for a bad code. Keep your code clean.
-- Don't use clean code as an excuse to not comment at all.
-- Keep comments relevant as your code evolves.
+3. **Make your changes and commit**
+
+   ```sh
+   git add <file1> <file2>
+   git commit
+   ```
+
+4. **Push your branch**
+
+   ```sh
+   git push origin feature/your-feature-name
+   ```
+
+5. **Open a Pull Request** to `develop` (not `main`) — see below.
+
+6. **After your PR is merged, delete your branch**
+
+   ```sh
+   git branch -d feature/your-feature-name
+   ```
+
+---
+
+## Submitting a Pull Request
+
+- Open all PRs against the `develop` branch
+- Fill out the PR description with a summary of your changes and the issue it addresses
+- Link the related issue: `Closes #<issue-number>`
+- Keep PRs focused — one feature or fix per PR
+- Make sure the project builds before opening the PR
+- A maintainer will review and merge your PR
+
+---
+
+## Reporting Bugs
+
+Open an issue on [GitHub Issues](https://github.com/CSES-Open-Source/TritonScript-legacy/issues) and include:
+
+- A clear description of the bug
+- Steps to reproduce it
+- Expected vs. actual behavior
+- Screenshots or logs if applicable
+- Your environment (OS, Node.js version, browser)
+
+---
+
+## Suggesting Features
+
+Open an issue with the label `enhancement` and describe:
+
+- The problem you are trying to solve
+- Your proposed solution
+- Any alternatives you have considered
+
+---
+
+## Documentation
+
+- Keep `README.md` updated as the project evolves
+- Comment non-obvious logic — explain *why*, not just *what*
+- Keep comments up to date as code changes
