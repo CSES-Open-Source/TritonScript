@@ -1,104 +1,149 @@
 # TritonScript
 
-#### Repository for the Open Source Project undertaken by the Computer Science and Engineering Society @ UC San Diego.
+> A collaborative class notes platform built for UCSD students, by [CSES @ UC San Diego](https://cses.ucsd.edu).
 
-Welcome to the CSES Open Source Class Notes Repository Project! This repository is a collaborative effort undertaken by the Computer Science and Engineering Society (CSES) at the University of California, San Diego (UCSD). In this README, we'll provide an overview of the project, how it works, and how you can contribute.
+[![License](https://img.shields.io/github/license/CSES-Open-Source/TritonScript-legacy)](LICENSE)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/pP4B9u25Vs)
+[![Contributors](https://img.shields.io/github/contributors/CSES-Open-Source/TritonScript-legacy)](https://github.com/CSES-Open-Source/TritonScript-legacy/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/CSES-Open-Source/TritonScript-legacy)](https://github.com/CSES-Open-Source/TritonScript-legacy/issues)
 
-Join our [discord](https://discord.gg/pP4B9u25Vs) here!
+<!-- TODO: Replace with a screenshot or demo GIF -->
+<!-- ![TritonScript Screenshot](./docs/screenshot.png) -->
 
-## Issues
-You can find all the open issues under the "Issues" tab. Choose one of the issues and implement that feature following the steps described [here](#how-it-works). Whenever you open a pull request (step 4 in the steps described), make sure you add the corresponding issue to the PR.
+---
 
-### How it Works
+## Table of Contents
 
-Here's how you can get involved:
+- [About](#about)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [Community & Contact](#community--contact)
+- [License](#license)
 
-1. **Fork this Repository:** Start by forking this repository to your GitHub account.
+---
 
-2. **Create a New Branch:** Develop your feature or work on a task in a new branch. Be sure to name it appropriately, reflecting the task you're working on.
+## About
 
-3. **Commit & Push:** Make your changes, commit them, and push your branch to your forked repository.
+TritonScript is an open-source web application where UC San Diego students can upload, browse, and share class notes across courses. It is developed and maintained by the Computer Science and Engineering Society (CSES) at UCSD.
 
-4. **Open a Pull Request:** Once you're ready to contribute, open a pull request from your branch to this main repository. Describe your changes, and our team will review it. **Dont forget to include your PID and email in the PR.**
+The project is open to all contributors — whether you are a UCSD student, a CSES member, or a developer from the broader open-source community.
 
-5. **Collaboration:** Engage in discussions within the pull request and make any necessary revisions based on feedback from the community.
+## Features
 
-6. **Milestone Completion:** Upon successfully merging your pull request, you'll earn points in your CSES membership, and you might qualify for additional rewards such as access to free merchandise, early access to career fairs, gift cards, and more.
+- Browse and search class notes organized by course
+- Upload notes with cloud file storage
+- User authentication with Google OAuth and JWT sessions
+- User profiles and personal note management
 
-### Incentives for Contributions
+## Tech Stack
 
-We believe in recognizing and rewarding our contributors. By actively participating in this project, you can earn:
+| Layer | Technologies |
+|---|---|
+| **Frontend** | React 18, TypeScript, Vite, Redux Toolkit, React Router |
+| **Backend** | Node.js, Express, TypeScript |
+| **Database** | [Supabase](https://supabase.com/) (PostgreSQL) via [Prisma ORM](https://www.prisma.io/) |
+| **Auth** | Google OAuth 2.0, JWT, bcrypt |
+| **Storage** | [Cloudflare R2](https://www.cloudflare.com/developer-platform/r2/) (file uploads) |
+| **Package Manager** | [pnpm](https://pnpm.io/) |
 
-- **CSES Membership Points:** Accumulate points in your CSES membership, boosting your involvement and recognition within the society. You get 50 points for completing a milestone!
-
-- **Priority For Applying to Board:** Your contributions give you priority while applying for board positions at CSES.
-
-- **Access to Free Merchandise:** Gain access to exclusive CSES merchandise as a token of appreciation for your contributions.You get free merchandise after completing every 5 milestones (stickets, caps, sweatshirts, hoodies, etc). 
-
-- **Early Access to Career Fairs:** Get a head start on your career journey with early access to CSES career fairs. The CSES Career Fair will be held in Week 6 this fall quarter.
-
-- **MERN Stack Experience and Networking:** Gain invaluable experience in developing a webapp from scratch using the MERN Stack (MongoDB, Node.js, Express.js, and React.js). Also get a chance to network with other members from the CSES community and expand your network!
-
-- **Gift Cards and More:** Additional rewards include gift cards and other exciting incentives. The first, second, and third places with maximum milestones completed (as shown on our leaderboard) will get $50, $25, and $15 giftcards respectively.
-
-Contributors to this project (whether you're an expert or a beginner) are also announced on the CSES LinkedIn and other social media platforms and will be recognized in the CSE community at UCSD. 
-
-We invite you to be a part of this exciting initiative, shaping the future of student resources at UCSD while building your own skills and achieving recognition within CSES.
-
-### Let's Get Started!
-
-We're excited to have you on board! Fork the repository, find a task or feature that interests you, and let's collaborate to create a valuable resource for the UCSD community.
-
-If you have any questions or need assistance, feel free to reach out to our project maintainers.
-
-Happy coding!
+---
 
 ## Getting Started
 
 ### Prerequisites
 
-This project uses pnpm. To install pnpm, run the following command.
+- [Node.js](https://nodejs.org/) v18+
+- [pnpm](https://pnpm.io/) — `npm install -g pnpm`
 
-```sh
-npm install -g pnpm
+### Quick Start
+
+1. **Clone the repository**
+
+   ```sh
+   git clone https://github.com/CSES-Open-Source/TritonScript-legacy.git
+   cd TritonScript-legacy
+   ```
+
+2. **Run the frontend**
+
+   ```sh
+   cd frontend
+   pnpm install
+   pnpm run dev
+   ```
+
+3. **Run the backend**
+
+   ```sh
+   cd backend
+   pnpm install
+   pnpm run dev
+   ```
+
+For full setup instructions including environment variables and database configuration, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
+## Project Structure
+
+```
+TritonScript/
+├── frontend/               # React + TypeScript + Vite
+│   └── src/
+│       ├── components/     # Reusable UI components
+│       ├── pages/          # Route-level page components
+│       └── utils/          # Shared utilities
+│
+├── backend/                # Node.js + Express + TypeScript
+│   ├── controllers/        # Route handler logic
+│   ├── routes/             # Express route definitions
+│   ├── models/             # Data models
+│   ├── prisma/             # Prisma schema and migrations
+│   ├── scraper/            # Course data scraper
+│   └── utils/              # Shared utilities
+│
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+└── README.md
 ```
 
-### Setup
+---
 
-1. Clone the repo
+## Contributing
 
-   ```sh
-   git clone https://github.com/CSES-UCSD/open-source-project.git
-   ```
+Contributions are welcome from everyone. Browse [open issues](https://github.com/CSES-Open-Source/TritonScript-legacy/issues) to find something to work on, then read [CONTRIBUTING.md](CONTRIBUTING.md) for the full setup guide, branch conventions, and workflow.
 
-## Frontend
+---
 
-2. Go to the `open-source-project/frontend` directory
+## Community & Contact
 
-3. Install NPM packages
+**Discord** — The primary place for discussion, questions, and announcements:
+[Join the CSES Discord](https://discord.gg/pP4B9u25Vs)
 
-   ```sh
-   pnpm install
-   ```
+**Maintainers**
 
-4. Run the dev command
+| Name | Role |
+|---|---|
+| Hogun Kim | Engineering Manager |
+| Victoria Tran | Engineering Manager |
+| Aayan Lakhani | Software Developer |
+| Kyle Koh | Software Developer |
 
-   ```sh
-   pnpm run dev
-   ```
+**Contact**
+- Hogun Kim — [hok008@ucsd.edu](mailto:hok008@ucsd.edu)
+- Victoria Tran
 
-## Backend
+**CSES @ UC San Diego**
+- Website: [csesucsd.com](https://csesucsd.com/)
+- Email: [cses@ucsd.edu](mailto:cses@ucsd.edu)
+- LinkedIn: [linkedin.com/company/cses-uc-sandiego](https://www.linkedin.com/company/cses-uc-sandiego/)
+- Instagram: [@cses.ucsd](https://www.instagram.com/cses.ucsd/)
 
-5. Go to the `open-source-project/backend` directory
+---
 
-6. Install NPM packages
+## License
 
-   ```sh
-   pnpm install
-   ```
-
-7. Run the dev command
-
-   ```sh
-   pnpm run dev
-   ```
+This project is licensed under the [MIT License](LICENSE).
