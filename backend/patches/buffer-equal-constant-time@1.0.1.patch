@@ -1,0 +1,28 @@
+diff --git a/.npmignore b/.npmignore
+deleted file mode 100644
+index 34e4f5c298de294fa5c1c1769b6489eb047bde9a..0000000000000000000000000000000000000000
+diff --git a/index.js b/index.js
+index 5462c1f830bdbe79bf2b1fcfd811cd9799b4dd11..19285eea2707a01b09c30e0c641f1f3e48d9d30d 100644
+--- a/index.js
++++ b/index.js
+@@ -28,14 +28,17 @@ function bufferEq(a, b) {
+ }
+ 
+ bufferEq.install = function() {
+-  Buffer.prototype.equal = SlowBuffer.prototype.equal = function equal(that) {
++  Buffer.prototype.equal = function equal(that) {
++    return bufferEq(this, that);
++  };
++  if (SlowBuffer) SlowBuffer.prototype.equal = function equal(that) {
+     return bufferEq(this, that);
+   };
+ };
+ 
+ var origBufEqual = Buffer.prototype.equal;
+-var origSlowBufEqual = SlowBuffer.prototype.equal;
++var origSlowBufEqual = SlowBuffer && SlowBuffer.prototype.equal;
+ bufferEq.restore = function() {
+   Buffer.prototype.equal = origBufEqual;
+-  SlowBuffer.prototype.equal = origSlowBufEqual;
++  if (SlowBuffer) SlowBuffer.prototype.equal = origSlowBufEqual;
+ };
